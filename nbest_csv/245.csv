@@ -1,0 +1,34 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,mauve_back,0,1,tataḥ,tatas,,adv.,5,5,,0,5,5
+1,1,1,mauve_back,0,1,tataḥ,tad,,tasil,5,5,,0,5,5
+2,2,1,deep_sky_back,6,2,daśarathaḥ,daśaratha,,m. sg. nom.,9,10,,0,9,15
+3,3,1,grey_back,16,3,saphām,saphām,,?,5,6,,0,5,21
+4,4,1,mauve_back,22,4,āhūya,ā-hū,,abs.,5,5,,0,5,27
+5,5,1,deep_sky_back,28,5,aśvam,aśva,,m. sg. acc.,5,5,,0,5,33
+6,6,1,carmin_back,33,5,edhaya,edh,,ca. imp. ac. sg. 2,5,6,,5,10,38
+7,7,1,mauve_back,42,6,kartum,kṛ,,inf.,6,6, sence of lemma = 1,0,6,48
+8,8,2,deep_sky_back,0,1,tataḥ,tata,,m. sg. nom.,5,5, sence of lemma = 2,0,5,5
+9,9,2,yellow_back,6,2,daśa,daśan,,iic.,4,4,,0,4,10
+10,10,2,deep_sky_back,10,2,rathaḥ,ratha,,m. sg. nom.,5,6,,4,9,15
+11,11,2,carmin_back,28,5,aśvam,śū,,aor. [2] ac. sg. 1,5,5,,0,5,33
+12,12,2,yellow_back,33,5,edha,edha,,iic.,3,4,,5,8,36
+13,13,2,deep_sky_back,36,5,yāgam,yāga,,m. sg. acc.,5,5,,8,13,41
+14,14,2,light_blue_back,42,6,kā,kim,,f. sg. nom.,2,2,,0,2,44
+15,15,2,deep_sky_back,44,6,ṛtum,ṛtu,,m. sg. acc.,4,4,,2,6,48
+16,16,3,deep_sky_back,0,1,tataḥ,tata,,m. sg. nom.,5,5,{ pp. }[tan_1 sence of lemma = 1,0,5,5
+17,17,3,deep_sky_back,6,2,daśa,daśan,,m. pl. acc.,4,4,,0,4,10
+18,18,3,deep_sky_back,6,2,daśa,daśan,,m. pl. nom.,4,4,,0,4,10
+19,19,3,yellow_back,28,5,aśva,aśva,,iic.,4,4,,0,4,32
+20,20,3,deep_sky_back,32,5,medhayā,medhā,,f. sg. i.,6,7,,4,10,38
+21,21,4,carmin_back,6,2,daśa,daṃś,,imp. [1] ac. sg. 2,4,4,,0,4,10
+22,22,4,yellow_back,28,5,a,a,,iic.,1,1,,0,1,29
+23,23,4,yellow_back,29,5,śva,śvan,,iic.,3,3, sence of lemma = 1,1,4,32
+24,24,4,cyan_back,32,5,medhayā,medha,,f. sg. i.,6,7,,4,10,38
+25,25,5,yellow_back,32,5,medha,medha,,iic.,4,5,,4,8,36
+26,26,5,cyan_back,36,5,yāgam,yāga,,n. sg. acc.,5,5,,8,13,41
+27,27,5,cyan_back,36,5,yāgam,yāga,,n. sg. nom.,5,5,,8,13,41
+28,28,6,cyan_back,36,5,yā,ya,,f. sg. nom.,2,2, sence of lemma = 2,8,10,38
+29,29,7,yellow_back,36,5,ya,ya,,iic.,2,2, sence of lemma = 2,8,10,38
+30,30,8,deep_sky_back,37,5,agam,aga,,m. sg. acc.,4,4,,9,13,41
+31,31,9,cyan_back,37,5,agam,aga,,n. sg. acc.,4,4,,9,13,41
+32,32,9,cyan_back,37,5,agam,aga,,n. sg. nom.,4,4,,9,13,41

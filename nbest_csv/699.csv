@@ -1,0 +1,72 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,deep_sky_back,0,1,sadasyeṣu,sadasya,,m. pl. loc.,9,9,,0,9,9
+1,1,1,deep_sky_back,0,1,sadasyeṣu,sadasya,,n. pl. loc.,9,9,,0,9,9
+2,2,1,deep_sky_back,10,2,sambhramāḥ,sambhrama,,m. pl. nom.,9,10,,0,9,19
+3,3,1,deep_sky_back,19,2,caryayā,caryā,,f. sg. i.,7,7,,9,16,26
+4,4,1,deep_sky_back,28,3,paśyatsu,paśyat,,n. pl. loc.,8,8,{ ppr. [4,0,8,36
+5,5,1,deep_sky_back,28,3,paśyatsu,paśyat,,m. pl. loc.,8,8,{ ppr. [4,0,8,36
+6,6,1,light_blue_back,37,4,tāḥ,tad,,f. pl. acc.,3,3,,0,3,40
+7,7,1,light_blue_back,37,4,tāḥ,tad,,f. pl. nom.,3,3,,0,3,40
+8,8,1,deep_sky_back,41,5,jvālāḥ,jvāla,,m. pl. nom.,6,6,,0,6,47
+9,9,1,deep_sky_back,41,5,jvālāḥ,jvāla,,f. pl. acc.,6,6,,0,6,47
+10,10,1,deep_sky_back,41,5,jvālāḥ,jvāla,,f. pl. nom.,6,6,,0,6,47
+11,11,1,yellow_back,48,6,puruṣa,puruṣa,,iic.,6,6,,0,6,54
+12,12,1,deep_sky_back,54,6,rūpam,rūpa,,n. sg. acc.,5,5,,6,11,59
+13,13,1,deep_sky_back,54,6,rūpam,rūpa,,n. sg. nom.,5,5,,6,11,59
+14,14,1,carmin_back,60,7,dadhuḥ,dhā,,pft. ac. pl. 3,5,6, sence of lemma = 1,0,5,65
+15,15,1,carmin_back,60,7,dadhuḥ,dhā,,pft. ac. pl. 3,5,6, sence of lemma = 2,0,5,65
+16,16,2,yellow_back,0,1,sadasya,sadasya,,iic.,7,7,,0,7,7
+17,17,2,yellow_back,10,2,sambhrama,sambhrama,,iic.,8,9,,0,8,18
+18,18,2,deep_sky_back,19,2,caryayā,carya,,f. sg. i.,7,7,{ pfp. [1,9,16,26
+19,19,2,yellow_back,28,3,paśyat,paśyat,,iic.,6,6,{ ppr. [4,0,6,34
+20,20,2,lawngreen_back,34,3,su,sū,,m. sg. voc.,2,2, sence of lemma = 2,6,8,36
+21,21,2,lawngreen_back,34,3,su,sū,,f. sg. voc.,2,2, sence of lemma = 2,6,8,36
+22,22,2,lawngreen_back,41,5,jvālāḥ,jvāla,,m. pl. voc.,6,6,,0,6,47
+23,23,2,lawngreen_back,41,5,jvālāḥ,jvāla,,f. pl. voc.,6,6,,0,6,47
+24,24,2,cyan_back,54,6,rūpam,rūpa,,m. sg. acc.,5,5,,6,11,59
+25,25,3,deep_sky_back,0,1,sadasi,sadas,,n. sg. loc.,6,6,,0,6,6
+26,26,3,cyan_back,6,1,iṣu,iṣu,,n. sg. acc.,3,3,,6,9,9
+27,27,3,cyan_back,6,1,iṣu,iṣu,,n. sg. nom.,3,3,,6,9,9
+28,28,3,carmin_back,10,2,sambhrama,sam-bhram,,imp. [1] ac. sg. 2,8,9,,0,8,18
+29,29,3,deep_sky_back,19,2,caryaḥ,cara,,f. pl. nom.,6,6,,9,15,25
+30,30,3,carmin_back,25,2,aiḥ,i,,impft. [2] ac. sg. 2,2,3,,15,17,27
+31,31,4,deep_sky_back,0,1,sadasī,sadas,,n. du. acc.,6,6,,0,6,6
+32,32,4,deep_sky_back,0,1,sadasī,sadas,,n. du. nom.,6,6,,0,6,6
+33,33,4,lawngreen_back,6,1,iṣu,iṣu,,n. sg. voc.,3,3,,6,9,9
+34,34,4,deep_sky_back,17,2,āścaryayā,āścarya,,f. sg. i.,9,9,,7,16,26
+35,35,5,deep_sky_back,0,1,sat,sat,,n. sg. acc.,3,3,{ ppr. [2,0,3,3
+36,36,5,deep_sky_back,0,1,sat,sat,,n. sg. nom.,3,3,{ ppr. [2,0,3,3
+37,37,5,deep_sky_back,3,1,asyeṣu,asya,,n. pl. loc.,6,6,{ pfp. [1,3,9,9
+38,38,5,deep_sky_back,3,1,asyeṣu,asya,,m. pl. loc.,6,6,{ pfp. [1,3,9,9
+39,39,5,deep_sky_back,17,2,āścaryaḥ,āścarya,,m. sg. nom.,8,8,,7,15,25
+40,40,6,yellow_back,0,1,sat,sat,,iic.,3,3,{ ppr. [2,0,3,3
+41,41,6,yellow_back,3,1,asya,asya,,iic.,4,4,{ pfp. [1,3,7,7
+42,42,6,yellow_back,17,2,āścarya,āścarya,,iic.,7,7,,7,14,24
+43,43,6,cyan_back,24,2,yaiḥ,ya,,n. pl. i.,3,4, sence of lemma = 2,14,17,27
+44,44,7,deep_sky_back,3,1,asī,asi,,m. du. acc.,3,3,,3,6,6
+45,45,7,deep_sky_back,3,1,asī,asi,,m. du. nom.,3,3,,3,6,6
+46,46,7,light_blue_back,6,1,eṣu,idam,,n. pl. loc.,3,3,,6,9,9
+47,47,7,light_blue_back,6,1,eṣu,idam,,m. pl. loc.,3,3,,6,9,9
+48,48,7,deep_sky_back,17,2,āścarye,āścarya,,m. sg. loc.,7,7,,7,14,24
+49,49,7,deep_sky_back,17,2,āścarye,āścarya,,n. du. acc.,7,7,,7,14,24
+50,50,7,deep_sky_back,17,2,āścarye,āścarya,,n. du. nom.,7,7,,7,14,24
+51,51,7,deep_sky_back,17,2,āścarye,āścarya,,n. sg. loc.,7,7,,7,14,24
+52,52,7,deep_sky_back,17,2,āścarye,āścarya,,f. du. acc.,7,7,,7,14,24
+53,53,7,deep_sky_back,17,2,āścarye,āścarya,,f. du. nom.,7,7,,7,14,24
+54,54,7,cyan_back,24,2,yā,ya,,f. sg. nom.,2,2, sence of lemma = 2,14,16,26
+55,55,8,carmin_back,3,1,asi,as,,pr. [2] ac. sg. 2,3,3, sence of lemma = 1,3,6,6
+56,56,8,deep_sky_back,19,2,caryaḥ,carya,,m. sg. nom.,6,6,{ pfp. [1,9,15,25
+57,57,9,cyan_back,3,1,asi,asi,,n. sg. acc.,3,3,,3,6,6
+58,58,9,cyan_back,3,1,asi,asi,,n. sg. nom.,3,3,,3,6,6
+59,59,9,deep_sky_back,19,2,carye,caryā,,f. du. acc.,5,5,,9,14,24
+60,60,9,deep_sky_back,19,2,carye,caryā,,f. du. nom.,5,5,,9,14,24
+61,61,10,cyan_back,3,1,asī,asi,,f. du. acc.,3,3,,3,6,6
+62,62,10,cyan_back,3,1,asī,asi,,f. du. nom.,3,3,,3,6,6
+63,63,10,carmin_back,19,2,carye,car,,pr. ps. sg. 1,5,5,,9,14,24
+64,64,11,deep_sky_back,19,2,carye,carya,,f. du. acc.,5,5,{ pfp. [1,9,14,24
+65,65,11,deep_sky_back,19,2,carye,carya,,f. du. nom.,5,5,{ pfp. [1,9,14,24
+66,66,11,deep_sky_back,19,2,carye,carya,,n. du. acc.,5,5,{ pfp. [1,9,14,24
+67,67,11,deep_sky_back,19,2,carye,carya,,n. du. nom.,5,5,{ pfp. [1,9,14,24
+68,68,11,deep_sky_back,19,2,carye,carya,,n. sg. loc.,5,5,{ pfp. [1,9,14,24
+69,69,11,deep_sky_back,19,2,carye,carya,,m. sg. loc.,5,5,{ pfp. [1,9,14,24
+70,70,12,yellow_back,19,2,carya,carya,,iic.,5,5,{ pfp. [1,9,14,24

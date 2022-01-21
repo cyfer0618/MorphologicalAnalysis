@@ -1,0 +1,32 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,mauve_back,0,1,tataḥ,tatas,,adv.,5,5,,0,5,5
+1,1,1,mauve_back,0,1,tataḥ,tad,,tasil,5,5,,0,5,5
+2,2,1,mauve_back,5,1,ca,ca,,conj.,2,2,,5,7,7
+3,3,1,deep_sky_back,8,2,tāṭakām,tāṭakā,,f. sg. acc.,7,7,,0,7,15
+4,4,1,deep_sky_back,16,3,hantum,hantu,,m. sg. acc.,6,6,,0,6,22
+5,5,1,deep_sky_back,23,4,maurvīm,maurva,,f. sg. acc.,6,7,,0,6,29
+6,6,1,grey_back,30,5,āsphālayatām,āsphālayatām,,?,11,12,,0,11,41
+7,7,1,mauve_back,42,6,iti,iti,,part.,3,3,,0,3,45
+8,8,1,yellow_back,46,7,mahā,mahat,,iic.,4,4,,0,4,50
+9,9,1,deep_sky_back,50,7,ṛṣiḥ,ṛṣi,,m. sg. nom.,4,4,,4,8,54
+10,10,1,light_blue_back,55,8,tau,tad,,m. du. acc.,2,3,,0,2,57
+11,11,1,light_blue_back,55,8,tau,tad,,m. du. nom.,2,3,,0,2,57
+12,12,1,carmin_back,58,9,ādideśa,ā-diś,,pft. ac. sg. 3,7,7, sence of lemma = 1,0,7,65
+13,13,1,carmin_back,58,9,ādideśa,ā-diś,,pft. ac. sg. 1,7,7, sence of lemma = 1,0,7,65
+14,14,2,deep_sky_back,0,1,tataḥ,tata,,m. sg. nom.,5,5, sence of lemma = 2,0,5,5
+15,15,2,mauve_back,16,3,hantum,han,,inf.,6,6, sence of lemma = 1,0,6,22
+16,16,2,carmin_back,46,7,maha,mah,,imp. [1] ac. sg. 2,4,4,,0,4,50
+17,17,2,cyan_back,50,7,ṛṣiḥ,ṛṣi,,f. sg. nom.,4,4,,4,8,54
+18,18,2,yellow_back,58,9,ādi,ādi,,iic.,3,3,,0,3,61
+19,19,2,yellow_back,58,9,ādi,ādin,,iic.,3,3,,0,3,61
+20,20,2,lawngreen_back,61,9,deśa,deśa,,m. sg. voc.,4,4,,3,7,65
+21,21,3,deep_sky_back,0,1,tataḥ,tata,,m. sg. nom.,5,5,{ pp. }[tan_1 sence of lemma = 1,0,5,5
+22,22,3,deep_sky_back,58,9,ādi,ādi,,n. sg. acc.,3,3,,0,3,61
+23,23,3,deep_sky_back,58,9,ādi,ādi,,n. sg. nom.,3,3,,0,3,61
+24,24,3,deep_sky_back,58,9,ādi,ādin,,n. sg. acc.,3,3,,0,3,61
+25,25,3,deep_sky_back,58,9,ādi,ādin,,n. sg. nom.,3,3,,0,3,61
+26,26,3,lawngreen_back,61,9,deśa,deśa,,n. sg. voc.,4,4,,3,7,65
+27,27,4,cyan_back,61,9,dā,da,,f. sg. nom.,2,2,,3,5,63
+28,28,5,yellow_back,61,9,da,da,,iic.,2,2,,3,5,63
+29,29,6,lawngreen_back,62,9,īśa,īśa,,m. sg. voc.,3,3,,4,7,65
+30,30,7,lawngreen_back,62,9,īśa,īśa,,n. sg. voc.,3,3,,4,7,65

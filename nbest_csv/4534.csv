@@ -1,0 +1,37 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,mauve_back,0,1,tatra,tatra,,adv.,5,5,,0,5,5
+1,1,1,deep_sky_back,6,2,kapilam,kapila,,m. sg. acc.,7,7,,0,7,13
+2,2,1,deep_sky_back,6,2,kapilam,kapila,,n. sg. acc.,7,7,,0,7,13
+3,3,1,deep_sky_back,6,2,kapilam,kapila,,n. sg. nom.,7,7,,0,7,13
+4,4,1,yellow_back,13,2,a,a,,iic.,1,1,,7,8,14
+5,5,1,yellow_back,14,2,harṣi,harṣin,,iic.,5,5,,8,13,19
+6,6,1,deep_sky_back,19,2,rūpeṇa,rūpa,,n. sg. i.,6,6,,13,19,25
+7,7,1,deep_sky_back,26,3,sthitam,sthita,,n. sg. acc.,6,7,{ pp. }[sthā_1,0,6,32
+8,8,1,deep_sky_back,26,3,sthitam,sthita,,n. sg. nom.,6,7,{ pp. }[sthā_1,0,6,32
+9,9,1,deep_sky_back,26,3,sthitam,sthita,,m. sg. acc.,6,7,{ pp. }[sthā_1,0,6,32
+10,10,1,deep_sky_back,33,4,viṣṇum,viṣṇu,,m. sg. acc.,6,6,,0,6,39
+11,11,1,yellow_back,40,5,yajña,yajña,,iic.,5,5,,0,5,45
+12,12,1,mauve_back,50,6,ca,ca,,conj.,2,2,,0,2,52
+13,13,1,deep_sky_back,53,7,apaśyan,apaśyat,,m. sg. nom.,7,7,,0,7,60
+14,14,2,yellow_back,6,2,kapila,kapila,,iic.,6,6,,0,6,12
+15,15,2,yellow_back,12,2,mahā,mahat,,iic.,4,4,,6,10,16
+16,16,2,yellow_back,16,2,ṛṣi,ṛṣi,,iic.,3,3,,10,13,19
+17,17,2,cyan_back,19,2,rūpeṇa,rūpa,,m. sg. i.,6,6,,13,19,25
+18,18,2,deep_sky_back,44,5,aśvam,aśva,,m. sg. acc.,5,5,,4,9,49
+19,19,2,carmin_back,53,7,apaśyan,paś,,impft. [4] ac. pl. 3,7,7,,0,7,60
+20,20,3,deep_sky_back,14,2,harṣi,harṣin,,n. sg. acc.,5,5,,8,13,19
+21,21,3,deep_sky_back,14,2,harṣi,harṣin,,n. sg. nom.,5,5,,8,13,19
+22,22,3,deep_sky_back,44,5,āśvam,āśva,,m. sg. acc.,5,5,,4,9,49
+23,23,3,deep_sky_back,44,5,āśvam,āśva,,n. sg. acc.,5,5,,4,9,49
+24,24,3,deep_sky_back,44,5,āśvam,āśva,,n. sg. nom.,5,5,,4,9,49
+25,25,3,lawngreen_back,53,7,apaśyan,apaśyat,,m. sg. voc.,7,7,,0,7,60
+26,26,4,cyan_back,16,2,ṛṣi,ṛṣi,,n. sg. acc.,3,3,,10,13,19
+27,27,4,cyan_back,16,2,ṛṣi,ṛṣi,,n. sg. nom.,3,3,,10,13,19
+28,28,4,cyan_back,44,5,aśvam,aśva,,n. sg. acc.,5,5,,4,9,49
+29,29,4,cyan_back,44,5,aśvam,aśva,,n. sg. nom.,5,5,,4,9,49
+30,30,4,mauve_back,53,7,apa,apa,,prep.,3,3,,0,3,56
+31,31,4,deep_sky_back,56,7,śyan,śyat,,m. sg. nom.,4,4,{ ppr. [4,3,7,60
+32,32,5,yellow_back,53,7,a,a,,iic.,1,1,,0,1,54
+33,33,5,deep_sky_back,54,7,paśyan,paśyat,,m. sg. nom.,6,6,{ ppr. [4,1,7,60
+34,34,6,lawngreen_back,54,7,paśyan,paśyat,,m. sg. voc.,6,6,{ ppr. [4,1,7,60
+35,35,7,lawngreen_back,56,7,śyan,śyat,,m. sg. voc.,4,4,{ ppr. [4,3,7,60

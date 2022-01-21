@@ -1,0 +1,31 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,yellow_back,0,1,mahā,mahat,,iic.,4,4,,0,4,4
+1,1,1,mauve_back,10,2,eva,eva,,ind.,3,3,,0,3,13
+2,2,1,light_blue_back,14,3,mām,asmad,,m. sg. acc.,3,3,,0,3,17
+3,3,1,deep_sky_back,18,4,laghū,laghu,,m. du. acc.,4,5,,0,4,22
+4,4,1,deep_sky_back,18,4,laghū,laghu,,m. du. nom.,4,5,,0,4,22
+5,5,1,deep_sky_back,18,4,laghū,laghu,,f. du. acc.,4,5,,0,4,22
+6,6,1,deep_sky_back,18,4,laghū,laghu,,f. du. nom.,4,5,,0,4,22
+7,7,1,deep_sky_back,22,4,kṛtavān,kṛtavat,,m. sg. nom.,7,7,{ ppa. }[kṛ_1,4,11,29
+8,8,1,mauve_back,30,5,iti,iti,,ind.,3,3,,0,3,33
+9,9,1,light_blue_back,34,6,sā,tad,,f. sg. nom.,2,2,,0,2,36
+10,10,1,yellow_back,37,7,sama,sama,,iic.,4,4,,0,4,41
+11,11,1,deep_sky_back,41,7,bhā,bhā,,f. sg. nom.,2,3, sence of lemma = 2,4,6,43
+12,12,1,carmin_back,43,7,vayet,vā,,opt. [4] ac. sg. 3,5,5, sence of lemma = 3,6,11,48
+13,13,2,carmin_back,0,1,maha,mah,,imp. [1] ac. sg. 2,4,4,,0,4,4
+14,14,2,orange_back,18,4,laghū,laghu,,iiv.,4,5,,0,4,22
+15,15,2,deep_sky_back,22,4,kṛtavān,kṛtavat,,m. sg. nom.,7,7,{ ppa. }[kṛ_1,4,11,29
+16,16,2,cyan_back,41,7,bhā,bha,,f. sg. nom.,2,3,,4,6,43
+17,17,3,lawngreen_back,3,1,īśvara,īśvara,,m. sg. voc.,6,6,,3,9,9
+18,18,3,lawngreen_back,3,1,īśvara,īśvara,,n. sg. voc.,6,6,,3,9,9
+19,19,3,orange_back,18,4,laghū,laghu,,iiv.,4,5,,0,4,22
+20,20,3,carmin_back,22,4,kṛta,kṛ,,inj. [4] md. sg. 3,4,4, sence of lemma = 1,4,8,26
+21,21,3,carmin_back,22,4,kṛta,kṛ,,inj. [1] md. sg. 3,4,4, sence of lemma = 1,4,8,26
+22,22,3,deep_sky_back,26,4,vān,vāt,,m. sg. nom.,3,3,{ ppr. [2,8,11,29
+23,23,3,carmin_back,42,7,āvayet,av,,ca. opt. ac. sg. 3,6,6,,5,11,48
+24,24,4,yellow_back,22,4,kṛta,kṛta,,iic.,4,4,{ pp. }[kṛ_1,4,8,26
+25,25,4,lawngreen_back,26,4,vān,vāt,,m. sg. voc.,3,3,{ ppr. [2,8,11,29
+26,26,5,carmin_back,22,4,kṛta,kṛ,,inj. [4] md. sg. 3,4,4, sence of lemma = 1,4,8,26
+27,27,5,carmin_back,22,4,kṛta,kṛ,,inj. [1] md. sg. 3,4,4, sence of lemma = 1,4,8,26
+28,28,5,cyan_back,26,4,vān,vas,,m. sg. nom.,3,3, sence of lemma = 3,8,11,29
+29,29,6,yellow_back,22,4,kṛta,kṛta,,iic.,4,4,,4,8,26

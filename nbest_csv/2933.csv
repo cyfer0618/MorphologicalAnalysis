@@ -1,0 +1,27 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,deep_sky_back,0,1,pitā,pitṛ,,m. sg. nom.,4,4,,0,4,4
+1,1,1,deep_sky_back,5,2,kuśaḥ,kuśa,,m. sg. nom.,5,5,,0,5,10
+2,2,1,mauve_back,11,3,samāgatya,sam-ā-gam,,abs.,9,9,,0,9,20
+3,3,1,deep_sky_back,21,4,kuśanābhaḥ,kuśanābha,,m. sg. nom.,9,10,,0,9,30
+4,4,1,deep_sky_back,31,5,bhavān,bhava,,m. pl. acc.,5,6,,0,5,36
+5,5,1,deep_sky_back,31,5,bhavān,bhavat,,m. sg. nom.,5,6, sence of lemma = 2,0,5,36
+6,6,1,yellow_back,37,6,bhavat,bhavat,,iic.,5,6, sence of lemma = 2,0,5,42
+7,7,1,deep_sky_back,42,6,sadṛśam,sadṛśa,,m. sg. acc.,7,7,,5,12,49
+8,8,1,deep_sky_back,42,6,sadṛśam,sadṛśa,,n. sg. acc.,7,7,,5,12,49
+9,9,1,deep_sky_back,42,6,sadṛśam,sadṛśa,,n. sg. nom.,7,7,,5,12,49
+10,10,1,grey_back,50,7,parākramiṇam,parākramiṇam,,?,12,12,,0,12,62
+11,11,1,deep_sky_back,63,8,putram,putra,,m. sg. acc.,6,6,,0,6,69
+12,12,1,carmin_back,70,9,prāpsyati,pra-āp,,fut. ac. sg. 3,9,9,,0,9,79
+13,13,2,deep_sky_back,11,3,samā,samā,,f. sg. nom.,4,4,,0,4,15
+14,14,2,deep_sky_back,11,3,samā,sama,,f. sg. nom.,4,4,,0,4,15
+15,15,2,yellow_back,21,4,kuśa,kuśa,,iic.,4,4,,0,4,25
+16,16,2,cyan_back,25,4,nābhaḥ,nābhi,,m. sg. nom.,5,6,,4,9,30
+17,17,2,deep_sky_back,37,6,bhavat,bhavat,,n. sg. acc.,5,6,{ ppr. [1 sence of lemma = 1,0,5,42
+18,18,2,deep_sky_back,37,6,bhavat,bhavat,,n. sg. nom.,5,6,{ ppr. [1 sence of lemma = 1,0,5,42
+19,19,2,deep_sky_back,70,9,prāpsyati,pra-āpsyat,,n. sg. loc.,9,9,{ pfu. ac. }[pra-āp,0,9,79
+20,20,2,deep_sky_back,70,9,prāpsyati,pra-āpsyat,,m. sg. loc.,9,9,{ pfu. ac. }[pra-āp,0,9,79
+21,21,3,mauve_back,14,3,āgatya,ā-gam,,abs.,6,6,,3,9,20
+22,22,3,yellow_back,37,6,bhavat,bhavat,,iic.,5,6,{ ppr. [1 sence of lemma = 1,0,5,42
+23,23,3,carmin_back,70,9,prāpsi,pra-āp,,aor. [4] md. sg. 1,6,6,,0,6,76
+24,24,3,mauve_back,76,9,ati,ati,,prep.,3,3,,6,9,79
+25,25,3,mauve_back,76,9,ati,ati,,adv.,3,3,,6,9,79

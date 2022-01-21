@@ -1,0 +1,34 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,light_blue_back,0,1,tau,tad,,m. du. acc.,2,3,,0,2,2
+1,1,1,light_blue_back,0,1,tau,tad,,m. du. nom.,2,3,,0,2,2
+2,2,1,mauve_back,3,2,dṛṣṭvā,dṛś,,abs.,6,6, sence of lemma = 1,0,6,9
+3,3,1,deep_sky_back,10,3,sarayūḥ,sarayu,,f. pl. acc.,7,7,,0,7,17
+4,4,1,deep_sky_back,10,3,sarayūḥ,sarayu,,f. sg. nom.,7,7,,0,7,17
+5,5,1,mauve_back,17,3,api,api,,conj.,3,3,,7,10,20
+6,6,1,mauve_back,17,3,api,api,,prep.,3,3,,7,10,20
+7,7,1,deep_sky_back,21,4,hṛṣṭā,hṛṣṭa,,f. sg. nom.,5,5,{ pp. }[hṛṣ,0,5,26
+8,8,1,yellow_back,27,5,utta,utta,,iic.,4,4,{ pp. }[und,0,4,31
+9,9,1,cyan_back,31,5,raṅgā,raṅga,,f. sg. nom.,5,5,,4,9,36
+10,10,1,carmin_back,37,6,abhavat,bhū,,impft. [1] ac. sg. 3,6,7, sence of lemma = 1,0,6,43
+11,11,2,yellow_back,10,3,sarayu,sarayu,,iic.,6,6,,0,6,16
+12,12,2,cyan_back,18,3,pi,pā,,m. sg. loc.,2,2, sence of lemma = 3,8,10,20
+13,13,2,cyan_back,18,3,pi,pā,,m. sg. loc.,2,2, sence of lemma = 4,8,10,20
+14,14,2,yellow_back,37,6,a,a,,iic.,1,1,,0,1,38
+15,15,2,deep_sky_back,38,6,bhavat,bhavat,,n. sg. acc.,5,6,{ ppr. [1 sence of lemma = 1,1,6,43
+16,16,2,deep_sky_back,38,6,bhavat,bhavat,,n. sg. nom.,5,6,{ ppr. [1 sence of lemma = 1,1,6,43
+17,17,3,yellow_back,10,3,sarayū,sarayu,,iic.,6,6,,0,6,16
+18,18,3,lawngreen_back,38,6,bhavat,bhavat,,n. sg. voc.,5,6,{ ppr. [1 sence of lemma = 1,1,6,43
+19,19,4,deep_sky_back,10,3,sarayū,sarayu,,m. du. acc.,6,6,,0,6,16
+20,20,4,deep_sky_back,10,3,sarayū,sarayu,,m. du. nom.,6,6,,0,6,16
+21,21,4,deep_sky_back,10,3,sarayū,sarayu,,f. du. acc.,6,6,,0,6,16
+22,22,4,deep_sky_back,10,3,sarayū,sarayu,,f. du. nom.,6,6,,0,6,16
+23,23,5,yellow_back,10,3,sara,sara,,iic.,4,4,,0,4,14
+24,24,5,cyan_back,14,3,yūḥ,yu,,f. pl. acc.,3,3, sence of lemma = 3,4,7,17
+25,25,6,cyan_back,14,3,yu,yu,,n. sg. acc.,2,2, sence of lemma = 3,4,6,16
+26,26,6,cyan_back,14,3,yu,yu,,n. sg. nom.,2,2, sence of lemma = 3,4,6,16
+27,27,7,cyan_back,14,3,yū,yu,,m. du. acc.,2,2, sence of lemma = 3,4,6,16
+28,28,7,cyan_back,14,3,yū,yu,,m. du. nom.,2,2, sence of lemma = 3,4,6,16
+29,29,7,cyan_back,14,3,yū,yu,,f. du. acc.,2,2, sence of lemma = 3,4,6,16
+30,30,7,cyan_back,14,3,yū,yu,,f. du. nom.,2,2, sence of lemma = 3,4,6,16
+31,31,8,yellow_back,14,3,yu,yu,,iic.,2,2, sence of lemma = 3,4,6,16
+32,32,9,yellow_back,15,3,ura,uras,,iic.,3,3,,5,8,18

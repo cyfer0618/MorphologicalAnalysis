@@ -1,0 +1,32 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,deep_sky_back,0,1,rāmaḥ,rāma,,m. sg. nom.,5,5,,0,5,5
+1,1,1,yellow_back,6,2,śiva,śiva,,iic.,4,4,,0,4,10
+2,2,1,yellow_back,10,2,dhanuḥ,dhanus,,iic.,5,6,,4,9,15
+3,3,1,deep_sky_back,15,2,bhaṅgam,bhaṅga,,m. sg. acc.,6,7,,9,15,21
+4,4,1,deep_sky_back,15,2,bhaṅgam,bhaṅga,,n. sg. acc.,6,7,,9,15,21
+5,5,1,deep_sky_back,15,2,bhaṅgam,bhaṅga,,n. sg. nom.,6,7,,9,15,21
+6,6,1,yellow_back,22,3,vidha,vidhā,,iic.,4,5, sence of lemma = 2,0,4,26
+7,7,1,grey_back,30,4,tyeva,tyeva,,?,5,5,,0,5,35
+8,8,2,carmin_back,0,1,rāmaḥ,rā,,pr. [2] ac. pl. 1,5,5, sence of lemma = 1,0,5,5
+9,9,2,deep_sky_back,10,2,dhanuḥ,dhanus,,n. sg. acc.,5,6,,4,9,15
+10,10,2,deep_sky_back,10,2,dhanuḥ,dhanus,,n. sg. nom.,5,6,,4,9,15
+11,11,2,deep_sky_back,10,2,dhanuḥ,dhanus,,m. sg. nom.,5,6,,4,9,15
+12,12,2,deep_sky_back,10,2,dhanuḥ,dhanu,,m. sg. nom.,5,6,,4,9,15
+13,13,2,deep_sky_back,22,3,vidhā,vidhā,,f. sg. nom.,4,5, sence of lemma = 2,0,4,26
+14,14,3,cyan_back,10,2,dhanuḥ,dhanus,,f. sg. nom.,5,6,,4,9,15
+15,15,3,carmin_back,22,3,vidha,vidh,,imp. [6] ac. sg. 2,4,5, sence of lemma = 1,0,4,26
+16,16,4,lawngreen_back,25,3,āsya,āsya,,n. sg. voc.,4,4,,3,7,29
+17,17,5,lawngreen_back,25,3,asya,asya,,n. sg. voc.,4,4,{ pfp. [1,3,7,29
+18,18,5,lawngreen_back,25,3,asya,asya,,m. sg. voc.,4,4,{ pfp. [1,3,7,29
+19,19,6,lawngreen_back,25,3,āsya,āsya,,n. sg. voc.,4,4,{ pfp. [1,3,7,29
+20,20,6,lawngreen_back,25,3,āsya,āsya,,m. sg. voc.,4,4,{ pfp. [1,3,7,29
+21,21,6,lawngreen_back,25,3,āsya,āsya,,n. sg. voc.,4,4,{ ca. pfp. [1,3,7,29
+22,22,6,lawngreen_back,25,3,āsya,āsya,,m. sg. voc.,4,4,{ ca. pfp. [1,3,7,29
+23,23,6,lawngreen_back,25,3,āsya,āsya,,n. sg. voc.,4,4,{ ca. pfp. [1,3,7,29
+24,24,6,lawngreen_back,25,3,āsya,āsya,,m. sg. voc.,4,4,{ ca. pfp. [1,3,7,29
+25,25,7,lawngreen_back,25,3,āsya,āsya,,m. sg. voc.,4,4,,3,7,29
+26,26,7,lawngreen_back,25,3,āsya,āsyā,,m. sg. voc.,4,4,,3,7,29
+27,27,7,lawngreen_back,25,3,āsya,āsyā,,n. sg. voc.,4,4,,3,7,29
+28,28,8,light_blue_back,25,3,asya,idam,,n. sg. g.,4,4,,3,7,29
+29,29,8,light_blue_back,25,3,asya,idam,,m. sg. g.,4,4,,3,7,29
+30,30,9,carmin_back,25,3,asya,as,,imp. [4] ac. sg. 2,4,4, sence of lemma = 2,3,7,29

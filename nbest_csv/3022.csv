@@ -1,0 +1,60 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,yellow_back,0,1,tat,tad,,iic.,3,3,,0,3,3
+1,1,1,deep_sky_back,3,1,rātrau,rātri,,f. sg. loc.,5,6,,3,8,8
+2,2,1,light_blue_back,9,2,te,tad,,n. du. acc.,2,2,,0,2,11
+3,3,1,light_blue_back,9,2,te,tad,,n. du. nom.,2,2,,0,2,11
+4,4,1,light_blue_back,9,2,te,tad,,m. pl. nom.,2,2,,0,2,11
+5,5,1,light_blue_back,9,2,te,tad,,f. du. acc.,2,2,,0,2,11
+6,6,1,light_blue_back,9,2,te,tad,,f. du. nom.,2,2,,0,2,11
+7,7,1,light_blue_back,9,2,te,yuṣmad,,m. sg. g.,2,2,,0,2,11
+8,8,1,light_blue_back,9,2,te,yuṣmad,,m. sg. dat.,2,2,,0,2,11
+9,9,1,deep_sky_back,12,3,sarve,sarva,,m. pl. nom.,5,5,,0,5,17
+10,10,1,deep_sky_back,12,3,sarve,sarva,,m. sg. loc.,5,5,,0,5,17
+11,11,1,deep_sky_back,12,3,sarve,sarva,,n. du. acc.,5,5,,0,5,17
+12,12,1,deep_sky_back,12,3,sarve,sarva,,n. du. nom.,5,5,,0,5,17
+13,13,1,deep_sky_back,12,3,sarve,sarva,,n. sg. loc.,5,5,,0,5,17
+14,14,1,mauve_back,18,4,tatra,tatra,,adv.,5,5,,0,5,23
+15,15,1,deep_sky_back,24,5,viśrāntāḥ,vi-śrānta,,f. pl. acc.,9,9,{ pp. }[vi-śram,0,9,33
+16,16,1,deep_sky_back,24,5,viśrāntāḥ,vi-śrānta,,f. pl. nom.,9,9,{ pp. }[vi-śram,0,9,33
+17,17,1,deep_sky_back,24,5,viśrāntāḥ,vi-śrānta,,m. pl. nom.,9,9,{ pp. }[vi-śram,0,9,33
+18,18,1,carmin_back,34,6,āsan,as,,impft. [2] ac. pl. 3,4,4, sence of lemma = 1,0,4,38
+19,19,1,carmin_back,34,6,āsan,as,,impft. [1] ac. pl. 3,4,4, sence of lemma = 2,0,4,38
+20,20,2,light_blue_back,0,1,tat,tad,,n. sg. acc.,3,3,,0,3,3
+21,21,2,light_blue_back,0,1,tat,tad,,n. sg. nom.,3,3,,0,3,3
+22,22,2,cyan_back,3,1,rātrau,rātri,,m. du. acc.,5,6,,3,8,8
+23,23,2,cyan_back,3,1,rātrau,rātri,,m. du. nom.,5,6,,3,8,8
+24,24,2,light_blue_back,12,3,sarve,sarva,,f. du. acc.,5,5,,0,5,17
+25,25,2,light_blue_back,12,3,sarve,sarva,,f. du. nom.,5,5,,0,5,17
+26,26,2,lawngreen_back,24,5,viśrāntāḥ,vi-śrānta,,f. pl. voc.,9,9,{ pp. }[vi-śram,0,9,33
+27,27,2,lawngreen_back,24,5,viśrāntāḥ,vi-śrānta,,m. pl. voc.,9,9,{ pp. }[vi-śram,0,9,33
+28,28,3,lawngreen_back,3,1,rātrau,rātri,,m. du. voc.,5,6,,3,8,8
+29,29,3,lawngreen_back,12,3,sarve,sarva,,n. du. voc.,5,5,,0,5,17
+30,30,3,lawngreen_back,12,3,sarve,sarva,,f. du. voc.,5,5,,0,5,17
+31,31,3,lawngreen_back,12,3,sarve,sarva,,f. sg. voc.,5,5,,0,5,17
+32,32,3,yellow_back,24,5,viś,viś,,iic.,3,3, sence of lemma = 2,0,3,27
+33,33,3,cyan_back,27,5,rām,rā,,m. pl. g.,3,3, sence of lemma = 2,3,6,30
+34,34,3,cyan_back,27,5,rām,rā,,m. sg. acc.,3,3, sence of lemma = 2,3,6,30
+35,35,3,cyan_back,27,5,rām,rā,,f. sg. acc.,3,3, sence of lemma = 2,3,6,30
+36,36,3,light_blue_back,30,5,tāḥ,tad,,f. pl. acc.,3,3,,6,9,33
+37,37,3,light_blue_back,30,5,tāḥ,tad,,f. pl. nom.,3,3,,6,9,33
+38,38,4,cyan_back,3,1,rā,rā,,m. sg. i.,2,2, sence of lemma = 2,3,5,5
+39,39,4,cyan_back,3,1,rā,rā,,f. sg. nom.,2,2, sence of lemma = 2,3,5,5
+40,40,4,cyan_back,5,1,trau,tra,,m. du. acc.,3,4,,5,8,8
+41,41,4,cyan_back,5,1,trau,tra,,m. du. nom.,3,4,,5,8,8
+42,42,4,cyan_back,27,5,rā,rā,,m. sg. i.,2,2, sence of lemma = 2,3,5,29
+43,43,4,cyan_back,27,5,rā,rā,,f. sg. nom.,2,2, sence of lemma = 2,3,5,29
+44,44,5,yellow_back,3,1,rā,rā,,iic.,2,2, sence of lemma = 2,3,5,5
+45,45,5,lawngreen_back,5,1,trau,tra,,m. du. voc.,3,4,,5,8,8
+46,46,5,yellow_back,27,5,rā,rā,,iic.,2,2, sence of lemma = 2,3,5,29
+47,47,6,deep_sky_back,4,1,atrau,atri,,m. sg. loc.,4,5,,4,8,8
+48,48,6,deep_sky_back,28,5,āntāḥ,ānta,,f. pl. acc.,5,5,{ pp. }[am,4,9,33
+49,49,6,deep_sky_back,28,5,āntāḥ,ānta,,f. pl. nom.,5,5,{ pp. }[am,4,9,33
+50,50,6,deep_sky_back,28,5,āntāḥ,ānta,,m. pl. nom.,5,5,{ pp. }[am,4,9,33
+51,51,7,cyan_back,4,1,atrau,atri,,f. sg. loc.,4,5,,4,8,8
+52,52,7,lawngreen_back,28,5,āntāḥ,ānta,,f. pl. voc.,5,5,{ pp. }[am,4,9,33
+53,53,7,lawngreen_back,28,5,āntāḥ,ānta,,m. pl. voc.,5,5,{ pp. }[am,4,9,33
+54,54,8,deep_sky_back,28,5,antāḥ,anta,,m. pl. nom.,5,5,,4,9,33
+55,55,9,lawngreen_back,28,5,antāḥ,anta,,m. pl. voc.,5,5,,4,9,33
+56,56,10,cyan_back,28,5,antāḥ,anta,,f. pl. acc.,5,5,,4,9,33
+57,57,10,cyan_back,28,5,antāḥ,anta,,f. pl. nom.,5,5,,4,9,33
+58,58,11,lawngreen_back,28,5,antāḥ,anta,,f. pl. voc.,5,5,,4,9,33

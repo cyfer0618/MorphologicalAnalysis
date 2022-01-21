@@ -1,0 +1,23 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,mauve_back,0,1,tatra,tatra,,adv.,5,5,,0,5,5
+1,1,1,light_blue_back,6,2,sa,tad,,m. sg. nom.,2,2,,0,2,8
+2,2,1,mauve_back,9,3,mā,mā,,part.,2,2, sence of lemma = 2,0,2,11
+3,3,1,carmin_back,11,3,gacchatām,gam,,imp. [1] md. sg. 3,8,9,,2,10,19
+4,4,1,carmin_back,11,3,gacchatām,gam,,imp. [1] ac. du. 3,8,9,,2,10,19
+5,5,1,deep_sky_back,20,4,cakravartinām,cakravartin,,m. pl. g.,13,13,,0,13,33
+6,6,1,deep_sky_back,34,5,rājñām,rājan,,m. pl. g.,6,6,,0,6,40
+7,7,2,light_blue_back,9,3,mā,asmad,,m. sg. acc.,2,2,,0,2,11
+8,8,2,deep_sky_back,11,3,gacchatām,gacchat,,n. pl. g.,8,9,{ ppr. [1,2,10,19
+9,9,2,deep_sky_back,11,3,gacchatām,gacchat,,m. pl. g.,8,9,{ ppr. [1,2,10,19
+10,10,2,yellow_back,20,4,cakra,cakra,,iic.,5,5,,0,5,25
+11,11,2,cyan_back,25,4,vartinām,vartin,,m. pl. g.,8,8,,5,13,33
+12,12,2,cyan_back,25,4,vartinām,vartin,,n. pl. g.,8,8,,5,13,33
+13,13,3,carmin_back,10,3,āgacchatām,ā-gam,,impft. [1] ac. du. 3,9,10,,1,10,19
+14,14,4,carmin_back,10,3,āgacchatām,ā-gam,,imp. [1] ac. du. 3,9,10,,1,10,19
+15,15,5,deep_sky_back,10,3,āgacchatām,ā-gacchat,,n. pl. g.,9,10,{ ppr. [1,1,10,19
+16,16,5,deep_sky_back,10,3,āgacchatām,ā-gacchat,,m. pl. g.,9,10,{ ppr. [1,1,10,19
+17,17,6,carmin_back,10,3,agacchatām,gam,,impft. [1] ac. du. 3,9,10,,1,10,19
+18,18,7,carmin_back,10,3,āgaccha,ā-gam,,imp. [1] ac. sg. 2,6,7,,1,7,16
+19,19,7,light_blue_back,16,3,tām,tad,,f. sg. acc.,3,3,,7,10,19
+20,20,8,yellow_back,10,3,a,a,,iic.,1,1,,1,2,11
+21,21,8,carmin_back,11,3,gaccha,gam,,imp. [1] ac. sg. 2,5,6,,2,7,16

@@ -1,0 +1,27 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,light_blue_back,0,1,sa,tad,,m. sg. nom.,2,2,,0,2,2
+1,1,1,mauve_back,3,2,ca,ca,,conj.,2,2,,0,2,5
+2,2,1,yellow_back,6,3,pāyasa,pāyasa,,iic.,6,6,,0,6,12
+3,3,1,deep_sky_back,12,3,pātram,pātra,,n. sg. acc.,6,6,,6,12,18
+4,4,1,deep_sky_back,12,3,pātram,pātra,,n. sg. nom.,6,6,,6,12,18
+5,5,1,deep_sky_back,12,3,pātram,pātra,,m. sg. acc.,6,6,,6,12,18
+6,6,1,grey_back,19,4,rāgnedattvā,rāgnedattvā,,?,11,11,,0,11,30
+7,7,1,carmin_back,31,5,antardadhau,antar-dhā,,pft. ac. sg. 3,9,11, sence of lemma = 1,0,9,40
+8,8,1,carmin_back,31,5,antardadhau,antar-dhā,,pft. ac. sg. 1,9,11, sence of lemma = 1,0,9,40
+9,9,2,yellow_back,12,3,pā,pā,,iic.,2,2, sence of lemma = 3,6,8,14
+10,10,2,yellow_back,12,3,pā,pā,,iic.,2,2, sence of lemma = 4,6,8,14
+11,11,2,cyan_back,14,3,tram,tra,,m. sg. acc.,4,4,,8,12,18
+12,12,2,cyan_back,14,3,tram,tra,,n. sg. acc.,4,4,,8,12,18
+13,13,2,cyan_back,14,3,tram,tra,,n. sg. nom.,4,4,,8,12,18
+14,14,2,mauve_back,31,5,antaḥ,antar,,adv.,5,5,,0,5,36
+15,15,2,mauve_back,31,5,antaḥ,antar,,prep.,5,5,,0,5,36
+16,16,2,carmin_back,36,5,dadhau,dhā,,pft. ac. sg. 3,4,6, sence of lemma = 1,5,9,40
+17,17,2,carmin_back,36,5,dadhau,dhā,,pft. ac. sg. 1,4,6, sence of lemma = 1,5,9,40
+18,18,2,carmin_back,36,5,dadhau,dhā,,pft. ac. sg. 3,4,6, sence of lemma = 2,5,9,40
+19,19,2,carmin_back,36,5,dadhau,dhā,,pft. ac. sg. 1,4,6, sence of lemma = 2,5,9,40
+20,20,3,yellow_back,31,5,antaḥ,antar,,iic.,5,5,,0,5,36
+21,21,3,yellow_back,36,5,da,da,,iic.,2,2,,5,7,38
+22,22,3,cyan_back,38,5,dhau,dhā,,m. du. acc.,2,4, sence of lemma = 3,7,9,40
+23,23,3,cyan_back,38,5,dhau,dhā,,m. du. nom.,2,4, sence of lemma = 3,7,9,40
+24,24,3,cyan_back,38,5,dhau,dhi,,m. sg. loc.,2,4,,7,9,40
+25,25,4,lawngreen_back,38,5,dhau,dhā,,m. du. voc.,2,4, sence of lemma = 3,7,9,40

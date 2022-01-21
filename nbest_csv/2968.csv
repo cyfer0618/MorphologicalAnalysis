@@ -1,0 +1,40 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,light_blue_back,0,1,tasya,tad,,n. sg. g.,5,5,,0,5,5
+1,1,1,light_blue_back,0,1,tasya,tad,,m. sg. g.,5,5,,0,5,5
+2,2,1,deep_sky_back,6,2,kauśikasya,kauśika,,m. sg. g.,9,10, sence of lemma = 1,0,9,15
+3,3,1,deep_sky_back,6,2,kauśikasya,kauśika,,n. sg. g.,9,10, sence of lemma = 1,0,9,15
+4,4,1,deep_sky_back,6,2,kauśikasya,kauśika,,m. sg. g.,9,10, sence of lemma = 2,0,9,15
+5,5,1,deep_sky_back,6,2,kauśikasya,kauśika,,n. sg. g.,9,10, sence of lemma = 2,0,9,15
+6,6,1,deep_sky_back,6,2,kauśikasya,kauśika,,m. sg. g.,9,10, sence of lemma = 3,0,9,15
+7,7,1,deep_sky_back,16,3,putrī,putra,,f. sg. nom.,5,5,,0,5,21
+8,8,1,deep_sky_back,16,3,putrī,putrin,,m. sg. nom.,5,5,,0,5,21
+9,9,1,deep_sky_back,22,4,satyavatī,satyavat,,n. du. acc.,9,9,,0,9,31
+10,10,1,deep_sky_back,22,4,satyavatī,satyavat,,n. du. nom.,9,9,,0,9,31
+11,11,1,deep_sky_back,22,4,satyavatī,satyavat,,f. sg. nom.,9,9,,0,9,31
+12,12,1,light_blue_back,32,5,mama,asmad,,m. sg. g.,4,4,,0,4,36
+13,13,1,deep_sky_back,37,6,agrajāḥ,agraja,,m. pl. nom.,7,7,,0,7,44
+14,14,1,deep_sky_back,37,6,agrajāḥ,agraja,,f. pl. acc.,7,7,,0,7,44
+15,15,1,deep_sky_back,37,6,agrajāḥ,agraja,,f. pl. nom.,7,7,,0,7,44
+16,16,2,lawngreen_back,22,4,satyavatī,satyavat,,n. du. voc.,9,9,,0,9,31
+17,17,2,carmin_back,32,5,mama,mā,,pft. ac. pl. 2,4,4, sence of lemma = 1,0,4,36
+18,18,2,carmin_back,32,5,mama,mā,,pft. ac. pl. 2,4,4, sence of lemma = 4,0,4,36
+19,19,2,lawngreen_back,37,6,agrajāḥ,agraja,,m. pl. voc.,7,7,,0,7,44
+20,20,2,lawngreen_back,37,6,agrajāḥ,agraja,,f. pl. voc.,7,7,,0,7,44
+21,21,3,yellow_back,22,4,sati,satī,,iic.,4,4,,0,4,26
+22,22,3,deep_sky_back,26,4,avatī,avat,,n. du. acc.,5,5,{ ppr. [1,4,9,31
+23,23,3,deep_sky_back,26,4,avatī,avat,,n. du. nom.,5,5,{ ppr. [1,4,9,31
+24,24,3,yellow_back,37,6,agra,agra,,iic.,4,4,,0,4,41
+25,25,3,cyan_back,41,6,jāḥ,ja,,m. pl. nom.,3,3,,4,7,44
+26,26,3,cyan_back,41,6,jāḥ,ja,,f. pl. acc.,3,3,,4,7,44
+27,27,3,cyan_back,41,6,jāḥ,ja,,f. pl. nom.,3,3,,4,7,44
+28,28,4,yellow_back,22,4,satī,satī,,iic.,4,4,,0,4,26
+29,29,4,lawngreen_back,26,4,avatī,avat,,n. du. voc.,5,5,{ ppr. [1,4,9,31
+30,30,4,lawngreen_back,41,6,jāḥ,ja,,m. pl. voc.,3,3,,4,7,44
+31,31,4,lawngreen_back,41,6,jāḥ,ja,,f. pl. voc.,3,3,,4,7,44
+32,32,5,deep_sky_back,22,4,satī,satī,,f. sg. nom.,4,4,,0,4,26
+33,33,6,deep_sky_back,22,4,sati,sat,,n. sg. loc.,4,4,{ ppr. [2,0,4,26
+34,34,6,deep_sky_back,22,4,sati,sat,,m. sg. loc.,4,4,{ ppr. [2,0,4,26
+35,35,7,deep_sky_back,22,4,satī,sat,,f. sg. nom.,4,4,{ ppr. [2,0,4,26
+36,36,7,deep_sky_back,22,4,satī,sat,,n. du. acc.,4,4,{ ppr. [2,0,4,26
+37,37,7,deep_sky_back,22,4,satī,sat,,n. du. nom.,4,4,{ ppr. [2,0,4,26
+38,38,8,yellow_back,22,4,satī,sat,,iic.,4,4,{ ppr. [2,0,4,26

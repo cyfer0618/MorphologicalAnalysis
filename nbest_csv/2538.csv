@@ -1,0 +1,35 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,deep_sky_back,0,1,rāmaḥ,rāma,,m. sg. nom.,5,5,,0,5,5
+1,1,1,yellow_back,6,2,krodha,krodha,,iic.,5,6,,0,5,11
+2,2,1,deep_sky_back,19,3,mārīcaḥ,mārīca,,m. sg. nom.,7,7,,0,7,26
+3,3,1,grey_back,27,4,syopari,syopari,,?,7,7,,0,7,34
+4,4,1,yellow_back,35,5,mānava,mānava,,iic.,6,6,,0,6,41
+5,5,1,cyan_back,42,5,tram,tra,,m. sg. acc.,4,4,,7,11,46
+6,6,1,cyan_back,42,5,tram,tra,,n. sg. acc.,4,4,,7,11,46
+7,7,1,cyan_back,42,5,tram,tra,,n. sg. nom.,4,4,,7,11,46
+8,8,1,grey_back,47,6,prayujja,prayujja,,?,8,8,,0,8,55
+9,9,2,carmin_back,0,1,rāmaḥ,rā,,pr. [2] ac. pl. 1,5,5, sence of lemma = 1,0,5,5
+10,10,2,deep_sky_back,6,2,krodhā,krodha,,f. sg. nom.,5,6,,0,5,11
+11,11,2,yellow_back,35,5,māna,māna,,iic.,4,4, sence of lemma = 1,0,4,39
+12,12,2,yellow_back,35,5,māna,māna,,iic.,4,4, sence of lemma = 2,0,4,39
+13,13,2,yellow_back,39,5,vāḥ,vār,,iic.,3,3,,4,7,42
+14,14,3,deep_sky_back,10,2,udriktaḥ,ut-rikta,,m. sg. nom.,8,8,{ pp. }[ut-ric,4,12,18
+15,15,3,mauve_back,35,5,mā,mā,,part.,2,2, sence of lemma = 2,0,2,37
+16,16,3,yellow_back,37,5,nava,navan,,iic.,4,4,,2,6,41
+17,17,3,yellow_back,37,5,nava,nava,,iic.,4,4, sence of lemma = 1,2,6,41
+18,18,4,light_blue_back,35,5,mā,asmad,,m. sg. acc.,2,2,,0,2,37
+19,19,4,deep_sky_back,37,5,nava,navan,,m. pl. acc.,4,4,,2,6,41
+20,20,4,deep_sky_back,37,5,nava,navan,,m. pl. nom.,4,4,,2,6,41
+21,21,5,yellow_back,36,5,āna,āna,,iic.,3,3,,1,4,39
+22,22,5,mauve_back,39,5,vā,vā,,conj.,2,2, sence of lemma = 1,4,6,41
+23,23,6,carmin_back,36,5,āna,an,,pft. ac. pl. 2,3,3, sence of lemma = 2,1,4,39
+24,24,6,carmin_back,36,5,āna,an,,pft. ac. sg. 3,3,3, sence of lemma = 2,1,4,39
+25,25,6,carmin_back,36,5,āna,an,,pft. ac. sg. 1,3,3, sence of lemma = 2,1,4,39
+26,26,6,deep_sky_back,40,5,astram,astra,,n. sg. acc.,6,6,,5,11,46
+27,27,6,deep_sky_back,40,5,astram,astra,,n. sg. nom.,6,6,,5,11,46
+28,28,7,yellow_back,36,5,an,an,,iic.,2,2, sence of lemma = 1,1,3,38
+29,29,7,yellow_back,38,5,a,a,,iic.,1,1,,3,4,39
+30,30,7,cyan_back,40,5,astram,astra,,m. sg. acc.,6,6,,5,11,46
+31,31,8,yellow_back,36,5,a,a,,iic.,1,1,,1,2,37
+32,32,8,deep_sky_back,37,5,navā,nava,,f. sg. nom.,4,4, sence of lemma = 1,2,6,41
+33,33,9,mauve_back,37,5,na,na,,part.,2,2,,2,4,39

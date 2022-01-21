@@ -1,0 +1,33 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,mauve_back,0,1,etāvat,etāvat,,ind.,6,6,,0,6,6
+1,1,1,deep_sky_back,6,1,paryantam,paryanta,,m. sg. acc.,9,9,,6,15,15
+2,2,1,deep_sky_back,6,1,paryantam,paryanta,,n. sg. acc.,9,9,,6,15,15
+3,3,1,deep_sky_back,6,1,paryantam,paryanta,,n. sg. nom.,9,9,,6,15,15
+4,4,1,deep_sky_back,16,2,mithilā,mithila,,f. sg. nom.,6,7,,0,6,22
+5,5,1,deep_sky_back,23,3,nagarī,nagara,,f. sg. nom.,6,6,,0,6,29
+6,6,1,mauve_back,30,4,vai,vai,,ind.,2,3,,0,2,32
+7,7,1,deep_sky_back,32,4,bhavam,bhava,,m. sg. acc.,5,6,,2,7,37
+8,8,1,light_blue_back,38,5,asmābhiḥ,asmad,,m. pl. i.,7,8,,0,7,45
+9,9,1,mauve_back,46,6,na,na,,ind.,2,2,,0,2,48
+10,10,1,deep_sky_back,49,7,dṛṣṭam,dṛṣṭa,,n. sg. acc.,6,6,{ pp. }[dṛś_1,0,6,55
+11,11,1,deep_sky_back,49,7,dṛṣṭam,dṛṣṭa,,n. sg. nom.,6,6,{ pp. }[dṛś_1,0,6,55
+12,12,1,deep_sky_back,49,7,dṛṣṭam,dṛṣṭa,,m. sg. acc.,6,6,{ pp. }[dṛś_1,0,6,55
+13,13,2,yellow_back,0,1,etāvat,etāvat,,iic.,6,6,,0,6,6
+14,14,2,mauve_back,6,1,pari,pari,,ind.,4,4,,6,10,10
+15,15,2,deep_sky_back,10,1,antam,anta,,m. sg. acc.,5,5,,10,15,15
+16,16,3,deep_sky_back,0,1,etāvat,etāvat,,n. sg. acc.,6,6,,0,6,6
+17,17,3,deep_sky_back,0,1,etāvat,etāvat,,n. sg. nom.,6,6,,0,6,6
+18,18,3,mauve_back,6,1,parī,pari,,ind.,4,4,,6,10,10
+19,19,3,mauve_back,10,1,antam,anta,,ind.,5,5,,10,15,15
+20,20,4,carmin_back,0,1,etā,i,,per. fut. ac. sg. 3,3,3,,0,3,3
+21,21,4,pink_back,6,1,pari,pari,,iic.,4,4,,6,10,10
+22,22,5,carmin_back,0,1,eta,ā-i,,imp. [2] ac. pl. 2,3,3,,0,3,3
+23,23,5,yellow_back,6,1,pa,pa,,iic.,2,2, sence of lemma = 1,6,8,8
+24,24,5,yellow_back,6,1,pa,pa,,iic.,2,2, sence of lemma = 2,6,8,8
+25,25,5,cyan_back,8,1,ri,rā,,m. sg. loc.,2,2, sence of lemma = 2,8,10,10
+26,26,6,yellow_back,0,1,eta,ā-ita,,iic.,3,3,{ pp. }[ā-i,0,3,3
+27,27,7,deep_sky_back,0,1,etā,ā-ita,,f. sg. nom.,3,3,{ pp. }[ā-i,0,3,3
+28,28,8,carmin_back,2,1,āvat,av,,impft. [1] ac. sg. 3,4,4,,2,6,6
+29,29,9,deep_sky_back,2,1,avat,avat,,n. sg. acc.,4,4,{ ppr. [1,2,6,6
+30,30,9,deep_sky_back,2,1,avat,avat,,n. sg. nom.,4,4,{ ppr. [1,2,6,6
+31,31,10,yellow_back,2,1,avat,avat,,iic.,4,4,{ ppr. [1,2,6,6

@@ -1,0 +1,30 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,light_blue_back,0,1,sa,tad,,m. sg. nom.,2,2,,0,2,2
+1,1,1,mauve_back,3,2,ca,ca,,conj.,2,2,,0,2,5
+2,2,1,yellow_back,6,3,vidarbha,vidarbha,,iic.,7,8,,0,7,13
+3,3,1,cyan_back,13,3,krā,krā,,m. sg. i.,3,3,,7,10,16
+4,4,1,cyan_back,13,3,krā,krā,,f. sg. nom.,3,3,,7,10,16
+5,5,1,yellow_back,16,3,ja,ja,,iic.,2,2,,10,12,18
+6,6,1,deep_sky_back,18,3,tanayām,tanayā,,f. sg. acc.,7,7,,12,19,25
+7,7,1,deep_sky_back,26,4,keśinīm,keśin,,f. sg. acc.,7,7,,0,7,33
+8,8,2,yellow_back,6,3,vit,vid,,iic.,3,3, sence of lemma = 3,0,3,9
+9,9,2,yellow_back,9,3,arbha,arbha,,iic.,4,5,,3,7,13
+10,10,2,yellow_back,13,3,krā,krā,,iic.,3,3,,7,10,16
+11,11,2,cyan_back,18,3,tanayām,tanaya,,f. sg. acc.,7,7,,12,19,25
+12,12,3,deep_sky_back,6,3,vit,vid,,m. sg. nom.,3,3, sence of lemma = 3,0,3,9
+13,13,3,deep_sky_back,6,3,vit,vid,,n. sg. acc.,3,3, sence of lemma = 3,0,3,9
+14,14,3,deep_sky_back,6,3,vit,vid,,n. sg. nom.,3,3, sence of lemma = 3,0,3,9
+15,15,3,deep_sky_back,6,3,vit,vid,,f. sg. nom.,3,3, sence of lemma = 3,0,3,9
+16,16,3,carmin_back,15,3,ajata,aj,,imp. [1] ac. pl. 2,5,5,,9,14,20
+17,17,3,mauve_back,20,3,na,na,,part.,2,2,,14,16,22
+18,18,3,cyan_back,22,3,yām,ya,,f. sg. acc.,3,3, sence of lemma = 2,16,19,25
+19,19,4,carmin_back,15,3,ājata,aj,,impft. [1] ac. pl. 2,5,5,,9,14,20
+20,20,4,light_blue_back,22,3,yām,yad,,f. sg. acc.,3,3,,16,19,25
+21,21,5,yellow_back,15,3,aja,aja,,iic.,3,3, sence of lemma = 1,9,12,18
+22,22,5,yellow_back,15,3,aja,aja,,iic.,3,3, sence of lemma = 2,9,12,18
+23,23,5,yellow_back,18,3,tana,tana,,iic.,4,4,,12,16,22
+24,24,6,yellow_back,15,3,āja,āja,,iic.,3,3,,9,12,18
+25,25,7,carmin_back,15,3,aja,aj,,imp. [1] ac. sg. 2,3,3,,9,12,18
+26,26,8,carmin_back,15,3,āja,aj,,pft. ac. pl. 2,3,3,,9,12,18
+27,27,8,carmin_back,15,3,āja,aj,,pft. ac. sg. 3,3,3,,9,12,18
+28,28,8,carmin_back,15,3,āja,aj,,pft. ac. sg. 1,3,3,,9,12,18

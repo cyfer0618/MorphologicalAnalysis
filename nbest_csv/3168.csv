@@ -1,0 +1,37 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,light_blue_back,0,1,tau,tad,,m. du. acc.,2,3,,0,2,2
+1,1,1,light_blue_back,0,1,tau,tad,,m. du. nom.,2,3,,0,2,2
+2,2,1,yellow_back,3,2,ādi,ādi,,iic.,3,3,,0,3,6
+3,3,1,yellow_back,3,2,ādi,ādin,,iic.,3,3,,0,3,6
+4,4,1,yellow_back,6,2,dam,dam,,iic.,3,3, sence of lemma = 2,3,6,9
+5,5,1,deep_sky_back,9,2,patī,pati,,m. du. acc.,4,4,,6,10,13
+6,6,1,deep_sky_back,9,2,patī,pati,,m. du. nom.,4,4,,6,10,13
+7,7,1,yellow_back,14,3,sarva,sarva,,iic.,5,5,,0,5,19
+8,8,1,yellow_back,19,3,loka,loka,,iic.,4,4,,5,9,23
+9,9,1,yellow_back,23,3,pūjya,pūjya,,iic.,5,5,{ pfp. [1,9,14,28
+10,10,1,carmin_back,29,3,asthām,sthā,,aor. [1] ac. sg. 1,5,6, sence of lemma = 1,15,20,34
+11,11,1,mauve_back,35,4,iti,iti,,part.,3,3,,0,3,38
+12,12,2,deep_sky_back,3,2,ādi,ādi,,n. sg. acc.,3,3,,0,3,6
+13,13,2,deep_sky_back,3,2,ādi,ādi,,n. sg. nom.,3,3,,0,3,6
+14,14,2,deep_sky_back,3,2,ādi,ādin,,n. sg. acc.,3,3,,0,3,6
+15,15,2,deep_sky_back,3,2,ādi,ādin,,n. sg. nom.,3,3,,0,3,6
+16,16,2,cyan_back,6,2,dam,da,,m. sg. acc.,3,3,,3,6,9
+17,17,2,cyan_back,6,2,dam,da,,n. sg. acc.,3,3,,3,6,9
+18,18,2,cyan_back,6,2,dam,da,,n. sg. nom.,3,3,,3,6,9
+19,19,2,cyan_back,9,2,patī,pati,,f. du. acc.,4,4,,6,10,13
+20,20,2,cyan_back,9,2,patī,pati,,f. du. nom.,4,4,,6,10,13
+21,21,2,deep_sky_back,23,3,pūjyā,pūjya,,f. sg. nom.,5,5,{ pfp. [1,9,14,28
+22,22,3,lawngreen_back,9,2,patī,pati,,m. du. voc.,4,4,,6,10,13
+23,23,3,deep_sky_back,23,3,pūjyau,pūjya,,m. du. acc.,5,6,{ pfp. [1,9,14,28
+24,24,3,deep_sky_back,23,3,pūjyau,pūjya,,m. du. nom.,5,6,{ pfp. [1,9,14,28
+25,25,4,lawngreen_back,9,2,patī,pati,,f. du. voc.,4,4,,6,10,13
+26,26,4,yellow_back,23,3,pū,pū,,iic.,2,2, sence of lemma = 2,9,11,25
+27,27,4,yellow_back,25,3,jyā,jyā,,iic.,3,3, sence of lemma = 2,11,14,28
+28,28,4,yellow_back,25,3,jyā,jyā,,iic.,3,3, sence of lemma = 3,11,14,28
+29,29,5,deep_sky_back,25,3,jyā,jyā,,f. sg. nom.,3,3, sence of lemma = 2,11,14,28
+30,30,5,deep_sky_back,25,3,jyā,jyā,,f. sg. nom.,3,3, sence of lemma = 3,11,14,28
+31,31,6,cyan_back,25,3,jyau,jyā,,m. du. acc.,3,4, sence of lemma = 2,11,14,28
+32,32,6,cyan_back,25,3,jyau,jyā,,m. du. nom.,3,4, sence of lemma = 2,11,14,28
+33,33,6,cyan_back,25,3,jyau,jyā,,m. du. acc.,3,4, sence of lemma = 3,11,14,28
+34,34,6,cyan_back,25,3,jyau,jyā,,m. du. nom.,3,4, sence of lemma = 3,11,14,28
+35,35,7,deep_sky_back,27,3,avasthām,avasthā,,f. sg. acc.,7,8, sence of lemma = 2,13,20,34

@@ -1,0 +1,34 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,yellow_back,0,1,tat,tad,,iic.,3,3,,0,3,3
+1,1,1,deep_sky_back,3,1,samam,sama,,m. sg. acc.,5,5,,3,8,8
+2,2,1,deep_sky_back,3,1,samam,sama,,n. sg. acc.,5,5,,3,8,8
+3,3,1,deep_sky_back,3,1,samam,sama,,n. sg. nom.,5,5,,3,8,8
+4,4,1,yellow_back,9,2,nagara,nagara,,iic.,6,6,,0,6,15
+5,5,1,deep_sky_back,16,2,taram,tara,,m. sg. acc.,5,5,,7,12,21
+6,6,1,deep_sky_back,16,2,taram,tara,,n. sg. acc.,5,5,,7,12,21
+7,7,1,deep_sky_back,16,2,taram,tara,,n. sg. nom.,5,5,,7,12,21
+8,8,1,mauve_back,22,3,na,na,,part.,2,2,,0,2,24
+9,9,2,light_blue_back,0,1,tat,tad,,n. sg. acc.,3,3,,0,3,3
+10,10,2,light_blue_back,0,1,tat,tad,,n. sg. nom.,3,3,,0,3,3
+11,11,2,cyan_back,3,1,samam,samā,,m. sg. acc.,5,5,,3,8,8
+12,12,2,cyan_back,3,1,samam,samā,,n. sg. acc.,5,5,,3,8,8
+13,13,2,cyan_back,3,1,samam,samā,,n. sg. nom.,5,5,,3,8,8
+14,14,2,yellow_back,9,2,naga,naga,,iic.,4,4,,0,4,13
+15,15,2,cyan_back,13,2,rām,rā,,m. pl. g.,3,3, sence of lemma = 2,4,7,16
+16,16,2,cyan_back,13,2,rām,rā,,m. sg. acc.,3,3, sence of lemma = 2,4,7,16
+17,17,2,cyan_back,13,2,rām,rā,,f. sg. acc.,3,3, sence of lemma = 2,4,7,16
+18,18,2,deep_sky_back,22,3,nā,nṛ,,m. sg. nom.,2,2,,0,2,24
+19,19,3,mauve_back,9,2,na,na,,part.,2,2,,0,2,11
+20,20,3,yellow_back,11,2,gara,gara,,iic.,4,4,,2,6,15
+21,21,3,carmin_back,23,3,āsīt,ās,,inj. [5] ac. sg. 3,4,4, sence of lemma = 2,1,5,27
+22,22,3,carmin_back,23,3,āsīt,ās,,aor. [5] ac. sg. 3,4,4, sence of lemma = 2,1,5,27
+23,23,3,carmin_back,23,3,āsīt,as,,impft. [2] ac. sg. 3,4,4, sence of lemma = 1,1,5,27
+24,24,4,cyan_back,13,2,rā,rā,,m. sg. i.,2,2, sence of lemma = 2,4,6,15
+25,25,4,cyan_back,13,2,rā,rā,,f. sg. nom.,2,2, sence of lemma = 2,4,6,15
+26,26,5,yellow_back,13,2,rā,rā,,iic.,2,2, sence of lemma = 2,4,6,15
+27,27,6,deep_sky_back,14,2,antaram,antara,,m. sg. acc.,7,7,,5,12,21
+28,28,6,deep_sky_back,14,2,antaram,antara,,n. sg. acc.,7,7,,5,12,21
+29,29,6,deep_sky_back,14,2,antaram,antara,,n. sg. nom.,7,7,,5,12,21
+30,30,7,deep_sky_back,14,2,āntaram,āntara,,m. sg. acc.,7,7,,5,12,21
+31,31,7,deep_sky_back,14,2,āntaram,āntara,,n. sg. acc.,7,7,,5,12,21
+32,32,7,deep_sky_back,14,2,āntaram,āntara,,n. sg. nom.,7,7,,5,12,21

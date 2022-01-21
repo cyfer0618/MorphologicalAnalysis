@@ -1,0 +1,48 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,mauve_back,0,1,atha,atha,,conj.,3,4,,0,3,3
+1,1,1,yellow_back,4,2,gaṅga,gaṅga,,iic.,5,5,,0,5,9
+2,2,1,deep_sky_back,9,2,devyāḥ,deva,,f. sg. g.,6,6,,5,11,15
+3,3,1,deep_sky_back,9,2,devyāḥ,deva,,f. sg. abl.,6,6,,5,11,15
+4,4,1,deep_sky_back,9,2,devyāḥ,devī,,f. sg. g.,6,6,,5,11,15
+5,5,1,deep_sky_back,9,2,devyāḥ,devī,,f. sg. abl.,6,6,,5,11,15
+6,6,1,deep_sky_back,16,3,kārttikeyasya,kārttikeya,,m. sg. g.,13,13,,0,13,29
+7,7,1,mauve_back,30,4,ca,ca,,conj.,2,2,,0,2,32
+8,8,1,deep_sky_back,33,5,vṛttāntam,vṛttānta,,m. sg. acc.,9,9,,0,9,42
+9,9,1,carmin_back,43,6,kathayāmi,kath,,pr. [10] ac. sg. 1,8,9,,0,8,51
+10,10,2,yellow_back,4,2,gaṅgā,gaṅgā,,iic.,5,5,,0,5,9
+11,11,2,deep_sky_back,9,2,devyāḥ,devya,,f. pl. acc.,6,6,{ pfp. [1,5,11,15
+12,12,2,deep_sky_back,9,2,devyāḥ,devya,,f. pl. nom.,6,6,{ pfp. [1,5,11,15
+13,13,2,deep_sky_back,9,2,devyāḥ,devya,,m. pl. nom.,6,6,{ pfp. [1,5,11,15
+14,14,2,deep_sky_back,9,2,devyāḥ,devya,,f. pl. acc.,6,6,{ pfp. [1,5,11,15
+15,15,2,deep_sky_back,9,2,devyāḥ,devya,,f. pl. nom.,6,6,{ pfp. [1,5,11,15
+16,16,2,deep_sky_back,9,2,devyāḥ,devya,,m. pl. nom.,6,6,{ pfp. [1,5,11,15
+17,17,2,deep_sky_back,9,2,devyāḥ,devya,,f. pl. acc.,6,6,{ ca. pfp. [1,5,11,15
+18,18,2,deep_sky_back,9,2,devyāḥ,devya,,f. pl. nom.,6,6,{ ca. pfp. [1,5,11,15
+19,19,2,deep_sky_back,9,2,devyāḥ,devya,,m. pl. nom.,6,6,{ ca. pfp. [1,5,11,15
+20,20,2,deep_sky_back,9,2,devyāḥ,devya,,f. pl. acc.,6,6,{ ca. pfp. [1,5,11,15
+21,21,2,deep_sky_back,9,2,devyāḥ,devya,,f. pl. nom.,6,6,{ ca. pfp. [1,5,11,15
+22,22,2,deep_sky_back,9,2,devyāḥ,devya,,m. pl. nom.,6,6,{ ca. pfp. [1,5,11,15
+23,23,2,deep_sky_back,16,3,kārttike,kārttika,,m. sg. loc.,8,8,,0,8,24
+24,24,2,light_blue_back,24,3,yasya,yad,,n. sg. g.,5,5,,8,13,29
+25,25,2,light_blue_back,24,3,yasya,yad,,m. sg. g.,5,5,,8,13,29
+26,26,2,deep_sky_back,33,5,vṛttām,vṛtta,,f. sg. acc.,6,6,{ pp. }[vṛt_1,0,6,39
+27,27,2,light_blue_back,39,5,tam,tad,,m. sg. acc.,3,3,,6,9,42
+28,28,3,deep_sky_back,4,2,gaṅgā,gaṅgā,,f. sg. nom.,5,5,,0,5,9
+29,29,3,lawngreen_back,9,2,devyāḥ,devya,,f. pl. voc.,6,6,{ pfp. [1,5,11,15
+30,30,3,lawngreen_back,9,2,devyāḥ,devya,,m. pl. voc.,6,6,{ pfp. [1,5,11,15
+31,31,3,lawngreen_back,9,2,devyāḥ,devya,,f. pl. voc.,6,6,{ pfp. [1,5,11,15
+32,32,3,lawngreen_back,9,2,devyāḥ,devya,,m. pl. voc.,6,6,{ pfp. [1,5,11,15
+33,33,3,lawngreen_back,9,2,devyāḥ,devya,,f. pl. voc.,6,6,{ ca. pfp. [1,5,11,15
+34,34,3,lawngreen_back,9,2,devyāḥ,devya,,m. pl. voc.,6,6,{ ca. pfp. [1,5,11,15
+35,35,3,lawngreen_back,9,2,devyāḥ,devya,,f. pl. voc.,6,6,{ ca. pfp. [1,5,11,15
+36,36,3,lawngreen_back,9,2,devyāḥ,devya,,m. pl. voc.,6,6,{ ca. pfp. [1,5,11,15
+37,37,3,carmin_back,24,3,yasya,yas,,imp. [4] ac. sg. 2,5,5,,8,13,29
+38,38,3,deep_sky_back,33,5,vṛttā,vṛtta,,f. sg. nom.,5,5,{ pp. }[vṛt_1,0,5,38
+39,39,4,yellow_back,8,2,a,a,,iic.,1,1,,4,5,9
+40,40,4,yellow_back,33,5,vṛtta,vṛtta,,iic.,5,5,{ pp. }[vṛt_1,0,5,38
+41,41,5,deep_sky_back,37,5,āntam,ānta,,n. sg. acc.,5,5,{ pp. }[am,4,9,42
+42,42,5,deep_sky_back,37,5,āntam,ānta,,n. sg. nom.,5,5,{ pp. }[am,4,9,42
+43,43,5,deep_sky_back,37,5,āntam,ānta,,m. sg. acc.,5,5,{ pp. }[am,4,9,42
+44,44,6,deep_sky_back,37,5,antam,anta,,m. sg. acc.,5,5,,4,9,42
+45,45,7,cyan_back,37,5,antam,anta,,n. sg. acc.,5,5,,4,9,42
+46,46,7,cyan_back,37,5,antam,anta,,n. sg. nom.,5,5,,4,9,42

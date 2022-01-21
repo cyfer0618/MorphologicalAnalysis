@@ -1,0 +1,34 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,mauve_back,0,1,etat,etad,,adv.,4,4,,0,4,4
+1,1,1,deep_sky_back,4,1,prabhāveṇa,prabhāva,,m. sg. i.,9,10,,4,13,13
+2,2,1,deep_sky_back,14,2,bhavān,bhava,,m. pl. acc.,5,6,,0,5,19
+3,3,1,deep_sky_back,14,2,bhavān,bhavat,,m. sg. nom.,5,6, sence of lemma = 2,0,5,19
+4,4,1,deep_sky_back,20,3,caturaḥ,catura,,m. sg. nom.,7,7,,0,7,27
+5,5,1,deep_sky_back,20,3,caturaḥ,catur,,m. pl. acc.,7,7,,0,7,27
+6,6,1,deep_sky_back,28,4,putrān,putra,,m. pl. acc.,6,6,,0,6,34
+7,7,1,yellow_back,35,5,loka,loka,,iic.,4,4,,0,4,39
+8,8,1,deep_sky_back,39,5,pūjyān,pūjya,,m. pl. acc.,6,6,{ pfp. [1,4,10,45
+9,9,1,deep_sky_back,46,6,śūrān,śūra,,m. pl. acc.,5,5,,0,5,51
+10,10,1,carmin_back,52,7,prāpsyati,pra-āp,,fut. ac. sg. 3,9,9,,0,9,61
+11,11,2,yellow_back,0,1,etat,etad,,iic.,4,4,,0,4,4
+12,12,2,cyan_back,4,1,prabhāveṇa,prabhāva,,n. sg. i.,9,10,,4,13,13
+13,13,2,mauve_back,20,3,ca,ca,,conj.,2,2,,0,2,22
+14,14,2,deep_sky_back,22,3,turaḥ,tura,,m. sg. nom.,5,5,,2,7,27
+15,15,2,yellow_back,39,5,pū,pū,,iic.,2,2, sence of lemma = 2,4,6,41
+16,16,2,cyan_back,41,5,jyān,jyā,,m. pl. acc.,4,4, sence of lemma = 2,6,10,45
+17,17,2,cyan_back,41,5,jyān,jyā,,m. pl. acc.,4,4, sence of lemma = 3,6,10,45
+18,18,2,deep_sky_back,52,7,prāpsyati,pra-āpsyat,,n. sg. loc.,9,9,{ pfu. ac. }[pra-āp,0,9,61
+19,19,2,deep_sky_back,52,7,prāpsyati,pra-āpsyat,,m. sg. loc.,9,9,{ pfu. ac. }[pra-āp,0,9,61
+20,20,3,light_blue_back,0,1,etat,etad,,n. sg. acc.,4,4,,0,4,4
+21,21,3,light_blue_back,0,1,etat,etad,,n. sg. nom.,4,4,,0,4,4
+22,22,3,deep_sky_back,4,1,prabhau,prabhu,,m. sg. loc.,5,7,,4,9,9
+23,23,3,lawngreen_back,9,1,u,u,,ind.,1,1,,9,10,10
+24,24,3,lawngreen_back,10,1,eṇa,eṇa,,m. sg. voc.,3,3,,10,13,13
+25,25,3,carmin_back,52,7,prāpsi,pra-āp,,aor. [4] md. sg. 1,6,6,,0,6,58
+26,26,3,mauve_back,58,7,ati,ati,,prep.,3,3,,6,9,61
+27,27,3,mauve_back,58,7,ati,ati,,adv.,3,3,,6,9,61
+28,28,4,deep_sky_back,4,1,prabhā,prabhā,,f. sg. nom.,5,6, sence of lemma = 2,4,9,9
+29,29,5,cyan_back,4,1,prabhau,prabha,,m. du. acc.,5,7,,4,9,9
+30,30,5,cyan_back,4,1,prabhau,prabha,,m. du. nom.,5,7,,4,9,9
+31,31,5,cyan_back,4,1,prabhau,prabhā,,m. du. acc.,5,7, sence of lemma = 2,4,9,9
+32,32,5,cyan_back,4,1,prabhau,prabhā,,m. du. nom.,5,7, sence of lemma = 2,4,9,9

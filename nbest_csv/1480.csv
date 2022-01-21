@@ -1,0 +1,73 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,light_blue_back,0,1,tat,tad,,n. sg. acc.,3,3,,0,3,3
+1,1,1,light_blue_back,0,1,tat,tad,,n. sg. nom.,3,3,,0,3,3
+2,2,1,mauve_back,3,1,anu,anu,,prep.,3,3,,3,6,6
+3,3,1,mauve_back,3,1,anu,anu,,adv.,3,3,,3,6,6
+4,4,1,deep_sky_back,7,2,vasiṣṭhena,vasiṣṭha,,m. sg. i.,9,10,,0,9,16
+5,5,1,deep_sky_back,7,2,vasiṣṭhena,vasiṣṭha,,n. sg. i.,9,10,,0,9,16
+6,6,1,yellow_back,17,3,mahā,mahat,,iic.,4,4,,0,4,21
+7,7,1,deep_sky_back,21,3,ṛṣiṇā,ṛṣi,,m. sg. i.,5,5,,4,9,26
+8,8,1,deep_sky_back,27,4,anunītaḥ,anu-nīta,,m. sg. nom.,8,8,{ pp. }[anu-nī_1,0,8,35
+9,9,1,deep_sky_back,36,5,daśarathaḥ,daśaratha,,m. sg. nom.,9,10,,0,9,45
+10,10,1,deep_sky_back,46,6,rāmam,rāma,,m. sg. acc.,5,5,,0,5,51
+11,11,1,deep_sky_back,46,6,rāmam,rāma,,n. sg. acc.,5,5,,0,5,51
+12,12,1,deep_sky_back,46,6,rāmam,rāma,,n. sg. nom.,5,5,,0,5,51
+13,13,1,mauve_back,51,6,āhūya,ā-hū,,abs.,5,5,,5,10,56
+14,14,1,yellow_back,57,7,mahā,mahat,,iic.,4,4,,0,4,61
+15,15,1,deep_sky_back,61,7,ṛṣeḥ,ṛṣi,,m. sg. g.,4,4,,4,8,65
+16,16,1,deep_sky_back,61,7,ṛṣeḥ,ṛṣi,,m. sg. abl.,4,4,,4,8,65
+17,17,1,deep_sky_back,66,8,kāmanām,kāmana,,f. sg. acc.,7,7,,0,7,73
+18,18,1,mauve_back,74,9,uktvā,vac,,abs.,5,5,,0,5,79
+19,19,1,light_blue_back,80,10,tam,tad,,m. sg. acc.,3,3,,0,3,83
+20,20,1,mauve_back,84,11,anugantum,anu-gam,,inf.,9,9,,0,9,93
+21,21,1,carmin_back,94,12,ādideśa,ā-diś,,pft. ac. sg. 3,7,7, sence of lemma = 1,0,7,101
+22,22,1,carmin_back,94,12,ādideśa,ā-diś,,pft. ac. sg. 1,7,7, sence of lemma = 1,0,7,101
+23,23,2,yellow_back,7,2,vasiṣṭha,vasiṣṭha,,iic.,7,8,,0,7,14
+24,24,2,mauve_back,14,2,na,na,,part.,2,2,,7,9,16
+25,25,2,carmin_back,17,3,maha,mah,,imp. [1] ac. sg. 2,4,4,,0,4,21
+26,26,2,cyan_back,21,3,ṛṣiṇā,ṛṣi,,n. sg. i.,5,5,,4,9,26
+27,27,2,mauve_back,27,4,anu,anu,,prep.,3,3,,0,3,30
+28,28,2,mauve_back,27,4,anu,anu,,adv.,3,3,,0,3,30
+29,29,2,deep_sky_back,30,4,nītaḥ,nīta,,m. sg. nom.,5,5,{ pp. }[nī_1,3,8,35
+30,30,2,yellow_back,36,5,daśa,daśan,,iic.,4,4,,0,4,40
+31,31,2,deep_sky_back,40,5,rathaḥ,ratha,,m. sg. nom.,5,6,,4,9,45
+32,32,2,carmin_back,46,6,rāma,rā,,imp. [2] ac. pl. 1,4,4, sence of lemma = 1,0,4,50
+33,33,2,mauve_back,50,6,mā,mā,,part.,2,2, sence of lemma = 2,4,6,52
+34,34,2,carmin_back,57,7,maha,mah,,imp. [1] ac. sg. 2,4,4,,0,4,61
+35,35,2,cyan_back,61,7,ṛṣeḥ,ṛṣi,,f. sg. g.,4,4,,4,8,65
+36,36,2,cyan_back,61,7,ṛṣeḥ,ṛṣi,,f. sg. abl.,4,4,,4,8,65
+37,37,2,light_blue_back,66,8,kā,kim,,f. sg. nom.,2,2,,0,2,68
+38,38,2,deep_sky_back,68,8,manām,manā,,f. sg. acc.,5,5,,2,7,73
+39,39,2,mauve_back,84,11,anu,anu,,prep.,3,3,,0,3,87
+40,40,2,mauve_back,84,11,anu,anu,,adv.,3,3,,0,3,87
+41,41,2,deep_sky_back,87,11,gantum,gantu,,m. sg. acc.,6,6, sence of lemma = 1,3,9,93
+42,42,2,yellow_back,94,12,ādi,ādi,,iic.,3,3,,0,3,97
+43,43,2,yellow_back,94,12,ādi,ādin,,iic.,3,3,,0,3,97
+44,44,2,lawngreen_back,97,12,deśa,deśa,,m. sg. voc.,4,4,,3,7,101
+45,45,3,deep_sky_back,7,2,vasiṣṭhā,vasiṣṭha,,f. sg. nom.,7,8,,0,7,14
+46,46,3,carmin_back,30,4,nītaḥ,ni-i,,pr. [2] ac. du. 3,5,5,,3,8,35
+47,47,3,deep_sky_back,36,5,daśa,daśan,,m. pl. acc.,4,4,,0,4,40
+48,48,3,deep_sky_back,36,5,daśa,daśan,,m. pl. nom.,4,4,,0,4,40
+49,49,3,light_blue_back,50,6,mā,asmad,,m. sg. acc.,2,2,,4,6,52
+50,50,3,carmin_back,61,7,ṛṣeḥ,ṛṣ,,opt. [6] ac. sg. 2,4,4,,4,8,65
+51,51,3,yellow_back,67,8,a,a,,iic.,1,1,,1,2,68
+52,52,3,mauve_back,87,11,gantum,gam,,inf.,6,6,,3,9,93
+53,53,3,deep_sky_back,94,12,ādi,ādi,,n. sg. acc.,3,3,,0,3,97
+54,54,3,deep_sky_back,94,12,ādi,ādi,,n. sg. nom.,3,3,,0,3,97
+55,55,3,deep_sky_back,94,12,ādi,ādin,,n. sg. acc.,3,3,,0,3,97
+56,56,3,deep_sky_back,94,12,ādi,ādin,,n. sg. nom.,3,3,,0,3,97
+57,57,3,lawngreen_back,97,12,deśa,deśa,,n. sg. voc.,4,4,,3,7,101
+58,58,4,deep_sky_back,7,2,vasiṣṭhe,vasiṣṭha,,m. sg. loc.,7,8,,0,7,14
+59,59,4,deep_sky_back,7,2,vasiṣṭhe,vasiṣṭha,,n. du. acc.,7,8,,0,7,14
+60,60,4,deep_sky_back,7,2,vasiṣṭhe,vasiṣṭha,,n. du. nom.,7,8,,0,7,14
+61,61,4,deep_sky_back,7,2,vasiṣṭhe,vasiṣṭha,,n. sg. loc.,7,8,,0,7,14
+62,62,4,deep_sky_back,7,2,vasiṣṭhe,vasiṣṭha,,f. du. acc.,7,8,,0,7,14
+63,63,4,deep_sky_back,7,2,vasiṣṭhe,vasiṣṭha,,f. du. nom.,7,8,,0,7,14
+64,64,4,deep_sky_back,30,4,nītaḥ,ni-ita,,m. sg. nom.,5,5,{ pp. }[ni-i,3,8,35
+65,65,4,carmin_back,36,5,daśa,daṃś,,imp. [1] ac. sg. 2,4,4,,0,4,40
+66,66,4,cyan_back,97,12,dā,da,,f. sg. nom.,2,2,,3,5,99
+67,67,5,lawngreen_back,13,2,ina,ina,,m. sg. voc.,3,3,,6,9,16
+68,68,5,lawngreen_back,13,2,ina,ina,,n. sg. voc.,3,3,,6,9,16
+69,69,5,yellow_back,97,12,da,da,,iic.,2,2,,3,5,99
+70,70,6,lawngreen_back,98,12,īśa,īśa,,m. sg. voc.,3,3,,4,7,101
+71,71,7,lawngreen_back,98,12,īśa,īśa,,n. sg. voc.,3,3,,4,7,101

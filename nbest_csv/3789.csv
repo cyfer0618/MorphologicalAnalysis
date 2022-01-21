@@ -1,0 +1,32 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,grey_back,0,1,tad,tad,,?,3,3,,0,3,3
+1,1,1,deep_sky_back,4,2,sthānam,sthāna,,n. sg. acc.,6,7,,0,6,10
+2,2,1,deep_sky_back,4,2,sthānam,sthāna,,n. sg. nom.,6,7,,0,6,10
+3,3,1,mauve_back,10,2,iva,iva,,part.,3,3,,6,9,13
+4,4,1,yellow_back,14,3,sarva,sarva,,iic.,5,5,,0,5,19
+5,5,1,cyan_back,19,3,dhātuni,dhātu,,n. sg. loc.,6,7,,5,11,25
+6,6,1,lawngreen_back,25,3,laya,laya,,m. sg. voc.,4,4,,11,15,29
+7,7,1,carmin_back,30,4,āsīt,ās,,inj. [5] ac. sg. 3,4,4, sence of lemma = 2,0,4,34
+8,8,1,carmin_back,30,4,āsīt,ās,,aor. [5] ac. sg. 3,4,4, sence of lemma = 2,0,4,34
+9,9,1,carmin_back,30,4,āsīt,as,,impft. [2] ac. sg. 3,4,4, sence of lemma = 1,0,4,34
+10,10,2,carmin_back,4,2,stha,as,,pr. [2] ac. pl. 2,3,4, sence of lemma = 1,0,3,7
+11,11,2,mauve_back,9,2,mā,mā,,part.,2,2, sence of lemma = 2,5,7,11
+12,12,2,yellow_back,19,3,dhātu,dhātu,,iic.,4,5,,5,9,23
+13,13,2,lawngreen_back,23,3,nilaya,nilaya,,m. sg. voc.,6,6,,9,15,29
+14,14,3,carmin_back,6,2,ānameva,ā-nam,,opt. [1] ac. du. 1,7,7,,2,9,13
+15,15,3,cyan_back,19,3,dhātu,dhātu,,n. sg. acc.,4,5,,5,9,23
+16,16,3,cyan_back,19,3,dhātu,dhātu,,n. sg. nom.,4,5,,5,9,23
+17,17,3,lawngreen_back,23,3,nilaya,nilaya,,n. sg. voc.,6,6,,9,15,29
+18,18,4,carmin_back,6,2,ānama,ā-nam,,imp. [1] ac. sg. 2,5,5,,2,7,11
+19,19,4,cyan_back,19,3,dhā,dhā,,m. sg. i.,2,3, sence of lemma = 3,5,7,21
+20,20,4,cyan_back,19,3,dhā,dhā,,f. sg. nom.,2,3, sence of lemma = 3,5,7,21
+21,21,4,mauve_back,21,3,tu,tu,,conj.,2,2,,7,9,23
+22,22,5,deep_sky_back,6,2,ānam,āna,,m. sg. acc.,4,4,,2,6,10
+23,23,5,deep_sky_back,6,2,ānam,āna,,n. sg. acc.,4,4,,2,6,10
+24,24,5,deep_sky_back,6,2,ānam,āna,,n. sg. nom.,4,4,,2,6,10
+25,25,5,mauve_back,10,2,eva,eva,,prep.,3,3,,6,9,13
+26,26,6,carmin_back,6,2,ānam,an,,impft. [2] ac. sg. 1,4,4, sence of lemma = 2,2,6,10
+27,27,7,carmin_back,6,2,āna,an,,pft. ac. pl. 2,3,3, sence of lemma = 2,2,5,9
+28,28,7,carmin_back,6,2,āna,an,,pft. ac. sg. 3,3,3, sence of lemma = 2,2,5,9
+29,29,7,carmin_back,6,2,āna,an,,pft. ac. sg. 1,3,3, sence of lemma = 2,2,5,9
+30,30,7,light_blue_back,9,2,mā,asmad,,m. sg. acc.,2,2,,5,7,11

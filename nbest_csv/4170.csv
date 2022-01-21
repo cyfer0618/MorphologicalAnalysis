@@ -1,0 +1,34 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,yellow_back,0,1,tat,tad,,iic.,3,3,,0,3,3
+1,1,1,yellow_back,3,1,rakṣaṇa,rakṣaṇa,,iic.,7,7,,3,10,10
+2,2,1,deep_sky_back,10,1,bhāraḥ,bhāra,,m. sg. nom.,5,6,,10,15,15
+3,3,1,deep_sky_back,16,2,aṃśumataḥ,aṃśumat,,m. pl. acc.,9,9,,0,9,25
+4,4,1,deep_sky_back,16,2,aṃśumataḥ,aṃśumat,,m. sg. g.,9,9,,0,9,25
+5,5,1,deep_sky_back,16,2,aṃśumataḥ,aṃśumat,,m. sg. abl.,9,9,,0,9,25
+6,6,1,deep_sky_back,16,2,aṃśumataḥ,aṃśumat,,n. sg. g.,9,9,,0,9,25
+7,7,1,deep_sky_back,16,2,aṃśumataḥ,aṃśumat,,n. sg. abl.,9,9,,0,9,25
+8,8,1,deep_sky_back,26,3,pautre,pautra,,m. sg. loc.,5,6,,0,5,31
+9,9,1,deep_sky_back,26,3,pautre,pautra,,n. du. acc.,5,6,,0,5,31
+10,10,1,deep_sky_back,26,3,pautre,pautra,,n. du. nom.,5,6,,0,5,31
+11,11,1,deep_sky_back,26,3,pautre,pautra,,n. sg. loc.,5,6,,0,5,31
+12,12,1,deep_sky_back,32,4,nikṣiptaḥ,ni-kṣipta,,m. sg. nom.,9,9,{ pp. }[ni-kṣip,0,9,41
+13,13,1,carmin_back,42,5,āsīt,ās,,inj. [5] ac. sg. 3,4,4, sence of lemma = 2,0,4,46
+14,14,1,carmin_back,42,5,āsīt,ās,,aor. [5] ac. sg. 3,4,4, sence of lemma = 2,0,4,46
+15,15,1,carmin_back,42,5,āsīt,as,,impft. [2] ac. sg. 3,4,4, sence of lemma = 1,0,4,46
+16,16,2,light_blue_back,0,1,tat,tad,,n. sg. acc.,3,3,,0,3,3
+17,17,2,light_blue_back,0,1,tat,tad,,n. sg. nom.,3,3,,0,3,3
+18,18,2,yellow_back,10,1,bhā,bhā,,iic.,2,3, sence of lemma = 2,10,12,12
+19,19,2,cyan_back,12,1,raḥ,rā,,m. pl. acc.,3,3, sence of lemma = 2,12,15,15
+20,20,2,cyan_back,12,1,raḥ,rā,,m. sg. g.,3,3, sence of lemma = 2,12,15,15
+21,21,2,cyan_back,12,1,raḥ,rā,,m. sg. abl.,3,3, sence of lemma = 2,12,15,15
+22,22,2,deep_sky_back,16,2,aṃśum,aṃśu,,m. sg. acc.,5,5,,0,5,21
+23,23,2,mauve_back,21,2,ataḥ,atas,,ind.,4,4,,5,9,25
+24,24,2,lawngreen_back,26,3,pautre,pautra,,n. du. voc.,5,6,,0,5,31
+25,25,3,deep_sky_back,10,1,bhā,bhā,,f. sg. nom.,2,3, sence of lemma = 2,10,12,12
+26,26,3,yellow_back,16,2,aṃśu,aṃśu,,iic.,4,4,,0,4,20
+27,27,3,deep_sky_back,20,2,mataḥ,mata,,m. sg. nom.,5,5,{ pp. }[man,4,9,25
+28,28,4,cyan_back,10,1,bhā,bha,,f. sg. nom.,2,3,,10,12,12
+29,29,5,yellow_back,10,1,bha,bha,,iic.,2,3,,10,12,12
+30,30,6,deep_sky_back,11,1,araḥ,ara,,m. sg. nom.,4,4,,11,15,15
+31,31,7,deep_sky_back,11,1,āraḥ,āra,,m. sg. nom.,4,4,,11,15,15
+32,32,8,carmin_back,11,1,āraḥ,ṛ,,aor. [2] ac. sg. 2,4,4,,11,15,15

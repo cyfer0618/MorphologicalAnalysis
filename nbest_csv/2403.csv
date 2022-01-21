@@ -1,0 +1,28 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,yellow_back,0,1,rāma,rāma,,iic.,4,4,,0,4,4
+1,1,1,deep_sky_back,4,1,lakṣmaṇau,lakṣmaṇa,,m. du. acc.,8,9,,4,12,12
+2,2,1,deep_sky_back,4,1,lakṣmaṇau,lakṣmaṇa,,m. du. nom.,8,9,,4,12,12
+3,3,1,mauve_back,13,1,api,api,,conj.,3,3,,13,16,16
+4,4,1,mauve_back,13,1,api,api,,prep.,3,3,,13,16,16
+5,5,1,yellow_back,17,2,yajña,yajña,,iic.,5,5,,0,5,22
+6,6,1,yellow_back,22,2,rakṣaṇa,rakṣaṇa,,iic.,7,7,,5,12,29
+7,7,1,deep_sky_back,34,3,sannaddhau,sam-naddha,,m. du. acc.,8,10,{ pp. }[sam-nah,0,8,42
+8,8,1,deep_sky_back,34,3,sannaddhau,sam-naddha,,m. du. nom.,8,10,{ pp. }[sam-nah,0,8,42
+9,9,1,carmin_back,43,4,āstām,ās,,imp. [2] md. sg. 3,5,5, sence of lemma = 2,0,5,48
+10,10,1,carmin_back,43,4,āstām,as,,impft. [2] ac. du. 3,5,5, sence of lemma = 1,0,5,48
+11,11,2,carmin_back,0,1,rāma,rā,,imp. [2] ac. pl. 1,4,4, sence of lemma = 1,0,4,4
+12,12,2,cyan_back,22,2,rakṣaṇā,rakṣaṇa,,f. sg. nom.,7,7,,5,12,29
+13,13,2,lawngreen_back,34,3,sannaddhau,sam-naddha,,m. du. voc.,8,10,{ pp. }[sam-nah,0,8,42
+14,14,3,deep_sky_back,28,2,artham,artha,,m. sg. acc.,5,6,,11,16,33
+15,15,3,deep_sky_back,34,3,sat,sat,,n. sg. acc.,3,3,{ ppr. [2,0,3,37
+16,16,3,deep_sky_back,34,3,sat,sat,,n. sg. nom.,3,3,{ ppr. [2,0,3,37
+17,17,3,deep_sky_back,37,3,naddhau,naddha,,m. du. acc.,5,7,{ pp. }[nah,3,8,42
+18,18,3,deep_sky_back,37,3,naddhau,naddha,,m. du. nom.,5,7,{ pp. }[nah,3,8,42
+19,19,4,deep_sky_back,28,2,ārtham,ārtha,,m. sg. acc.,5,6,,11,16,33
+20,20,4,deep_sky_back,28,2,ārtham,ārtha,,n. sg. acc.,5,6,,11,16,33
+21,21,4,deep_sky_back,28,2,ārtham,ārtha,,n. sg. nom.,5,6,,11,16,33
+22,22,4,deep_sky_back,34,3,san,sat,,m. sg. nom.,3,3,{ ppr. [2,0,3,37
+23,23,4,lawngreen_back,37,3,naddhau,naddha,,m. du. voc.,5,7,{ pp. }[nah,3,8,42
+24,24,5,cyan_back,28,2,artham,artha,,n. sg. acc.,5,6,,11,16,33
+25,25,5,cyan_back,28,2,artham,artha,,n. sg. nom.,5,6,,11,16,33
+26,26,5,yellow_back,34,3,sat,sat,,iic.,3,3,{ ppr. [2,0,3,37

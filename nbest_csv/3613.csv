@@ -1,0 +1,31 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,mauve_back,0,1,atha,atha,,conj.,3,4,,0,3,3
+1,1,1,yellow_back,4,2,gaṅga,gaṅga,,iic.,5,5,,0,5,9
+2,2,1,deep_sky_back,9,2,divyāḥ,divya,,m. pl. nom.,6,6,,5,11,15
+3,3,1,deep_sky_back,9,2,divyāḥ,divya,,f. pl. acc.,6,6,,5,11,15
+4,4,1,deep_sky_back,9,2,divyāḥ,divya,,f. pl. nom.,6,6,,5,11,15
+5,5,1,deep_sky_back,16,3,kārttikeyasya,kārttikeya,,m. sg. g.,13,13,,0,13,29
+6,6,1,mauve_back,30,4,ca,ca,,conj.,2,2,,0,2,32
+7,7,1,deep_sky_back,33,5,vṛttāntam,vṛttānta,,m. sg. acc.,9,9,,0,9,42
+8,8,1,carmin_back,43,6,kathayāmi,kath,,pr. [10] ac. sg. 1,8,9,,0,8,51
+9,9,2,yellow_back,4,2,gaṅgā,gaṅgā,,iic.,5,5,,0,5,9
+10,10,2,cyan_back,9,2,divyāḥ,divi,,f. sg. g.,6,6,,5,11,15
+11,11,2,cyan_back,9,2,divyāḥ,divi,,f. sg. abl.,6,6,,5,11,15
+12,12,2,deep_sky_back,16,3,kārttike,kārttika,,m. sg. loc.,8,8,,0,8,24
+13,13,2,light_blue_back,24,3,yasya,yad,,n. sg. g.,5,5,,8,13,29
+14,14,2,light_blue_back,24,3,yasya,yad,,m. sg. g.,5,5,,8,13,29
+15,15,2,deep_sky_back,33,5,vṛttām,vṛtta,,f. sg. acc.,6,6,{ pp. }[vṛt_1,0,6,39
+16,16,2,light_blue_back,39,5,tam,tad,,m. sg. acc.,3,3,,6,9,42
+17,17,3,deep_sky_back,4,2,gaṅgā,gaṅgā,,f. sg. nom.,5,5,,0,5,9
+18,18,3,lawngreen_back,9,2,divyāḥ,divya,,m. pl. voc.,6,6,,5,11,15
+19,19,3,lawngreen_back,9,2,divyāḥ,divya,,f. pl. voc.,6,6,,5,11,15
+20,20,3,carmin_back,24,3,yasya,yas,,imp. [4] ac. sg. 2,5,5,,8,13,29
+21,21,3,deep_sky_back,33,5,vṛttā,vṛtta,,f. sg. nom.,5,5,{ pp. }[vṛt_1,0,5,38
+22,22,4,yellow_back,8,2,a,a,,iic.,1,1,,4,5,9
+23,23,4,yellow_back,33,5,vṛtta,vṛtta,,iic.,5,5,{ pp. }[vṛt_1,0,5,38
+24,24,5,deep_sky_back,37,5,āntam,ānta,,n. sg. acc.,5,5,{ pp. }[am,4,9,42
+25,25,5,deep_sky_back,37,5,āntam,ānta,,n. sg. nom.,5,5,{ pp. }[am,4,9,42
+26,26,5,deep_sky_back,37,5,āntam,ānta,,m. sg. acc.,5,5,{ pp. }[am,4,9,42
+27,27,6,deep_sky_back,37,5,antam,anta,,m. sg. acc.,5,5,,4,9,42
+28,28,7,cyan_back,37,5,antam,anta,,n. sg. acc.,5,5,,4,9,42
+29,29,7,cyan_back,37,5,antam,anta,,n. sg. nom.,5,5,,4,9,42

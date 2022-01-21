@@ -1,0 +1,36 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,mauve_back,0,1,param,param,,adv.,5,5,,0,5,5
+1,1,1,mauve_back,0,1,param,param,,ind.,5,5,,0,5,5
+2,2,1,mauve_back,5,1,tu,tu,,ind.,2,2,,5,7,7
+3,3,1,light_blue_back,8,2,tat,tad,,n. sg. acc.,3,3,,0,3,11
+4,4,1,light_blue_back,8,2,tat,tad,,n. sg. nom.,3,3,,0,3,11
+5,5,1,deep_sky_back,12,3,tejaḥ,tejas,,n. sg. acc.,5,5,,0,5,17
+6,6,1,deep_sky_back,12,3,tejaḥ,tejas,,n. sg. nom.,5,5,,0,5,17
+7,7,1,deep_sky_back,12,3,tejaḥ,teja,,m. sg. nom.,5,5,,0,5,17
+8,8,1,carmin_back,18,4,dattam,dā,,imp. [3] ac. du. 2,6,6, sence of lemma = 1,0,6,24
+9,9,1,light_blue_back,25,5,sā,tad,,f. sg. nom.,2,2,,0,2,27
+10,10,1,deep_sky_back,30,6,akṣamā,akṣama,,f. sg. nom.,6,6,,0,6,36
+11,11,1,carmin_back,37,7,āsīt,ās,,inj. [5] ac. sg. 3,4,4, sence of lemma = 2,0,4,41
+12,12,1,carmin_back,37,7,āsīt,ās,,aor. [5] ac. sg. 3,4,4, sence of lemma = 2,0,4,41
+13,13,1,carmin_back,37,7,āsīt,as,,impft. [2] ac. sg. 3,4,4, sence of lemma = 1,0,4,41
+14,14,2,deep_sky_back,0,1,param,para,,m. sg. acc.,5,5,,0,5,5
+15,15,2,deep_sky_back,0,1,param,para,,n. sg. acc.,5,5,,0,5,5
+16,16,2,deep_sky_back,0,1,param,para,,n. sg. nom.,5,5,,0,5,5
+17,17,2,lawngreen_back,12,3,tejaḥ,tejas,,n. sg. voc.,5,5,,0,5,17
+18,18,2,deep_sky_back,18,4,dattam,datta,,n. sg. acc.,6,6,{ pp. }[dā_1,0,6,24
+19,19,2,deep_sky_back,18,4,dattam,datta,,n. sg. nom.,6,6,{ pp. }[dā_1,0,6,24
+20,20,2,deep_sky_back,18,4,dattam,datta,,m. sg. acc.,6,6,{ pp. }[dā_1,0,6,24
+21,21,2,pink_back,25,5,sa,sa,,iic.,2,2, sence of lemma = 1,0,2,27
+22,22,2,carmin_back,30,6,akṣa,akṣ,,imp. [1] ac. sg. 2,4,4,,0,4,34
+23,23,2,mauve_back,34,6,mā,mā,,ind.,2,2, sence of lemma = 2,4,6,36
+24,24,3,deep_sky_back,26,5,āpi,āpī,,n. sg. acc.,3,3,,1,4,29
+25,25,3,deep_sky_back,26,5,āpi,āpī,,n. sg. nom.,3,3,,1,4,29
+26,26,3,yellow_back,30,6,a,a,,iic.,1,1,,0,1,31
+27,27,3,deep_sky_back,31,6,kṣamā,kṣamā,,f. sg. nom.,5,5,,1,6,36
+28,28,3,deep_sky_back,31,6,kṣamā,kṣama,,f. sg. nom.,5,5,,1,6,36
+29,29,4,lawngreen_back,26,5,āpi,āpī,,m. sg. voc.,3,3,,1,4,29
+30,30,4,lawngreen_back,26,5,āpi,āpī,,n. sg. voc.,3,3,,1,4,29
+31,31,4,lawngreen_back,26,5,āpi,āpī,,f. sg. voc.,3,3,,1,4,29
+32,32,4,light_blue_back,34,6,mā,asmad,,m. sg. acc.,2,2,,4,6,36
+33,33,5,mauve_back,26,5,api,api,,ind.,3,3,,1,4,29
+34,34,6,mauve_back,26,5,āpi,āpī,,ind.,3,3,,1,4,29

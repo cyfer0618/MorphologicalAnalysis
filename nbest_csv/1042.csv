@@ -1,0 +1,74 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,yellow_back,0,1,antaḥpura,antaḥpura,,iic.,9,9,,0,9,9
+1,1,1,yellow_back,9,1,parivāra,parivāra,,iic.,8,8,,9,17,17
+2,2,1,deep_sky_back,17,1,matī,mati,,f. du. acc.,4,4,,17,21,21
+3,3,1,deep_sky_back,17,1,matī,mati,,f. du. nom.,4,4,,17,21,21
+4,4,1,deep_sky_back,22,2,satkāraiḥ,satkāra,,m. pl. i.,8,9,,0,8,30
+5,5,1,grey_back,31,3,bibhrāntam,bibhrāntam,,?,9,10,,0,9,40
+6,6,1,carmin_back,41,4,cakāra,kṛ,,pft. ac. sg. 3,6,6, sence of lemma = 1,0,6,47
+7,7,1,carmin_back,41,4,cakāra,kṛ,,pft. ac. sg. 1,6,6, sence of lemma = 1,0,6,47
+8,8,1,carmin_back,41,4,cakāra,kṝ,,pft. ac. sg. 3,6,6,,0,6,47
+9,9,1,carmin_back,41,4,cakāra,kṝ,,pft. ac. sg. 1,6,6,,0,6,47
+10,10,2,mauve_back,0,1,antaḥ,antar,,adv.,5,5,,0,5,5
+11,11,2,mauve_back,0,1,antaḥ,antar,,prep.,5,5,,0,5,5
+12,12,2,yellow_back,5,1,pura,pura,,iic.,4,4,,5,9,9
+13,13,2,yellow_back,9,1,pa,pa,,iic.,2,2, sence of lemma = 1,9,11,11
+14,14,2,yellow_back,9,1,pa,pa,,iic.,2,2, sence of lemma = 2,9,11,11
+15,15,2,cyan_back,11,1,ri,rā,,m. sg. loc.,2,2, sence of lemma = 2,11,13,13
+16,16,2,yellow_back,13,1,vāra,vāra,,iic.,4,4,,13,17,17
+17,17,2,cyan_back,17,1,matī,mati,,m. du. acc.,4,4,,17,21,21
+18,18,2,cyan_back,17,1,matī,mati,,m. du. nom.,4,4,,17,21,21
+19,19,2,deep_sky_back,22,2,sat,sat,,n. sg. acc.,3,3,{ ppr. [2,0,3,25
+20,20,2,deep_sky_back,22,2,sat,sat,,n. sg. nom.,3,3,{ ppr. [2,0,3,25
+21,21,2,cyan_back,25,2,kāraiḥ,kāra,,m. pl. i.,5,6,,3,8,30
+22,22,2,cyan_back,25,2,kāraiḥ,kāra,,n. pl. i.,5,6,,3,8,30
+23,23,2,cyan_back,25,2,kāraiḥ,kārā,,m. pl. i.,5,6,,3,8,30
+24,24,2,cyan_back,25,2,kāraiḥ,kārā,,n. pl. i.,5,6,,3,8,30
+25,25,2,lawngreen_back,41,4,cakāra,cakāra,,m. sg. voc.,6,6,,0,6,47
+26,26,3,yellow_back,0,1,antaḥ,antar,,iic.,5,5,,0,5,5
+27,27,3,yellow_back,13,1,vāḥ,vār,,iic.,3,3,,13,16,16
+28,28,3,deep_sky_back,16,1,amatī,amat,,n. du. acc.,5,5,{ ppr. [1,16,21,21
+29,29,3,deep_sky_back,16,1,amatī,amat,,n. du. nom.,5,5,{ ppr. [1,16,21,21
+30,30,3,yellow_back,22,2,sat,sat,,iic.,3,3,{ ppr. [2,0,3,25
+31,31,3,deep_sky_back,25,2,kārā,kārā,,f. sg. nom.,4,4,,3,7,29
+32,32,3,mauve_back,41,4,ca,ca,,conj.,2,2,,0,2,43
+33,33,3,lawngreen_back,43,4,kāra,kāra,,m. sg. voc.,4,4,{ act. }[kṛ_1,2,6,47
+34,34,4,deep_sky_back,0,1,antaḥ,anta,,m. sg. nom.,5,5,,0,5,5
+35,35,4,deep_sky_back,13,1,vāḥ,vār,,n. sg. acc.,3,3,,13,16,16
+36,36,4,deep_sky_back,13,1,vāḥ,vār,,n. sg. nom.,3,3,,13,16,16
+37,37,4,lawngreen_back,16,1,amatī,amat,,n. du. voc.,5,5,{ ppr. [1,16,21,21
+38,38,4,light_blue_back,25,2,kā,kim,,f. sg. nom.,2,2,,3,5,27
+39,39,4,carmin_back,28,2,aiḥ,i,,impft. [2] ac. sg. 2,2,3,,6,8,30
+40,40,4,light_blue_back,43,4,kā,kim,,f. sg. nom.,2,2,,2,4,45
+41,41,5,mauve_back,13,1,vā,vā,,conj.,2,2, sence of lemma = 1,13,15,15
+42,42,5,deep_sky_back,15,1,ramatī,ramat,,n. du. acc.,6,6,{ ppr. [1,15,21,21
+43,43,5,deep_sky_back,15,1,ramatī,ramat,,n. du. nom.,6,6,{ ppr. [1,15,21,21
+44,44,5,deep_sky_back,26,2,araiḥ,ara,,m. pl. i.,4,5,,4,8,30
+45,45,5,deep_sky_back,26,2,araiḥ,ara,,n. pl. i.,4,5,,4,8,30
+46,46,5,lawngreen_back,44,4,ara,ara,,m. sg. voc.,3,3,,3,6,47
+47,47,5,lawngreen_back,44,4,ara,ara,,n. sg. voc.,3,3,,3,6,47
+48,48,6,deep_sky_back,14,1,āramatī,ā-ramat,,n. du. acc.,7,7,{ ppr. [1,14,21,21
+49,49,6,deep_sky_back,14,1,āramatī,ā-ramat,,n. du. nom.,7,7,{ ppr. [1,14,21,21
+50,50,6,deep_sky_back,26,2,āraiḥ,āra,,n. pl. i.,4,5,,4,8,30
+51,51,6,deep_sky_back,26,2,āraiḥ,āra,,m. pl. i.,4,5,,4,8,30
+52,52,6,lawngreen_back,44,4,āra,āra,,n. sg. voc.,3,3,,3,6,47
+53,53,6,lawngreen_back,44,4,āra,āra,,m. sg. voc.,3,3,,3,6,47
+54,54,7,lawngreen_back,14,1,āramatī,ā-ramat,,n. du. voc.,7,7,{ ppr. [1,14,21,21
+55,55,7,deep_sky_back,26,2,arā,ara,,f. sg. nom.,3,3,,4,7,29
+56,56,7,carmin_back,44,4,ara,ṛ,,pft. ac. pl. 2,3,3,,3,6,47
+57,57,7,carmin_back,44,4,ara,ṛ,,pft. ac. sg. 3,3,3,,3,6,47
+58,58,7,carmin_back,44,4,ara,ṛ,,pft. ac. sg. 1,3,3,,3,6,47
+59,59,8,yellow_back,14,1,ara,ara,,iic.,3,3,,14,17,17
+60,60,8,lawngreen_back,17,1,matī,mati,,f. du. voc.,4,4,,17,21,21
+61,61,8,deep_sky_back,26,2,ārā,āra,,f. sg. nom.,3,3,,4,7,29
+62,62,9,yellow_back,14,1,āra,āra,,iic.,3,3,,14,17,17
+63,63,9,lawngreen_back,17,1,matī,mati,,m. du. voc.,4,4,,17,21,21
+64,64,9,carmin_back,26,2,ara,ṛ,,pft. ac. pl. 2,3,3,,4,7,29
+65,65,9,carmin_back,26,2,ara,ṛ,,pft. ac. sg. 3,3,3,,4,7,29
+66,66,9,carmin_back,26,2,ara,ṛ,,pft. ac. sg. 1,3,3,,4,7,29
+67,67,10,carmin_back,14,1,ara,ṛ,,pft. ac. pl. 2,3,3,,14,17,17
+68,68,10,carmin_back,14,1,ara,ṛ,,pft. ac. sg. 3,3,3,,14,17,17
+69,69,10,carmin_back,14,1,ara,ṛ,,pft. ac. sg. 1,3,3,,14,17,17
+70,70,11,yellow_back,14,1,a,a,,iic.,1,1,,14,15,15
+71,71,11,lawngreen_back,15,1,ramatī,ramat,,n. du. voc.,6,6,{ ppr. [1,15,21,21
+72,72,12,yellow_back,16,1,a,a,,iic.,1,1,,16,17,17

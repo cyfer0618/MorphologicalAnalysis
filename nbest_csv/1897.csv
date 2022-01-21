@@ -1,0 +1,36 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,yellow_back,0,1,sunda,sunda,,iic.,5,5,,0,5,5
+1,1,1,deep_sky_back,13,2,bhrātarau,bhrātṛ,,m. du. acc.,7,9,,0,7,20
+2,2,1,deep_sky_back,13,2,bhrātarau,bhrātṛ,,m. du. nom.,7,9,,0,7,20
+3,3,1,deep_sky_back,21,3,nityam,nitya,,m. sg. acc.,6,6,,0,6,27
+4,4,1,deep_sky_back,21,3,nityam,nitya,,n. sg. acc.,6,6,,0,6,27
+5,5,1,deep_sky_back,21,3,nityam,nitya,,n. sg. nom.,6,6,,0,6,27
+6,6,1,deep_sky_back,28,4,brāhmaṇān,brāhmaṇa,,m. pl. acc.,9,9,,0,9,37
+7,7,1,yellow_back,38,5,mahā,mahat,,iic.,4,4,,0,4,42
+8,8,1,deep_sky_back,42,5,ṛṣī,ṛṣi,,m. du. acc.,3,3,,4,7,45
+9,9,1,deep_sky_back,42,5,ṛṣī,ṛṣi,,m. du. nom.,3,3,,4,7,45
+10,10,1,grey_back,46,6,ṣyapīḍayantau,ṣyapīḍayantau,,?,12,13,,0,12,58
+11,11,1,carmin_back,59,7,āstām,ās,,imp. [2] md. sg. 3,5,5, sence of lemma = 2,0,5,64
+12,12,1,carmin_back,59,7,āstām,as,,impft. [2] ac. du. 3,5,5, sence of lemma = 1,0,5,64
+13,13,1,deep_sky_back,65,8,agastyaḥ,agasti,,m. sg. nom.,8,8,,0,8,73
+14,14,1,deep_sky_back,74,9,duṣṭam,duṣṭa,,n. sg. acc.,6,6,{ pp. }[duṣ,0,6,80
+15,15,1,deep_sky_back,74,9,duṣṭam,duṣṭa,,n. sg. nom.,6,6,{ pp. }[duṣ,0,6,80
+16,16,1,deep_sky_back,74,9,duṣṭam,duṣṭa,,m. sg. acc.,6,6,{ pp. }[duṣ,0,6,80
+17,17,1,deep_sky_back,81,10,sundam,sunda,,m. sg. acc.,6,6,,0,6,87
+18,18,1,deep_sky_back,88,11,hatavān,hatavat,,m. sg. nom.,7,7,{ ppa. }[han_1,0,7,95
+19,19,2,deep_sky_back,4,1,upasundau,upasunda,,m. du. acc.,8,9,,4,12,12
+20,20,2,deep_sky_back,4,1,upasundau,upasunda,,m. du. nom.,8,9,,4,12,12
+21,21,2,lawngreen_back,13,2,bhrātarau,bhrātṛ,,m. du. voc.,7,9,,0,7,20
+22,22,2,carmin_back,38,5,maha,mah,,imp. [1] ac. sg. 2,4,4,,0,4,42
+23,23,2,cyan_back,42,5,ṛṣī,ṛṣi,,f. du. acc.,3,3,,4,7,45
+24,24,2,cyan_back,42,5,ṛṣī,ṛṣi,,f. du. nom.,3,3,,4,7,45
+25,25,2,carmin_back,88,11,hata,han,,imp. [2] ac. pl. 2,4,4, sence of lemma = 1,0,4,92
+26,26,2,deep_sky_back,92,11,vān,vāt,,m. sg. nom.,3,3,{ ppr. [2,4,7,95
+27,27,3,lawngreen_back,4,1,upasundau,upasunda,,m. du. voc.,8,9,,4,12,12
+28,28,3,lawngreen_back,42,5,ṛṣī,ṛṣi,,m. du. voc.,3,3,,4,7,45
+29,29,3,yellow_back,88,11,hata,hata,,iic.,4,4,{ pp. }[han_1,0,4,92
+30,30,3,lawngreen_back,92,11,vān,vāt,,m. sg. voc.,3,3,{ ppr. [2,4,7,95
+31,31,4,lawngreen_back,42,5,ṛṣī,ṛṣi,,f. du. voc.,3,3,,4,7,45
+32,32,4,mauve_back,88,11,ha,ha,,part.,2,2,,0,2,90
+33,33,4,deep_sky_back,90,11,tavān,tavas,,m. sg. nom.,5,5,,2,7,95
+34,34,5,cyan_back,92,11,vān,vas,,m. sg. nom.,3,3, sence of lemma = 3,4,7,95

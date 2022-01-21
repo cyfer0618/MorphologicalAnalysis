@@ -1,0 +1,25 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,mauve_back,0,1,kiyat,kiyat,,ind.,5,5,,0,5,5
+1,1,1,mauve_back,5,1,api,api,,conj.,3,3,,5,8,8
+2,2,1,mauve_back,5,1,api,api,,prep.,3,3,,5,8,8
+3,3,1,deep_sky_back,9,2,aiśvaryam,aiśvarya,,n. sg. acc.,8,9,,0,8,17
+4,4,1,deep_sky_back,9,2,aiśvaryam,aiśvarya,,n. sg. nom.,8,9,,0,8,17
+5,5,1,carmin_back,17,2,astu,as,,imp. [2] ac. sg. 3,4,4, sence of lemma = 1,8,12,21
+6,6,1,mauve_back,22,3,nāma,nāma,,prep.,4,4,,0,4,26
+7,7,2,deep_sky_back,0,1,kiyat,kiyat,,n. sg. acc.,5,5,,0,5,5
+8,8,2,deep_sky_back,0,1,kiyat,kiyat,,n. sg. nom.,5,5,,0,5,5
+9,9,2,yellow_back,9,2,aiśvarya,aiśvarya,,iic.,7,8,,0,7,16
+10,10,2,cyan_back,16,2,mastu,mastu,,n. sg. acc.,5,5,,7,12,21
+11,11,2,cyan_back,16,2,mastu,mastu,,n. sg. nom.,5,5,,7,12,21
+12,12,2,deep_sky_back,22,3,nāma,nāman,,n. sg. acc.,4,4,,0,4,26
+13,13,2,deep_sky_back,22,3,nāma,nāman,,n. sg. nom.,4,4,,0,4,26
+14,14,3,lawngreen_back,16,2,mastu,mastu,,n. sg. voc.,5,5,,7,12,21
+15,15,3,lawngreen_back,22,3,nāma,nāman,,n. sg. voc.,4,4,,0,4,26
+16,16,4,mauve_back,22,3,na,na,,part.,2,2,,0,2,24
+17,17,5,deep_sky_back,22,3,nā,nṛ,,m. sg. nom.,2,2,,0,2,24
+18,18,6,carmin_back,23,3,ama,am,,imp. [1] ac. sg. 2,3,3,,1,4,26
+19,19,7,carmin_back,23,3,āma,am,,pft. ac. pl. 2,3,3,,1,4,26
+20,20,7,carmin_back,23,3,āma,am,,pft. ac. sg. 3,3,3,,1,4,26
+21,21,7,carmin_back,23,3,āma,am,,pft. ac. sg. 1,3,3,,1,4,26
+22,22,8,lawngreen_back,23,3,āma,āma,,m. sg. voc.,3,3,,1,4,26
+23,23,8,lawngreen_back,23,3,āma,āma,,n. sg. voc.,3,3,,1,4,26

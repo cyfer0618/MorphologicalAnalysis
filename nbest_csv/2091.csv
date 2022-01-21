@@ -1,0 +1,51 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,yellow_back,0,1,adharma,adharma,,iic.,6,7,,0,6,6
+1,1,1,deep_sky_back,6,1,parāṇām,parāṇa,,f. sg. acc.,7,7,,6,13,13
+2,2,1,yellow_back,14,2,nādi,nādin,,iic.,4,4,,0,4,18
+3,3,1,deep_sky_back,22,3,vadhe,vadha,,m. sg. loc.,4,5,,0,4,26
+4,4,1,deep_sky_back,22,3,vadhe,vadha,,n. du. acc.,4,5,,0,4,26
+5,5,1,deep_sky_back,22,3,vadhe,vadha,,n. du. nom.,4,5,,0,4,26
+6,6,1,deep_sky_back,22,3,vadhe,vadha,,n. sg. loc.,4,5,,0,4,26
+7,7,1,deep_sky_back,22,3,vadhe,vadha,,f. du. acc.,4,5,,0,4,26
+8,8,1,deep_sky_back,22,3,vadhe,vadha,,f. du. nom.,4,5,,0,4,26
+9,9,1,deep_sky_back,27,4,doṣā,doṣā,,f. sg. nom.,4,4,,0,4,31
+10,10,1,deep_sky_back,27,4,doṣā,dos,,n. sg. i.,4,4,,0,4,31
+11,11,1,mauve_back,32,5,na,na,,part.,2,2,,0,2,34
+12,12,2,yellow_back,0,1,a,a,,iic.,1,1,,0,1,1
+13,13,2,yellow_back,1,1,dharma,dharma,,iic.,5,6,,1,6,6
+14,14,2,yellow_back,6,1,pa,pa,,iic.,2,2, sence of lemma = 1,6,8,8
+15,15,2,yellow_back,6,1,pa,pa,,iic.,2,2, sence of lemma = 2,6,8,8
+16,16,2,deep_sky_back,8,1,rāṇām,rāṇā,,m. pl. g.,5,5,,8,13,13
+17,17,2,deep_sky_back,8,1,rāṇām,rāṇā,,m. sg. acc.,5,5,,8,13,13
+18,18,2,deep_sky_back,14,2,nādi,nādin,,n. sg. acc.,4,4,,0,4,18
+19,19,2,deep_sky_back,14,2,nādi,nādin,,n. sg. nom.,4,4,,0,4,18
+20,20,2,lawngreen_back,22,3,vadhe,vadha,,n. du. voc.,4,5,,0,4,26
+21,21,2,lawngreen_back,22,3,vadhe,vadha,,f. du. voc.,4,5,,0,4,26
+22,22,2,lawngreen_back,22,3,vadhe,vadha,,f. sg. voc.,4,5,,0,4,26
+23,23,2,lawngreen_back,30,4,u,u,,ind.,1,1,,3,4,31
+24,24,2,deep_sky_back,32,5,nā,nṛ,,m. sg. nom.,2,2,,0,2,34
+25,25,3,deep_sky_back,1,1,dharma,dharman,,n. sg. acc.,5,6,,1,6,6
+26,26,3,deep_sky_back,1,1,dharma,dharman,,n. sg. nom.,5,6,,1,6,6
+27,27,3,cyan_back,8,1,rāṇām,rā,,f. pl. g.,5,5, sence of lemma = 2,8,13,13
+28,28,3,deep_sky_back,14,2,nādī,nādin,,m. sg. nom.,4,4,,0,4,18
+29,29,3,carmin_back,33,5,asti,as,,pr. [2] ac. sg. 3,4,4, sence of lemma = 1,1,5,37
+30,30,4,mauve_back,14,2,na,na,,part.,2,2,,0,2,16
+31,31,4,deep_sky_back,16,2,dīnām,dīna,,f. sg. acc.,5,5,,2,7,21
+32,32,5,deep_sky_back,14,2,nā,nṛ,,m. sg. nom.,2,2,,0,2,16
+33,33,5,deep_sky_back,17,2,inām,ina,,f. sg. acc.,4,4,,3,7,21
+34,34,6,deep_sky_back,15,2,adīnām,adīna,,f. sg. acc.,6,6,,1,7,21
+35,35,7,deep_sky_back,15,2,ādīnām,ādi,,m. pl. g.,6,6,,1,7,21
+36,36,7,deep_sky_back,15,2,ādīnām,ādi,,n. pl. g.,6,6,,1,7,21
+37,37,7,deep_sky_back,15,2,ādīnām,ādi,,f. pl. g.,6,6,,1,7,21
+38,38,8,yellow_back,15,2,ādi,ādi,,iic.,3,3,,1,4,18
+39,39,8,yellow_back,15,2,ādi,ādin,,iic.,3,3,,1,4,18
+40,40,9,deep_sky_back,15,2,ādi,ādi,,n. sg. acc.,3,3,,1,4,18
+41,41,9,deep_sky_back,15,2,ādi,ādi,,n. sg. nom.,3,3,,1,4,18
+42,42,9,deep_sky_back,15,2,ādi,ādin,,n. sg. acc.,3,3,,1,4,18
+43,43,9,deep_sky_back,15,2,ādi,ādin,,n. sg. nom.,3,3,,1,4,18
+44,44,10,deep_sky_back,15,2,ādī,ādi,,m. du. acc.,3,3,,1,4,18
+45,45,10,deep_sky_back,15,2,ādī,ādi,,m. du. nom.,3,3,,1,4,18
+46,46,10,deep_sky_back,15,2,ādī,ādi,,f. du. acc.,3,3,,1,4,18
+47,47,10,deep_sky_back,15,2,ādī,ādi,,f. du. nom.,3,3,,1,4,18
+48,48,10,deep_sky_back,15,2,ādī,ādin,,m. sg. nom.,3,3,,1,4,18
+49,49,11,yellow_back,15,2,a,a,,iic.,1,1,,1,2,16

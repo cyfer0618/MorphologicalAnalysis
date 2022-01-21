@@ -1,0 +1,100 @@
+,id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,subminp,maxp,endposition
+0,0,1,deep_sky_back,0,1,śayyāyām,śayyā,,f. sg. loc.,8,8,,0,8,8
+1,1,1,deep_sky_back,9,2,sukham,sukha,,m. sg. acc.,5,6,,0,5,14
+2,2,1,deep_sky_back,9,2,sukham,sukha,,n. sg. acc.,5,6,,0,5,14
+3,3,1,deep_sky_back,9,2,sukham,sukha,,n. sg. nom.,5,6,,0,5,14
+4,4,1,carmin_back,15,3,svapantu,svap,,imp. [2] ac. pl. 3,8,8,,0,8,23
+5,5,1,carmin_back,15,3,svapantu,svap,,imp. [1] ac. pl. 3,8,8,,0,8,23
+6,6,1,deep_sky_back,24,4,atyantam,atyanta,,m. sg. acc.,8,8,,0,8,32
+7,7,1,deep_sky_back,24,4,atyantam,atyanta,,n. sg. acc.,8,8,,0,8,32
+8,8,1,deep_sky_back,24,4,atyantam,atyanta,,n. sg. nom.,8,8,,0,8,32
+9,9,1,deep_sky_back,33,5,sukumārau,sukumāra,,m. du. acc.,8,9,,0,8,41
+10,10,1,deep_sky_back,33,5,sukumārau,sukumāra,,m. du. nom.,8,9,,0,8,41
+11,11,1,deep_sky_back,42,6,mugdham,mugdha,,n. sg. acc.,6,7,{ pp. }[muh,0,6,48
+12,12,1,deep_sky_back,42,6,mugdham,mugdha,,n. sg. nom.,6,7,{ pp. }[muh,0,6,48
+13,13,1,deep_sky_back,42,6,mugdham,mugdha,,m. sg. acc.,6,7,{ pp. }[muh,0,6,48
+14,14,1,deep_sky_back,48,6,ūhan,ūhat,,m. sg. nom.,4,4,{ ppr. [1,6,10,52
+15,15,1,deep_sky_back,52,6,akārau,akāra,,m. du. acc.,5,6,,10,15,57
+16,16,1,deep_sky_back,52,6,akārau,akāra,,m. du. nom.,5,6,,10,15,57
+17,17,1,yellow_back,58,7,rāma,rāma,,iic.,4,4,,0,4,62
+18,18,1,deep_sky_back,62,7,lakṣmaṇau,lakṣmaṇa,,m. du. acc.,8,9,,4,12,70
+19,19,1,deep_sky_back,62,7,lakṣmaṇau,lakṣmaṇa,,m. du. nom.,8,9,,4,12,70
+20,20,1,deep_sky_back,71,8,apaśyat,apaśyat,,n. sg. acc.,7,7,,0,7,78
+21,21,1,deep_sky_back,71,8,apaśyat,apaśyat,,n. sg. nom.,7,7,,0,7,78
+22,22,2,yellow_back,0,1,śayyā,śayyā,,iic.,5,5,,0,5,5
+23,23,2,cyan_back,5,1,yām,ya,,f. sg. acc.,3,3, sence of lemma = 2,5,8,8
+24,24,2,pink_back,9,2,su,su,,iic.,2,2, sence of lemma = 1,0,2,11
+25,25,2,mauve_back,11,2,kham,kha,,ind.,3,4,,2,5,14
+26,26,2,carmin_back,15,3,svapam,svap,,inj. [1] ac. sg. 1,6,6,,0,6,21
+27,27,2,mauve_back,21,3,tu,tu,,ind.,2,2,,6,8,23
+28,28,2,mauve_back,24,4,ati,ati,,ind.,3,3,,0,3,27
+29,29,2,deep_sky_back,27,4,antam,anta,,m. sg. acc.,5,5,,3,8,32
+30,30,2,lawngreen_back,33,5,sukumārau,sukumāra,,m. du. voc.,8,9,,0,8,41
+31,31,2,yellow_back,42,6,mugdha,mugdha,,iic.,5,6,{ pp. }[muh,0,5,47
+32,32,2,yellow_back,47,6,mohana,mohana,,iic.,6,6,,5,11,53
+33,33,2,deep_sky_back,53,6,kārau,kāri,,m. sg. loc.,4,5,,11,15,57
+34,34,2,deep_sky_back,53,6,kārau,kāri,,f. sg. loc.,4,5,,11,15,57
+35,35,2,deep_sky_back,53,6,kārau,kāru,,m. sg. loc.,4,5, sence of lemma = 1,11,15,57
+36,36,2,deep_sky_back,53,6,kārau,kāru,,f. sg. loc.,4,5, sence of lemma = 1,11,15,57
+37,37,2,deep_sky_back,53,6,kārau,kāru,,m. sg. loc.,4,5, sence of lemma = 2,11,15,57
+38,38,2,carmin_back,58,7,rāma,rā,,imp. [2] ac. pl. 1,4,4, sence of lemma = 1,0,4,62
+39,39,2,lawngreen_back,62,7,lakṣmaṇau,lakṣmaṇa,,m. du. voc.,8,9,,4,12,70
+40,40,2,carmin_back,71,8,apaśyat,paś,,impft. [4] ac. sg. 3,7,7,,0,7,78
+41,41,3,deep_sky_back,0,1,śayyā,śayyā,,f. sg. nom.,5,5,,0,5,5
+42,42,3,light_blue_back,5,1,yām,yad,,f. sg. acc.,3,3,,5,8,8
+43,43,3,yellow_back,15,3,sva,sva,,iic.,3,3,,0,3,18
+44,44,3,cyan_back,18,3,pam,pa,,m. sg. acc.,3,3, sence of lemma = 1,3,6,21
+45,45,3,cyan_back,18,3,pam,pa,,m. sg. acc.,3,3, sence of lemma = 2,3,6,21
+46,46,3,pink_back,24,4,ati,ati,,iic.,3,3,,0,3,27
+47,47,3,mauve_back,27,4,antam,anta,,ind.,5,5,,3,8,32
+48,48,3,yellow_back,42,6,muk,muc,,iic.,3,3, sence of lemma = 2,0,3,45
+49,49,3,cyan_back,45,6,dhamaḥ,dhama,,m. sg. nom.,5,6,,3,8,50
+50,50,3,yellow_back,51,6,nāka,nāka,,iic.,4,4,,9,13,55
+51,51,3,lawngreen_back,71,8,apaśyat,apaśyat,,n. sg. voc.,7,7,,0,7,78
+52,52,4,carmin_back,4,1,āyām,ā-yā,,impft. [2] ac. sg. 1,4,4, sence of lemma = 1,4,8,8
+53,53,4,pink_back,15,3,su,su,,iic.,2,2, sence of lemma = 1,0,2,17
+54,54,4,mauve_back,17,3,apam,ap,,ind.,4,4,,2,6,21
+55,55,4,deep_sky_back,42,6,muk,muc,,m. sg. nom.,3,3, sence of lemma = 2,0,3,45
+56,56,4,deep_sky_back,42,6,muk,muc,,n. sg. acc.,3,3, sence of lemma = 2,0,3,45
+57,57,4,deep_sky_back,42,6,muk,muc,,n. sg. nom.,3,3, sence of lemma = 2,0,3,45
+58,58,4,deep_sky_back,42,6,muk,muc,,f. sg. nom.,3,3, sence of lemma = 2,0,3,45
+59,59,4,cyan_back,45,6,dhamā,dhama,,f. sg. nom.,4,5,,3,7,49
+60,60,4,mauve_back,49,6,ha,ha,,ind.,2,2,,7,9,51
+61,61,4,cyan_back,51,6,nākā,nāka,,f. sg. nom.,4,4,,9,13,55
+62,62,4,yellow_back,71,8,a,a,,iic.,1,1,,0,1,72
+63,63,4,deep_sky_back,72,8,paśyat,paśyat,,n. sg. acc.,6,6,{ ppr. [4,1,7,78
+64,64,4,deep_sky_back,72,8,paśyat,paśyat,,n. sg. nom.,6,6,{ ppr. [4,1,7,78
+65,65,5,carmin_back,4,1,ayām,yā,,impft. [2] ac. sg. 1,4,4, sence of lemma = 1,4,8,8
+66,66,5,yellow_back,45,6,dhama,dhama,,iic.,4,5,,3,7,49
+67,67,5,mauve_back,51,6,na,na,,ind.,2,2,,9,11,53
+68,68,5,lawngreen_back,53,6,kārau,kāra,,m. du. voc.,4,5,{ act. }[kṛ_1,11,15,57
+69,69,5,lawngreen_back,72,8,paśyat,paśyat,,n. sg. voc.,6,6,{ ppr. [4,1,7,78
+70,70,6,carmin_back,45,6,dhama,dham,,imp. [1] ac. sg. 2,4,5,,3,7,49
+71,71,6,deep_sky_back,51,6,nā,nṛ,,m. sg. nom.,2,2,,9,11,53
+72,72,6,light_blue_back,53,6,kā,kim,,f. sg. nom.,2,2,,11,13,55
+73,73,7,deep_sky_back,47,6,mohanā,mohana,,f. sg. nom.,6,6,,5,11,53
+74,74,7,deep_sky_back,54,6,arau,ara,,m. du. acc.,3,4,,12,15,57
+75,75,7,deep_sky_back,54,6,arau,ara,,m. du. nom.,3,4,,12,15,57
+76,76,7,deep_sky_back,54,6,arau,ari,,m. sg. loc.,3,4,,12,15,57
+77,77,7,deep_sky_back,54,6,arau,ari,,f. sg. loc.,3,4,,12,15,57
+78,78,7,deep_sky_back,54,6,arau,arin,,m. sg. loc.,3,4,,12,15,57
+79,79,7,deep_sky_back,54,6,arau,aru,,m. sg. loc.,3,4,,12,15,57
+80,80,8,yellow_back,47,6,moha,moha,,iic.,4,4,,5,9,51
+81,81,8,deep_sky_back,52,6,ākārau,ākāra,,m. du. acc.,5,6, sence of lemma = 1,10,15,57
+82,82,8,deep_sky_back,52,6,ākārau,ākāra,,m. du. nom.,5,6, sence of lemma = 1,10,15,57
+83,83,8,deep_sky_back,52,6,ākārau,ākāra,,m. du. acc.,5,6, sence of lemma = 2,10,15,57
+84,84,8,deep_sky_back,52,6,ākārau,ākāra,,m. du. nom.,5,6, sence of lemma = 2,10,15,57
+85,85,9,carmin_back,48,6,oha,ā-vah,,pft. ac. pl. 2,3,3, sence of lemma = 1,6,9,51
+86,86,9,lawngreen_back,52,6,ākārau,ā-kāra,,m. du. voc.,5,6,{ act. }[ā-kṛ_1,10,15,57
+87,87,10,yellow_back,48,6,ūha,ūha,,iic.,3,3,,6,9,51
+88,88,10,lawngreen_back,52,6,akārau,akāra,,m. du. voc.,5,6,,10,15,57
+89,89,11,carmin_back,48,6,ūha,ūh,,imp. [1] ac. sg. 2,3,3,,6,9,51
+90,90,11,carmin_back,48,6,ūha,vah,,pft. ac. pl. 2,3,3, sence of lemma = 1,6,9,51
+91,91,11,lawngreen_back,52,6,ākārau,ākāra,,m. du. voc.,5,6, sence of lemma = 1,10,15,57
+92,92,11,lawngreen_back,52,6,ākārau,ākāra,,m. du. voc.,5,6, sence of lemma = 2,10,15,57
+93,93,12,yellow_back,52,6,a,a,,iic.,1,1,,10,11,53
+94,94,12,deep_sky_back,54,6,ārau,āra,,m. du. acc.,3,4,,12,15,57
+95,95,12,deep_sky_back,54,6,ārau,āra,,m. du. nom.,3,4,,12,15,57
+96,96,13,lawngreen_back,54,6,arau,ara,,m. du. voc.,3,4,,12,15,57
+97,97,14,lawngreen_back,54,6,ārau,āra,,m. du. voc.,3,4,,12,15,57
+98,98,15,cyan_back,54,6,arau,aru,,f. sg. loc.,3,4,,12,15,57
