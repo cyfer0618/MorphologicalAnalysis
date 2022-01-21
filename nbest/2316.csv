@@ -1,0 +1,50 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,kimarTam,1,1,0,kim,kim,,iic.,3,3,shr_new_nbest/new_12/217.csv
+1,1,1,0,kimarTam,1,1,3,artham,artha,,m. sg. acc.,6,8,shr_new_nbest/new_12/217.csv
+2,6,1,0,kimarTam,1,2,0,kim,kim,,n. sg. acc.,3,3,shr_new_nbest/new_12/217.csv
+3,7,1,0,kimarTam,1,2,0,kim,kim,,n. sg. nom.,3,3,shr_new_nbest/new_12/217.csv
+4,8,1,0,kimarTam,1,2,3,artham,artha,,n. sg. acc.,6,8,shr_new_nbest/new_12/217.csv
+5,9,1,0,kimarTam,1,2,3,artham,artha,,n. sg. nom.,6,8,shr_new_nbest/new_12/217.csv
+6,2,3,0,Bavatsu,1,1,0,bhavatsu,bhavat,,m. pl. loc.,8,7,shr_new_nbest/new_12/217.csv
+7,10,3,0,Bavatsu,1,2,0,bhavatsu,bhavat,,n. pl. loc.,8,7,shr_new_nbest/new_12/217.csv
+8,11,3,0,Bavatsu,1,2,0,bhavatsu,bhavat,,m. pl. loc.,8,7,shr_new_nbest/new_12/217.csv
+9,14,3,0,Bavatsu,1,3,0,bhavat,bhavat,,iic.,6,5,shr_new_nbest/new_12/217.csv
+10,15,3,0,Bavatsu,1,3,5,su,sū,,m. sg. voc.,2,7,shr_new_nbest/new_12/217.csv
+11,16,3,0,Bavatsu,1,3,5,su,sū,,f. sg. voc.,2,7,shr_new_nbest/new_12/217.csv
+12,19,3,0,Bavatsu,1,4,0,bhavat,bhavat,,iic.,6,5,shr_new_nbest/new_12/217.csv
+13,2,3,1,Bavat,3.787386E-31,1,0,bhavat,bhavat,,n. sg. acc.,6,5,shr_new_nbest/new_12/221.csv
+14,3,3,1,Bavat,3.787386E-31,1,0,bhavat,bhavat,,n. sg. nom.,6,5,shr_new_nbest/new_12/221.csv
+15,12,3,1,Bavat,3.787386E-31,2,0,bhavat,bhavat,,n. sg. voc.,6,5,shr_new_nbest/new_12/221.csv
+16,4,5,1,su,0.9696969696969696969696969697,1,0,su,su,,?,2,2,shr_new_nbest/new_12/221.csv
+17,3,7,0,kenApi,1,1,0,kenāpi,kenāpi,,adv.,6,6,shr_new_nbest/new_12/217.csv
+18,12,7,0,kenApi,1,2,0,kena,kim,,n. sg. i.,4,4,shr_new_nbest/new_12/217.csv
+19,13,7,0,kenApi,1,2,0,kena,kim,,m. sg. i.,4,4,shr_new_nbest/new_12/217.csv
+20,17,7,0,kenApi,1,3,0,kā,kim,,f. sg. nom.,2,2,shr_new_nbest/new_12/217.csv
+21,18,7,0,kenApi,1,3,2,na,na,,part.,2,4,shr_new_nbest/new_12/217.csv
+22,20,7,0,kenApi,1,4,0,ke,kim,,n. du. acc.,2,2,shr_new_nbest/new_12/217.csv
+23,21,7,0,kenApi,1,4,0,ke,kim,,n. du. nom.,2,2,shr_new_nbest/new_12/217.csv
+24,22,7,0,kenApi,1,4,0,ke,kim,,m. pl. nom.,2,2,shr_new_nbest/new_12/217.csv
+25,23,7,0,kenApi,1,4,0,ke,kim,,f. du. acc.,2,2,shr_new_nbest/new_12/217.csv
+26,24,7,0,kenApi,1,4,0,ke,kim,,f. du. nom.,2,2,shr_new_nbest/new_12/217.csv
+27,25,7,0,kenApi,1,4,2,nā,nṛ,,m. sg. nom.,2,4,shr_new_nbest/new_12/217.csv
+28,26,7,0,kenApi,1,5,1,ina,ina,,iic.,3,4,shr_new_nbest/new_12/217.csv
+29,27,7,0,kenApi,1,6,1,inā,ina,,f. sg. nom.,3,4,shr_new_nbest/new_12/217.csv
+30,28,7,0,kenApi,1,7,3,āpi,āpī,,n. sg. acc.,3,6,shr_new_nbest/new_12/217.csv
+31,29,7,0,kenApi,1,7,3,āpi,āpī,,n. sg. nom.,3,6,shr_new_nbest/new_12/217.csv
+32,30,7,0,kenApi,1,8,3,āpi,āpī,,m. sg. voc.,3,6,shr_new_nbest/new_12/217.csv
+33,31,7,0,kenApi,1,8,3,āpi,āpī,,n. sg. voc.,3,6,shr_new_nbest/new_12/217.csv
+34,32,7,0,kenApi,1,8,3,āpi,āpī,,f. sg. voc.,3,6,shr_new_nbest/new_12/217.csv
+35,33,7,0,kenApi,1,9,3,api,api,,conj.,3,6,shr_new_nbest/new_12/217.csv
+36,34,7,0,kenApi,1,9,3,api,api,,prep.,3,6,shr_new_nbest/new_12/217.csv
+37,3,7,1,kenApy,1.538373039252E-64,1,0,kenāpy,kenāpy,,?,6,6,shr_new_nbest/new_12/222.csv
+38,4,9,1,tasya,0.9696969696969696969696969697,1,0,tasya,tad,,n. sg. g.,5,5,shr_new_nbest/new_12/217.csv
+39,5,9,1,tasya,0.9696969696969696969696969697,1,0,tasya,tad,,m. sg. g.,5,5,shr_new_nbest/new_12/217.csv
+40,4,9,2,ttasya,3.912164848484848484848484848E-31,1,0,ttasya,ttasya,,?,6,6,shr_new_nbest/new_12/220.csv
+41,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+42,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+43,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+44,,5,0,<eps>,0.03030303030303030303030303030,1,0,<eps>,,,,2,2,
+45,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+46,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+47,,9,0,<eps>,0.03030303030303030303030303030,1,0,<eps>,,,,6,6,
+48,,10,0,<eps>,1,1,0,<eps>,,,,1,1,

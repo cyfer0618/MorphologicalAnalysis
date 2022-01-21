@@ -1,0 +1,182 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,ataH,1,1,0,ataḥ,atas,,adv.,4,4,shr_new_nbest/new_1/494.csv
+1,1,3,1,tam,0.9953917050691244240464223929,1,0,tam,tad,,m. sg. acc.,3,3,shr_new_nbest/new_1/494.csv
+2,1,3,2,tvam,5.430537622119815668657161674E-19,1,0,tvam,yuṣmad,,m. sg. nom.,4,4,shr_new_nbest/new_1/496.csv
+3,2,5,0,atra,1,1,0,atra,atra,,adv.,4,4,shr_new_nbest/new_1/494.csv
+4,3,6,1,Anayya,0,1,0,ānayya,ānayya,,?,6,6,shr_new_nbest/new_1/503.csv
+5,3,7,1,AnAyya,0.9953917050691244245869736032,1,0,ānāyya,ā-nī,,ca. abs.,6,6,shr_new_nbest/new_1/494.csv
+6,10,7,1,AnAyya,0.9953917050691244245869736032,2,0,ānāyya,ā-nāyya,,n. sg. voc.,6,6,shr_new_nbest/new_1/494.csv
+7,11,7,1,AnAyya,0.9953917050691244245869736032,2,0,ānāyya,ā-nāyya,,m. sg. voc.,6,6,shr_new_nbest/new_1/494.csv
+8,16,7,1,AnAyya,0.9953917050691244245869736032,3,0,āna,āna,,iic.,3,3,shr_new_nbest/new_1/494.csv
+9,21,7,1,AnAyya,0.9953917050691244245869736032,4,0,ānā,āna,,f. sg. nom.,3,3,shr_new_nbest/new_1/494.csv
+10,29,7,1,AnAyya,0.9953917050691244245869736032,5,0,āna,an,,pft. ac. pl. 2,3,3,shr_new_nbest/new_1/494.csv
+11,30,7,1,AnAyya,0.9953917050691244245869736032,5,0,āna,an,,pft. ac. sg. 3,3,3,shr_new_nbest/new_1/494.csv
+12,31,7,1,AnAyya,0.9953917050691244245869736032,5,0,āna,an,,pft. ac. sg. 1,3,3,shr_new_nbest/new_1/494.csv
+13,34,7,1,AnAyya,0.9953917050691244245869736032,6,2,āyya,ā-āyya,,n. sg. voc.,4,6,shr_new_nbest/new_1/494.csv
+14,35,7,1,AnAyya,0.9953917050691244245869736032,6,2,āyya,ā-āyya,,m. sg. voc.,4,6,shr_new_nbest/new_1/494.csv
+15,37,7,1,AnAyya,0.9953917050691244245869736032,7,2,āyya,āyya,,n. sg. voc.,4,6,shr_new_nbest/new_1/494.csv
+16,38,7,1,AnAyya,0.9953917050691244245869736032,7,2,āyya,āyya,,m. sg. voc.,4,6,shr_new_nbest/new_1/494.csv
+17,3,7,2,Anayya,1.185695189813529954660159197E-34,1,0,ānayya,ānayya,,?,6,6,shr_new_nbest/new_1/503.csv
+18,4,8,1,aSvameDam,5.2408139125957039251E-86,1,0,aśvam,aśva,,m. sg. acc.,5,5,shr_new_nbest/new_1/494.csv
+19,5,8,1,aSvameDam,5.2408139125957039251E-86,1,5,edham,edha,,m. sg. acc.,5,9,shr_new_nbest/new_1/494.csv
+20,12,8,1,aSvameDam,5.2408139125957039251E-86,2,0,aśvam,śū,,aor. [2] ac. sg. 1,5,5,shr_new_nbest/new_1/494.csv
+21,17,8,1,aSvameDam,5.2408139125957039251E-86,3,0,aśva,aśva,,iic.,4,4,shr_new_nbest/new_1/494.csv
+22,18,8,1,aSvameDam,5.2408139125957039251E-86,3,4,medham,medha,,m. sg. acc.,6,9,shr_new_nbest/new_1/494.csv
+23,22,8,1,aSvameDam,5.2408139125957039251E-86,4,0,a,a,,iic.,1,1,shr_new_nbest/new_1/494.csv
+24,23,8,1,aSvameDam,5.2408139125957039251E-86,4,1,śva,śvan,,iic.,3,4,shr_new_nbest/new_1/494.csv
+25,24,8,1,aSvameDam,5.2408139125957039251E-86,4,4,medham,medhā,,m. sg. acc.,6,9,shr_new_nbest/new_1/494.csv
+26,25,8,1,aSvameDam,5.2408139125957039251E-86,4,4,medham,medhā,,n. sg. acc.,6,9,shr_new_nbest/new_1/494.csv
+27,26,8,1,aSvameDam,5.2408139125957039251E-86,4,4,medham,medhā,,n. sg. nom.,6,9,shr_new_nbest/new_1/494.csv
+28,4,9,1,aSvameDam,0.9953917050691244245869736032,1,0,aśvam,aśva,,m. sg. acc.,5,5,shr_new_nbest/new_1/494.csv
+29,5,9,1,aSvameDam,0.9953917050691244245869736032,1,5,edham,edha,,m. sg. acc.,5,9,shr_new_nbest/new_1/494.csv
+30,12,9,1,aSvameDam,0.9953917050691244245869736032,2,0,aśvam,śū,,aor. [2] ac. sg. 1,5,5,shr_new_nbest/new_1/494.csv
+31,17,9,1,aSvameDam,0.9953917050691244245869736032,3,0,aśva,aśva,,iic.,4,4,shr_new_nbest/new_1/494.csv
+32,18,9,1,aSvameDam,0.9953917050691244245869736032,3,4,medham,medha,,m. sg. acc.,6,9,shr_new_nbest/new_1/494.csv
+33,22,9,1,aSvameDam,0.9953917050691244245869736032,4,0,a,a,,iic.,1,1,shr_new_nbest/new_1/494.csv
+34,23,9,1,aSvameDam,0.9953917050691244245869736032,4,1,śva,śvan,,iic.,3,4,shr_new_nbest/new_1/494.csv
+35,24,9,1,aSvameDam,0.9953917050691244245869736032,4,4,medham,medhā,,m. sg. acc.,6,9,shr_new_nbest/new_1/494.csv
+36,25,9,1,aSvameDam,0.9953917050691244245869736032,4,4,medham,medhā,,n. sg. acc.,6,9,shr_new_nbest/new_1/494.csv
+37,26,9,1,aSvameDam,0.9953917050691244245869736032,4,4,medham,medhā,,n. sg. nom.,6,9,shr_new_nbest/new_1/494.csv
+38,6,10,1,samAcaratu,1.633459093767469607699999974E-26,1,0,samācaratu,sam-ā-car,,imp. [1] ac. sg. 3,10,10,shr_new_nbest/new_1/495.csv
+39,12,10,1,samAcaratu,1.633459093767469607699999974E-26,2,0,samācara,sam-ā-car,,imp. [1] ac. sg. 2,8,8,shr_new_nbest/new_1/495.csv
+40,13,10,1,samAcaratu,1.633459093767469607699999974E-26,2,8,tu,tu,,conj.,2,10,shr_new_nbest/new_1/495.csv
+41,17,10,1,samAcaratu,1.633459093767469607699999974E-26,3,0,samā,samā,,f. sg. nom.,4,4,shr_new_nbest/new_1/495.csv
+42,18,10,1,samAcaratu,1.633459093767469607699999974E-26,3,0,samā,sama,,f. sg. nom.,4,4,shr_new_nbest/new_1/495.csv
+43,19,10,1,samAcaratu,1.633459093767469607699999974E-26,3,4,caratu,car,,imp. [1] ac. sg. 3,6,10,shr_new_nbest/new_1/495.csv
+44,26,10,1,samAcaratu,1.633459093767469607699999974E-26,4,3,ācaratu,ā-car,,imp. [1] ac. sg. 3,7,10,shr_new_nbest/new_1/495.csv
+45,30,10,1,samAcaratu,1.633459093767469607699999974E-26,5,3,ācara,ā-car,,imp. [1] ac. sg. 2,5,8,shr_new_nbest/new_1/495.csv
+46,33,10,1,samAcaratu,1.633459093767469607699999974E-26,6,4,cara,car,,imp. [1] ac. sg. 2,4,8,shr_new_nbest/new_1/495.csv
+47,6,10,2,samAcarat,2.206201945333187962392307588E-48,1,0,samācarat,sam-ā-car,,impft. [1] ac. sg. 3,9,9,shr_new_nbest/new_1/499.csv
+48,12,10,2,samAcarat,2.206201945333187962392307588E-48,2,0,samācarat,sam-ā-carat,,n. sg. acc.,9,9,shr_new_nbest/new_1/499.csv
+49,13,10,2,samAcarat,2.206201945333187962392307588E-48,2,0,samācarat,sam-ā-carat,,n. sg. nom.,9,9,shr_new_nbest/new_1/499.csv
+50,17,10,2,samAcarat,2.206201945333187962392307588E-48,3,0,samācarat,sam-ā-carat,,n. sg. voc.,9,9,shr_new_nbest/new_1/499.csv
+51,24,10,2,samAcarat,2.206201945333187962392307588E-48,4,0,sama,sama,,iic.,4,4,shr_new_nbest/new_1/499.csv
+52,25,10,2,samAcarat,2.206201945333187962392307588E-48,4,4,carat,carat,,n. sg. acc.,5,9,shr_new_nbest/new_1/499.csv
+53,26,10,2,samAcarat,2.206201945333187962392307588E-48,4,4,carat,carat,,n. sg. nom.,5,9,shr_new_nbest/new_1/499.csv
+54,30,10,2,samAcarat,2.206201945333187962392307588E-48,5,0,samā,samā,,iic.,4,4,shr_new_nbest/new_1/499.csv
+55,31,10,2,samAcarat,2.206201945333187962392307588E-48,5,4,carat,carat,,n. sg. voc.,5,9,shr_new_nbest/new_1/499.csv
+56,34,10,2,samAcarat,2.206201945333187962392307588E-48,6,0,samā,samā,,f. sg. nom.,4,4,shr_new_nbest/new_1/499.csv
+57,35,10,2,samAcarat,2.206201945333187962392307588E-48,6,0,samā,sama,,f. sg. nom.,4,4,shr_new_nbest/new_1/499.csv
+58,38,10,2,samAcarat,2.206201945333187962392307588E-48,7,3,ācarat,ā-carat,,n. sg. acc.,6,9,shr_new_nbest/new_1/499.csv
+59,39,10,2,samAcarat,2.206201945333187962392307588E-48,7,3,ācarat,ā-carat,,n. sg. nom.,6,9,shr_new_nbest/new_1/499.csv
+60,40,10,2,samAcarat,2.206201945333187962392307588E-48,8,3,ācarat,ā-carat,,n. sg. voc.,6,9,shr_new_nbest/new_1/499.csv
+61,41,10,2,samAcarat,2.206201945333187962392307588E-48,9,3,ācarat,ā-car,,impft. [1] ac. sg. 3,6,9,shr_new_nbest/new_1/499.csv
+62,42,10,2,samAcarat,2.206201945333187962392307588E-48,10,3,acarat,car,,impft. [1] ac. sg. 3,6,9,shr_new_nbest/new_1/499.csv
+63,43,10,2,samAcarat,2.206201945333187962392307588E-48,11,3,a,a,,iic.,1,4,shr_new_nbest/new_1/499.csv
+64,6,10,3,samAcAratu,7.742834416606205171999999876E-49,1,0,samā,samā,,f. sg. nom.,4,4,shr_new_nbest/new_1/501.csv
+65,7,10,3,samAcAratu,7.742834416606205171999999876E-49,1,0,samā,sama,,f. sg. nom.,4,4,shr_new_nbest/new_1/501.csv
+66,8,10,3,samAcAratu,7.742834416606205171999999876E-49,1,4,ca,ca,,conj.,2,6,shr_new_nbest/new_1/501.csv
+67,9,10,3,samAcAratu,7.742834416606205171999999876E-49,1,8,tu,tu,,conj.,2,10,shr_new_nbest/new_1/501.csv
+68,15,10,3,samAcAratu,7.742834416606205171999999876E-49,2,3,āca,ā-añc,,imp. [1] ac. sg. 2,3,6,shr_new_nbest/new_1/501.csv
+69,19,10,3,samAcAratu,7.742834416606205171999999876E-49,3,3,aca,añc,,imp. [1] ac. sg. 2,3,6,shr_new_nbest/new_1/501.csv
+70,26,10,3,samAcAratu,7.742834416606205171999999876E-49,4,5,ara,ṛ,,pft. ac. pl. 2,3,8,shr_new_nbest/new_1/501.csv
+71,27,10,3,samAcAratu,7.742834416606205171999999876E-49,4,5,ara,ṛ,,pft. ac. sg. 3,3,8,shr_new_nbest/new_1/501.csv
+72,28,10,3,samAcAratu,7.742834416606205171999999876E-49,4,5,ara,ṛ,,pft. ac. sg. 1,3,8,shr_new_nbest/new_1/501.csv
+73,6,10,4,samAcara,1.361979181380523028399999978E-52,1,0,samācara,sam-ā-car,,imp. [1] ac. sg. 2,8,8,shr_new_nbest/new_1/494.csv
+74,13,10,4,samAcara,1.361979181380523028399999978E-52,2,0,sama,sama,,iic.,4,4,shr_new_nbest/new_1/494.csv
+75,14,10,4,samAcara,1.361979181380523028399999978E-52,2,4,cara,cara,,m. sg. voc.,4,8,shr_new_nbest/new_1/494.csv
+76,15,10,4,samAcara,1.361979181380523028399999978E-52,2,4,cara,cara,,n. sg. voc.,4,8,shr_new_nbest/new_1/494.csv
+77,19,10,4,samAcara,1.361979181380523028399999978E-52,3,0,samā,samā,,iic.,4,4,shr_new_nbest/new_1/494.csv
+78,20,10,4,samAcara,1.361979181380523028399999978E-52,3,4,cara,car,,imp. [1] ac. sg. 2,4,8,shr_new_nbest/new_1/494.csv
+79,27,10,4,samAcara,1.361979181380523028399999978E-52,4,0,samā,samā,,f. sg. nom.,4,4,shr_new_nbest/new_1/494.csv
+80,28,10,4,samAcara,1.361979181380523028399999978E-52,4,0,samā,sama,,f. sg. nom.,4,4,shr_new_nbest/new_1/494.csv
+81,32,10,4,samAcara,1.361979181380523028399999978E-52,5,3,acara,acara,,m. sg. voc.,5,8,shr_new_nbest/new_1/494.csv
+82,33,10,4,samAcara,1.361979181380523028399999978E-52,5,3,acara,acara,,n. sg. voc.,5,8,shr_new_nbest/new_1/494.csv
+83,36,10,4,samAcara,1.361979181380523028399999978E-52,6,3,ācara,ā-car,,imp. [1] ac. sg. 2,5,8,shr_new_nbest/new_1/494.csv
+84,39,10,4,samAcara,1.361979181380523028399999978E-52,7,3,a,a,,iic.,1,4,shr_new_nbest/new_1/494.csv
+85,6,11,1,samAcara,0.9013606938438010392667182734,1,0,samācara,sam-ā-car,,imp. [1] ac. sg. 2,8,8,shr_new_nbest/new_1/494.csv
+86,13,11,1,samAcara,0.9013606938438010392667182734,2,0,sama,sama,,iic.,4,4,shr_new_nbest/new_1/494.csv
+87,14,11,1,samAcara,0.9013606938438010392667182734,2,4,cara,cara,,m. sg. voc.,4,8,shr_new_nbest/new_1/494.csv
+88,15,11,1,samAcara,0.9013606938438010392667182734,2,4,cara,cara,,n. sg. voc.,4,8,shr_new_nbest/new_1/494.csv
+89,19,11,1,samAcara,0.9013606938438010392667182734,3,0,samā,samā,,iic.,4,4,shr_new_nbest/new_1/494.csv
+90,20,11,1,samAcara,0.9013606938438010392667182734,3,4,cara,car,,imp. [1] ac. sg. 2,4,8,shr_new_nbest/new_1/494.csv
+91,27,11,1,samAcara,0.9013606938438010392667182734,4,0,samā,samā,,f. sg. nom.,4,4,shr_new_nbest/new_1/494.csv
+92,28,11,1,samAcara,0.9013606938438010392667182734,4,0,samā,sama,,f. sg. nom.,4,4,shr_new_nbest/new_1/494.csv
+93,32,11,1,samAcara,0.9013606938438010392667182734,5,3,acara,acara,,m. sg. voc.,5,8,shr_new_nbest/new_1/494.csv
+94,33,11,1,samAcara,0.9013606938438010392667182734,5,3,acara,acara,,n. sg. voc.,5,8,shr_new_nbest/new_1/494.csv
+95,36,11,1,samAcara,0.9013606938438010392667182734,6,3,ācara,ā-car,,imp. [1] ac. sg. 2,5,8,shr_new_nbest/new_1/494.csv
+96,39,11,1,samAcara,0.9013606938438010392667182734,7,3,a,a,,iic.,1,4,shr_new_nbest/new_1/494.csv
+97,6,11,2,samAcaratu,0.09289451044887123472896100916,1,0,samācaratu,sam-ā-car,,imp. [1] ac. sg. 3,10,10,shr_new_nbest/new_1/495.csv
+98,12,11,2,samAcaratu,0.09289451044887123472896100916,2,0,samācara,sam-ā-car,,imp. [1] ac. sg. 2,8,8,shr_new_nbest/new_1/495.csv
+99,13,11,2,samAcaratu,0.09289451044887123472896100916,2,8,tu,tu,,conj.,2,10,shr_new_nbest/new_1/495.csv
+100,17,11,2,samAcaratu,0.09289451044887123472896100916,3,0,samā,samā,,f. sg. nom.,4,4,shr_new_nbest/new_1/495.csv
+101,18,11,2,samAcaratu,0.09289451044887123472896100916,3,0,samā,sama,,f. sg. nom.,4,4,shr_new_nbest/new_1/495.csv
+102,19,11,2,samAcaratu,0.09289451044887123472896100916,3,4,caratu,car,,imp. [1] ac. sg. 3,6,10,shr_new_nbest/new_1/495.csv
+103,26,11,2,samAcaratu,0.09289451044887123472896100916,4,3,ācaratu,ā-car,,imp. [1] ac. sg. 3,7,10,shr_new_nbest/new_1/495.csv
+104,30,11,2,samAcaratu,0.09289451044887123472896100916,5,3,ācara,ā-car,,imp. [1] ac. sg. 2,5,8,shr_new_nbest/new_1/495.csv
+105,33,11,2,samAcaratu,0.09289451044887123472896100916,6,4,cara,car,,imp. [1] ac. sg. 2,4,8,shr_new_nbest/new_1/495.csv
+106,6,11,3,samAcarat,1.254662883478663953720226768E-23,1,0,samācarat,sam-ā-car,,impft. [1] ac. sg. 3,9,9,shr_new_nbest/new_1/499.csv
+107,12,11,3,samAcarat,1.254662883478663953720226768E-23,2,0,samācarat,sam-ā-carat,,n. sg. acc.,9,9,shr_new_nbest/new_1/499.csv
+108,13,11,3,samAcarat,1.254662883478663953720226768E-23,2,0,samācarat,sam-ā-carat,,n. sg. nom.,9,9,shr_new_nbest/new_1/499.csv
+109,17,11,3,samAcarat,1.254662883478663953720226768E-23,3,0,samācarat,sam-ā-carat,,n. sg. voc.,9,9,shr_new_nbest/new_1/499.csv
+110,24,11,3,samAcarat,1.254662883478663953720226768E-23,4,0,sama,sama,,iic.,4,4,shr_new_nbest/new_1/499.csv
+111,25,11,3,samAcarat,1.254662883478663953720226768E-23,4,4,carat,carat,,n. sg. acc.,5,9,shr_new_nbest/new_1/499.csv
+112,26,11,3,samAcarat,1.254662883478663953720226768E-23,4,4,carat,carat,,n. sg. nom.,5,9,shr_new_nbest/new_1/499.csv
+113,30,11,3,samAcarat,1.254662883478663953720226768E-23,5,0,samā,samā,,iic.,4,4,shr_new_nbest/new_1/499.csv
+114,31,11,3,samAcarat,1.254662883478663953720226768E-23,5,4,carat,carat,,n. sg. voc.,5,9,shr_new_nbest/new_1/499.csv
+115,34,11,3,samAcarat,1.254662883478663953720226768E-23,6,0,samā,samā,,f. sg. nom.,4,4,shr_new_nbest/new_1/499.csv
+116,35,11,3,samAcarat,1.254662883478663953720226768E-23,6,0,samā,sama,,f. sg. nom.,4,4,shr_new_nbest/new_1/499.csv
+117,38,11,3,samAcarat,1.254662883478663953720226768E-23,7,3,ācarat,ā-carat,,n. sg. acc.,6,9,shr_new_nbest/new_1/499.csv
+118,39,11,3,samAcarat,1.254662883478663953720226768E-23,7,3,ācarat,ā-carat,,n. sg. nom.,6,9,shr_new_nbest/new_1/499.csv
+119,40,11,3,samAcarat,1.254662883478663953720226768E-23,8,3,ācarat,ā-carat,,n. sg. voc.,6,9,shr_new_nbest/new_1/499.csv
+120,41,11,3,samAcarat,1.254662883478663953720226768E-23,9,3,ācarat,ā-car,,impft. [1] ac. sg. 3,6,9,shr_new_nbest/new_1/499.csv
+121,42,11,3,samAcarat,1.254662883478663953720226768E-23,10,3,acarat,car,,impft. [1] ac. sg. 3,6,9,shr_new_nbest/new_1/499.csv
+122,43,11,3,samAcarat,1.254662883478663953720226768E-23,11,3,a,a,,iic.,1,4,shr_new_nbest/new_1/499.csv
+123,6,11,4,samAcAratu,4.403335322945625391361204568E-24,1,0,samā,samā,,f. sg. nom.,4,4,shr_new_nbest/new_1/501.csv
+124,7,11,4,samAcAratu,4.403335322945625391361204568E-24,1,0,samā,sama,,f. sg. nom.,4,4,shr_new_nbest/new_1/501.csv
+125,8,11,4,samAcAratu,4.403335322945625391361204568E-24,1,4,ca,ca,,conj.,2,6,shr_new_nbest/new_1/501.csv
+126,9,11,4,samAcAratu,4.403335322945625391361204568E-24,1,8,tu,tu,,conj.,2,10,shr_new_nbest/new_1/501.csv
+127,15,11,4,samAcAratu,4.403335322945625391361204568E-24,2,3,āca,ā-añc,,imp. [1] ac. sg. 2,3,6,shr_new_nbest/new_1/501.csv
+128,19,11,4,samAcAratu,4.403335322945625391361204568E-24,3,3,aca,añc,,imp. [1] ac. sg. 2,3,6,shr_new_nbest/new_1/501.csv
+129,26,11,4,samAcAratu,4.403335322945625391361204568E-24,4,5,ara,ṛ,,pft. ac. pl. 2,3,8,shr_new_nbest/new_1/501.csv
+130,27,11,4,samAcAratu,4.403335322945625391361204568E-24,4,5,ara,ṛ,,pft. ac. sg. 3,3,8,shr_new_nbest/new_1/501.csv
+131,28,11,4,samAcAratu,4.403335322945625391361204568E-24,4,5,ara,ṛ,,pft. ac. sg. 1,3,8,shr_new_nbest/new_1/501.csv
+132,6,11,5,samAcaran,6.421729940914705464387843167E-26,1,0,samācaran,sam-ā-car,,impft. [1] ac. pl. 3,9,9,shr_new_nbest/new_1/500.csv
+133,13,11,5,samAcaran,6.421729940914705464387843167E-26,2,0,samācaran,sam-ā-carat,,m. sg. nom.,9,9,shr_new_nbest/new_1/500.csv
+134,17,11,5,samAcaran,6.421729940914705464387843167E-26,3,0,samācaran,sam-ā-carat,,m. sg. voc.,9,9,shr_new_nbest/new_1/500.csv
+135,24,11,5,samAcaran,6.421729940914705464387843167E-26,4,0,sama,sama,,iic.,4,4,shr_new_nbest/new_1/500.csv
+136,25,11,5,samAcaran,6.421729940914705464387843167E-26,4,4,caran,carat,,m. sg. nom.,5,9,shr_new_nbest/new_1/500.csv
+137,29,11,5,samAcaran,6.421729940914705464387843167E-26,5,0,samā,samā,,iic.,4,4,shr_new_nbest/new_1/500.csv
+138,30,11,5,samAcaran,6.421729940914705464387843167E-26,5,4,caran,carat,,m. sg. voc.,5,9,shr_new_nbest/new_1/500.csv
+139,33,11,5,samAcaran,6.421729940914705464387843167E-26,6,0,samā,samā,,f. sg. nom.,4,4,shr_new_nbest/new_1/500.csv
+140,34,11,5,samAcaran,6.421729940914705464387843167E-26,6,0,samā,sama,,f. sg. nom.,4,4,shr_new_nbest/new_1/500.csv
+141,37,11,5,samAcaran,6.421729940914705464387843167E-26,7,3,ācaran,ā-carat,,m. sg. nom.,6,9,shr_new_nbest/new_1/500.csv
+142,38,11,5,samAcaran,6.421729940914705464387843167E-26,8,3,ācaran,ā-carat,,m. sg. voc.,6,9,shr_new_nbest/new_1/500.csv
+143,39,11,5,samAcaran,6.421729940914705464387843167E-26,9,3,ācaran,ā-car,,impft. [1] ac. pl. 3,6,9,shr_new_nbest/new_1/500.csv
+144,40,11,5,samAcaran,6.421729940914705464387843167E-26,10,3,acaran,car,,impft. [1] ac. pl. 3,6,9,shr_new_nbest/new_1/500.csv
+145,41,11,5,samAcaran,6.421729940914705464387843167E-26,11,3,a,a,,iic.,1,4,shr_new_nbest/new_1/500.csv
+146,6,12,1,samAcarat,0.0000,1,0,samācarat,sam-ā-car,,impft. [1] ac. sg. 3,9,9,shr_new_nbest/new_1/499.csv
+147,12,12,1,samAcarat,0.0000,2,0,samācarat,sam-ā-carat,,n. sg. acc.,9,9,shr_new_nbest/new_1/499.csv
+148,13,12,1,samAcarat,0.0000,2,0,samācarat,sam-ā-carat,,n. sg. nom.,9,9,shr_new_nbest/new_1/499.csv
+149,17,12,1,samAcarat,0.0000,3,0,samācarat,sam-ā-carat,,n. sg. voc.,9,9,shr_new_nbest/new_1/499.csv
+150,24,12,1,samAcarat,0.0000,4,0,sama,sama,,iic.,4,4,shr_new_nbest/new_1/499.csv
+151,25,12,1,samAcarat,0.0000,4,4,carat,carat,,n. sg. acc.,5,9,shr_new_nbest/new_1/499.csv
+152,26,12,1,samAcarat,0.0000,4,4,carat,carat,,n. sg. nom.,5,9,shr_new_nbest/new_1/499.csv
+153,30,12,1,samAcarat,0.0000,5,0,samā,samā,,iic.,4,4,shr_new_nbest/new_1/499.csv
+154,31,12,1,samAcarat,0.0000,5,4,carat,carat,,n. sg. voc.,5,9,shr_new_nbest/new_1/499.csv
+155,34,12,1,samAcarat,0.0000,6,0,samā,samā,,f. sg. nom.,4,4,shr_new_nbest/new_1/499.csv
+156,35,12,1,samAcarat,0.0000,6,0,samā,sama,,f. sg. nom.,4,4,shr_new_nbest/new_1/499.csv
+157,38,12,1,samAcarat,0.0000,7,3,ācarat,ā-carat,,n. sg. acc.,6,9,shr_new_nbest/new_1/499.csv
+158,39,12,1,samAcarat,0.0000,7,3,ācarat,ā-carat,,n. sg. nom.,6,9,shr_new_nbest/new_1/499.csv
+159,40,12,1,samAcarat,0.0000,8,3,ācarat,ā-carat,,n. sg. voc.,6,9,shr_new_nbest/new_1/499.csv
+160,41,12,1,samAcarat,0.0000,9,3,ācarat,ā-car,,impft. [1] ac. sg. 3,6,9,shr_new_nbest/new_1/499.csv
+161,42,12,1,samAcarat,0.0000,10,3,acarat,car,,impft. [1] ac. sg. 3,6,9,shr_new_nbest/new_1/499.csv
+162,43,12,1,samAcarat,0.0000,11,3,a,a,,iic.,1,4,shr_new_nbest/new_1/499.csv
+163,7,13,1,tu,0.9953917050691244245869736032,1,0,tu,tu,,conj.,2,2,shr_new_nbest/new_1/494.csv
+164,8,15,1,BavAn,0.9953917050691244245869736032,1,0,bhavān,bhava,,m. pl. acc.,6,5,shr_new_nbest/new_1/494.csv
+165,9,15,1,BavAn,0.9953917050691244245869736032,1,0,bhavān,bhavat,,m. sg. nom.,6,5,shr_new_nbest/new_1/494.csv
+166,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+167,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+168,,3,0,<eps>,0.004608294930875575410523844923,1,0,<eps>,,,,4,4,
+169,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+170,,6,0,<eps>,1,1,0,<eps>,,,,6,6,
+171,,7,0,<eps>,0.004608294930875575413026396823,1,0,<eps>,,,,6,6,
+172,,8,0,<eps>,1,1,0,<eps>,,,,9,9,
+173,,9,0,<eps>,0.004608294930875575413026396823,1,0,<eps>,,,,9,9,
+174,,10,0,<eps>,0.9999999999999999999999999840,1,0,<eps>,,,,10,10,
+175,,11,0,<eps>,0.005744795707327726004303703163,1,0,<eps>,,,,10,10,
+176,,12,0,<eps>,1,1,0,<eps>,,,,9,9,
+177,,13,0,<eps>,0.004608294930875575413026396823,1,0,<eps>,,,,2,2,
+178,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+179,,15,0,<eps>,0.004608294930875575413026396823,1,0,<eps>,,,,5,5,
+180,,16,0,<eps>,1,1,0,<eps>,,,,1,1,

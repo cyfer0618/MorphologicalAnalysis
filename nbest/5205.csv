@@ -1,0 +1,93 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,tasmAtsarvezu,1,1,0,tasmāt,tad,,n. sg. abl.,6,6,shr_new_nbest/new_25/1928.csv
+1,1,1,0,tasmAtsarvezu,1,1,0,tasmāt,tad,,m. sg. abl.,6,6,shr_new_nbest/new_25/1928.csv
+2,2,1,0,tasmAtsarvezu,1,1,6,sarveṣu,sarva,,m. pl. loc.,7,13,shr_new_nbest/new_25/1928.csv
+3,3,1,0,tasmAtsarvezu,1,1,6,sarveṣu,sarva,,n. pl. loc.,7,13,shr_new_nbest/new_25/1928.csv
+4,13,1,0,tasmAtsarvezu,1,2,6,sarva,sarva,,iic.,5,11,shr_new_nbest/new_25/1928.csv
+5,22,1,0,tasmAtsarvezu,1,3,10,iṣu,iṣu,,n. sg. acc.,3,13,shr_new_nbest/new_25/1928.csv
+6,23,1,0,tasmAtsarvezu,1,3,10,iṣu,iṣu,,n. sg. nom.,3,13,shr_new_nbest/new_25/1928.csv
+7,30,1,0,tasmAtsarvezu,1,4,10,iṣu,iṣu,,n. sg. voc.,3,13,shr_new_nbest/new_25/1928.csv
+8,4,5,0,kAlezu,1,1,0,kāleṣu,kāla,,m. pl. loc.,6,6,shr_new_nbest/new_25/1928.csv
+9,5,5,0,kAlezu,1,1,0,kāleṣu,kāla,,m. pl. loc.,6,6,shr_new_nbest/new_25/1928.csv
+10,6,5,0,kAlezu,1,1,0,kāleṣu,kāla,,n. pl. loc.,6,6,shr_new_nbest/new_25/1928.csv
+11,14,5,0,kAlezu,1,2,0,kāla,kāla,,iic.,4,4,shr_new_nbest/new_25/1928.csv
+12,15,5,0,kAlezu,1,2,0,kāla,kāla,,iic.,4,4,shr_new_nbest/new_25/1928.csv
+13,24,5,0,kAlezu,1,3,0,kā,kim,,f. sg. nom.,2,2,shr_new_nbest/new_25/1928.csv
+14,25,5,0,kAlezu,1,3,3,iṣu,iṣu,,n. sg. acc.,3,6,shr_new_nbest/new_25/1928.csv
+15,26,5,0,kAlezu,1,3,3,iṣu,iṣu,,n. sg. nom.,3,6,shr_new_nbest/new_25/1928.csv
+16,31,5,0,kAlezu,1,4,1,aleṣu,ala,,n. pl. loc.,5,6,shr_new_nbest/new_25/1928.csv
+17,34,5,0,kAlezu,1,5,1,āleṣu,āla,,n. pl. loc.,5,6,shr_new_nbest/new_25/1928.csv
+18,36,5,0,kAlezu,1,6,1,ala,ala,,iic.,3,4,shr_new_nbest/new_25/1928.csv
+19,38,5,0,kAlezu,1,7,1,āla,āla,,iic.,3,4,shr_new_nbest/new_25/1928.csv
+20,40,5,0,kAlezu,1,8,3,iṣu,iṣu,,n. sg. voc.,3,6,shr_new_nbest/new_25/1928.csv
+21,7,7,0,yogayuktaH,1,1,0,yogaḥ,yoga,,m. sg. nom.,5,5,shr_new_nbest/new_25/1928.csv
+22,8,7,0,yogayuktaH,1,1,5,uktaḥ,ukta,,m. sg. nom.,5,10,shr_new_nbest/new_25/1928.csv
+23,16,7,0,yogayuktaH,1,2,0,yoga,yoga,,iic.,4,4,shr_new_nbest/new_25/1928.csv
+24,17,7,0,yogayuktaH,1,2,4,yuktaḥ,yukta,,m. sg. nom.,6,10,shr_new_nbest/new_25/1928.csv
+25,27,7,0,yogayuktaH,1,3,0,yoge,yoga,,m. sg. loc.,4,4,shr_new_nbest/new_25/1928.csv
+26,9,11,0,samAhito,0.9999999999999999999999718930,1,0,samāhitā,sam-ā-hita,,f. sg. nom.,8,8,shr_new_nbest/new_25/1928.csv
+27,18,11,0,samAhito,0.9999999999999999999999718930,2,0,sama,sama,,iic.,4,4,shr_new_nbest/new_25/1928.csv
+28,19,11,0,samAhito,0.9999999999999999999999718930,2,4,hitā,hita,,f. sg. nom.,4,8,shr_new_nbest/new_25/1928.csv
+29,20,11,0,samAhito,0.9999999999999999999999718930,2,4,hitā,hita,,f. sg. nom.,4,8,shr_new_nbest/new_25/1928.csv
+30,28,11,0,samAhito,0.9999999999999999999999718930,3,0,samā,samā,,iic.,4,4,shr_new_nbest/new_25/1928.csv
+31,29,11,0,samAhito,0.9999999999999999999999718930,3,7,u,u,,ind.,1,8,shr_new_nbest/new_25/1928.csv
+32,32,11,0,samAhito,0.9999999999999999999999718930,4,0,samā,samā,,f. sg. nom.,4,4,shr_new_nbest/new_25/1928.csv
+33,33,11,0,samAhito,0.9999999999999999999999718930,4,0,samā,sama,,f. sg. nom.,4,4,shr_new_nbest/new_25/1928.csv
+34,35,11,0,samAhito,0.9999999999999999999999718930,5,3,āhitā,ā-hita,,f. sg. nom.,5,8,shr_new_nbest/new_25/1928.csv
+35,37,11,0,samAhito,0.9999999999999999999999718930,6,3,ahitā,ahita,,f. sg. nom.,5,8,shr_new_nbest/new_25/1928.csv
+36,39,11,0,samAhito,0.9999999999999999999999718930,7,3,a,a,,iic.,1,4,shr_new_nbest/new_25/1928.csv
+37,9,11,1,sa,2.810721999999999999999920999E-23,1,0,sa,tad,,m. sg. nom.,2,2,shr_new_nbest/new_25/1931.csv
+38,10,12,1,mAhito,2.809965999999999999999921017E-23,1,0,mā,mā,,part.,2,2,shr_new_nbest/new_25/1931.csv
+39,11,12,1,mAhito,2.809965999999999999999921017E-23,1,2,hitā,hita,,f. sg. nom.,4,6,shr_new_nbest/new_25/1931.csv
+40,12,12,1,mAhito,2.809965999999999999999921017E-23,1,2,hitā,hita,,f. sg. nom.,4,6,shr_new_nbest/new_25/1931.csv
+41,21,12,1,mAhito,2.809965999999999999999921017E-23,2,0,mā,asmad,,m. sg. acc.,2,2,shr_new_nbest/new_25/1931.csv
+42,22,12,1,mAhito,2.809965999999999999999921017E-23,2,5,u,u,,ind.,1,6,shr_new_nbest/new_25/1931.csv
+43,30,12,1,mAhito,2.809965999999999999999921017E-23,3,1,āhitā,ā-hita,,f. sg. nom.,5,6,shr_new_nbest/new_25/1931.csv
+44,33,12,1,mAhito,2.809965999999999999999921017E-23,4,1,ahitā,ahita,,f. sg. nom.,5,6,shr_new_nbest/new_25/1931.csv
+45,35,12,1,mAhito,2.809965999999999999999921017E-23,5,1,a,a,,iic.,1,2,shr_new_nbest/new_25/1931.csv
+46,10,12,2,mA,7.557803999999999999999787565E-27,1,0,mā,mā,,part.,2,2,shr_new_nbest/new_25/1935.csv
+47,21,12,2,mA,7.557803999999999999999787565E-27,2,0,mā,asmad,,m. sg. acc.,2,2,shr_new_nbest/new_25/1935.csv
+48,11,13,1,hito,0.9841269841269841271090954900,1,0,hitā,hita,,f. sg. nom.,4,4,shr_new_nbest/new_25/1935.csv
+49,12,13,1,hito,0.9841269841269841271090954900,1,0,hitā,hita,,f. sg. nom.,4,4,shr_new_nbest/new_25/1935.csv
+50,22,13,1,hito,0.9841269841269841271090954900,2,3,u,u,,ind.,1,4,shr_new_nbest/new_25/1935.csv
+51,10,15,0,Bava,1,1,0,bhava,bhū,,imp. [1] ac. sg. 2,5,4,shr_new_nbest/new_25/1928.csv
+52,21,15,0,Bava,1,2,0,bhava,bhava,,m. sg. voc.,5,4,shr_new_nbest/new_25/1928.csv
+53,11,16,1,arcanA,2.3254185813848E-49,1,0,arcanā,arcana,,f. sg. nom.,6,6,shr_new_nbest/new_25/1934.csv
+54,21,16,1,arcanA,2.3254185813848E-49,2,0,arca,ṛc,,imp. [1] ac. sg. 2,4,4,shr_new_nbest/new_25/1934.csv
+55,22,16,1,arcanA,2.3254185813848E-49,2,4,nā,nṛ,,m. sg. nom.,2,6,shr_new_nbest/new_25/1934.csv
+56,11,16,2,aryadA,1.742415574598E-51,1,0,arya,arya,,iic.,4,4,shr_new_nbest/new_25/1936.csv
+57,12,16,2,aryadA,1.742415574598E-51,1,4,dā,da,,f. sg. nom.,2,6,shr_new_nbest/new_25/1936.csv
+58,22,16,2,aryadA,1.742415574598E-51,2,0,ari,ari,,iic.,3,3,shr_new_nbest/new_25/1936.csv
+59,23,16,2,aryadA,1.742415574598E-51,2,0,ari,arin,,iic.,3,3,shr_new_nbest/new_25/1936.csv
+60,24,16,2,aryadA,1.742415574598E-51,2,3,adā,ada,,f. sg. nom.,3,6,shr_new_nbest/new_25/1936.csv
+61,25,16,2,aryadA,1.742415574598E-51,2,3,adā,ad,,m. sg. i.,3,6,shr_new_nbest/new_25/1936.csv
+62,26,16,2,aryadA,1.742415574598E-51,2,3,adā,ad,,n. sg. i.,3,6,shr_new_nbest/new_25/1936.csv
+63,27,16,2,aryadA,1.742415574598E-51,2,3,adā,ad,,f. sg. i.,3,6,shr_new_nbest/new_25/1936.csv
+64,11,16,3,paraSunA,7.1387856900222E-55,1,0,paraśunā,paraśu,,m. sg. i.,8,8,shr_new_nbest/new_25/1932.csv
+65,21,16,3,paraSunA,7.1387856900222E-55,2,0,paraśu,paraśu,,iic.,6,6,shr_new_nbest/new_25/1932.csv
+66,22,16,3,paraSunA,7.1387856900222E-55,2,6,nā,nṛ,,m. sg. nom.,2,8,shr_new_nbest/new_25/1932.csv
+67,31,16,3,paraSunA,7.1387856900222E-55,3,0,para,para,,iic.,4,4,shr_new_nbest/new_25/1932.csv
+68,32,16,3,paraSunA,7.1387856900222E-55,3,4,śunā,śuna,,f. sg. nom.,4,8,shr_new_nbest/new_25/1932.csv
+69,33,16,3,paraSunA,7.1387856900222E-55,3,4,śunā,śvan,,m. sg. i.,4,8,shr_new_nbest/new_25/1932.csv
+70,38,16,3,paraSunA,7.1387856900222E-55,4,4,śunā,śvan,,m. sg. i.,4,8,shr_new_nbest/new_25/1932.csv
+71,11,17,1,arjuna,0.9841269841269841271090933923,1,0,arjuna,arjuna,,m. sg. voc.,6,6,shr_new_nbest/new_25/1928.csv
+72,12,17,1,arjuna,0.9841269841269841271090933923,1,0,arjuna,arjuna,,n. sg. voc.,6,6,shr_new_nbest/new_25/1928.csv
+73,11,17,2,karSana,2.119736698412698412967581094E-24,1,0,karśana,karśana,,?,7,7,shr_new_nbest/new_25/1929.csv
+74,11,17,3,darSanA,1.135452253968253968398150247E-26,1,0,darśa,darśa,,iic.,5,5,shr_new_nbest/new_25/1930.csv
+75,12,17,3,darSanA,1.135452253968253968398150247E-26,1,5,nā,nṛ,,m. sg. nom.,2,7,shr_new_nbest/new_25/1930.csv
+76,11,17,4,darSinA,5.335993587301587302264876700E-32,1,0,darśinā,darśinā,,?,7,7,shr_new_nbest/new_25/1933.csv
+77,11,17,5,karSinA,4.980478063489495238727669138E-63,1,0,karśinā,karśinā,,?,7,7,shr_new_nbest/new_25/1937.csv
+78,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+79,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+80,,3,0,<eps>,1,1,0,<eps>,,,,1,1,
+81,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+82,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+83,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+84,,9,0,<eps>,1,1,0,<eps>,,,,1,1,
+85,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+86,,12,0,<eps>,0.9999999999999999999999718920,1,0,<eps>,,,,6,6,
+87,,13,0,<eps>,0.01587301587301587289090450995,1,0,<eps>,,,,4,4,
+88,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+89,,16,0,<eps>,1,1,0,<eps>,,,,8,8,
+90,,17,0,<eps>,0.01587301587301587289090447612,1,0,<eps>,,,,7,7,
+91,,18,0,<eps>,1,1,0,<eps>,,,,1,1,

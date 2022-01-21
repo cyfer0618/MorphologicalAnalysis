@@ -1,0 +1,44 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,pratidinam,1,1,0,pratidinam,pratidina,,m. sg. acc.,10,10,shr_new_nbest/new_14/327.csv
+1,1,1,0,pratidinam,1,1,0,pratidinam,pratidina,,n. sg. acc.,10,10,shr_new_nbest/new_14/327.csv
+2,2,1,0,pratidinam,1,1,0,pratidinam,pratidina,,n. sg. nom.,10,10,shr_new_nbest/new_14/327.csv
+3,8,1,0,pratidinam,1,2,0,prati,prati,,prep.,5,5,shr_new_nbest/new_14/327.csv
+4,9,1,0,pratidinam,1,2,5,dinam,dina,,n. sg. acc.,5,10,shr_new_nbest/new_14/327.csv
+5,10,1,0,pratidinam,1,2,5,dinam,dina,,n. sg. nom.,5,10,shr_new_nbest/new_14/327.csv
+6,13,1,0,pratidinam,1,3,0,prati,prati,,iic.,5,5,shr_new_nbest/new_14/327.csv
+7,14,1,0,pratidinam,1,3,5,dinam,dina,,ind.,5,10,shr_new_nbest/new_14/327.csv
+8,3,3,0,saH,0.9999999999999999999999671100,1,0,saḥ,tad,,m. sg. nom.,3,3,shr_new_nbest/new_14/327.csv
+9,3,3,1,saha,3.289044999999999999999891823E-23,1,0,saha,saha,,adv.,4,4,shr_new_nbest/new_14/328.csv
+10,4,3,1,saha,3.289044999999999999999891823E-23,1,0,saha,saha,,prep.,4,4,shr_new_nbest/new_14/328.csv
+11,12,3,1,saha,3.289044999999999999999891823E-23,2,0,saha,sah,,imp. [1] ac. sg. 2,4,4,shr_new_nbest/new_14/328.csv
+12,17,3,1,saha,3.289044999999999999999891823E-23,3,0,saha,saha,,m. sg. voc.,4,4,shr_new_nbest/new_14/328.csv
+13,18,3,1,saha,3.289044999999999999999891823E-23,3,0,saha,saha,,n. sg. voc.,4,4,shr_new_nbest/new_14/328.csv
+14,3,3,2,sahaSradDayA,7.682650999999999999999747318E-35,1,0,saha,saha,,adv.,4,4,shr_new_nbest/new_14/330.csv
+15,4,3,2,sahaSradDayA,7.682650999999999999999747318E-35,1,0,saha,saha,,prep.,4,4,shr_new_nbest/new_14/330.csv
+16,5,3,2,sahaSradDayA,7.682650999999999999999747318E-35,1,4,śraddhayā,śraddhā,,f. sg. i.,9,12,shr_new_nbest/new_14/330.csv
+17,12,3,2,sahaSradDayA,7.682650999999999999999747318E-35,2,0,saha,saha,,iic.,4,4,shr_new_nbest/new_14/330.csv
+18,13,3,2,sahaSradDayA,7.682650999999999999999747318E-35,2,0,saha,saha,,iic.,4,4,shr_new_nbest/new_14/330.csv
+19,18,3,2,sahaSradDayA,7.682650999999999999999747318E-35,3,0,saha,sah,,imp. [1] ac. sg. 2,4,4,shr_new_nbest/new_14/330.csv
+20,4,5,1,SradDayA,0.9892473118279569895876979998,1,0,śraddhayā,śraddhā,,f. sg. i.,9,8,shr_new_nbest/new_14/327.csv
+21,5,6,1,ddevapUjAm,1.421948E-30,1,0,ddevapūjām,ddevapūjām,,?,10,10,shr_new_nbest/new_14/333.csv
+22,5,6,2,d,1.667224E-34,1,0,d,d,,?,1,1,shr_new_nbest/new_14/334.csv
+23,5,7,1,devapUjAm,0.9892473118279569895874404110,1,0,deva,deva,,iic.,4,4,shr_new_nbest/new_14/327.csv
+24,6,7,1,devapUjAm,0.9892473118279569895874404110,1,4,pūjām,pūjā,,f. sg. acc.,5,9,shr_new_nbest/new_14/327.csv
+25,11,7,1,devapUjAm,0.9892473118279569895874404110,2,4,pū,pū,,iic.,2,6,shr_new_nbest/new_14/327.csv
+26,12,7,1,devapUjAm,0.9892473118279569895874404110,2,6,jām,ja,,f. sg. acc.,3,9,shr_new_nbest/new_14/327.csv
+27,5,7,2,deva,2.603885892473118280465175188E-22,1,0,deva,deva,,m. sg. voc.,4,4,shr_new_nbest/new_14/329.csv
+28,6,7,2,deva,2.603885892473118280465175188E-22,1,0,deva,deva,,n. sg. voc.,4,4,shr_new_nbest/new_14/329.csv
+29,7,9,1,pUjAm,0.9892473118279569895876979998,1,0,pūjām,pūjā,,f. sg. acc.,5,5,shr_new_nbest/new_14/329.csv
+30,7,11,1,karoti,0.9892473118279569895876979998,1,0,karoti,kṛ,,pr. [8] ac. sg. 3,6,6,shr_new_nbest/new_14/327.csv
+31,8,12,1,ca,3.701692E-34,1,0,ca,ca,,conj.,2,2,shr_new_nbest/new_14/332.csv
+32,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+33,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+34,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+35,,5,0,<eps>,0.01075268817204301041230200023,1,0,<eps>,,,,8,8,
+36,,6,0,<eps>,1,1,0,<eps>,,,,10,10,
+37,,7,0,<eps>,0.01075268817204301041229920035,1,0,<eps>,,,,9,9,
+38,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+39,,9,0,<eps>,0.01075268817204301041230200023,1,0,<eps>,,,,5,5,
+40,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+41,,11,0,<eps>,0.01075268817204301041230200023,1,0,<eps>,,,,6,6,
+42,,12,0,<eps>,1,1,0,<eps>,,,,2,2,

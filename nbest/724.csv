@@ -1,0 +1,84 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,parantu,1,1,0,param,param,,adv.,5,5,shr_new_nbest/new_4/900.csv
+1,1,1,0,parantu,1,1,5,tu,tu,,conj.,2,7,shr_new_nbest/new_4/900.csv
+2,14,1,0,parantu,1,2,0,param,para,,m. sg. acc.,5,5,shr_new_nbest/new_4/900.csv
+3,15,1,0,parantu,1,2,0,param,para,,n. sg. acc.,5,5,shr_new_nbest/new_4/900.csv
+4,16,1,0,parantu,1,2,0,param,para,,n. sg. nom.,5,5,shr_new_nbest/new_4/900.csv
+5,2,5,0,sapadi,1,1,0,sapadi,sapadi,,adv.,6,6,shr_new_nbest/new_4/900.csv
+6,17,5,0,sapadi,1,2,0,sa,sa,,iic.,2,2,shr_new_nbest/new_4/900.csv
+7,18,5,0,sapadi,1,2,2,padi,pad,,ind.,4,6,shr_new_nbest/new_4/900.csv
+8,3,7,1,dakziRaBft,0.9924812030075187406053653737,1,0,dakṣiṇa,dakṣiṇa,,iic.,7,7,shr_new_nbest/new_4/900.csv
+9,4,7,1,dakziRaBft,0.9924812030075187406053653737,1,7,bhṛt,bhṛt,,m. sg. nom.,4,10,shr_new_nbest/new_4/900.csv
+10,5,7,1,dakziRaBft,0.9924812030075187406053653737,1,7,bhṛt,bhṛt,,n. sg. acc.,4,10,shr_new_nbest/new_4/900.csv
+11,6,7,1,dakziRaBft,0.9924812030075187406053653737,1,7,bhṛt,bhṛt,,n. sg. nom.,4,10,shr_new_nbest/new_4/900.csv
+12,7,7,1,dakziRaBft,0.9924812030075187406053653737,1,7,bhṛt,bhṛt,,f. sg. nom.,4,10,shr_new_nbest/new_4/900.csv
+13,19,7,1,dakziRaBft,0.9924812030075187406053653737,2,7,bhṛt,bhṛt,,m. sg. voc.,4,10,shr_new_nbest/new_4/900.csv
+14,20,7,1,dakziRaBft,0.9924812030075187406053653737,2,7,bhṛt,bhṛt,,n. sg. voc.,4,10,shr_new_nbest/new_4/900.csv
+15,21,7,1,dakziRaBft,0.9924812030075187406053653737,2,7,bhṛt,bhṛt,,f. sg. voc.,4,10,shr_new_nbest/new_4/900.csv
+16,3,7,2,dakziRA,5.640716300751879378774814908E-17,1,0,dakṣiṇā,dakṣiṇā,,adv.,7,7,shr_new_nbest/new_4/902.csv
+17,16,7,2,dakziRA,5.640716300751879378774814908E-17,2,0,dakṣiṇā,dakṣiṇā,,f. sg. nom.,7,7,shr_new_nbest/new_4/902.csv
+18,17,7,2,dakziRA,5.640716300751879378774814908E-17,2,0,dakṣiṇā,dakṣiṇa,,f. sg. nom.,7,7,shr_new_nbest/new_4/902.csv
+19,4,7,3,dakziRam,1.655089443609022462358241806E-19,1,0,dakṣiṇam,dakṣiṇa,,m. sg. acc.,8,8,shr_new_nbest/new_4/903.csv
+20,5,7,3,dakziRam,1.655089443609022462358241806E-19,1,0,dakṣiṇam,dakṣiṇa,,n. sg. acc.,8,8,shr_new_nbest/new_4/903.csv
+21,6,7,3,dakziRam,1.655089443609022462358241806E-19,1,0,dakṣiṇam,dakṣiṇa,,n. sg. nom.,8,8,shr_new_nbest/new_4/903.csv
+22,3,7,4,dakziRaH,6.581410827067668799014131534E-22,1,0,dakṣiṇaḥ,dakṣiṇa,,m. sg. nom.,8,8,shr_new_nbest/new_4/909.csv
+23,3,7,5,dakziRaBfd,1.925878513311789364266785498E-22,1,0,dakṣiṇabhṛd,dakṣiṇabhṛd,,?,11,10,shr_new_nbest/new_4/901.csv
+24,3,7,6,dakziRa,1.666912706278285619581248346E-22,1,0,dakṣiṇa,dakṣiṇa,,m. sg. voc.,7,7,shr_new_nbest/new_4/904.csv
+25,4,7,6,dakziRa,1.666912706278285619581248346E-22,1,0,dakṣiṇa,dakṣiṇa,,n. sg. voc.,7,7,shr_new_nbest/new_4/904.csv
+26,4,7,7,dakziRe,7.327299157894736425809946122E-26,1,0,dakṣiṇe,dakṣiṇa,,m. pl. nom.,7,7,shr_new_nbest/new_4/908.csv
+27,5,7,7,dakziRe,7.327299157894736425809946122E-26,1,0,dakṣiṇe,dakṣiṇa,,m. sg. loc.,7,7,shr_new_nbest/new_4/908.csv
+28,6,7,7,dakziRe,7.327299157894736425809946122E-26,1,0,dakṣiṇe,dakṣiṇa,,n. du. acc.,7,7,shr_new_nbest/new_4/908.csv
+29,7,7,7,dakziRe,7.327299157894736425809946122E-26,1,0,dakṣiṇe,dakṣiṇa,,n. du. nom.,7,7,shr_new_nbest/new_4/908.csv
+30,8,7,7,dakziRe,7.327299157894736425809946122E-26,1,0,dakṣiṇe,dakṣiṇa,,n. sg. loc.,7,7,shr_new_nbest/new_4/908.csv
+31,21,7,7,dakziRe,7.327299157894736425809946122E-26,2,0,dakṣiṇe,dakṣiṇa,,f. du. acc.,7,7,shr_new_nbest/new_4/908.csv
+32,22,7,7,dakziRe,7.327299157894736425809946122E-26,2,0,dakṣiṇe,dakṣiṇa,,f. du. nom.,7,7,shr_new_nbest/new_4/908.csv
+33,23,7,7,dakziRe,7.327299157894736425809946122E-26,2,0,dakṣiṇe,dakṣiṇā,,f. du. acc.,7,7,shr_new_nbest/new_4/908.csv
+34,24,7,7,dakziRe,7.327299157894736425809946122E-26,2,0,dakṣiṇe,dakṣiṇā,,f. du. nom.,7,7,shr_new_nbest/new_4/908.csv
+35,27,7,7,dakziRe,7.327299157894736425809946122E-26,3,0,dakṣiṇe,dakṣiṇa,,n. du. voc.,7,7,shr_new_nbest/new_4/908.csv
+36,28,7,7,dakziRe,7.327299157894736425809946122E-26,3,0,dakṣiṇe,dakṣiṇa,,f. du. voc.,7,7,shr_new_nbest/new_4/908.csv
+37,29,7,7,dakziRe,7.327299157894736425809946122E-26,3,0,dakṣiṇe,dakṣiṇa,,f. sg. voc.,7,7,shr_new_nbest/new_4/908.csv
+38,30,7,7,dakziRe,7.327299157894736425809946122E-26,3,0,dakṣiṇe,dakṣiṇā,,f. du. voc.,7,7,shr_new_nbest/new_4/908.csv
+39,31,7,7,dakziRe,7.327299157894736425809946122E-26,3,0,dakṣiṇe,dakṣiṇā,,f. sg. voc.,7,7,shr_new_nbest/new_4/908.csv
+40,3,7,8,dakziRaBut,1.112983648653022493157598966E-26,1,0,dakṣiṇa,dakṣiṇa,,iic.,7,7,shr_new_nbest/new_4/905.csv
+41,4,7,8,dakziRaBut,1.112983648653022493157598966E-26,1,7,bhut,budh,,m. sg. nom.,4,10,shr_new_nbest/new_4/905.csv
+42,5,7,8,dakziRaBut,1.112983648653022493157598966E-26,1,7,bhut,budh,,n. sg. acc.,4,10,shr_new_nbest/new_4/905.csv
+43,6,7,8,dakziRaBut,1.112983648653022493157598966E-26,1,7,bhut,budh,,n. sg. nom.,4,10,shr_new_nbest/new_4/905.csv
+44,7,7,8,dakziRaBut,1.112983648653022493157598966E-26,1,7,bhut,budh,,f. sg. nom.,4,10,shr_new_nbest/new_4/905.csv
+45,19,7,8,dakziRaBut,1.112983648653022493157598966E-26,2,7,bhut,budh,,m. sg. voc.,4,10,shr_new_nbest/new_4/905.csv
+46,20,7,8,dakziRaBut,1.112983648653022493157598966E-26,2,7,bhut,budh,,n. sg. voc.,4,10,shr_new_nbest/new_4/905.csv
+47,21,7,8,dakziRaBut,1.112983648653022493157598966E-26,2,7,bhut,budh,,f. sg. voc.,4,10,shr_new_nbest/new_4/905.csv
+48,4,8,1,dakziRam,9.429424E-31,1,0,dakṣiṇam,dakṣiṇa,,m. sg. acc.,8,8,shr_new_nbest/new_4/903.csv
+49,5,8,1,dakziRam,9.429424E-31,1,0,dakṣiṇam,dakṣiṇa,,n. sg. acc.,8,8,shr_new_nbest/new_4/903.csv
+50,6,8,1,dakziRam,9.429424E-31,1,0,dakṣiṇam,dakṣiṇa,,n. sg. nom.,8,8,shr_new_nbest/new_4/903.csv
+51,4,9,1,Bft,0.9924812030075187967534947476,1,0,bhṛt,bhṛt,,?,4,3,shr_new_nbest/new_4/902.csv
+52,4,9,2,Bfd,1.925878513311789473220461996E-22,1,0,bhṛd,bhṛd,,?,4,3,shr_new_nbest/new_4/907.csv
+53,7,9,3,Bujam,2.878209383458646615848285072E-24,1,0,bhujam,bhuja,,m. sg. acc.,6,5,shr_new_nbest/new_4/903.csv
+54,9,9,4,Buje,3.880059609022556390043131332E-28,1,0,bhuje,bhuja,,m. sg. loc.,5,4,shr_new_nbest/new_4/908.csv
+55,10,9,4,Buje,3.880059609022556390043131332E-28,1,0,bhuje,bhuja,,f. du. acc.,5,4,shr_new_nbest/new_4/908.csv
+56,11,9,4,Buje,3.880059609022556390043131332E-28,1,0,bhuje,bhuja,,f. du. nom.,5,4,shr_new_nbest/new_4/908.csv
+57,25,9,4,Buje,3.880059609022556390043131332E-28,2,0,bhuje,bhuja,,f. du. voc.,5,4,shr_new_nbest/new_4/908.csv
+58,26,9,4,Buje,3.880059609022556390043131332E-28,2,0,bhuje,bhuja,,f. sg. voc.,5,4,shr_new_nbest/new_4/908.csv
+59,4,9,5,dakziRam,2.930207458646616540647794092E-34,1,0,dakṣiṇam,dakṣiṇa,,m. sg. acc.,8,8,shr_new_nbest/new_4/903.csv
+60,5,9,5,dakziRam,2.930207458646616540647794092E-34,1,0,dakṣiṇam,dakṣiṇa,,n. sg. acc.,8,8,shr_new_nbest/new_4/903.csv
+61,6,9,5,dakziRam,2.930207458646616540647794092E-34,1,0,dakṣiṇam,dakṣiṇa,,n. sg. nom.,8,8,shr_new_nbest/new_4/903.csv
+62,7,10,1,Bujam,2.952406E-34,1,0,bhujam,bhuja,,m. sg. acc.,6,5,shr_new_nbest/new_4/903.csv
+63,8,11,1,sPuraRam,0.9924812030075187967536887331,1,0,sphuraṇam,sphuraṇa,,m. sg. acc.,9,8,shr_new_nbest/new_4/900.csv
+64,9,11,1,sPuraRam,0.9924812030075187967536887331,1,0,sphuraṇam,sphuraṇa,,n. sg. acc.,9,8,shr_new_nbest/new_4/900.csv
+65,10,11,1,sPuraRam,0.9924812030075187967536887331,1,0,sphuraṇam,sphuraṇa,,n. sg. nom.,9,8,shr_new_nbest/new_4/900.csv
+66,11,15,0,AsIt,1,1,0,āsīt,ās,,inj. [5] ac. sg. 3,4,4,shr_new_nbest/new_4/900.csv
+67,12,15,0,AsIt,1,1,0,āsīt,ās,,aor. [5] ac. sg. 3,4,4,shr_new_nbest/new_4/900.csv
+68,13,15,0,AsIt,1,1,0,āsīt,as,,impft. [2] ac. sg. 3,4,4,shr_new_nbest/new_4/900.csv
+69,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+70,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+71,,3,0,<eps>,1,1,0,<eps>,,,,1,1,
+72,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+73,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+74,,7,0,<eps>,0.007518796992481202820945169743,1,0,<eps>,,,,10,10,
+75,,8,0,<eps>,1,1,0,<eps>,,,,8,8,
+76,,9,0,<eps>,0.007518796992481203246309786212,1,0,<eps>,,,,8,8,
+77,,10,0,<eps>,1,1,0,<eps>,,,,5,5,
+78,,11,0,<eps>,0.007518796992481203246311266889,1,0,<eps>,,,,8,8,
+79,,12,0,<eps>,1,1,0,<eps>,,,,1,1,
+80,,13,0,<eps>,1,1,0,<eps>,,,,1,1,
+81,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+82,,16,0,<eps>,1,1,0,<eps>,,,,1,1,

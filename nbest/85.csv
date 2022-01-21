@@ -1,0 +1,62 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,ezaH,1,1,0,eṣaḥ,eṣa,,m. sg. nom.,4,4,shr_new_nbest/new_1/834.csv
+1,12,1,0,ezaH,1,2,0,eṣaḥ,etad,,m. sg. nom.,4,4,shr_new_nbest/new_1/834.csv
+2,0,1,1,eza,4.796479E-31,1,0,eṣa,iṣ,,imp. [1] ac. sg. 2,3,3,shr_new_nbest/new_1/837.csv
+3,1,1,1,eza,4.796479E-31,1,0,eṣa,iṣ,,imp. [1] ac. sg. 2,3,3,shr_new_nbest/new_1/837.csv
+4,13,1,1,eza,4.796479E-31,2,0,eṣa,eṣa,,m. sg. voc.,3,3,shr_new_nbest/new_1/837.csv
+5,14,1,1,eza,4.796479E-31,2,0,eṣa,eṣa,,n. sg. voc.,3,3,shr_new_nbest/new_1/837.csv
+6,1,3,1,ikzvAkukulatilakasya,0.9958506224066390038188047726,1,0,ikṣvāku,ikṣvāku,,iic.,7,7,shr_new_nbest/new_1/834.csv
+7,2,3,1,ikzvAkukulatilakasya,0.9958506224066390038188047726,1,7,kula,kula,,iic.,4,11,shr_new_nbest/new_1/834.csv
+8,3,3,1,ikzvAkukulatilakasya,0.9958506224066390038188047726,1,11,tilakasya,tilaka,,m. sg. g.,9,20,shr_new_nbest/new_1/834.csv
+9,13,3,1,ikzvAkukulatilakasya,0.9958506224066390038188047726,2,11,tilakasya,tilaka,,n. sg. g.,9,20,shr_new_nbest/new_1/834.csv
+10,1,3,2,ikzvAkukulatilatasya,3.858455103734439832744081293E-35,1,0,ikṣvākukulatilatasya,ikṣvākukulatilatasya,,?,20,20,shr_new_nbest/new_1/842.csv
+11,4,11,1,daSaraTasya,0.9958506224066390038188047726,1,0,daśarathasya,daśaratha,,m. sg. g.,12,11,shr_new_nbest/new_1/834.csv
+12,14,11,1,daSaraTasya,0.9958506224066390038188047726,2,0,daśa,daśan,,iic.,4,4,shr_new_nbest/new_1/834.csv
+13,15,11,1,daSaraTasya,0.9958506224066390038188047726,2,4,rathasya,ratha,,m. sg. g.,8,11,shr_new_nbest/new_1/834.csv
+14,21,11,1,daSaraTasya,0.9958506224066390038188047726,3,0,daśa,daśan,,m. pl. acc.,4,4,shr_new_nbest/new_1/834.csv
+15,22,11,1,daSaraTasya,0.9958506224066390038188047726,3,0,daśa,daśan,,m. pl. nom.,4,4,shr_new_nbest/new_1/834.csv
+16,23,11,1,daSaraTasya,0.9958506224066390038188047726,3,4,rathasya,ratha,,n. sg. g.,8,11,shr_new_nbest/new_1/834.csv
+17,24,11,1,daSaraTasya,0.9958506224066390038188047726,4,0,daśa,daṃś,,imp. [1] ac. sg. 2,4,4,shr_new_nbest/new_1/834.csv
+18,5,13,1,jIvane,0.9958506224066390038188047677,1,0,jīvane,jīvana,,m. sg. loc.,6,6,shr_new_nbest/new_1/834.csv
+19,6,13,1,jIvane,0.9958506224066390038188047677,1,0,jīvane,jīvana,,n. du. acc.,6,6,shr_new_nbest/new_1/834.csv
+20,7,13,1,jIvane,0.9958506224066390038188047677,1,0,jīvane,jīvana,,n. du. nom.,6,6,shr_new_nbest/new_1/834.csv
+21,8,13,1,jIvane,0.9958506224066390038188047677,1,0,jīvane,jīvana,,n. sg. loc.,6,6,shr_new_nbest/new_1/834.csv
+22,16,13,1,jIvane,0.9958506224066390038188047677,2,0,jīvane,jīvana,,n. du. voc.,6,6,shr_new_nbest/new_1/834.csv
+23,5,13,2,jevane,5.292969958506224064633038992E-27,1,0,jevane,jevane,,?,6,6,shr_new_nbest/new_1/841.csv
+24,9,16,1,ekaH,0,1,0,ekaḥ,eka,,m. sg. nom.,4,4,shr_new_nbest/new_1/834.csv
+25,9,17,1,ekaH,0.9958506224066390038060458981,1,0,ekaḥ,eka,,m. sg. nom.,4,4,shr_new_nbest/new_1/834.csv
+26,9,17,2,kaH,1.281203651452282157234637902E-20,1,0,kaḥ,kim,,m. sg. nom.,3,3,shr_new_nbest/new_1/835.csv
+27,9,18,1,kaH,2.008318999999999999999999960E-26,1,0,kaḥ,kim,,m. sg. nom.,3,3,shr_new_nbest/new_1/835.csv
+28,10,18,2,maTuraH,2.745459742545334044199999945E-70,1,0,mathuraḥ,mathuraḥ,,?,8,7,shr_new_nbest/new_1/840.csv
+29,10,19,1,maDuraH,0.9958506224066390038188047726,1,0,madhuraḥ,madhura,,m. sg. nom.,8,7,shr_new_nbest/new_1/834.csv
+30,17,19,1,maDuraH,0.9958506224066390038188047726,2,0,madhu,madhu,,iic.,5,4,shr_new_nbest/new_1/834.csv
+31,18,19,1,maDuraH,0.9958506224066390038188047726,2,4,raḥ,rā,,m. pl. acc.,3,7,shr_new_nbest/new_1/834.csv
+32,19,19,1,maDuraH,0.9958506224066390038188047726,2,4,raḥ,rā,,m. sg. g.,3,7,shr_new_nbest/new_1/834.csv
+33,20,19,1,maDuraH,0.9958506224066390038188047726,2,4,raḥ,rā,,m. sg. abl.,3,7,shr_new_nbest/new_1/834.csv
+34,10,19,2,maTuraH,1.562615490960995850103696103E-35,1,0,mathuraḥ,mathuraḥ,,?,8,7,shr_new_nbest/new_1/840.csv
+35,11,21,1,GawwaH,0.9958506224066390038187741216,1,0,ghaṭṭaḥ,ghaṭṭa,,m. sg. nom.,7,6,shr_new_nbest/new_1/834.csv
+36,11,21,2,GawaH,3.077843651452282156654562977E-23,1,0,ghaṭaḥ,ghaṭa,,m. sg. nom.,6,5,shr_new_nbest/new_1/836.csv
+37,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+38,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+39,,3,0,<eps>,0.004149377593360996181195227355,1,0,<eps>,,,,20,20,
+40,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+41,,5,0,<eps>,1,1,0,<eps>,,,,1,1,
+42,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+43,,7,0,<eps>,1,1,0,<eps>,,,,1,1,
+44,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+45,,9,0,<eps>,1,1,0,<eps>,,,,1,1,
+46,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+47,,11,0,<eps>,0.004149377593360996181195227355,1,0,<eps>,,,,11,11,
+48,,12,0,<eps>,1,1,0,<eps>,,,,1,1,
+49,,13,0,<eps>,0.004149377593360996181195227334,1,0,<eps>,,,,6,6,
+50,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+51,,15,0,<eps>,1,1,0,<eps>,,,,1,1,
+52,,16,0,<eps>,1,1,0,<eps>,,,,4,4,
+53,,17,0,<eps>,0.004149377593360996181142065378,1,0,<eps>,,,,4,4,
+54,,18,0,<eps>,0.9999999999999999999999999800,1,0,<eps>,,,,7,7,
+55,,19,0,<eps>,0.004149377593360996181195227355,1,0,<eps>,,,,7,7,
+56,,20,0,<eps>,1,1,0,<eps>,,,,1,1,
+57,,21,0,<eps>,0.004149377593360996181195099642,1,0,<eps>,,,,6,6,
+58,,22,0,<eps>,1,1,0,<eps>,,,,1,1,
+59,,23,0,<eps>,1,1,0,<eps>,,,,1,1,
+60,,24,0,<eps>,1,1,0,<eps>,,,,1,1,

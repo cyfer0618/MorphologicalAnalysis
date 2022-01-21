@@ -1,0 +1,77 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,paRqitaH,1,1,0,paṇḍitaḥ,paṇḍita,,m. sg. nom.,8,8,shr_new_nbest/new_13/1898.csv
+1,1,3,1,carmakArasya,0.9863013254685748508302150996,1,0,carma,carman,,iic.,5,5,shr_new_nbest/new_13/1898.csv
+2,2,3,1,carmakArasya,0.9863013254685748508302150996,1,5,kārasya,kāra,,m. sg. g.,7,12,shr_new_nbest/new_13/1898.csv
+3,3,3,1,carmakArasya,0.9863013254685748508302150996,1,5,kārasya,kāra,,n. sg. g.,7,12,shr_new_nbest/new_13/1898.csv
+4,4,3,1,carmakArasya,0.9863013254685748508302150996,1,5,kārasya,kārā,,m. sg. g.,7,12,shr_new_nbest/new_13/1898.csv
+5,5,3,1,carmakArasya,0.9863013254685748508302150996,1,5,kārasya,kārā,,n. sg. g.,7,12,shr_new_nbest/new_13/1898.csv
+6,10,3,1,carmakArasya,0.9863013254685748508302150996,2,0,carma,carman,,n. sg. acc.,5,5,shr_new_nbest/new_13/1898.csv
+7,11,3,1,carmakArasya,0.9863013254685748508302150996,2,0,carma,carman,,n. sg. nom.,5,5,shr_new_nbest/new_13/1898.csv
+8,12,3,1,carmakArasya,0.9863013254685748508302150996,2,5,kā,kim,,f. sg. nom.,2,7,shr_new_nbest/new_13/1898.csv
+9,13,3,1,carmakArasya,0.9863013254685748508302150996,2,7,rasya,rasya,,n. sg. voc.,5,12,shr_new_nbest/new_13/1898.csv
+10,14,3,1,carmakArasya,0.9863013254685748508302150996,2,7,rasya,rasya,,m. sg. voc.,5,12,shr_new_nbest/new_13/1898.csv
+11,15,3,1,carmakArasya,0.9863013254685748508302150996,3,6,arasya,ara,,m. sg. g.,6,12,shr_new_nbest/new_13/1898.csv
+12,16,3,1,carmakArasya,0.9863013254685748508302150996,3,6,arasya,ara,,n. sg. g.,6,12,shr_new_nbest/new_13/1898.csv
+13,17,3,1,carmakArasya,0.9863013254685748508302150996,4,6,ārasya,āra,,n. sg. g.,6,12,shr_new_nbest/new_13/1898.csv
+14,18,3,1,carmakArasya,0.9863013254685748508302150996,4,6,ārasya,āra,,m. sg. g.,6,12,shr_new_nbest/new_13/1898.csv
+15,19,3,1,carmakArasya,0.9863013254685748508302150996,5,6,a,a,,iic.,1,7,shr_new_nbest/new_13/1898.csv
+16,1,3,2,carma,4.364116513950893126228439450E-8,1,0,carma,carman,,n. sg. acc.,5,5,shr_new_nbest/new_13/1899.csv
+17,2,3,2,carma,4.364116513950893126228439450E-8,1,0,carma,carman,,n. sg. nom.,5,5,shr_new_nbest/new_13/1899.csv
+18,10,3,2,carma,4.364116513950893126228439450E-8,2,0,carma,carman,,n. sg. voc.,5,5,shr_new_nbest/new_13/1899.csv
+19,1,3,3,carmakAraH,4.858333918307686154542832670E-17,1,0,carma,carman,,iic.,5,5,shr_new_nbest/new_13/1900.csv
+20,2,3,3,carmakAraH,4.858333918307686154542832670E-17,1,5,kāraḥ,kāra,,m. sg. nom.,5,10,shr_new_nbest/new_13/1900.csv
+21,3,3,3,carmakAraH,4.858333918307686154542832670E-17,1,5,kāraḥ,kārā,,m. sg. nom.,5,10,shr_new_nbest/new_13/1900.csv
+22,9,3,3,carmakAraH,4.858333918307686154542832670E-17,2,0,carma,carman,,n. sg. acc.,5,5,shr_new_nbest/new_13/1900.csv
+23,10,3,3,carmakAraH,4.858333918307686154542832670E-17,2,0,carma,carman,,n. sg. nom.,5,5,shr_new_nbest/new_13/1900.csv
+24,11,3,3,carmakAraH,4.858333918307686154542832670E-17,2,5,kā,kim,,f. sg. nom.,2,7,shr_new_nbest/new_13/1900.csv
+25,12,3,3,carmakAraH,4.858333918307686154542832670E-17,3,6,araḥ,ara,,m. sg. nom.,4,10,shr_new_nbest/new_13/1900.csv
+26,13,3,3,carmakAraH,4.858333918307686154542832670E-17,4,6,āraḥ,āra,,m. sg. nom.,4,10,shr_new_nbest/new_13/1900.csv
+27,14,3,3,carmakAraH,4.858333918307686154542832670E-17,5,6,āraḥ,ṛ,,aor. [2] ac. sg. 2,4,10,shr_new_nbest/new_13/1900.csv
+28,1,3,4,carmakAraSca,3.320512617663593618625377891E-23,1,0,carma,carman,,iic.,5,5,shr_new_nbest/new_13/1901.csv
+29,2,3,4,carmakAraSca,3.320512617663593618625377891E-23,1,5,kāraḥ,kāra,,m. sg. nom.,5,10,shr_new_nbest/new_13/1901.csv
+30,3,3,4,carmakAraSca,3.320512617663593618625377891E-23,1,5,kāraḥ,kārā,,m. sg. nom.,5,10,shr_new_nbest/new_13/1901.csv
+31,4,3,4,carmakAraSca,3.320512617663593618625377891E-23,1,10,ca,ca,,conj.,2,12,shr_new_nbest/new_13/1901.csv
+32,9,3,4,carmakAraSca,3.320512617663593618625377891E-23,2,0,carma,carman,,n. sg. acc.,5,5,shr_new_nbest/new_13/1901.csv
+33,10,3,4,carmakAraSca,3.320512617663593618625377891E-23,2,0,carma,carman,,n. sg. nom.,5,5,shr_new_nbest/new_13/1901.csv
+34,11,3,4,carmakAraSca,3.320512617663593618625377891E-23,2,5,kā,kim,,f. sg. nom.,2,7,shr_new_nbest/new_13/1901.csv
+35,12,3,4,carmakAraSca,3.320512617663593618625377891E-23,3,6,araḥ,ara,,m. sg. nom.,4,10,shr_new_nbest/new_13/1901.csv
+36,13,3,4,carmakAraSca,3.320512617663593618625377891E-23,4,6,āraḥ,āra,,m. sg. nom.,4,10,shr_new_nbest/new_13/1901.csv
+37,14,3,4,carmakAraSca,3.320512617663593618625377891E-23,5,6,āraḥ,ṛ,,aor. [2] ac. sg. 2,4,10,shr_new_nbest/new_13/1901.csv
+38,1,3,5,carmakarasya,1.588634558630908043657376631E-32,1,0,carma,carman,,iic.,5,5,shr_new_nbest/new_13/1907.csv
+39,2,3,5,carmakarasya,1.588634558630908043657376631E-32,1,5,karasya,kara,,m. sg. g.,7,12,shr_new_nbest/new_13/1907.csv
+40,3,3,5,carmakarasya,1.588634558630908043657376631E-32,1,5,karasya,kara,,n. sg. g.,7,12,shr_new_nbest/new_13/1907.csv
+41,4,3,5,carmakarasya,1.588634558630908043657376631E-32,1,5,karasya,kara,,m. sg. g.,7,12,shr_new_nbest/new_13/1907.csv
+42,9,3,5,carmakarasya,1.588634558630908043657376631E-32,2,0,carma,carman,,n. sg. acc.,5,5,shr_new_nbest/new_13/1907.csv
+43,10,3,5,carmakarasya,1.588634558630908043657376631E-32,2,0,carma,carman,,n. sg. nom.,5,5,shr_new_nbest/new_13/1907.csv
+44,11,3,5,carmakarasya,1.588634558630908043657376631E-32,2,5,karasya,kara,,n. sg. g.,7,12,shr_new_nbest/new_13/1907.csv
+45,1,3,6,ScarmakArasya,8.447633219222575544295121259E-44,1,0,ścarmakārasya,ścarmakārasya,,?,13,13,shr_new_nbest/new_13/1903.csv
+46,3,5,1,kArasya,0.9863013698630136994948068072,1,0,kā,kim,,f. sg. nom.,2,2,shr_new_nbest/new_13/1899.csv
+47,4,5,1,kArasya,0.9863013698630136994948068072,1,2,rasya,rasya,,n. sg. voc.,5,7,shr_new_nbest/new_13/1899.csv
+48,5,5,1,kArasya,0.9863013698630136994948068072,1,2,rasya,rasya,,m. sg. voc.,5,7,shr_new_nbest/new_13/1899.csv
+49,11,5,1,kArasya,0.9863013698630136994948068072,2,1,arasya,ara,,m. sg. g.,6,7,shr_new_nbest/new_13/1899.csv
+50,12,5,1,kArasya,0.9863013698630136994948068072,2,1,arasya,ara,,n. sg. g.,6,7,shr_new_nbest/new_13/1899.csv
+51,13,5,1,kArasya,0.9863013698630136994948068072,3,1,ārasya,āra,,n. sg. g.,6,7,shr_new_nbest/new_13/1899.csv
+52,14,5,1,kArasya,0.9863013698630136994948068072,3,1,ārasya,āra,,m. sg. g.,6,7,shr_new_nbest/new_13/1899.csv
+53,15,5,1,kArasya,0.9863013698630136994948068072,4,1,a,a,,iic.,1,2,shr_new_nbest/new_13/1899.csv
+54,3,5,2,kAraSca,3.320512767123287674143900936E-23,1,0,kā,kim,,f. sg. nom.,2,2,shr_new_nbest/new_13/1905.csv
+55,4,5,2,kAraSca,3.320512767123287674143900936E-23,1,5,ca,ca,,conj.,2,7,shr_new_nbest/new_13/1905.csv
+56,10,5,2,kAraSca,3.320512767123287674143900936E-23,2,1,araḥ,ara,,m. sg. nom.,4,5,shr_new_nbest/new_13/1905.csv
+57,11,5,2,kAraSca,3.320512767123287674143900936E-23,3,1,āraḥ,āra,,m. sg. nom.,4,5,shr_new_nbest/new_13/1905.csv
+58,12,5,2,kAraSca,3.320512767123287674143900936E-23,4,1,āraḥ,ṛ,,aor. [2] ac. sg. 2,4,5,shr_new_nbest/new_13/1905.csv
+59,4,6,1,sya,4.925813999999999757363564369E-17,1,0,sya,sya,,?,3,3,shr_new_nbest/new_13/1900.csv
+60,4,6,2,sa,1.067374999999999947423092816E-27,1,0,sa,tad,,m. sg. nom.,2,2,shr_new_nbest/new_13/1904.csv
+61,6,7,1,nikawam,0.9863013698630136994948395571,1,0,nikaṭam,nikaṭa,,m. sg. acc.,7,7,shr_new_nbest/new_13/1898.csv
+62,7,7,1,nikawam,0.9863013698630136994948395571,1,0,nikaṭam,nikaṭa,,n. sg. acc.,7,7,shr_new_nbest/new_13/1898.csv
+63,8,7,1,nikawam,0.9863013698630136994948395571,1,0,nikaṭam,nikaṭa,,n. sg. nom.,7,7,shr_new_nbest/new_13/1898.csv
+64,9,11,0,gatvA,1,1,0,gatvā,gam,,abs.,5,5,shr_new_nbest/new_13/1898.csv
+65,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+66,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+67,,3,0,<eps>,0.01369863089025996107748125038,1,0,<eps>,,,,13,13,
+68,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+69,,5,0,<eps>,0.01369863013698630050515998800,1,0,<eps>,,,,7,7,
+70,,6,0,<eps>,0.9999999999999999507418599990,1,0,<eps>,,,,3,3,
+71,,7,0,<eps>,0.01369863013698630050516044286,1,0,<eps>,,,,7,7,
+72,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+73,,9,0,<eps>,1,1,0,<eps>,,,,1,1,
+74,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+75,,12,0,<eps>,1,1,0,<eps>,,,,1,1,

@@ -1,0 +1,43 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,mama,0.9999999999999999999999999810,1,0,mama,asmad,,m. sg. g.,4,4,shr_new_nbest/new_4/1712.csv
+1,8,1,0,mama,0.9999999999999999999999999810,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_4/1712.csv
+2,9,1,0,mama,0.9999999999999999999999999810,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_4/1712.csv
+3,0,1,1,manujanma,1.917740999999999999999999964E-26,1,0,manu,manu,,iic.,4,4,shr_new_nbest/new_4/1716.csv
+4,1,1,1,manujanma,1.917740999999999999999999964E-26,1,4,janma,janman,,n. sg. acc.,5,9,shr_new_nbest/new_4/1716.csv
+5,2,1,1,manujanma,1.917740999999999999999999964E-26,1,4,janma,janman,,n. sg. nom.,5,9,shr_new_nbest/new_4/1716.csv
+6,8,1,1,manujanma,1.917740999999999999999999964E-26,2,4,janma,janman,,n. sg. voc.,5,9,shr_new_nbest/new_4/1716.csv
+7,9,1,1,manujanma,1.917740999999999999999999964E-26,3,4,janma,janman,,m. sg. voc.,5,9,shr_new_nbest/new_4/1716.csv
+8,0,1,2,mana,2.987788999999999999999999943E-34,1,0,mana,mana,,?,4,4,shr_new_nbest/new_4/1720.csv
+9,1,3,1,janma,0.9756097560975609756097560976,1,0,janma,janman,,n. sg. acc.,5,5,shr_new_nbest/new_4/1712.csv
+10,2,3,1,janma,0.9756097560975609756097560976,1,0,janma,janman,,n. sg. nom.,5,5,shr_new_nbest/new_4/1712.csv
+11,10,3,1,janma,0.9756097560975609756097560976,2,0,janma,janman,,n. sg. voc.,5,5,shr_new_nbest/new_4/1712.csv
+12,3,5,0,api,1,1,0,api,api,,conj.,3,3,shr_new_nbest/new_4/1712.csv
+13,4,5,0,api,1,1,0,api,api,,prep.,3,3,shr_new_nbest/new_4/1712.csv
+14,3,5,1,apiDanyam,1.565012000000000000000000022E-33,1,0,api,api,,ind.,3,3,shr_new_nbest/new_4/1719.csv
+15,4,5,1,apiDanyam,1.565012000000000000000000022E-33,1,3,dhanyam,dhanya,,m. sg. acc.,7,9,shr_new_nbest/new_4/1719.csv
+16,5,5,1,apiDanyam,1.565012000000000000000000022E-33,1,3,dhanyam,dhanya,,n. sg. acc.,7,9,shr_new_nbest/new_4/1719.csv
+17,6,5,1,apiDanyam,1.565012000000000000000000022E-33,1,3,dhanyam,dhanya,,n. sg. nom.,7,9,shr_new_nbest/new_4/1719.csv
+18,5,6,1,Danyam,1.399136488200999999999999980E-26,1,0,dhanyam,dhanya,,m. sg. acc.,7,6,shr_new_nbest/new_4/1712.csv
+19,6,6,1,Danyam,1.399136488200999999999999980E-26,1,0,dhanyam,dhanya,,n. sg. acc.,7,6,shr_new_nbest/new_4/1712.csv
+20,7,6,1,Danyam,1.399136488200999999999999980E-26,1,0,dhanyam,dhanya,,n. sg. nom.,7,6,shr_new_nbest/new_4/1712.csv
+21,5,6,2,Danyan,3.341282019269999999999999953E-40,1,0,dhanyan,dhanyan,,?,7,6,shr_new_nbest/new_4/1717.csv
+22,5,6,3,DanIyam,9.304007887547999999999999870E-42,1,0,dhani,dhanin,,n. sg. acc.,5,4,shr_new_nbest/new_4/1715.csv
+23,6,6,3,DanIyam,9.304007887547999999999999870E-42,1,0,dhani,dhanin,,n. sg. nom.,5,4,shr_new_nbest/new_4/1715.csv
+24,7,6,3,DanIyam,9.304007887547999999999999870E-42,1,4,yam,yad,,m. sg. acc.,3,7,shr_new_nbest/new_4/1715.csv
+25,11,6,3,DanIyam,9.304007887547999999999999870E-42,2,0,dhanī,dhanin,,m. sg. nom.,5,4,shr_new_nbest/new_4/1715.csv
+26,12,6,3,DanIyam,9.304007887547999999999999870E-42,3,3,iyam,idam,,f. sg. nom.,4,7,shr_new_nbest/new_4/1715.csv
+27,5,6,4,danyam,8.460930837297999999999999882E-46,1,0,danyam,danyam,,?,6,6,shr_new_nbest/new_4/1718.csv
+28,5,7,1,Danyam,0.9756097560975609756097560909,1,0,dhanyam,dhanya,,m. sg. acc.,7,6,shr_new_nbest/new_4/1712.csv
+29,6,7,1,Danyam,0.9756097560975609756097560909,1,0,dhanyam,dhanya,,n. sg. acc.,7,6,shr_new_nbest/new_4/1712.csv
+30,7,7,1,Danyam,0.9756097560975609756097560909,1,0,dhanyam,dhanya,,n. sg. nom.,7,6,shr_new_nbest/new_4/1712.csv
+31,5,7,2,Darmyam,6.655174634146341463414634101E-27,1,0,dharmyam,dharmya,,m. sg. acc.,8,7,shr_new_nbest/new_4/1714.csv
+32,6,7,2,Darmyam,6.655174634146341463414634101E-27,1,0,dharmyam,dharmya,,n. sg. acc.,8,7,shr_new_nbest/new_4/1714.csv
+33,7,7,2,Darmyam,6.655174634146341463414634101E-27,1,0,dharmyam,dharmya,,n. sg. nom.,8,7,shr_new_nbest/new_4/1714.csv
+34,8,8,1,t,6.009703E-33,1,0,t,t,,?,1,1,shr_new_nbest/new_4/1721.csv
+35,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+36,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+37,,3,0,<eps>,0.02439024390243902439024390244,1,0,<eps>,,,,5,5,
+38,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+39,,6,0,<eps>,0.9999999999999999999999999860,1,0,<eps>,,,,7,7,
+40,,7,0,<eps>,0.02439024390243902439024390227,1,0,<eps>,,,,7,7,
+41,,8,0,<eps>,1,1,0,<eps>,,,,1,1,

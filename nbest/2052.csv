@@ -1,0 +1,64 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,mahatA,1,1,0,mahatā,mahat,,m. sg. i.,6,6,shr_new_nbest/new_10/1688.csv
+1,1,1,0,mahatA,1,1,0,mahatā,mahat,,n. sg. i.,6,6,shr_new_nbest/new_10/1688.csv
+2,2,3,1,santozeRa,0.9868421052631578940876038781,1,0,santoṣeṇa,santoṣa,,m. sg. i.,9,9,shr_new_nbest/new_10/1688.csv
+3,3,7,0,SizyaH,1,1,0,śiṣyaḥ,śiṣya,,m. sg. nom.,6,6,shr_new_nbest/new_10/1688.csv
+4,3,7,1,SizaH,3.465955E-30,1,0,śiṣaḥ,śiṣaḥ,,?,5,5,shr_new_nbest/new_10/1697.csv
+5,4,9,1,pratyagacCat,0.9868420948752063373274648275,1,0,pratyagacchat,prati-gam,,impft. [1] ac. sg. 3,13,12,shr_new_nbest/new_10/1688.csv
+6,5,9,1,pratyagacCat,0.9868420948752063373274648275,2,0,pratyak,pratyac,,iic.,7,7,shr_new_nbest/new_10/1688.csv
+7,6,9,1,pratyagacCat,0.9868420948752063373274648275,2,7,at,ad,,iic.,2,9,shr_new_nbest/new_10/1688.csv
+8,7,9,1,pratyagacCat,0.9868420948752063373274648275,2,9,chat,chad,,m. sg. nom.,4,12,shr_new_nbest/new_10/1688.csv
+9,8,9,1,pratyagacCat,0.9868420948752063373274648275,2,9,chat,chad,,n. sg. acc.,4,12,shr_new_nbest/new_10/1688.csv
+10,9,9,1,pratyagacCat,0.9868420948752063373274648275,2,9,chat,chad,,n. sg. nom.,4,12,shr_new_nbest/new_10/1688.csv
+11,10,9,1,pratyagacCat,0.9868420948752063373274648275,2,9,chat,chad,,f. sg. nom.,4,12,shr_new_nbest/new_10/1688.csv
+12,11,9,1,pratyagacCat,0.9868420948752063373274648275,3,0,prati,prati,,prep.,5,5,shr_new_nbest/new_10/1688.csv
+13,12,9,1,pratyagacCat,0.9868420948752063373274648275,3,5,agacchat,gam,,impft. [1] ac. sg. 3,8,12,shr_new_nbest/new_10/1688.csv
+14,13,9,1,pratyagacCat,0.9868420948752063373274648275,4,5,aga,aga,,iic.,3,8,shr_new_nbest/new_10/1688.csv
+15,14,9,1,pratyagacCat,0.9868420948752063373274648275,4,9,chat,chad,,m. sg. voc.,4,12,shr_new_nbest/new_10/1688.csv
+16,15,9,1,pratyagacCat,0.9868420948752063373274648275,4,9,chat,chad,,n. sg. voc.,4,12,shr_new_nbest/new_10/1688.csv
+17,16,9,1,pratyagacCat,0.9868420948752063373274648275,4,9,chat,chad,,f. sg. voc.,4,12,shr_new_nbest/new_10/1688.csv
+18,17,9,1,pratyagacCat,0.9868420948752063373274648275,5,5,a,a,,iic.,1,6,shr_new_nbest/new_10/1688.csv
+19,18,9,1,pratyagacCat,0.9868420948752063373274648275,5,6,gacchat,gacchat,,n. sg. acc.,7,12,shr_new_nbest/new_10/1688.csv
+20,19,9,1,pratyagacCat,0.9868420948752063373274648275,5,6,gacchat,gacchat,,n. sg. nom.,7,12,shr_new_nbest/new_10/1688.csv
+21,20,9,1,pratyagacCat,0.9868420948752063373274648275,6,6,gacchat,gacchat,,n. sg. voc.,7,12,shr_new_nbest/new_10/1688.csv
+22,4,9,2,pracca,1.355617358337911369804493981E-13,1,0,pracca,pracca,,?,6,6,shr_new_nbest/new_10/1689.csv
+23,4,9,3,pracagacCat,2.131314316932651031183169503E-17,1,0,pracagacchat,pracagacchat,,?,12,11,shr_new_nbest/new_10/1690.csv
+24,4,9,4,pratyagacCan,6.305600262571734053462868822E-21,1,0,pratyagacchan,prati-gam,,impft. [1] ac. pl. 3,13,12,shr_new_nbest/new_10/1691.csv
+25,5,9,4,pratyagacCan,6.305600262571734053462868822E-21,2,0,prati,prati,,prep.,5,5,shr_new_nbest/new_10/1691.csv
+26,6,9,4,pratyagacCan,6.305600262571734053462868822E-21,2,5,agacchan,gam,,impft. [1] ac. pl. 3,8,12,shr_new_nbest/new_10/1691.csv
+27,7,9,4,pratyagacCan,6.305600262571734053462868822E-21,3,5,a,a,,iic.,1,6,shr_new_nbest/new_10/1691.csv
+28,8,9,4,pratyagacCan,6.305600262571734053462868822E-21,3,6,gacchan,gacchat,,m. sg. nom.,7,12,shr_new_nbest/new_10/1691.csv
+29,9,9,4,pratyagacCan,6.305600262571734053462868822E-21,4,6,gacchan,gacchat,,m. sg. voc.,7,12,shr_new_nbest/new_10/1691.csv
+30,4,9,5,pratyagacCati,1.155229922050047420284662134E-23,1,0,pratyak,pratyac,,iic.,7,7,shr_new_nbest/new_10/1692.csv
+31,5,9,5,pratyagacCati,1.155229922050047420284662134E-23,1,7,at,ad,,iic.,2,9,shr_new_nbest/new_10/1692.csv
+32,6,9,5,pratyagacCati,1.155229922050047420284662134E-23,1,9,śati,śata,,f. sg. voc.,4,13,shr_new_nbest/new_10/1692.csv
+33,7,9,5,pratyagacCati,1.155229922050047420284662134E-23,2,0,prati,prati,,prep.,5,5,shr_new_nbest/new_10/1692.csv
+34,8,9,5,pratyagacCati,1.155229922050047420284662134E-23,2,5,a,a,,iic.,1,6,shr_new_nbest/new_10/1692.csv
+35,9,9,5,pratyagacCati,1.155229922050047420284662134E-23,2,6,gacchati,gacchat,,n. sg. loc.,8,13,shr_new_nbest/new_10/1692.csv
+36,10,9,5,pratyagacCati,1.155229922050047420284662134E-23,2,6,gacchati,gacchat,,m. sg. loc.,8,13,shr_new_nbest/new_10/1692.csv
+37,4,9,6,praccagacCat,3.061668629196308726807633445E-24,1,0,praccagacchat,praccagacchat,,?,13,12,shr_new_nbest/new_10/1696.csv
+38,4,9,7,pratyagacCatu,1.736801626454473270236507670E-28,1,0,pratyak,pratyac,,n. sg. acc.,7,7,shr_new_nbest/new_10/1695.csv
+39,5,9,7,pratyagacCatu,1.736801626454473270236507670E-28,1,0,pratyak,pratyac,,n. sg. nom.,7,7,shr_new_nbest/new_10/1695.csv
+40,6,9,7,pratyagacCatu,1.736801626454473270236507670E-28,1,7,accha,acchā,,ind.,5,11,shr_new_nbest/new_10/1695.csv
+41,7,9,7,pratyagacCatu,1.736801626454473270236507670E-28,1,11,tu,tu,,ind.,2,13,shr_new_nbest/new_10/1695.csv
+42,4,9,8,pratyudgacCat,3.897102175712942374076019253E-29,1,0,prati,prati,,ind.,5,5,shr_new_nbest/new_10/1694.csv
+43,5,9,8,pratyudgacCat,3.897102175712942374076019253E-29,1,5,udgacchat,ut-gacchat,,n. sg. acc.,9,13,shr_new_nbest/new_10/1694.csv
+44,6,9,8,pratyudgacCat,3.897102175712942374076019253E-29,1,5,udgacchat,ut-gacchat,,n. sg. nom.,9,13,shr_new_nbest/new_10/1694.csv
+45,7,9,8,pratyudgacCat,3.897102175712942374076019253E-29,2,5,udgacchat,ut-gacchat,,n. sg. voc.,9,13,shr_new_nbest/new_10/1694.csv
+46,5,10,1,gacCat,2.403155105783042313216925287E-66,1,0,gacchat,gacchat,,n. sg. acc.,7,6,shr_new_nbest/new_10/1689.csv
+47,6,10,1,gacCat,2.403155105783042313216925287E-66,1,0,gacchat,gacchat,,n. sg. nom.,7,6,shr_new_nbest/new_10/1689.csv
+48,7,10,1,gacCat,2.403155105783042313216925287E-66,2,0,gacchat,gacchat,,n. sg. voc.,7,6,shr_new_nbest/new_10/1689.csv
+49,5,11,1,gacCat,0.9868421052631578940876038781,1,0,gacchat,gacchat,,n. sg. acc.,7,6,shr_new_nbest/new_10/1689.csv
+50,6,11,1,gacCat,0.9868421052631578940876038781,1,0,gacchat,gacchat,,n. sg. nom.,7,6,shr_new_nbest/new_10/1689.csv
+51,7,11,1,gacCat,0.9868421052631578940876038781,2,0,gacchat,gacchat,,n. sg. voc.,7,6,shr_new_nbest/new_10/1689.csv
+52,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+53,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+54,,3,0,<eps>,0.01315789473684210591239612188,1,0,<eps>,,,,9,9,
+55,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+56,,5,0,<eps>,1,1,0,<eps>,,,,1,1,
+57,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+58,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+59,,9,0,<eps>,0.01315790512465807961723799836,1,0,<eps>,,,,13,13,
+60,,10,0,<eps>,1,1,0,<eps>,,,,6,6,
+61,,11,0,<eps>,0.01315789473684210591239612188,1,0,<eps>,,,,6,6,
+62,,12,0,<eps>,1,1,0,<eps>,,,,1,1,

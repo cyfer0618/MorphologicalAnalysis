@@ -1,0 +1,89 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,tadAttezu,0.9926067565410038155715898070,1,0,tadātteṣu,tadātteṣu,,?,9,9,shr_new_nbest/new_27/1495.csv
+1,0,1,2,tadA,0.000003316337322514107253750584926,1,0,tadā,tadā,,ind.,4,4,shr_new_nbest/new_27/1491.csv
+2,0,1,3,tadAtezu,2.390437230398115585895883275E-8,1,0,tadā,tadā,,ind.,4,4,shr_new_nbest/new_27/1497.csv
+3,1,1,3,tadAtezu,2.390437230398115585895883275E-8,1,4,teṣu,tad,,n. pl. loc.,4,8,shr_new_nbest/new_27/1497.csv
+4,2,1,3,tadAtezu,2.390437230398115585895883275E-8,1,4,teṣu,tad,,m. pl. loc.,4,8,shr_new_nbest/new_27/1497.csv
+5,0,3,0,tadA,0.9999967285625251363383758817,1,0,tadā,tadā,,ind.,4,4,shr_new_nbest/new_27/1491.csv
+6,1,3,1,tezu,0.000002484181936838092231516400110,1,0,teṣu,tad,,n. pl. loc.,4,4,shr_new_nbest/new_27/1491.csv
+7,2,3,1,tezu,0.000002484181936838092231516400110,1,0,teṣu,tad,,m. pl. loc.,4,4,shr_new_nbest/new_27/1491.csv
+8,1,3,3,ktezu,2.765285834609085293495282241E-20,1,0,kteṣu,kteṣu,,?,5,5,shr_new_nbest/new_27/1500.csv
+9,1,4,1,tezu,1.760942929707E-42,1,0,teṣu,tad,,n. pl. loc.,4,4,shr_new_nbest/new_27/1491.csv
+10,2,4,1,tezu,1.760942929707E-42,1,0,teṣu,tad,,m. pl. loc.,4,4,shr_new_nbest/new_27/1491.csv
+11,1,5,0,tezu,0.9999999610797830405333623782,1,0,teṣu,tad,,n. pl. loc.,4,4,shr_new_nbest/new_27/1491.csv
+12,2,5,0,tezu,0.9999999610797830405333623782,1,0,teṣu,tad,,m. pl. loc.,4,4,shr_new_nbest/new_27/1491.csv
+13,1,5,1,ktezu,3.892021695946663725221758604E-8,1,0,kteṣu,kteṣu,,?,5,5,shr_new_nbest/new_27/1500.csv
+14,0,5,2,tadA,3.371805195732045474129554734E-25,1,0,tadā,tadā,,ind.,4,4,shr_new_nbest/new_27/1491.csv
+15,3,5,4,wIkAgranTezu,4.143846933095637415081458510E-36,1,0,ṭīkā,ṭīkā,,iic.,4,4,shr_new_nbest/new_27/1491.csv
+16,4,5,4,wIkAgranTezu,4.143846933095637415081458510E-36,1,4,grantheṣu,grantha,,m. pl. loc.,9,12,shr_new_nbest/new_27/1491.csv
+17,10,5,4,wIkAgranTezu,4.143846933095637415081458510E-36,2,0,ṭīkā,ṭīkā,,f. sg. nom.,4,4,shr_new_nbest/new_27/1491.csv
+18,11,5,4,wIkAgranTezu,4.143846933095637415081458510E-36,2,4,grantheṣu,grantha,,n. pl. loc.,9,12,shr_new_nbest/new_27/1491.csv
+19,13,5,4,wIkAgranTezu,4.143846933095637415081458510E-36,3,3,a,a,,iic.,1,4,shr_new_nbest/new_27/1491.csv
+20,14,5,4,wIkAgranTezu,4.143846933095637415081458510E-36,3,4,grantha,grantha,,iic.,7,10,shr_new_nbest/new_27/1491.csv
+21,16,5,4,wIkAgranTezu,4.143846933095637415081458510E-36,4,9,iṣu,iṣu,,n. sg. acc.,3,12,shr_new_nbest/new_27/1491.csv
+22,17,5,4,wIkAgranTezu,4.143846933095637415081458510E-36,4,9,iṣu,iṣu,,n. sg. nom.,3,12,shr_new_nbest/new_27/1491.csv
+23,19,5,4,wIkAgranTezu,4.143846933095637415081458510E-36,5,9,iṣu,iṣu,,n. sg. voc.,3,12,shr_new_nbest/new_27/1491.csv
+24,3,7,0,tIkAgranTezu,0.9703061708908148642197463872,1,0,tīkāgrantheṣu,tīkāgrantheṣu,,?,13,12,shr_new_nbest/new_27/1492.csv
+25,3,7,1,wIkAgranTezu,0.02969382910918512644731552974,1,0,ṭīkā,ṭīkā,,iic.,4,4,shr_new_nbest/new_27/1491.csv
+26,4,7,1,wIkAgranTezu,0.02969382910918512644731552974,1,4,grantheṣu,grantha,,m. pl. loc.,9,12,shr_new_nbest/new_27/1491.csv
+27,10,7,1,wIkAgranTezu,0.02969382910918512644731552974,2,0,ṭīkā,ṭīkā,,f. sg. nom.,4,4,shr_new_nbest/new_27/1491.csv
+28,11,7,1,wIkAgranTezu,0.02969382910918512644731552974,2,4,grantheṣu,grantha,,n. pl. loc.,9,12,shr_new_nbest/new_27/1491.csv
+29,13,7,1,wIkAgranTezu,0.02969382910918512644731552974,3,3,a,a,,iic.,1,4,shr_new_nbest/new_27/1491.csv
+30,14,7,1,wIkAgranTezu,0.02969382910918512644731552974,3,4,grantha,grantha,,iic.,7,10,shr_new_nbest/new_27/1491.csv
+31,16,7,1,wIkAgranTezu,0.02969382910918512644731552974,4,9,iṣu,iṣu,,n. sg. acc.,3,12,shr_new_nbest/new_27/1491.csv
+32,17,7,1,wIkAgranTezu,0.02969382910918512644731552974,4,9,iṣu,iṣu,,n. sg. nom.,3,12,shr_new_nbest/new_27/1491.csv
+33,19,7,1,wIkAgranTezu,0.02969382910918512644731552974,5,9,iṣu,iṣu,,n. sg. voc.,3,12,shr_new_nbest/new_27/1491.csv
+34,1,7,3,ktezu,3.632568891022933235409461378E-25,1,0,kteṣu,kteṣu,,?,5,5,shr_new_nbest/new_27/1500.csv
+35,3,8,1,wIkAgranTezu,1.130281999999998722462600476E-15,1,0,ṭīkā,ṭīkā,,iic.,4,4,shr_new_nbest/new_27/1491.csv
+36,4,8,1,wIkAgranTezu,1.130281999999998722462600476E-15,1,4,grantheṣu,grantha,,m. pl. loc.,9,12,shr_new_nbest/new_27/1491.csv
+37,10,8,1,wIkAgranTezu,1.130281999999998722462600476E-15,2,0,ṭīkā,ṭīkā,,f. sg. nom.,4,4,shr_new_nbest/new_27/1491.csv
+38,11,8,1,wIkAgranTezu,1.130281999999998722462600476E-15,2,4,grantheṣu,grantha,,n. pl. loc.,9,12,shr_new_nbest/new_27/1491.csv
+39,13,8,1,wIkAgranTezu,1.130281999999998722462600476E-15,3,3,a,a,,iic.,1,4,shr_new_nbest/new_27/1491.csv
+40,14,8,1,wIkAgranTezu,1.130281999999998722462600476E-15,3,4,grantha,grantha,,iic.,7,10,shr_new_nbest/new_27/1491.csv
+41,16,8,1,wIkAgranTezu,1.130281999999998722462600476E-15,4,9,iṣu,iṣu,,n. sg. acc.,3,12,shr_new_nbest/new_27/1491.csv
+42,17,8,1,wIkAgranTezu,1.130281999999998722462600476E-15,4,9,iṣu,iṣu,,n. sg. nom.,3,12,shr_new_nbest/new_27/1491.csv
+43,19,8,1,wIkAgranTezu,1.130281999999998722462600476E-15,5,9,iṣu,iṣu,,n. sg. voc.,3,12,shr_new_nbest/new_27/1491.csv
+44,3,9,1,tikAgranTezu,2.421771209999994377201327415E-15,1,0,tikāgrantheṣu,tikāgrantheṣu,,?,13,12,shr_new_nbest/new_27/1499.csv
+45,5,15,0,yaTAWaprakASakaH,0.9999438555327919774436118393,1,0,yathāṭhaprakāśakaḥ,yathāṭhaprakāśakaḥ,,?,18,16,shr_new_nbest/new_27/1493.csv
+46,5,15,2,yaTArTaprakASakaH,7.095309684473673218542993782E-33,1,0,yathā,yathā,,ind.,5,4,shr_new_nbest/new_27/1491.csv
+47,6,15,2,yaTArTaprakASakaH,7.095309684473673218542993782E-33,1,7,prakāśakaḥ,prakāśaka,,m. sg. nom.,10,17,shr_new_nbest/new_27/1491.csv
+48,12,15,2,yaTArTaprakASakaH,7.095309684473673218542993782E-33,2,0,yathā,yathā,,iic.,5,4,shr_new_nbest/new_27/1491.csv
+49,15,15,2,yaTArTaprakASakaH,7.095309684473673218542993782E-33,3,3,artha,artha,,iic.,5,7,shr_new_nbest/new_27/1491.csv
+50,18,15,2,yaTArTaprakASakaH,7.095309684473673218542993782E-33,4,3,ārtha,ārtha,,iic.,5,7,shr_new_nbest/new_27/1491.csv
+51,5,17,1,yaTArTaprakASakaH,0.01411398034086844823074153305,1,0,yathā,yathā,,ind.,5,4,shr_new_nbest/new_27/1491.csv
+52,6,17,1,yaTArTaprakASakaH,0.01411398034086844823074153305,1,7,prakāśakaḥ,prakāśaka,,m. sg. nom.,10,17,shr_new_nbest/new_27/1491.csv
+53,12,17,1,yaTArTaprakASakaH,0.01411398034086844823074153305,2,0,yathā,yathā,,iic.,5,4,shr_new_nbest/new_27/1491.csv
+54,15,17,1,yaTArTaprakASakaH,0.01411398034086844823074153305,3,3,artha,artha,,iic.,5,7,shr_new_nbest/new_27/1491.csv
+55,18,17,1,yaTArTaprakASakaH,0.01411398034086844823074153305,4,3,ārtha,ārtha,,iic.,5,7,shr_new_nbest/new_27/1491.csv
+56,7,23,0,granTaH,1,1,0,granthaḥ,grantha,,m. sg. nom.,8,7,shr_new_nbest/new_27/1491.csv
+57,8,27,0,kaH,1,1,0,kaḥ,kim,,m. sg. nom.,3,3,shr_new_nbest/new_27/1491.csv
+58,9,29,1,asti,0.9960937500000000003890991211,1,0,asti,as,,pr. [2] ac. sg. 3,4,4,shr_new_nbest/new_27/1491.csv
+59,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+60,,1,1,<eps>,0.007389903217301366340000583397,1,0,<eps>,,,,9,9,
+61,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+62,,3,2,<eps>,7.872555380255417397436038809E-7,1,0,<eps>,,,,5,5,
+63,,4,0,<eps>,1,1,0,<eps>,,,,4,4,
+64,,5,3,<eps>,3.246902152255962989105865559E-26,1,0,<eps>,,,,12,12,
+65,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+66,,7,2,<eps>,9.332937720011868312540218137E-18,1,0,<eps>,,,,12,12,
+67,,8,0,<eps>,0.9999999999999988697180000000,1,0,<eps>,,,,12,12,
+68,,9,0,<eps>,0.9999999999999975782287900000,1,0,<eps>,,,,12,12,
+69,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+70,,11,0,<eps>,1,1,0,<eps>,,,,1,1,
+71,,12,0,<eps>,1,1,0,<eps>,,,,1,1,
+72,,13,0,<eps>,1,1,0,<eps>,,,,1,1,
+73,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+74,,15,1,<eps>,0.00005614446720802255638816067616,1,0,<eps>,,,,17,17,
+75,,16,0,<eps>,1,1,0,<eps>,,,,1,1,
+76,,17,0,<eps>,0.9858860196591315517692584669,1,0,<eps>,,,,17,17,
+77,,18,0,<eps>,1,1,0,<eps>,,,,1,1,
+78,,19,0,<eps>,1,1,0,<eps>,,,,1,1,
+79,,20,0,<eps>,1,1,0,<eps>,,,,1,1,
+80,,21,0,<eps>,1,1,0,<eps>,,,,1,1,
+81,,22,0,<eps>,1,1,0,<eps>,,,,1,1,
+82,,24,0,<eps>,1,1,0,<eps>,,,,1,1,
+83,,25,0,<eps>,1,1,0,<eps>,,,,1,1,
+84,,26,0,<eps>,1,1,0,<eps>,,,,1,1,
+85,,28,0,<eps>,1,1,0,<eps>,,,,1,1,
+86,,29,0,<eps>,0.003906249999999999610900878906,1,0,<eps>,,,,4,4,
+87,,30,0,<eps>,1,1,0,<eps>,,,,1,1,

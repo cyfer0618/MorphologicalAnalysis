@@ -1,0 +1,65 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,tasyAH,1,1,0,tasyāḥ,tad,,f. sg. g.,6,6,shr_new_nbest/new_14/1077.csv
+1,1,1,0,tasyAH,1,1,0,tasyāḥ,tad,,f. sg. abl.,6,6,shr_new_nbest/new_14/1077.csv
+2,2,3,0,muKe,1,1,0,mukhe,mukha,,n. du. acc.,5,4,shr_new_nbest/new_14/1077.csv
+3,3,3,0,muKe,1,1,0,mukhe,mukha,,n. du. nom.,5,4,shr_new_nbest/new_14/1077.csv
+4,4,3,0,muKe,1,1,0,mukhe,mukha,,n. sg. loc.,5,4,shr_new_nbest/new_14/1077.csv
+5,8,3,0,muKe,1,2,0,mukhe,mukha,,n. du. voc.,5,4,shr_new_nbest/new_14/1077.csv
+6,5,5,0,santozaH,1,1,0,santoṣaḥ,santoṣa,,m. sg. nom.,8,8,shr_new_nbest/new_14/1077.csv
+7,6,7,0,vilasati,0.9999999999999999999998467500,1,0,vilasati,vi-las,,pr. [1] ac. sg. 3,8,8,shr_new_nbest/new_14/1077.csv
+8,9,7,0,vilasati,0.9999999999999999999998467500,2,0,vilasati,vi-lasat,,n. sg. loc.,8,8,shr_new_nbest/new_14/1077.csv
+9,10,7,0,vilasati,0.9999999999999999999998467500,2,0,vilasati,vi-lasat,,m. sg. loc.,8,8,shr_new_nbest/new_14/1077.csv
+10,11,7,0,vilasati,0.9999999999999999999998467500,3,0,vila,bila,,iic.,4,4,shr_new_nbest/new_14/1077.csv
+11,12,7,0,vilasati,0.9999999999999999999998467500,3,4,sati,sat,,n. sg. loc.,4,8,shr_new_nbest/new_14/1077.csv
+12,13,7,0,vilasati,0.9999999999999999999998467500,3,4,sati,sat,,m. sg. loc.,4,8,shr_new_nbest/new_14/1077.csv
+13,14,7,0,vilasati,0.9999999999999999999998467500,4,4,sati,satī,,f. sg. voc.,4,8,shr_new_nbest/new_14/1077.csv
+14,15,7,0,vilasati,0.9999999999999999999998467500,5,4,sati,sat,,f. sg. voc.,4,8,shr_new_nbest/new_14/1077.csv
+15,6,7,1,galasati,1.531293999999999999999765329E-22,1,0,gala,gala,,iic.,4,4,shr_new_nbest/new_14/1078.csv
+16,7,7,1,galasati,1.531293999999999999999765329E-22,1,4,sati,sat,,n. sg. loc.,4,8,shr_new_nbest/new_14/1078.csv
+17,8,7,1,galasati,1.531293999999999999999765329E-22,1,4,sati,sat,,m. sg. loc.,4,8,shr_new_nbest/new_14/1078.csv
+18,11,7,1,galasati,1.531293999999999999999765329E-22,2,0,gala,gal,,imp. [1] ac. sg. 2,4,4,shr_new_nbest/new_14/1078.csv
+19,12,7,1,galasati,1.531293999999999999999765329E-22,2,4,sati,satī,,f. sg. voc.,4,8,shr_new_nbest/new_14/1078.csv
+20,13,7,1,galasati,1.531293999999999999999765329E-22,3,4,sati,sat,,f. sg. voc.,4,8,shr_new_nbest/new_14/1078.csv
+21,6,7,2,nilasati,9.051552999999999999998612850E-26,1,0,nilasati,nilasati,,?,8,8,shr_new_nbest/new_14/1079.csv
+22,6,7,3,glasati,2.975971999999999999999543932E-26,1,0,glasati,glasati,,?,7,7,shr_new_nbest/new_14/1081.csv
+23,6,7,4,bilasati,4.212217999999999999999354478E-28,1,0,bila,bila,,iic.,4,4,shr_new_nbest/new_14/1082.csv
+24,7,7,4,bilasati,4.212217999999999999999354478E-28,1,4,sati,sat,,n. sg. loc.,4,8,shr_new_nbest/new_14/1082.csv
+25,8,7,4,bilasati,4.212217999999999999999354478E-28,1,4,sati,sat,,m. sg. loc.,4,8,shr_new_nbest/new_14/1082.csv
+26,11,7,4,bilasati,4.212217999999999999999354478E-28,2,4,sati,satī,,f. sg. voc.,4,8,shr_new_nbest/new_14/1082.csv
+27,12,7,4,bilasati,4.212217999999999999999354478E-28,3,4,sati,sat,,f. sg. voc.,4,8,shr_new_nbest/new_14/1082.csv
+28,6,7,5,vilasatsma,7.412958999999999999998863964E-29,1,0,vilasat,vi-lasat,,n. sg. acc.,7,7,shr_new_nbest/new_14/1080.csv
+29,7,7,5,vilasatsma,7.412958999999999999998863964E-29,1,0,vilasat,vi-lasat,,n. sg. nom.,7,7,shr_new_nbest/new_14/1080.csv
+30,8,7,5,vilasatsma,7.412958999999999999998863964E-29,1,7,sma,sma,,part.,3,10,shr_new_nbest/new_14/1080.csv
+31,10,7,5,vilasatsma,7.412958999999999999998863964E-29,2,0,vila,bila,,iic.,4,4,shr_new_nbest/new_14/1080.csv
+32,11,7,5,vilasatsma,7.412958999999999999998863964E-29,2,4,sat,sad,,m. sg. nom.,3,7,shr_new_nbest/new_14/1080.csv
+33,12,7,5,vilasatsma,7.412958999999999999998863964E-29,2,4,sat,sad,,n. sg. acc.,3,7,shr_new_nbest/new_14/1080.csv
+34,13,7,5,vilasatsma,7.412958999999999999998863964E-29,2,4,sat,sad,,n. sg. nom.,3,7,shr_new_nbest/new_14/1080.csv
+35,14,7,5,vilasatsma,7.412958999999999999998863964E-29,2,4,sat,sad,,f. sg. nom.,3,7,shr_new_nbest/new_14/1080.csv
+36,15,7,5,vilasatsma,7.412958999999999999998863964E-29,3,4,sat,sat,,n. sg. acc.,3,7,shr_new_nbest/new_14/1080.csv
+37,16,7,5,vilasatsma,7.412958999999999999998863964E-29,3,4,sat,sat,,n. sg. nom.,3,7,shr_new_nbest/new_14/1080.csv
+38,6,7,6,dalasati,3.473284999999999999999467719E-32,1,0,dala,dala,,iic.,4,4,shr_new_nbest/new_14/1085.csv
+39,7,7,6,dalasati,3.473284999999999999999467719E-32,1,4,sati,sat,,n. sg. loc.,4,8,shr_new_nbest/new_14/1085.csv
+40,8,7,6,dalasati,3.473284999999999999999467719E-32,1,4,sati,sat,,m. sg. loc.,4,8,shr_new_nbest/new_14/1085.csv
+41,11,7,6,dalasati,3.473284999999999999999467719E-32,2,0,dala,dal,,imp. [1] ac. sg. 2,4,4,shr_new_nbest/new_14/1085.csv
+42,12,7,6,dalasati,3.473284999999999999999467719E-32,2,4,sati,satī,,f. sg. voc.,4,8,shr_new_nbest/new_14/1085.csv
+43,13,7,6,dalasati,3.473284999999999999999467719E-32,3,4,sati,sat,,f. sg. voc.,4,8,shr_new_nbest/new_14/1085.csv
+44,6,7,7,vilasatisma,3.754164851137199999999424674E-51,1,0,vilasati,vi-las,,pr. [1] ac. sg. 3,8,8,shr_new_nbest/new_14/1083.csv
+45,7,7,7,vilasatisma,3.754164851137199999999424674E-51,1,8,sma,sma,,part.,3,11,shr_new_nbest/new_14/1083.csv
+46,9,7,7,vilasatisma,3.754164851137199999999424674E-51,2,0,vilasati,vi-lasat,,n. sg. loc.,8,8,shr_new_nbest/new_14/1083.csv
+47,10,7,7,vilasatisma,3.754164851137199999999424674E-51,2,0,vilasati,vi-lasat,,m. sg. loc.,8,8,shr_new_nbest/new_14/1083.csv
+48,11,7,7,vilasatisma,3.754164851137199999999424674E-51,3,0,vila,bila,,iic.,4,4,shr_new_nbest/new_14/1083.csv
+49,12,7,7,vilasatisma,3.754164851137199999999424674E-51,3,4,sati,sat,,n. sg. loc.,4,8,shr_new_nbest/new_14/1083.csv
+50,13,7,7,vilasatisma,3.754164851137199999999424674E-51,3,4,sati,sat,,m. sg. loc.,4,8,shr_new_nbest/new_14/1083.csv
+51,6,7,8,dvilasati,1.365968270974999999999790665E-60,1,0,dvi,dvi,,iic.,3,3,shr_new_nbest/new_14/1086.csv
+52,7,7,8,dvilasati,1.365968270974999999999790665E-60,1,3,lasati,lasat,,n. sg. loc.,6,9,shr_new_nbest/new_14/1086.csv
+53,8,7,8,dvilasati,1.365968270974999999999790665E-60,1,3,lasati,lasat,,m. sg. loc.,6,9,shr_new_nbest/new_14/1086.csv
+54,7,10,1,sma,0.9565217391304347812778827977,1,0,sma,sma,,part.,3,3,shr_new_nbest/new_14/1077.csv
+55,7,10,2,smaH,7.994557999999999988877136696E-30,1,0,smaḥ,as,,pr. [2] ac. pl. 1,4,4,shr_new_nbest/new_14/1084.csv
+56,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+57,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+58,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+59,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+60,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+61,,9,0,<eps>,1,1,0,<eps>,,,,1,1,
+62,,10,0,<eps>,0.04347826086956521872211720227,1,0,<eps>,,,,4,4,
+63,,11,0,<eps>,1,1,0,<eps>,,,,1,1,

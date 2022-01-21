@@ -1,0 +1,52 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,api,0.9999999999999999999999691530,1,0,api,api,,conj.,3,3,shr_new_nbest/new_19/738.csv
+1,1,1,0,api,0.9999999999999999999999691530,1,0,api,api,,prep.,3,3,shr_new_nbest/new_19/738.csv
+2,0,1,1,apidfzwaH,3.084683999999999999999904847E-23,1,0,api,api,,conj.,3,3,shr_new_nbest/new_19/742.csv
+3,1,1,1,apidfzwaH,3.084683999999999999999904847E-23,1,0,api,api,,prep.,3,3,shr_new_nbest/new_19/742.csv
+4,2,1,1,apidfzwaH,3.084683999999999999999904847E-23,1,3,dṛṣṭaḥ,dṛṣṭa,,m. sg. nom.,6,9,shr_new_nbest/new_19/742.csv
+5,2,3,1,dfzwaH,0.9900990099009900984487994128,1,0,dṛṣṭaḥ,dṛṣṭa,,m. sg. nom.,6,6,shr_new_nbest/new_19/738.csv
+6,2,3,2,dfzwakvacana,5.667125742574257422530942733E-19,1,0,dṛṣṭakvacana,dṛṣṭakvacana,,?,12,12,shr_new_nbest/new_19/739.csv
+7,2,3,3,dfzwAH,1.833215841584158414802677655E-26,1,0,dṛṣṭāḥ,dṛṣṭa,,f. pl. acc.,6,6,shr_new_nbest/new_19/741.csv
+8,3,3,3,dfzwAH,1.833215841584158414802677655E-26,1,0,dṛṣṭāḥ,dṛṣṭa,,f. pl. nom.,6,6,shr_new_nbest/new_19/741.csv
+9,4,3,3,dfzwAH,1.833215841584158414802677655E-26,1,0,dṛṣṭāḥ,dṛṣṭa,,m. pl. nom.,6,6,shr_new_nbest/new_19/741.csv
+10,10,3,3,dfzwAH,1.833215841584158414802677655E-26,2,0,dṛṣṭāḥ,dṛṣṭa,,f. pl. voc.,6,6,shr_new_nbest/new_19/741.csv
+11,11,3,3,dfzwAH,1.833215841584158414802677655E-26,2,0,dṛṣṭāḥ,dṛṣṭa,,m. pl. voc.,6,6,shr_new_nbest/new_19/741.csv
+12,2,3,4,DfzwaH,3.644211644563366334568456685E-34,1,0,dhṛṣṭaḥ,dhṛṣṭa,,m. sg. nom.,7,6,shr_new_nbest/new_19/740.csv
+13,1,3,5,duzwaH,7.462078217821782173988968086E-35,1,0,duṣṭaḥ,duṣṭa,,m. sg. nom.,6,6,shr_new_nbest/new_19/747.csv
+14,2,3,6,dfzwaHkvacana,4.564007249105544551868965162E-43,1,0,dṛṣṭaḥ,dṛṣṭa,,m. sg. nom.,6,6,shr_new_nbest/new_19/743.csv
+15,3,3,6,dfzwaHkvacana,4.564007249105544551868965162E-43,1,6,kvacana,kvacana,,adv.,7,13,shr_new_nbest/new_19/743.csv
+16,8,3,6,dfzwaHkvacana,4.564007249105544551868965162E-43,2,6,kvaca,kvaca,,part.,5,11,shr_new_nbest/new_19/743.csv
+17,9,3,6,dfzwaHkvacana,4.564007249105544551868965162E-43,2,11,na,na,,part.,2,13,shr_new_nbest/new_19/743.csv
+18,12,3,6,dfzwaHkvacana,4.564007249105544551868965162E-43,3,6,kva,kva,,adv.,3,9,shr_new_nbest/new_19/743.csv
+19,13,3,6,dfzwaHkvacana,4.564007249105544551868965162E-43,3,9,ca,ca,,conj.,2,11,shr_new_nbest/new_19/743.csv
+20,2,3,7,dfzwas,8.143552016690099005285936619E-50,1,0,dṛṣṭaḥ,dṛṣṭa,,m. sg. nom.,6,6,shr_new_nbest/new_19/745.csv
+21,3,5,1,kvacana,0.9900990099009900990099009901,1,0,kvacana,kvacana,,adv.,7,7,shr_new_nbest/new_19/738.csv
+22,8,5,1,kvacana,0.9900990099009900990099009901,2,0,kvaca,kvaca,,part.,5,5,shr_new_nbest/new_19/738.csv
+23,9,5,1,kvacana,0.9900990099009900990099009901,2,5,na,na,,part.,2,7,shr_new_nbest/new_19/738.csv
+24,12,5,1,kvacana,0.9900990099009900990099009901,3,0,kva,kva,,adv.,3,3,shr_new_nbest/new_19/738.csv
+25,13,5,1,kvacana,0.9900990099009900990099009901,3,3,ca,ca,,conj.,2,5,shr_new_nbest/new_19/738.csv
+26,3,5,2,kvacanamama,1.126443653421782178217821782E-56,1,0,kvacana,kvacana,,adv.,7,7,shr_new_nbest/new_19/746.csv
+27,4,5,2,kvacanamama,1.126443653421782178217821782E-56,1,7,mama,asmad,,m. sg. g.,4,11,shr_new_nbest/new_19/746.csv
+28,8,5,2,kvacanamama,1.126443653421782178217821782E-56,2,0,kvaca,kvaca,,part.,5,5,shr_new_nbest/new_19/746.csv
+29,9,5,2,kvacanamama,1.126443653421782178217821782E-56,2,5,na,na,,part.,2,7,shr_new_nbest/new_19/746.csv
+30,10,5,2,kvacanamama,1.126443653421782178217821782E-56,2,7,mama,mā,,pft. ac. pl. 2,4,11,shr_new_nbest/new_19/746.csv
+31,11,5,2,kvacanamama,1.126443653421782178217821782E-56,2,7,mama,mā,,pft. ac. pl. 2,4,11,shr_new_nbest/new_19/746.csv
+32,12,5,2,kvacanamama,1.126443653421782178217821782E-56,3,0,kva,kva,,adv.,3,3,shr_new_nbest/new_19/746.csv
+33,13,5,2,kvacanamama,1.126443653421782178217821782E-56,3,3,ca,ca,,conj.,2,5,shr_new_nbest/new_19/746.csv
+34,4,7,1,mama,0.9900990099009900990099009901,1,0,mama,asmad,,m. sg. g.,4,4,shr_new_nbest/new_19/738.csv
+35,10,7,1,mama,0.9900990099009900990099009901,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_19/738.csv
+36,11,7,1,mama,0.9900990099009900990099009901,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_19/738.csv
+37,5,9,1,nArAyaRa,0.9900990099009900990099009901,1,0,nārāyaṇa,nārāyaṇa,,m. sg. voc.,8,8,shr_new_nbest/new_19/738.csv
+38,6,9,1,nArAyaRa,0.9900990099009900990099009901,1,0,nārāyaṇa,nārāyaṇa,,n. sg. voc.,8,8,shr_new_nbest/new_19/738.csv
+39,7,11,0,iti,1,1,0,iti,iti,,part.,3,3,shr_new_nbest/new_19/738.csv
+40,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+41,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+42,,3,0,<eps>,0.009900990099009900984487994128,1,0,<eps>,,,,13,13,
+43,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+44,,5,0,<eps>,0.009900990099009900990099009901,1,0,<eps>,,,,11,11,
+45,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+46,,7,0,<eps>,0.009900990099009900990099009901,1,0,<eps>,,,,4,4,
+47,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+48,,9,0,<eps>,0.009900990099009900990099009901,1,0,<eps>,,,,8,8,
+49,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+50,,12,0,<eps>,1,1,0,<eps>,,,,1,1,

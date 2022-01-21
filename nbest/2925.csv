@@ -1,0 +1,68 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,kimarTam,1,1,0,kim,kim,,iic.,3,3,shr_new_nbest/new_15/29.csv
+1,1,1,0,kimarTam,1,1,3,artham,artha,,m. sg. acc.,6,8,shr_new_nbest/new_15/29.csv
+2,6,1,0,kimarTam,1,2,0,kim,kim,,n. sg. acc.,3,3,shr_new_nbest/new_15/29.csv
+3,7,1,0,kimarTam,1,2,0,kim,kim,,n. sg. nom.,3,3,shr_new_nbest/new_15/29.csv
+4,8,1,0,kimarTam,1,2,3,artham,artha,,n. sg. acc.,6,8,shr_new_nbest/new_15/29.csv
+5,9,1,0,kimarTam,1,2,3,artham,artha,,n. sg. nom.,6,8,shr_new_nbest/new_15/29.csv
+6,2,2,1,tvayA,0,1,0,tvayā,yuṣmad,,m. sg. i.,5,5,shr_new_nbest/new_15/29.csv
+7,2,3,1,tvayA,0.9939759036144578309360937727,1,0,tvayā,yuṣmad,,m. sg. i.,5,5,shr_new_nbest/new_15/29.csv
+8,3,4,1,jjanmaBUmiH,4.533647999999999794460358121E-17,1,0,jjanmabhūmiḥ,jjanmabhūmiḥ,,?,12,11,shr_new_nbest/new_15/38.csv
+9,3,5,1,janmaBUmiH,0.9939759033756433241709869253,1,0,janma,janman,,iic.,5,5,shr_new_nbest/new_15/29.csv
+10,4,5,1,janmaBUmiH,0.9939759033756433241709869253,1,5,bhūmiḥ,bhūmi,,f. sg. nom.,6,10,shr_new_nbest/new_15/29.csv
+11,10,5,1,janmaBUmiH,0.9939759033756433241709869253,2,0,janma,janman,,n. sg. acc.,5,5,shr_new_nbest/new_15/29.csv
+12,11,5,1,janmaBUmiH,0.9939759033756433241709869253,2,0,janma,janman,,n. sg. nom.,5,5,shr_new_nbest/new_15/29.csv
+13,3,5,2,janma,2.402618674121537530319626176E-10,1,0,janma,janman,,n. sg. acc.,5,5,shr_new_nbest/new_15/30.csv
+14,4,5,2,janma,2.402618674121537530319626176E-10,1,0,janma,janman,,n. sg. nom.,5,5,shr_new_nbest/new_15/30.csv
+15,11,5,2,janma,2.402618674121537530319626176E-10,2,0,janma,janman,,n. sg. voc.,5,5,shr_new_nbest/new_15/30.csv
+16,3,5,3,janmaBUmihi,1.419798442008534792042871063E-23,1,0,janmabhūmihi,janmabhūmihi,,?,12,11,shr_new_nbest/new_15/32.csv
+17,3,5,4,janmaBUmihityajeta,1.500817768655453300193419576E-25,1,0,janmabhūmihityajeta,janmabhūmihityajeta,,?,19,18,shr_new_nbest/new_15/34.csv
+18,3,6,1,janma,1.232150999999999999999999985E-26,1,0,janma,janman,,n. sg. acc.,5,5,shr_new_nbest/new_15/30.csv
+19,4,6,1,janma,1.232150999999999999999999985E-26,1,0,janma,janman,,n. sg. nom.,5,5,shr_new_nbest/new_15/30.csv
+20,11,6,1,janma,1.232150999999999999999999985E-26,2,0,janma,janman,,n. sg. voc.,5,5,shr_new_nbest/new_15/30.csv
+21,5,6,2,BUmiH,3.209231842786841988399999961E-104,1,0,bhūmiḥ,bhūmi,,f. sg. nom.,6,5,shr_new_nbest/new_15/30.csv
+22,5,7,1,BUmiH,0.9939759036144578309360937727,1,0,bhūmiḥ,bhūmi,,f. sg. nom.,6,5,shr_new_nbest/new_15/30.csv
+23,5,9,1,tyajeta,0.9939759036144566655309136032,1,0,tyajeta,tyaj,,opt. [1] ac. pl. 2,7,7,shr_new_nbest/new_15/29.csv
+24,12,9,1,tyajeta,0.9939759036144566655309136032,2,0,tyaja,tyaj,,imp. [1] ac. sg. 2,5,5,shr_new_nbest/new_15/29.csv
+25,13,9,1,tyajeta,0.9939759036144566655309136032,3,4,eta,ā-i,,imp. [2] ac. pl. 2,3,7,shr_new_nbest/new_15/29.csv
+26,14,9,1,tyajeta,0.9939759036144566655309136032,4,4,eta,ā-ita,,n. sg. voc.,3,7,shr_new_nbest/new_15/29.csv
+27,15,9,1,tyajeta,0.9939759036144566655309136032,4,4,eta,ā-ita,,m. sg. voc.,3,7,shr_new_nbest/new_15/29.csv
+28,16,9,1,tyajeta,0.9939759036144566655309136032,5,4,ita,i,,imp. [2] ac. pl. 2,3,7,shr_new_nbest/new_15/29.csv
+29,5,9,2,tyajata,1.113971656626504717563802086E-15,1,0,tyajata,tyaj,,imp. [1] ac. pl. 2,7,7,shr_new_nbest/new_15/36.csv
+30,5,9,3,tyajetA,5.849658524096378681339300493E-17,1,0,tyaja,tyaj,,imp. [1] ac. sg. 2,5,5,shr_new_nbest/new_15/33.csv
+31,12,9,3,tyajetA,5.849658524096378681339300493E-17,2,4,etā,ā-ita,,f. sg. nom.,3,7,shr_new_nbest/new_15/33.csv
+32,5,9,4,tyajayatA,1.166663629956595017209287489E-30,1,0,tyaja,tyaj,,imp. [1] ac. sg. 2,5,5,shr_new_nbest/new_15/31.csv
+33,6,9,4,tyajayatA,1.166663629956595017209287489E-30,1,5,yatā,yata,,f. sg. nom.,4,9,shr_new_nbest/new_15/31.csv
+34,7,9,4,tyajayatA,1.166663629956595017209287489E-30,1,5,yatā,yat,,n. sg. i.,4,9,shr_new_nbest/new_15/31.csv
+35,8,9,4,tyajayatA,1.166663629956595017209287489E-30,1,5,yatā,yat,,m. sg. i.,4,9,shr_new_nbest/new_15/31.csv
+36,5,9,5,tyajayata,8.179013836999689202351760429E-32,1,0,tyaja,tyaj,,imp. [1] ac. sg. 2,5,5,shr_new_nbest/new_15/35.csv
+37,6,9,5,tyajayata,8.179013836999689202351760429E-32,1,5,yata,yata,,n. sg. voc.,4,9,shr_new_nbest/new_15/35.csv
+38,7,9,5,tyajayata,8.179013836999689202351760429E-32,1,5,yata,yata,,m. sg. voc.,4,9,shr_new_nbest/new_15/35.csv
+39,5,10,1,tyajata,4.177909999999999999999999983E-27,1,0,tyajata,tyaj,,imp. [1] ac. pl. 2,7,7,shr_new_nbest/new_15/36.csv
+40,5,10,2,tyajayatA,4.375529320909999999999999982E-42,1,0,tyaja,tyaj,,imp. [1] ac. sg. 2,5,5,shr_new_nbest/new_15/31.csv
+41,6,10,2,tyajayatA,4.375529320909999999999999982E-42,1,5,yatā,yata,,f. sg. nom.,4,9,shr_new_nbest/new_15/31.csv
+42,7,10,2,tyajayatA,4.375529320909999999999999982E-42,1,5,yatā,yat,,n. sg. i.,4,9,shr_new_nbest/new_15/31.csv
+43,8,10,2,tyajayatA,4.375529320909999999999999982E-42,1,5,yatā,yat,,m. sg. i.,4,9,shr_new_nbest/new_15/31.csv
+44,5,10,3,tyajayata,3.067509258109999999999999988E-43,1,0,tyaja,tyaj,,imp. [1] ac. sg. 2,5,5,shr_new_nbest/new_15/35.csv
+45,6,10,3,tyajayata,3.067509258109999999999999988E-43,1,5,yata,yata,,n. sg. voc.,4,9,shr_new_nbest/new_15/35.csv
+46,7,10,3,tyajayata,3.067509258109999999999999988E-43,1,5,yata,yata,,m. sg. voc.,4,9,shr_new_nbest/new_15/35.csv
+47,5,10,4,tyajeta,1.415974356314699999999999994E-46,1,0,tyajeta,tyaj,,opt. [1] ac. pl. 2,7,7,shr_new_nbest/new_15/29.csv
+48,12,10,4,tyajeta,1.415974356314699999999999994E-46,2,0,tyaja,tyaj,,imp. [1] ac. sg. 2,5,5,shr_new_nbest/new_15/29.csv
+49,13,10,4,tyajeta,1.415974356314699999999999994E-46,3,4,eta,ā-i,,imp. [2] ac. pl. 2,3,7,shr_new_nbest/new_15/29.csv
+50,14,10,4,tyajeta,1.415974356314699999999999994E-46,4,4,eta,ā-ita,,n. sg. voc.,3,7,shr_new_nbest/new_15/29.csv
+51,15,10,4,tyajeta,1.415974356314699999999999994E-46,4,4,eta,ā-ita,,m. sg. voc.,3,7,shr_new_nbest/new_15/29.csv
+52,16,10,4,tyajeta,1.415974356314699999999999994E-46,5,4,ita,i,,imp. [2] ac. pl. 2,3,7,shr_new_nbest/new_15/29.csv
+53,5,10,5,tyajetA,3.016959660978199999999999988E-55,1,0,tyaja,tyaj,,imp. [1] ac. sg. 2,5,5,shr_new_nbest/new_15/33.csv
+54,12,10,5,tyajetA,3.016959660978199999999999988E-55,2,4,etā,ā-ita,,f. sg. nom.,3,7,shr_new_nbest/new_15/33.csv
+55,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+56,,2,0,<eps>,1,1,0,<eps>,,,,5,5,
+57,,3,0,<eps>,0.006024096385542169063906227319,1,0,<eps>,,,,5,5,
+58,,4,0,<eps>,0.9999999999999999546635200000,1,0,<eps>,,,,11,11,
+59,,5,0,<eps>,0.006024096384094808416844973604,1,0,<eps>,,,,18,18,
+60,,6,0,<eps>,0.9999999999999999999999999880,1,0,<eps>,,,,5,5,
+61,,7,0,<eps>,0.006024096385542169063906227319,1,0,<eps>,,,,5,5,
+62,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+63,,9,0,<eps>,0.006024096385542162000844529322,1,0,<eps>,,,,9,9,
+64,,10,0,<eps>,0.9999999999999999999999999960,1,0,<eps>,,,,9,9,
+65,,11,0,<eps>,1,1,0,<eps>,,,,1,1,
+66,,12,0,<eps>,1,1,0,<eps>,,,,1,1,

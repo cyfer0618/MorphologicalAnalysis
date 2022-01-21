@@ -1,0 +1,32 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,rAmam,1,1,0,rāmam,rāma,,m. sg. acc.,5,5,shr_new_nbest/new_7/1600.csv
+1,1,1,0,rAmam,1,1,0,rāmam,rāma,,n. sg. acc.,5,5,shr_new_nbest/new_7/1600.csv
+2,2,1,0,rAmam,1,1,0,rāmam,rāma,,n. sg. nom.,5,5,shr_new_nbest/new_7/1600.csv
+3,3,3,0,vinA,1,1,0,vinā,vinā,,prep.,4,4,shr_new_nbest/new_7/1600.csv
+4,3,3,1,dinA,2.594645E-29,1,0,dinā,dinā,,?,4,4,shr_new_nbest/new_7/1603.csv
+5,4,5,0,kzaRamapi,0.9999999999999999999999999540,1,0,kṣaṇam,kṣaṇa,,m. sg. acc.,6,6,shr_new_nbest/new_7/1600.csv
+6,5,5,0,kzaRamapi,0.9999999999999999999999999540,1,0,kṣaṇam,kṣaṇa,,n. sg. acc.,6,6,shr_new_nbest/new_7/1600.csv
+7,6,5,0,kzaRamapi,0.9999999999999999999999999540,1,0,kṣaṇam,kṣaṇa,,n. sg. nom.,6,6,shr_new_nbest/new_7/1600.csv
+8,7,5,0,kzaRamapi,0.9999999999999999999999999540,1,6,api,api,,conj.,3,9,shr_new_nbest/new_7/1600.csv
+9,8,5,0,kzaRamapi,0.9999999999999999999999999540,1,6,api,api,,prep.,3,9,shr_new_nbest/new_7/1600.csv
+10,4,5,1,kzaRam,4.586123999999999999999999789E-26,1,0,kṣaṇam,kṣaṇa,,m. sg. acc.,6,6,shr_new_nbest/new_7/1601.csv
+11,5,5,1,kzaRam,4.586123999999999999999999789E-26,1,0,kṣaṇam,kṣaṇa,,n. sg. acc.,6,6,shr_new_nbest/new_7/1601.csv
+12,6,5,1,kzaRam,4.586123999999999999999999789E-26,1,0,kṣaṇam,kṣaṇa,,n. sg. nom.,6,6,shr_new_nbest/new_7/1601.csv
+13,7,7,1,api,1.742727120000000034854539363E-24,1,0,api,api,,conj.,3,3,shr_new_nbest/new_7/1601.csv
+14,8,7,1,api,1.742727120000000034854539363E-24,1,0,api,api,,prep.,3,3,shr_new_nbest/new_7/1601.csv
+15,9,9,0,na,1,1,0,na,na,,part.,2,2,shr_new_nbest/new_7/1600.csv
+16,10,10,1,jIvAni,1.083395784769E-48,1,0,jīvāni,jīva,,n. pl. acc.,6,6,shr_new_nbest/new_7/1602.csv
+17,11,10,1,jIvAni,1.083395784769E-48,1,0,jīvāni,jīva,,n. pl. nom.,6,6,shr_new_nbest/new_7/1602.csv
+18,12,10,1,jIvAni,1.083395784769E-48,2,0,jīvāni,jīv,,imp. [1] ac. sg. 1,6,6,shr_new_nbest/new_7/1602.csv
+19,13,10,1,jIvAni,1.083395784769E-48,3,0,jīvāni,jīva,,n. pl. voc.,6,6,shr_new_nbest/new_7/1602.csv
+20,10,10,2,jIvAmi,1.546478780625E-62,1,0,jīvāmi,jīv,,pr. [1] ac. sg. 1,6,6,shr_new_nbest/new_7/1600.csv
+21,10,11,1,jIvAmi,0.9743589743589743594740302433,1,0,jīvāmi,jīv,,pr. [1] ac. sg. 1,6,6,shr_new_nbest/new_7/1600.csv
+22,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+23,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+24,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+25,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+26,,7,0,<eps>,0.9999999999999999999999982573,1,0,<eps>,,,,3,3,
+27,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+28,,10,0,<eps>,1,1,0,<eps>,,,,6,6,
+29,,11,0,<eps>,0.02564102564102564052596975674,1,0,<eps>,,,,6,6,
+30,,12,0,<eps>,1,1,0,<eps>,,,,1,1,

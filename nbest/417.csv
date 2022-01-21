@@ -1,0 +1,37 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,evam,0.9999999999999999999988030370,1,0,evam,evam,,adv.,4,4,shr_new_nbest/new_2/1928.csv
+1,0,1,1,evambahUni,1.196962999999999999998567280E-21,1,0,evam,evam,,adv.,4,4,shr_new_nbest/new_2/1929.csv
+2,1,1,1,evambahUni,1.196962999999999999998567280E-21,1,4,bahūni,bahu,,n. pl. acc.,6,10,shr_new_nbest/new_2/1929.csv
+3,2,1,1,evambahUni,1.196962999999999999998567280E-21,1,4,bahūni,bahu,,n. pl. nom.,6,10,shr_new_nbest/new_2/1929.csv
+4,7,1,1,evambahUni,1.196962999999999999998567280E-21,2,0,evam,evam,,iic.,4,4,shr_new_nbest/new_2/1929.csv
+5,8,1,1,evambahUni,1.196962999999999999998567280E-21,2,4,bahūni,bahu,,n. pl. voc.,6,10,shr_new_nbest/new_2/1929.csv
+6,0,1,2,evaMbahUni,1.558529999999999999998134497E-33,1,0,evam,evam,,adv.,4,4,shr_new_nbest/new_2/1930.csv
+7,1,1,2,evaMbahUni,1.558529999999999999998134497E-33,1,4,bahūni,bahu,,n. pl. acc.,6,10,shr_new_nbest/new_2/1930.csv
+8,2,1,2,evaMbahUni,1.558529999999999999998134497E-33,1,4,bahūni,bahu,,n. pl. nom.,6,10,shr_new_nbest/new_2/1930.csv
+9,7,1,2,evaMbahUni,1.558529999999999999998134497E-33,2,0,evam,evam,,iic.,4,4,shr_new_nbest/new_2/1930.csv
+10,8,1,2,evaMbahUni,1.558529999999999999998134497E-33,2,4,bahūni,bahu,,n. pl. voc.,6,10,shr_new_nbest/new_2/1930.csv
+11,1,3,1,bahUni,0.9333333333333333408000000000,1,0,bahūni,bahu,,n. pl. acc.,6,6,shr_new_nbest/new_2/1928.csv
+12,2,3,1,bahUni,0.9333333333333333408000000000,1,0,bahūni,bahu,,n. pl. nom.,6,6,shr_new_nbest/new_2/1928.csv
+13,7,3,1,bahUni,0.9333333333333333408000000000,2,0,bahūni,bahu,,n. pl. voc.,6,6,shr_new_nbest/new_2/1928.csv
+14,3,5,0,varzARi,1,1,0,varṣāṇi,varṣa,,n. pl. acc.,7,7,shr_new_nbest/new_2/1928.csv
+15,4,5,0,varzARi,1,1,0,varṣāṇi,varṣa,,n. pl. nom.,7,7,shr_new_nbest/new_2/1928.csv
+16,8,5,0,varzARi,1,2,0,varṣāṇi,vṛṣ,,imp. [1] ac. sg. 1,7,7,shr_new_nbest/new_2/1928.csv
+17,10,5,0,varzARi,1,3,0,varṣāṇi,varṣa,,n. pl. voc.,7,7,shr_new_nbest/new_2/1928.csv
+18,11,5,0,varzARi,1,4,0,varṣa,varṣa,,iic.,5,5,shr_new_nbest/new_2/1928.csv
+19,12,5,0,varzARi,1,5,0,varṣā,varṣā,,iic.,5,5,shr_new_nbest/new_2/1928.csv
+20,13,5,0,varzARi,1,6,0,vā,vā,,conj.,2,2,shr_new_nbest/new_2/1928.csv
+21,14,5,0,varzARi,1,6,2,ṛṣāṇi,ṛṣ,,imp. [6] ac. sg. 1,5,7,shr_new_nbest/new_2/1928.csv
+22,15,5,0,varzARi,1,7,4,āṇi,āṇi,,n. sg. acc.,3,7,shr_new_nbest/new_2/1928.csv
+23,16,5,0,varzARi,1,7,4,āṇi,āṇi,,n. sg. nom.,3,7,shr_new_nbest/new_2/1928.csv
+24,17,5,0,varzARi,1,8,4,āṇi,āṇi,,n. sg. voc.,3,7,shr_new_nbest/new_2/1928.csv
+25,5,7,0,atItAni,1,1,0,atītāni,ati-ita,,n. pl. acc.,7,7,shr_new_nbest/new_2/1928.csv
+26,6,7,0,atItAni,1,1,0,atītāni,ati-ita,,n. pl. nom.,7,7,shr_new_nbest/new_2/1928.csv
+27,9,7,0,atItAni,1,2,0,atītāni,ati-ita,,n. pl. voc.,7,7,shr_new_nbest/new_2/1928.csv
+28,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+29,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+30,,3,0,<eps>,0.06666666666666665920000000000,1,0,<eps>,,,,6,6,
+31,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+32,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+33,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+34,,9,0,<eps>,1,1,0,<eps>,,,,1,1,
+35,,10,0,<eps>,1,1,0,<eps>,,,,1,1,

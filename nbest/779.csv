@@ -1,0 +1,54 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,aham,1,1,0,aham,asmad,,m. sg. nom.,4,4,shr_new_nbest/new_4/1450.csv
+1,1,3,1,mama,0.9873417721518987327274475244,1,0,mama,asmad,,m. sg. g.,4,4,shr_new_nbest/new_4/1450.csv
+2,7,3,1,mama,0.9873417721518987327274475244,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_4/1450.csv
+3,8,3,1,mama,0.9873417721518987327274475244,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_4/1450.csv
+4,2,5,1,sutA,0.9873417721518987327274475244,1,0,sutā,suta,,f. sg. nom.,4,4,shr_new_nbest/new_4/1450.csv
+5,3,5,1,sutA,0.9873417721518987327274475244,1,0,sutā,suta,,f. sg. nom.,4,4,shr_new_nbest/new_4/1450.csv
+6,4,7,0,ca,1,1,0,ca,ca,,conj.,2,2,shr_new_nbest/new_4/1450.csv
+7,5,9,0,DanyO,0.9976584319249331040822971686,1,0,dhanyau,dhanya,,m. du. acc.,7,5,shr_new_nbest/new_4/1450.csv
+8,6,9,0,DanyO,0.9976584319249331040822971686,1,0,dhanyau,dhanya,,m. du. nom.,7,5,shr_new_nbest/new_4/1450.csv
+9,9,9,0,DanyO,0.9976584319249331040822971686,2,0,dhanyau,dhanya,,m. du. voc.,7,5,shr_new_nbest/new_4/1450.csv
+10,5,9,1,Danyo,0.002341568074929857513012246307,1,0,dhanyā,dhanya,,f. sg. nom.,6,5,shr_new_nbest/new_4/1451.csv
+11,8,9,1,Danyo,0.002341568074929857513012246307,2,4,u,u,,ind.,1,5,shr_new_nbest/new_4/1451.csv
+12,5,9,2,DanyE,1.370384043852101608030077954E-13,1,0,dhanyai,dhanyai,,?,7,5,shr_new_nbest/new_4/1452.csv
+13,5,9,3,Danya,3.053729097718912648854687386E-22,1,0,dhanya,dhanya,,m. sg. voc.,6,5,shr_new_nbest/new_4/1453.csv
+14,6,9,3,Danya,3.053729097718912648854687386E-22,1,0,dhanya,dhanya,,n. sg. voc.,6,5,shr_new_nbest/new_4/1453.csv
+15,5,9,4,DanO,2.014756064471917964153294068E-27,1,0,dhanau,dhanu,,m. sg. loc.,6,4,shr_new_nbest/new_4/1454.csv
+16,5,9,6,DanyAni,4.076003130431541604860697315E-30,1,0,dhanyāni,dhanya,,n. pl. acc.,8,7,shr_new_nbest/new_4/1457.csv
+17,6,9,6,DanyAni,4.076003130431541604860697315E-30,1,0,dhanyāni,dhanya,,n. pl. nom.,8,7,shr_new_nbest/new_4/1457.csv
+18,9,9,6,DanyAni,4.076003130431541604860697315E-30,2,0,dhanyāni,dhanya,,n. pl. voc.,8,7,shr_new_nbest/new_4/1457.csv
+19,5,9,7,DanvinO,1.716283054920822560782004373E-30,1,0,dhanvinau,dhanvin,,m. du. acc.,9,7,shr_new_nbest/new_4/1455.csv
+20,6,9,7,DanvinO,1.716283054920822560782004373E-30,1,0,dhanvinau,dhanvin,,m. du. nom.,9,7,shr_new_nbest/new_4/1455.csv
+21,9,9,7,DanvinO,1.716283054920822560782004373E-30,2,0,dhanvinau,dhanvin,,m. du. voc.,9,7,shr_new_nbest/new_4/1455.csv
+22,10,9,7,DanvinO,1.716283054920822560782004373E-30,3,0,dhanvi,dhanvin,,n. sg. acc.,6,5,shr_new_nbest/new_4/1455.csv
+23,11,9,7,DanvinO,1.716283054920822560782004373E-30,3,0,dhanvi,dhanvin,,n. sg. nom.,6,5,shr_new_nbest/new_4/1455.csv
+24,12,9,7,DanvinO,1.716283054920822560782004373E-30,3,5,nau,asmad,,m. du. g.,3,7,shr_new_nbest/new_4/1455.csv
+25,13,9,7,DanvinO,1.716283054920822560782004373E-30,3,5,nau,asmad,,m. du. dat.,3,7,shr_new_nbest/new_4/1455.csv
+26,14,9,7,DanvinO,1.716283054920822560782004373E-30,3,5,nau,asmad,,m. du. acc.,3,7,shr_new_nbest/new_4/1455.csv
+27,15,9,7,DanvinO,1.716283054920822560782004373E-30,4,0,dhanu,dhanu,,iic.,5,4,shr_new_nbest/new_4/1455.csv
+28,16,9,7,DanvinO,1.716283054920822560782004373E-30,4,4,inau,ina,,m. du. acc.,4,7,shr_new_nbest/new_4/1455.csv
+29,17,9,7,DanvinO,1.716283054920822560782004373E-30,4,4,inau,ina,,m. du. nom.,4,7,shr_new_nbest/new_4/1455.csv
+30,18,9,7,DanvinO,1.716283054920822560782004373E-30,5,0,dhanū,dhanu,,iic.,5,4,shr_new_nbest/new_4/1455.csv
+31,19,9,7,DanvinO,1.716283054920822560782004373E-30,5,4,inau,ina,,m. du. voc.,4,7,shr_new_nbest/new_4/1455.csv
+32,20,9,7,DanvinO,1.716283054920822560782004373E-30,6,0,dhanū,dhanu,,m. du. acc.,5,4,shr_new_nbest/new_4/1455.csv
+33,21,9,7,DanvinO,1.716283054920822560782004373E-30,6,0,dhanū,dhanu,,m. du. nom.,5,4,shr_new_nbest/new_4/1455.csv
+34,4,9,8,jaGanyO,2.663362917084848363721557674E-33,1,0,jaghanyau,jaghanya,,m. du. acc.,9,7,shr_new_nbest/new_4/1456.csv
+35,5,9,8,jaGanyO,2.663362917084848363721557674E-33,1,0,jaghanyau,jaghanya,,m. du. nom.,9,7,shr_new_nbest/new_4/1456.csv
+36,8,9,8,jaGanyO,2.663362917084848363721557674E-33,2,0,jaghanyau,jaghanya,,m. du. voc.,9,7,shr_new_nbest/new_4/1456.csv
+37,5,11,1,Danyam,2.914236779999999661948533520E-28,1,0,dhanyam,dhanya,,m. sg. acc.,7,6,shr_new_nbest/new_4/1458.csv
+38,6,11,1,Danyam,2.914236779999999661948533520E-28,1,0,dhanyam,dhanya,,n. sg. acc.,7,6,shr_new_nbest/new_4/1458.csv
+39,7,11,1,Danyam,2.914236779999999661948533520E-28,1,0,dhanyam,dhanya,,n. sg. nom.,7,6,shr_new_nbest/new_4/1458.csv
+40,5,11,2,DanyA,2.807610779999999674317149520E-29,1,0,dhanyā,dhanya,,f. sg. nom.,6,5,shr_new_nbest/new_4/1459.csv
+41,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+42,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+43,,3,0,<eps>,0.01265822784810126727255247556,1,0,<eps>,,,,4,4,
+44,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+45,,5,0,<eps>,0.01265822784810126727255247556,1,0,<eps>,,,,4,4,
+46,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+47,,7,1,<eps>,2.669614E-33,1,0,<eps>,,,,2,2,
+48,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+49,,9,5,<eps>,4.096289131080690845672395468E-30,1,0,<eps>,,,,7,7,
+50,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+51,,11,0,<eps>,1,1,0,<eps>,,,,6,6,
+52,,12,0,<eps>,1,1,0,<eps>,,,,1,1,

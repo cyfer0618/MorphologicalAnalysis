@@ -1,0 +1,45 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,tO,1,1,0,tau,tad,,m. du. acc.,3,2,shr_new_nbest/new_21/1730.csv
+1,1,1,0,tO,1,1,0,tau,tad,,m. du. nom.,3,2,shr_new_nbest/new_21/1730.csv
+2,2,3,0,sampradAyanizWO,0.9999706508714419226860583384,1,0,sampradāya,sampradāya,,iic.,10,10,shr_new_nbest/new_21/1730.csv
+3,3,3,0,sampradAyanizWO,0.9999706508714419226860583384,1,10,niṣṭhau,niṣṭha,,m. du. acc.,7,15,shr_new_nbest/new_21/1730.csv
+4,4,3,0,sampradAyanizWO,0.9999706508714419226860583384,1,10,niṣṭhau,niṣṭha,,m. du. nom.,7,15,shr_new_nbest/new_21/1730.csv
+5,5,3,0,sampradAyanizWO,0.9999706508714419226860583384,1,10,niṣṭhau,niṣṭhā,,m. du. acc.,7,15,shr_new_nbest/new_21/1730.csv
+6,6,3,0,sampradAyanizWO,0.9999706508714419226860583384,1,10,niṣṭhau,niṣṭhā,,m. du. nom.,7,15,shr_new_nbest/new_21/1730.csv
+7,8,3,0,sampradAyanizWO,0.9999706508714419226860583384,2,10,niṣṭhau,niṣṭha,,m. du. voc.,7,15,shr_new_nbest/new_21/1730.csv
+8,9,3,0,sampradAyanizWO,0.9999706508714419226860583384,2,10,niṣṭhau,niṣṭhā,,m. du. voc.,7,15,shr_new_nbest/new_21/1730.csv
+9,2,3,1,sampradAya,0.00002934912855807731394166156605,1,0,sampradāya,sam-pra-dā,,abs.,10,10,shr_new_nbest/new_21/1732.csv
+10,5,3,1,sampradAya,0.00002934912855807731394166156605,2,0,sampradāya,sampradāya,,m. sg. voc.,10,10,shr_new_nbest/new_21/1732.csv
+11,3,7,0,nizWO,1,1,0,niṣṭhau,niṣṭhau,,?,7,5,shr_new_nbest/new_21/1732.csv
+12,3,9,1,nizWO,4.341293907605040434129390761E-46,1,0,niṣṭhau,niṣṭhau,,?,7,5,shr_new_nbest/new_21/1732.csv
+13,7,11,0,hindumarAWanAyakO,0.6261054732420667987421745613,1,0,hindumarāṭhanāyakau,hindumarāṭhanāyakau,,?,19,17,shr_new_nbest/new_21/1733.csv
+14,7,11,1,KindumarAWanAyakO,0.3738944554327831157613546862,1,0,khindumarāṭhanāyakau,khindumarāṭhanāyakau,,?,20,17,shr_new_nbest/new_21/1731.csv
+15,7,11,3,hIndumarAWanAyakO,2.267684034565942578474412285E-10,1,0,hīndumarāṭhanāyakau,hīndumarāṭhanāyakau,,?,19,17,shr_new_nbest/new_21/1739.csv
+16,7,11,4,hindUmarAWanAyakO,1.359941111729106860190345111E-10,1,0,hindūmarāṭhanāyakau,hindūmarāṭhanāyakau,,?,19,17,shr_new_nbest/new_21/1735.csv
+17,7,13,1,hiNgumarAWanAyakO,0.000006853441146831793753500788015,1,0,hiṅgumarāṭhanāyakau,hiṅgumarāṭhanāyakau,,?,19,17,shr_new_nbest/new_21/1730.csv
+18,7,13,2,hiNgu,4.655623450572492946394785971E-10,1,0,hiṅgu,hiṅgu,,n. sg. acc.,5,5,shr_new_nbest/new_21/1734.csv
+19,8,13,2,hiNgu,4.655623450572492946394785971E-10,1,0,hiṅgu,hiṅgu,,n. sg. nom.,5,5,shr_new_nbest/new_21/1734.csv
+20,12,13,2,hiNgu,4.655623450572492946394785971E-10,2,0,hiṅgu,hiṅgu,,n. sg. voc.,5,5,shr_new_nbest/new_21/1734.csv
+21,9,15,1,marAWanAyakO,0.9902912621359223310585352060,1,0,marāṭhanāyakau,marāṭhanāyakau,,?,14,12,shr_new_nbest/new_21/1734.csv
+22,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+23,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+24,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+25,,5,0,<eps>,1,1,0,<eps>,,,,1,1,
+26,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+27,,7,1,<eps>,2.374466E-29,1,0,<eps>,,,,5,5,
+28,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+29,,9,0,<eps>,1,1,0,<eps>,,,,5,5,
+30,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+31,,11,2,<eps>,7.096238757086696580867602695E-8,1,0,<eps>,,,,17,17,
+32,,12,0,<eps>,1,1,0,<eps>,,,,1,1,
+33,,13,0,<eps>,0.9999931460932908231489972046,1,0,<eps>,,,,17,17,
+34,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+35,,15,0,<eps>,0.009708737864077668941464794043,1,0,<eps>,,,,12,12,
+36,,16,0,<eps>,1,1,0,<eps>,,,,1,1,
+37,,17,0,<eps>,1,1,0,<eps>,,,,1,1,
+38,,18,0,<eps>,1,1,0,<eps>,,,,1,1,
+39,,19,0,<eps>,1,1,0,<eps>,,,,1,1,
+40,,20,0,<eps>,1,1,0,<eps>,,,,1,1,
+41,,21,0,<eps>,1,1,0,<eps>,,,,1,1,
+42,,22,0,<eps>,1,1,0,<eps>,,,,1,1,
+43,,23,0,<eps>,1,1,0,<eps>,,,,1,1,

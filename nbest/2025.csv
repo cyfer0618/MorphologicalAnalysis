@@ -1,0 +1,52 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,aho,1,1,0,aho,aho,,ind.,3,3,shr_new_nbest/new_10/1450.csv
+1,1,3,1,AScaryam,0.9886363636363636367456095041,1,0,āścaryam,āścarya,,m. sg. acc.,8,8,shr_new_nbest/new_10/1450.csv
+2,2,3,1,AScaryam,0.9886363636363636367456095041,1,0,āścaryam,āścarya,,n. sg. acc.,8,8,shr_new_nbest/new_10/1450.csv
+3,3,3,1,AScaryam,0.9886363636363636367456095041,1,0,āścaryam,āścarya,,n. sg. nom.,8,8,shr_new_nbest/new_10/1450.csv
+4,4,5,1,tasyAH,0.9886363636363636367456095041,1,0,tasyāḥ,tad,,f. sg. g.,6,6,shr_new_nbest/new_10/1450.csv
+5,5,5,1,tasyAH,0.9886363636363636367456095041,1,0,tasyāḥ,tad,,f. sg. abl.,6,6,shr_new_nbest/new_10/1450.csv
+6,6,7,0,pAdO,1,1,0,pādau,pāda,,m. du. acc.,5,4,shr_new_nbest/new_10/1450.csv
+7,7,7,0,pAdO,1,1,0,pādau,pāda,,m. du. nom.,5,4,shr_new_nbest/new_10/1450.csv
+8,11,7,0,pAdO,1,2,0,pādau,pāda,,m. du. voc.,5,4,shr_new_nbest/new_10/1450.csv
+9,8,9,0,na,0.9999999999999999999999982600,1,0,na,na,,part.,2,2,shr_new_nbest/new_10/1450.csv
+10,8,9,1,Ra,1.739847999999999999999996973E-24,1,0,ṇa,ṇa,,?,2,2,shr_new_nbest/new_10/1454.csv
+11,8,9,2,nadagDO,2.867837999999999999999995010E-30,1,0,na,na,,part.,2,2,shr_new_nbest/new_10/1458.csv
+12,9,9,2,nadagDO,2.867837999999999999999995010E-30,1,2,dagdhau,dagdha,,m. du. acc.,7,7,shr_new_nbest/new_10/1458.csv
+13,10,9,2,nadagDO,2.867837999999999999999995010E-30,1,2,dagdhau,dagdha,,m. du. nom.,7,7,shr_new_nbest/new_10/1458.csv
+14,12,9,2,nadagDO,2.867837999999999999999995010E-30,2,2,dagdhau,dagdha,,m. du. voc.,7,7,shr_new_nbest/new_10/1458.csv
+15,9,11,0,dagDO,0.9999999980730230037039273824,1,0,dagdhau,dagdha,,m. du. acc.,7,5,shr_new_nbest/new_10/1450.csv
+16,10,11,0,dagDO,0.9999999980730230037039273824,1,0,dagdhau,dagdha,,m. du. nom.,7,5,shr_new_nbest/new_10/1450.csv
+17,12,11,0,dagDO,0.9999999980730230037039273824,2,0,dagdhau,dagdha,,m. du. voc.,7,5,shr_new_nbest/new_10/1450.csv
+18,9,11,2,dadDO,9.312968982054122969781560891E-21,1,0,dat,danta,,iic.,3,3,shr_new_nbest/new_10/1453.csv
+19,10,11,2,dadDO,9.312968982054122969781560891E-21,1,3,dhau,dhā,,m. du. acc.,4,5,shr_new_nbest/new_10/1453.csv
+20,11,11,2,dadDO,9.312968982054122969781560891E-21,1,3,dhau,dhā,,m. du. nom.,4,5,shr_new_nbest/new_10/1453.csv
+21,12,11,2,dadDO,9.312968982054122969781560891E-21,1,3,dhau,dhi,,m. sg. loc.,4,5,shr_new_nbest/new_10/1453.csv
+22,14,11,2,dadDO,9.312968982054122969781560891E-21,2,3,dhau,dhā,,m. du. voc.,4,5,shr_new_nbest/new_10/1453.csv
+23,9,11,3,daDDO,3.044601994133121983122984716E-28,1,0,dadhdhau,dadhdhau,,?,8,5,shr_new_nbest/new_10/1459.csv
+24,9,11,4,daDO,1.088638997902217689729252397E-30,1,0,dadhau,dhā,,pft. ac. sg. 3,6,4,shr_new_nbest/new_10/1451.csv
+25,10,11,4,daDO,1.088638997902217689729252397E-30,1,0,dadhau,dhā,,pft. ac. sg. 1,6,4,shr_new_nbest/new_10/1451.csv
+26,11,11,4,daDO,1.088638997902217689729252397E-30,1,0,dadhau,dhā,,pft. ac. sg. 3,6,4,shr_new_nbest/new_10/1451.csv
+27,12,11,4,daDO,1.088638997902217689729252397E-30,1,0,dadhau,dhā,,pft. ac. sg. 1,6,4,shr_new_nbest/new_10/1451.csv
+28,8,11,5,Ra,8.561221983502722145816144593E-33,1,0,ṇa,ṇa,,?,2,2,shr_new_nbest/new_10/1454.csv
+29,9,11,6,dDO,2.352788089306631466010263775E-57,1,0,ddhau,ddhau,,?,5,3,shr_new_nbest/new_10/1457.csv
+30,9,12,1,dDO,4.497268637797E-56,1,0,ddhau,ddhau,,?,5,3,shr_new_nbest/new_10/1457.csv
+31,9,13,1,daDO,1.676469708944884437951002689E-7,1,0,dadhau,dhā,,pft. ac. sg. 3,6,4,shr_new_nbest/new_10/1451.csv
+32,10,13,1,daDO,1.676469708944884437951002689E-7,1,0,dadhau,dhā,,pft. ac. sg. 1,6,4,shr_new_nbest/new_10/1451.csv
+33,11,13,1,daDO,1.676469708944884437951002689E-7,1,0,dadhau,dhā,,pft. ac. sg. 3,6,4,shr_new_nbest/new_10/1451.csv
+34,12,13,1,daDO,1.676469708944884437951002689E-7,1,0,dadhau,dhā,,pft. ac. sg. 1,6,4,shr_new_nbest/new_10/1451.csv
+35,9,13,2,badDO,2.125596693650093297464608574E-20,1,0,baddhau,baddha,,m. du. acc.,7,5,shr_new_nbest/new_10/1452.csv
+36,10,13,2,badDO,2.125596693650093297464608574E-20,1,0,baddhau,baddha,,m. du. nom.,7,5,shr_new_nbest/new_10/1452.csv
+37,12,13,2,badDO,2.125596693650093297464608574E-20,2,0,baddhau,baddha,,m. du. voc.,7,5,shr_new_nbest/new_10/1452.csv
+38,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+39,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+40,,3,0,<eps>,0.01136363636363636325439049587,1,0,<eps>,,,,8,8,
+41,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+42,,5,0,<eps>,0.01136363636363636325439049587,1,0,<eps>,,,,6,6,
+43,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+44,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+45,,9,3,<eps>,8.561221999999999999999985103E-33,1,0,<eps>,,,,7,7,
+46,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+47,,11,1,<eps>,1.926976996286759648608382876E-9,1,0,<eps>,,,,5,5,
+48,,12,0,<eps>,1,1,0,<eps>,,,,3,3,
+49,,13,0,<eps>,0.9999998323530291054903002380,1,0,<eps>,,,,5,5,
+50,,14,0,<eps>,1,1,0,<eps>,,,,1,1,

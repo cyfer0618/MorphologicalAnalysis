@@ -1,0 +1,40 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,kIdfSam,1,1,0,kīdṛśam,kīdṛś,,m. sg. acc.,7,7,shr_new_nbest/new_2/1472.csv
+1,8,1,0,kIdfSam,1,2,0,kīdṛśam,kīdṛś,,m. sg. acc.,7,7,shr_new_nbest/new_2/1472.csv
+2,9,1,0,kIdfSam,1,2,0,kīdṛśam,kīdṛś,,f. sg. acc.,7,7,shr_new_nbest/new_2/1472.csv
+3,1,3,0,pApam,1,1,0,pāpam,pāpa,,m. sg. acc.,5,5,shr_new_nbest/new_2/1472.csv
+4,2,3,0,pApam,1,1,0,pāpam,pāpa,,n. sg. acc.,5,5,shr_new_nbest/new_2/1472.csv
+5,3,3,0,pApam,1,1,0,pāpam,pāpa,,n. sg. nom.,5,5,shr_new_nbest/new_2/1472.csv
+6,4,5,0,mayA,0.9999744361940681551376153870,1,0,mayā,asmad,,m. sg. i.,4,4,shr_new_nbest/new_2/1472.csv
+7,4,5,1,mayAnuzWitam,0.00002397792701892580295540094723,1,0,maya,maya,,iic.,4,4,shr_new_nbest/new_2/1474.csv
+8,7,5,1,mayAnuzWitam,0.00002397792701892580295540094723,2,0,mayā,asmad,,m. sg. i.,4,4,shr_new_nbest/new_2/1474.csv
+9,8,5,1,mayAnuzWitam,0.00002397792701892580295540094723,3,0,maya,mā,,imp. [1] ac. sg. 2,4,4,shr_new_nbest/new_2/1474.csv
+10,9,5,1,mayAnuzWitam,0.00002397792701892580295540094723,4,3,anuṣṭhitam,anu-sthita,,n. sg. acc.,10,12,shr_new_nbest/new_2/1474.csv
+11,10,5,1,mayAnuzWitam,0.00002397792701892580295540094723,4,3,anuṣṭhitam,anu-sthita,,n. sg. nom.,10,12,shr_new_nbest/new_2/1474.csv
+12,11,5,1,mayAnuzWitam,0.00002397792701892580295540094723,4,3,anuṣṭhitam,anu-sthita,,m. sg. acc.,10,12,shr_new_nbest/new_2/1474.csv
+13,4,5,2,mayAanuzWitam,0.000001585878912919059429212003981,1,0,mayā anuṣṭhitam,mayā,,?,15,13,shr_new_nbest/new_2/1475.csv
+14,4,5,3,maya,1.623519494104775188432162432E-31,1,0,maya,mā,,imp. [1] ac. sg. 2,4,4,shr_new_nbest/new_2/1479.csv
+15,10,5,3,maya,1.623519494104775188432162432E-31,2,0,maya,maya,,m. sg. voc.,4,4,shr_new_nbest/new_2/1479.csv
+16,4,5,4,mayAn,4.696032214201253762207076110E-32,1,0,mayān,maya,,m. pl. acc.,5,5,shr_new_nbest/new_2/1480.csv
+17,4,5,5,mayAnizWitam,4.040260902543446877753736272E-50,1,0,maya,maya,,iic.,4,4,shr_new_nbest/new_2/1478.csv
+18,5,5,5,mayAnizWitam,4.040260902543446877753736272E-50,1,4,niṣṭhitam,ni-sthita,,n. sg. acc.,9,12,shr_new_nbest/new_2/1478.csv
+19,6,5,5,mayAnizWitam,4.040260902543446877753736272E-50,1,4,niṣṭhitam,ni-sthita,,n. sg. nom.,9,12,shr_new_nbest/new_2/1478.csv
+20,7,5,5,mayAnizWitam,4.040260902543446877753736272E-50,1,4,niṣṭhitam,ni-sthita,,m. sg. acc.,9,12,shr_new_nbest/new_2/1478.csv
+21,10,5,5,mayAnizWitam,4.040260902543446877753736272E-50,2,0,mayā,asmad,,m. sg. i.,4,4,shr_new_nbest/new_2/1478.csv
+22,11,5,5,mayAnizWitam,4.040260902543446877753736272E-50,3,0,maya,mā,,imp. [1] ac. sg. 2,4,4,shr_new_nbest/new_2/1478.csv
+23,12,5,5,mayAnizWitam,4.040260902543446877753736272E-50,4,3,a,a,,iic.,1,4,shr_new_nbest/new_2/1478.csv
+24,5,7,1,nuzWitam,0.8884713663004467045275300696,1,0,nuṣṭhitam,nuṣṭhitam,,?,9,8,shr_new_nbest/new_2/1473.csv
+25,5,7,2,anuzWitam,0.05876271136517065779919519536,1,0,anuṣṭhitam,anu-sthita,,n. sg. acc.,10,9,shr_new_nbest/new_2/1472.csv
+26,6,7,2,anuzWitam,0.05876271136517065779919519536,1,0,anuṣṭhitam,anu-sthita,,n. sg. nom.,10,9,shr_new_nbest/new_2/1472.csv
+27,7,7,2,anuzWitam,0.05876271136517065779919519536,1,0,anuṣṭhitam,anu-sthita,,m. sg. acc.,10,9,shr_new_nbest/new_2/1472.csv
+28,5,7,3,nizWitam,1.497066915525988902208863146E-45,1,0,niṣṭhitam,ni-sthita,,n. sg. acc.,9,8,shr_new_nbest/new_2/1476.csv
+29,6,7,3,nizWitam,1.497066915525988902208863146E-45,1,0,niṣṭhitam,ni-sthita,,n. sg. nom.,9,8,shr_new_nbest/new_2/1476.csv
+30,7,7,3,nizWitam,1.497066915525988902208863146E-45,1,0,niṣṭhitam,ni-sthita,,m. sg. acc.,9,8,shr_new_nbest/new_2/1476.csv
+31,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+32,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+33,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+34,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+35,,7,0,<eps>,0.05276592233438263767327473502,1,0,<eps>,,,,9,9,
+36,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+37,,9,0,<eps>,1,1,0,<eps>,,,,1,1,
+38,,10,0,<eps>,1,1,0,<eps>,,,,1,1,

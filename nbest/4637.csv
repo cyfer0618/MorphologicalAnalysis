@@ -1,0 +1,44 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,anantaram,1,1,0,anantaram,anantara,,m. sg. acc.,9,9,shr_new_nbest/new_23/419.csv
+1,1,1,0,anantaram,1,1,0,anantaram,anantara,,n. sg. acc.,9,9,shr_new_nbest/new_23/419.csv
+2,2,1,0,anantaram,1,1,0,anantaram,anantara,,n. sg. nom.,9,9,shr_new_nbest/new_23/419.csv
+3,6,1,0,anantaram,1,2,0,an,an,,iic.,2,2,shr_new_nbest/new_23/419.csv
+4,7,1,0,anantaram,1,2,2,antaram,antara,,m. sg. acc.,7,9,shr_new_nbest/new_23/419.csv
+5,8,1,0,anantaram,1,2,2,antaram,antara,,n. sg. acc.,7,9,shr_new_nbest/new_23/419.csv
+6,9,1,0,anantaram,1,2,2,antaram,antara,,n. sg. nom.,7,9,shr_new_nbest/new_23/419.csv
+7,3,3,0,mama,0.9999999999999999999979481790,1,0,mama,asmad,,m. sg. g.,4,4,shr_new_nbest/new_23/419.csv
+8,10,3,0,mama,0.9999999999999999999979481790,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_23/419.csv
+9,11,3,0,mama,0.9999999999999999999979481790,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_23/419.csv
+10,3,3,1,mavaputraH,2.051820999999999999995790031E-21,1,0,mavaputraḥ,mavaputraḥ,,?,10,10,shr_new_nbest/new_23/421.csv
+11,3,3,2,mamaputraH,1.135884999999999999997669367E-28,1,0,mama,asmad,,m. sg. g.,4,4,shr_new_nbest/new_23/423.csv
+12,4,3,2,mamaputraH,1.135884999999999999997669367E-28,1,4,putraḥ,putra,,m. sg. nom.,6,10,shr_new_nbest/new_23/423.csv
+13,10,3,2,mamaputraH,1.135884999999999999997669367E-28,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_23/423.csv
+14,11,3,2,mamaputraH,1.135884999999999999997669367E-28,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_23/423.csv
+15,3,3,3,mavapuprahajanizyate,6.941132504662991089603057899E-67,1,0,mavapuprahajaniṣyate,mavapuprahajaniṣyate,,?,20,20,shr_new_nbest/new_23/428.csv
+16,4,5,1,putraH,0.9743589743589743594740302433,1,0,putraḥ,putra,,m. sg. nom.,6,6,shr_new_nbest/new_23/419.csv
+17,4,5,2,puprahajanizyate,3.296171911747258071391180313E-46,1,0,puprahajaniṣyate,puprahajaniṣyate,,?,16,16,shr_new_nbest/new_23/424.csv
+18,4,5,3,puprahajanizyati,8.056587064330163004752278987E-53,1,0,puprahajaniṣyati,puprahajaniṣyati,,?,16,16,shr_new_nbest/new_23/427.csv
+19,4,5,4,putrahajanizyate,3.311966055824221281927200369E-61,1,0,putra,putra,,iic.,5,5,shr_new_nbest/new_23/426.csv
+20,5,5,4,putrahajanizyate,3.311966055824221281927200369E-61,1,5,ha,han,,n. sg. acc.,2,7,shr_new_nbest/new_23/426.csv
+21,6,5,4,putrahajanizyate,3.311966055824221281927200369E-61,1,5,ha,han,,n. sg. nom.,2,7,shr_new_nbest/new_23/426.csv
+22,7,5,4,putrahajanizyate,3.311966055824221281927200369E-61,1,7,janiṣyate,jan,,fut. md. sg. 3,9,16,shr_new_nbest/new_23/426.csv
+23,14,5,4,putrahajanizyate,3.311966055824221281927200369E-61,2,5,ha,han,,iic.,2,7,shr_new_nbest/new_23/426.csv
+24,15,5,4,putrahajanizyate,3.311966055824221281927200369E-61,2,7,janiṣyate,janiṣyat,,n. sg. dat.,9,16,shr_new_nbest/new_23/426.csv
+25,16,5,4,putrahajanizyate,3.311966055824221281927200369E-61,2,7,janiṣyate,janiṣyat,,m. sg. dat.,9,16,shr_new_nbest/new_23/426.csv
+26,5,7,1,janizyate,0.9743340358810056349473423884,1,0,janiṣyate,jan,,fut. md. sg. 3,9,9,shr_new_nbest/new_23/419.csv
+27,12,7,1,janizyate,0.9743340358810056349473423884,2,0,janiṣyate,janiṣyat,,n. sg. dat.,9,9,shr_new_nbest/new_23/419.csv
+28,13,7,1,janizyate,0.9743340358810056349473423884,2,0,janiṣyate,janiṣyat,,m. sg. dat.,9,9,shr_new_nbest/new_23/419.csv
+29,5,7,2,janizyati,2.381491985244916974483338085E-7,1,0,janiṣyati,jan,,fut. ac. sg. 3,9,9,shr_new_nbest/new_23/420.csv
+30,12,7,2,janizyati,2.381491985244916974483338085E-7,2,0,janiṣyati,janiṣyat,,n. sg. loc.,9,9,shr_new_nbest/new_23/420.csv
+31,13,7,2,janizyati,2.381491985244916974483338085E-7,2,0,janiṣyati,janiṣyat,,m. sg. loc.,9,9,shr_new_nbest/new_23/420.csv
+32,14,7,2,janizyati,2.381491985244916974483338085E-7,3,0,janiṣi,jan,,inj. [5] md. sg. 1,6,6,shr_new_nbest/new_23/420.csv
+33,15,7,2,janizyati,2.381491985244916974483338085E-7,3,6,ati,ati,,prep.,3,9,shr_new_nbest/new_23/420.csv
+34,16,7,2,janizyati,2.381491985244916974483338085E-7,3,6,ati,ati,,adv.,3,9,shr_new_nbest/new_23/420.csv
+35,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+36,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+37,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+38,,5,0,<eps>,0.02564102564102564052596975674,1,0,<eps>,,,,16,16,
+39,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+40,,7,0,<eps>,0.02566572596979584056096016329,1,0,<eps>,,,,9,9,
+41,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+42,,9,0,<eps>,1,1,0,<eps>,,,,1,1,

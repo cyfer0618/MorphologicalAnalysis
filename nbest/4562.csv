@@ -1,0 +1,45 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,BavAn,1,1,0,bhavān,bhava,,m. pl. acc.,6,5,shr_new_nbest/new_22/1718.csv
+1,1,1,0,BavAn,1,1,0,bhavān,bhavat,,m. sg. nom.,6,5,shr_new_nbest/new_22/1718.csv
+2,0,1,1,BavAnkutra,3.081472E-31,1,0,bhavān,bhava,,m. pl. acc.,6,5,shr_new_nbest/new_22/1725.csv
+3,1,1,1,BavAnkutra,3.081472E-31,1,0,bhavān,bhavat,,m. sg. nom.,6,5,shr_new_nbest/new_22/1725.csv
+4,2,1,1,BavAnkutra,3.081472E-31,1,5,kutra,kutra,,ind.,5,10,shr_new_nbest/new_22/1725.csv
+5,0,1,2,BavAnkutragacCati,1.1624138218496E-42,1,0,bhavān,bhava,,m. pl. acc.,6,5,shr_new_nbest/new_22/1724.csv
+6,1,1,2,BavAnkutragacCati,1.1624138218496E-42,1,0,bhavān,bhavat,,m. sg. nom.,6,5,shr_new_nbest/new_22/1724.csv
+7,2,1,2,BavAnkutragacCati,1.1624138218496E-42,1,5,kutra,kutra,,adv.,5,10,shr_new_nbest/new_22/1724.csv
+8,3,1,2,BavAnkutragacCati,1.1624138218496E-42,1,10,gacchati,gam,,pr. [1] ac. sg. 3,8,17,shr_new_nbest/new_22/1724.csv
+9,5,1,2,BavAnkutragacCati,1.1624138218496E-42,2,10,gacchati,gacchat,,n. sg. loc.,8,17,shr_new_nbest/new_22/1724.csv
+10,6,1,2,BavAnkutragacCati,1.1624138218496E-42,2,10,gacchati,gacchat,,m. sg. loc.,8,17,shr_new_nbest/new_22/1724.csv
+11,2,3,1,kutra,0.9843749999953719299297088821,1,0,kutra,kutra,,adv.,5,5,shr_new_nbest/new_22/1718.csv
+12,2,3,2,kutragacCati,3.713326312482541679372083065E-12,1,0,kutra,kutra,,adv.,5,5,shr_new_nbest/new_22/1720.csv
+13,3,3,2,kutragacCati,3.713326312482541679372083065E-12,1,5,gacchati,gam,,pr. [1] ac. sg. 3,8,12,shr_new_nbest/new_22/1720.csv
+14,5,3,2,kutragacCati,3.713326312482541679372083065E-12,2,5,gacchati,gacchat,,n. sg. loc.,8,12,shr_new_nbest/new_22/1720.csv
+15,6,3,2,kutragacCati,3.713326312482541679372083065E-12,2,5,gacchati,gacchat,,m. sg. loc.,8,12,shr_new_nbest/new_22/1720.csv
+16,2,3,3,putragacCati,9.882061874953539174809953090E-13,1,0,putra,putra,,iic.,5,5,shr_new_nbest/new_22/1719.csv
+17,3,3,3,putragacCati,9.882061874953539174809953090E-13,1,5,gacchati,gacchat,,n. sg. loc.,8,12,shr_new_nbest/new_22/1719.csv
+18,4,3,3,putragacCati,9.882061874953539174809953090E-13,1,5,gacchati,gacchat,,m. sg. loc.,8,12,shr_new_nbest/new_22/1719.csv
+19,2,3,4,putra,3.827741203107003754159743058E-25,1,0,putra,putra,,m. sg. voc.,5,5,shr_new_nbest/new_22/1721.csv
+20,2,3,5,kutragacCatI,4.204260679281796147794643628E-48,1,0,kutra,kutra,,adv.,5,5,shr_new_nbest/new_22/1727.csv
+21,3,3,5,kutragacCatI,4.204260679281796147794643628E-48,1,5,gacchatī,gacchat,,n. du. acc.,8,12,shr_new_nbest/new_22/1727.csv
+22,4,3,5,kutragacCatI,4.204260679281796147794643628E-48,1,5,gacchatī,gacchat,,n. du. nom.,8,12,shr_new_nbest/new_22/1727.csv
+23,6,3,5,kutragacCatI,4.204260679281796147794643628E-48,2,5,gacchatī,gacchat,,n. du. voc.,8,12,shr_new_nbest/new_22/1727.csv
+24,2,3,6,putragacCatI,1.118855728661261845235243196E-48,1,0,putra,putra,,iic.,5,5,shr_new_nbest/new_22/1726.csv
+25,3,3,6,putragacCatI,1.118855728661261845235243196E-48,1,5,gacchatī,gacchat,,n. du. acc.,8,12,shr_new_nbest/new_22/1726.csv
+26,4,3,6,putragacCatI,1.118855728661261845235243196E-48,1,5,gacchatī,gacchat,,n. du. nom.,8,12,shr_new_nbest/new_22/1726.csv
+27,6,3,6,putragacCatI,1.118855728661261845235243196E-48,2,5,gacchatī,gacchat,,n. du. voc.,8,12,shr_new_nbest/new_22/1726.csv
+28,3,5,1,gacCati,0.9843750000000000009843750000,1,0,gacchati,gam,,pr. [1] ac. sg. 3,8,7,shr_new_nbest/new_22/1718.csv
+29,5,5,1,gacCati,0.9843750000000000009843750000,2,0,gacchati,gacchat,,n. sg. loc.,8,7,shr_new_nbest/new_22/1718.csv
+30,6,5,1,gacCati,0.9843750000000000009843750000,2,0,gacchati,gacchat,,m. sg. loc.,8,7,shr_new_nbest/new_22/1718.csv
+31,3,5,2,gacCatI,1.114518024515109376114518025E-36,1,0,gacchatī,gacchat,,n. du. acc.,8,7,shr_new_nbest/new_22/1722.csv
+32,4,5,2,gacCatI,1.114518024515109376114518025E-36,1,0,gacchatī,gacchat,,n. du. nom.,8,7,shr_new_nbest/new_22/1722.csv
+33,6,5,2,gacCatI,1.114518024515109376114518025E-36,2,0,gacchatī,gacchat,,n. du. voc.,8,7,shr_new_nbest/new_22/1722.csv
+34,3,5,3,gacCyati,4.929073742266635942429073742E-55,1,0,gacchyati,gacchyati,,?,9,8,shr_new_nbest/new_22/1723.csv
+35,4,7,1,iti,0.9843750000000000009843750000,1,0,iti,iti,,part.,3,3,shr_new_nbest/new_22/1718.csv
+36,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+37,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+38,,3,0,<eps>,0.01562499999992653757031283940,1,0,<eps>,,,,12,12,
+39,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+40,,5,0,<eps>,0.01562499999999999901562500000,1,0,<eps>,,,,8,8,
+41,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+42,,7,0,<eps>,0.01562499999999999901562500000,1,0,<eps>,,,,3,3,
+43,,8,0,<eps>,1,1,0,<eps>,,,,1,1,

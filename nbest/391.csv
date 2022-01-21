@@ -1,0 +1,44 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,kintu,0.9999999999999999970582390000,1,0,kintu,kintu,,adv.,5,5,shr_new_nbest/new_2/1691.csv
+1,6,1,0,kintu,0.9999999999999999970582390000,2,0,kim,kim,,n. sg. acc.,3,3,shr_new_nbest/new_2/1691.csv
+2,7,1,0,kintu,0.9999999999999999970582390000,2,0,kim,kim,,n. sg. nom.,3,3,shr_new_nbest/new_2/1691.csv
+3,8,1,0,kintu,0.9999999999999999970582390000,2,3,tu,tu,,conj.,2,5,shr_new_nbest/new_2/1691.csv
+4,0,1,1,kim,2.941760999999999991346042219E-18,1,0,kim,kim,,n. sg. acc.,3,3,shr_new_nbest/new_2/1693.csv
+5,1,1,1,kim,2.941760999999999991346042219E-18,1,0,kim,kim,,n. sg. nom.,3,3,shr_new_nbest/new_2/1693.csv
+6,2,2,1,tu,2.941760999999999991346042219E-18,1,0,tu,tu,,conj.,2,2,shr_new_nbest/new_2/1693.csv
+7,1,3,0,santuzwA,0.9999999999999971853880000000,1,0,santuṣṭā,sam-tuṣṭa,,f. sg. nom.,8,8,shr_new_nbest/new_2/1691.csv
+8,1,3,1,santuzwa,2.814611999999992077959289456E-15,1,0,santuṣṭa,sam-tuṣṭa,,n. sg. voc.,8,8,shr_new_nbest/new_2/1692.csv
+9,2,3,1,santuzwa,2.814611999999992077959289456E-15,1,0,santuṣṭa,sam-tuṣṭa,,m. sg. voc.,8,8,shr_new_nbest/new_2/1692.csv
+10,1,3,2,santuzwAH,7.944407999999977639573910304E-29,1,0,santuṣṭāḥ,sam-tuṣṭa,,f. pl. acc.,9,9,shr_new_nbest/new_2/1694.csv
+11,2,3,2,santuzwAH,7.944407999999977639573910304E-29,1,0,santuṣṭāḥ,sam-tuṣṭa,,f. pl. nom.,9,9,shr_new_nbest/new_2/1694.csv
+12,3,3,2,santuzwAH,7.944407999999977639573910304E-29,1,0,santuṣṭāḥ,sam-tuṣṭa,,m. pl. nom.,9,9,shr_new_nbest/new_2/1694.csv
+13,11,3,2,santuzwAH,7.944407999999977639573910304E-29,2,0,santuṣṭāḥ,sam-tuṣṭa,,f. pl. voc.,9,9,shr_new_nbest/new_2/1694.csv
+14,12,3,2,santuzwAH,7.944407999999977639573910304E-29,2,0,santuṣṭāḥ,sam-tuṣṭa,,m. pl. voc.,9,9,shr_new_nbest/new_2/1694.csv
+15,1,3,4,santuzwApi,3.085330893120991315990644251E-68,1,0,santuṣṭa,sam-tuṣṭa,,iic.,8,8,shr_new_nbest/new_2/1696.csv
+16,7,3,4,santuzwApi,3.085330893120991315990644251E-68,2,0,santuṣṭā,sam-tuṣṭa,,f. sg. nom.,8,8,shr_new_nbest/new_2/1696.csv
+17,10,3,4,santuzwApi,3.085330893120991315990644251E-68,3,7,āpi,āpī,,n. sg. acc.,3,10,shr_new_nbest/new_2/1696.csv
+18,11,3,4,santuzwApi,3.085330893120991315990644251E-68,3,7,āpi,āpī,,n. sg. nom.,3,10,shr_new_nbest/new_2/1696.csv
+19,12,3,4,santuzwApi,3.085330893120991315990644251E-68,4,7,āpi,āpī,,m. sg. voc.,3,10,shr_new_nbest/new_2/1696.csv
+20,13,3,4,santuzwApi,3.085330893120991315990644251E-68,4,7,āpi,āpī,,n. sg. voc.,3,10,shr_new_nbest/new_2/1696.csv
+21,14,3,4,santuzwApi,3.085330893120991315990644251E-68,4,7,āpi,āpī,,f. sg. voc.,3,10,shr_new_nbest/new_2/1696.csv
+22,15,3,4,santuzwApi,3.085330893120991315990644251E-68,5,7,api,api,,conj.,3,10,shr_new_nbest/new_2/1696.csv
+23,16,3,4,santuzwApi,3.085330893120991315990644251E-68,5,7,api,api,,prep.,3,10,shr_new_nbest/new_2/1696.csv
+24,1,5,1,santuzwaH,2.156460449999999969809553700E-32,1,0,santuṣṭaḥ,sam-tuṣṭa,,m. sg. nom.,9,9,shr_new_nbest/new_2/1695.csv
+25,2,7,1,api,0.9857142857142857140885714286,1,0,api,api,,conj.,3,3,shr_new_nbest/new_2/1691.csv
+26,3,7,1,api,0.9857142857142857140885714286,1,0,api,api,,prep.,3,3,shr_new_nbest/new_2/1691.csv
+27,4,9,0,Bavizyati,1,1,0,bhaviṣyati,bhū,,fut. ac. sg. 3,10,9,shr_new_nbest/new_2/1691.csv
+28,9,9,0,Bavizyati,1,2,0,bhaviṣyati,bhaviṣyat,,n. sg. loc.,10,9,shr_new_nbest/new_2/1691.csv
+29,10,9,0,Bavizyati,1,2,0,bhaviṣyati,bhaviṣyat,,m. sg. loc.,10,9,shr_new_nbest/new_2/1691.csv
+30,5,10,1,kiti,6.056613E-33,1,0,kiti,kiti,,?,4,4,shr_new_nbest/new_2/1698.csv
+31,5,11,1,iti,0.9857142857142857140885714286,1,0,iti,iti,,part.,3,3,shr_new_nbest/new_2/1691.csv
+32,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+33,,2,0,<eps>,0.9999999999999999970582390000,1,0,<eps>,,,,2,2,
+34,,3,3,<eps>,3.125304999999991203479043340E-34,1,0,<eps>,,,,10,10,
+35,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+36,,5,0,<eps>,1,1,0,<eps>,,,,9,9,
+37,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+38,,7,0,<eps>,0.01428571428571428591142857143,1,0,<eps>,,,,3,3,
+39,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+40,,10,0,<eps>,1,1,0,<eps>,,,,4,4,
+41,,11,0,<eps>,0.01428571428571428591142857143,1,0,<eps>,,,,3,3,
+42,,12,0,<eps>,1,1,0,<eps>,,,,1,1,

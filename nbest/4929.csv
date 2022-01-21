@@ -1,0 +1,56 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,aham,1,1,0,aham,asmad,,m. sg. nom.,4,4,shr_new_nbest/new_24/1216.csv
+1,1,3,1,candanapuram,0.9843749999995739142025636610,1,0,candana,candana,,iic.,7,7,shr_new_nbest/new_24/1216.csv
+2,2,3,1,candanapuram,0.9843749999995739142025636610,1,7,puram,pura,,n. sg. acc.,5,12,shr_new_nbest/new_24/1216.csv
+3,3,3,1,candanapuram,0.9843749999995739142025636610,1,7,puram,pura,,n. sg. nom.,5,12,shr_new_nbest/new_24/1216.csv
+4,6,3,1,candanapuram,0.9843749999995739142025636610,2,0,candan,candat,,m. sg. nom.,6,6,shr_new_nbest/new_24/1216.csv
+5,7,3,1,candanapuram,0.9843749999995739142025636610,2,6,a,a,,iic.,1,7,shr_new_nbest/new_24/1216.csv
+6,9,3,1,candanapuram,0.9843749999995739142025636610,3,0,canda,cand,,imp. [1] ac. sg. 2,5,5,shr_new_nbest/new_24/1216.csv
+7,10,3,1,candanapuram,0.9843749999995739142025636610,3,5,na,na,,part.,2,7,shr_new_nbest/new_24/1216.csv
+8,1,3,2,candanaparam,4.328500640623126412548912348E-13,1,0,candana,candana,,iic.,7,7,shr_new_nbest/new_24/1219.csv
+9,2,3,2,candanaparam,4.328500640623126412548912348E-13,1,7,param,para,,m. sg. acc.,5,12,shr_new_nbest/new_24/1219.csv
+10,3,3,2,candanaparam,4.328500640623126412548912348E-13,1,7,param,para,,n. sg. acc.,5,12,shr_new_nbest/new_24/1219.csv
+11,4,3,2,candanaparam,4.328500640623126412548912348E-13,1,7,param,para,,n. sg. nom.,5,12,shr_new_nbest/new_24/1219.csv
+12,7,3,2,candanaparam,4.328500640623126412548912348E-13,2,0,candan,candat,,m. sg. nom.,6,6,shr_new_nbest/new_24/1219.csv
+13,8,3,2,candanaparam,4.328500640623126412548912348E-13,2,6,aparam,apara,,m. sg. acc.,6,12,shr_new_nbest/new_24/1219.csv
+14,9,3,2,candanaparam,4.328500640623126412548912348E-13,2,6,aparam,apara,,n. sg. acc.,6,12,shr_new_nbest/new_24/1219.csv
+15,10,3,2,candanaparam,4.328500640623126412548912348E-13,2,6,aparam,apara,,n. sg. nom.,6,12,shr_new_nbest/new_24/1219.csv
+16,11,3,2,candanaparam,4.328500640623126412548912348E-13,2,6,aparam,apara,,m. sg. acc.,6,12,shr_new_nbest/new_24/1219.csv
+17,12,3,2,candanaparam,4.328500640623126412548912348E-13,2,6,aparam,apara,,n. sg. acc.,6,12,shr_new_nbest/new_24/1219.csv
+18,13,3,2,candanaparam,4.328500640623126412548912348E-13,2,6,aparam,apara,,n. sg. nom.,6,12,shr_new_nbest/new_24/1219.csv
+19,15,3,2,candanaparam,4.328500640623126412548912348E-13,3,0,canda,cand,,imp. [1] ac. sg. 2,5,5,shr_new_nbest/new_24/1219.csv
+20,16,3,2,candanaparam,4.328500640623126412548912348E-13,3,5,na,na,,part.,2,7,shr_new_nbest/new_24/1219.csv
+21,17,3,2,candanaparam,4.328500640623126412548912348E-13,3,7,param,param,,adv.,5,12,shr_new_nbest/new_24/1219.csv
+22,18,3,2,candanaparam,4.328500640623126412548912348E-13,4,6,a,a,,iic.,1,7,shr_new_nbest/new_24/1219.csv
+23,4,7,0,gacCan,0.9004429143226605474276515887,1,0,gacchan,gacchat,,m. sg. nom.,7,6,shr_new_nbest/new_24/1216.csv
+24,8,7,0,gacCan,0.9004429143226605474276515887,2,0,gacchan,gacchat,,m. sg. voc.,7,6,shr_new_nbest/new_24/1216.csv
+25,4,7,1,gacCanasmi,0.08806285863067058470967231503,1,0,gacchan,gacchat,,m. sg. nom.,7,6,shr_new_nbest/new_24/1217.csv
+26,5,7,1,gacCanasmi,0.08806285863067058470967231503,1,6,asmi,as,,pr. [2] ac. sg. 1,4,10,shr_new_nbest/new_24/1217.csv
+27,4,7,2,gacCannaasmi,0.01029150561117387916662401956,1,0,gacchanna asmi,gacchanna,,?,14,12,shr_new_nbest/new_24/1225.csv
+28,4,7,3,gacCannasmi,0.001202721435494522638642918522,1,0,gacchan,gacchat,,m. sg. nom.,7,6,shr_new_nbest/new_24/1218.csv
+29,5,7,3,gacCannasmi,0.001202721435494522638642918522,1,7,asmi,as,,pr. [2] ac. sg. 1,4,11,shr_new_nbest/new_24/1218.csv
+30,4,7,4,gacCanna,4.660471485555077230848481238E-16,1,0,gaccham,gaccha,,m. sg. acc.,7,6,shr_new_nbest/new_24/1224.csv
+31,5,7,4,gacCanna,4.660471485555077230848481238E-16,1,6,na,na,,part.,2,8,shr_new_nbest/new_24/1224.csv
+32,9,7,4,gacCanna,4.660471485555077230848481238E-16,2,0,gacchat,gacchat,,n. sg. acc.,7,6,shr_new_nbest/new_24/1224.csv
+33,10,7,4,gacCanna,4.660471485555077230848481238E-16,2,0,gacchat,gacchat,,n. sg. nom.,7,6,shr_new_nbest/new_24/1224.csv
+34,13,7,4,gacCanna,4.660471485555077230848481238E-16,3,0,gacchan,gacchat,,m. sg. nom.,7,6,shr_new_nbest/new_24/1224.csv
+35,4,7,5,gacCannAsmi,1.026060266992909583533821496E-20,1,0,gaccham,gaccha,,m. sg. acc.,7,6,shr_new_nbest/new_24/1222.csv
+36,5,7,5,gacCannAsmi,1.026060266992909583533821496E-20,1,6,na,na,,part.,2,8,shr_new_nbest/new_24/1222.csv
+37,8,7,5,gacCannAsmi,1.026060266992909583533821496E-20,2,0,gacchat,gacchat,,n. sg. acc.,7,6,shr_new_nbest/new_24/1222.csv
+38,9,7,5,gacCannAsmi,1.026060266992909583533821496E-20,2,0,gacchat,gacchat,,n. sg. nom.,7,6,shr_new_nbest/new_24/1222.csv
+39,10,7,5,gacCannAsmi,1.026060266992909583533821496E-20,2,6,nā,nṛ,,m. sg. nom.,2,8,shr_new_nbest/new_24/1222.csv
+40,13,7,5,gacCannAsmi,1.026060266992909583533821496E-20,3,0,gacchan,gacchat,,m. sg. nom.,7,6,shr_new_nbest/new_24/1222.csv
+41,14,7,5,gacCannAsmi,1.026060266992909583533821496E-20,3,7,asmi,as,,pr. [2] ac. sg. 1,4,11,shr_new_nbest/new_24/1222.csv
+42,15,7,5,gacCannAsmi,1.026060266992909583533821496E-20,4,0,gacchat,gacchat,,iic.,7,6,shr_new_nbest/new_24/1222.csv
+43,5,8,1,asmi,3.134213337640711085894771171E-36,1,0,asmi,as,,pr. [2] ac. sg. 1,4,4,shr_new_nbest/new_24/1216.csv
+44,5,9,1,asmi,0.8813729531250000008813729531,1,0,asmi,as,,pr. [2] ac. sg. 1,4,4,shr_new_nbest/new_24/1216.csv
+45,6,9,2,smi,0.1030020468750000001030020469,1,0,smi,smi,,?,3,3,shr_new_nbest/new_24/1224.csv
+46,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+47,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+48,,3,0,<eps>,0.01562499999999323573337402637,1,0,<eps>,,,,12,12,
+49,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+50,,5,0,<eps>,1,1,0,<eps>,,,,1,1,
+51,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+52,,8,0,<eps>,1,1,0,<eps>,,,,4,4,
+53,,9,0,<eps>,0.01562499999999999901562500000,1,0,<eps>,,,,4,4,
+54,,10,0,<eps>,1,1,0,<eps>,,,,1,1,

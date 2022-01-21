@@ -1,0 +1,36 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,mama,1,1,0,mama,asmad,,m. sg. g.,4,4,shr_new_nbest/new_17/1517.csv
+1,9,1,0,mama,1,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_17/1517.csv
+2,10,1,0,mama,1,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_17/1517.csv
+3,0,1,1,mamavacanam,1.317747E-32,1,0,mama,asmad,,m. sg. g.,4,4,shr_new_nbest/new_17/1520.csv
+4,1,1,1,mamavacanam,1.317747E-32,1,4,vacanam,vacana,,n. sg. acc.,7,11,shr_new_nbest/new_17/1520.csv
+5,2,1,1,mamavacanam,1.317747E-32,1,4,vacanam,vacana,,n. sg. nom.,7,11,shr_new_nbest/new_17/1520.csv
+6,9,1,1,mamavacanam,1.317747E-32,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_17/1520.csv
+7,10,1,1,mamavacanam,1.317747E-32,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_17/1520.csv
+8,1,3,1,vacanam,0.9677419354838709708636836629,1,0,vacanam,vacana,,n. sg. acc.,7,7,shr_new_nbest/new_17/1517.csv
+9,2,3,1,vacanam,0.9677419354838709708636836629,1,0,vacanam,vacana,,n. sg. nom.,7,7,shr_new_nbest/new_17/1517.csv
+10,3,5,0,pUrRam,1,1,0,pūrṇam,pūrṇa,,n. sg. acc.,6,6,shr_new_nbest/new_17/1517.csv
+11,4,5,0,pUrRam,1,1,0,pūrṇam,pūrṇa,,n. sg. nom.,6,6,shr_new_nbest/new_17/1517.csv
+12,5,5,0,pUrRam,1,1,0,pūrṇam,pūrṇa,,m. sg. acc.,6,6,shr_new_nbest/new_17/1517.csv
+13,3,5,1,tUrRam,2.169021E-32,1,0,tūrṇam,tūrṇa,,n. sg. acc.,6,6,shr_new_nbest/new_17/1518.csv
+14,4,5,1,tUrRam,2.169021E-32,1,0,tūrṇam,tūrṇa,,n. sg. nom.,6,6,shr_new_nbest/new_17/1518.csv
+15,5,5,1,tUrRam,2.169021E-32,1,0,tūrṇam,tūrṇa,,m. sg. acc.,6,6,shr_new_nbest/new_17/1518.csv
+16,11,5,1,tUrRam,2.169021E-32,2,0,tu,tu,,conj.,2,2,shr_new_nbest/new_17/1518.csv
+17,12,5,1,tUrRam,2.169021E-32,3,1,ūrṇam,ūrṇa,,n. sg. acc.,5,6,shr_new_nbest/new_17/1518.csv
+18,13,5,1,tUrRam,2.169021E-32,3,1,ūrṇam,ūrṇa,,n. sg. nom.,5,6,shr_new_nbest/new_17/1518.csv
+19,3,5,2,pUraRam,2.278052E-33,1,0,pūraṇam,pūraṇa,,m. sg. acc.,7,7,shr_new_nbest/new_17/1519.csv
+20,4,5,2,pUraRam,2.278052E-33,1,0,pūraṇam,pūraṇa,,n. sg. acc.,7,7,shr_new_nbest/new_17/1519.csv
+21,5,5,2,pUraRam,2.278052E-33,1,0,pūraṇam,pūraṇa,,n. sg. nom.,7,7,shr_new_nbest/new_17/1519.csv
+22,6,6,1,jAtam,2.2810090032081E-63,1,0,jātam,jāta,,n. sg. acc.,5,5,shr_new_nbest/new_17/1517.csv
+23,7,6,1,jAtam,2.2810090032081E-63,1,0,jātam,jāta,,n. sg. nom.,5,5,shr_new_nbest/new_17/1517.csv
+24,8,6,1,jAtam,2.2810090032081E-63,1,0,jātam,jāta,,m. sg. acc.,5,5,shr_new_nbest/new_17/1517.csv
+25,6,7,1,jAtam,0.9677419354838709708636836629,1,0,jātam,jāta,,n. sg. acc.,5,5,shr_new_nbest/new_17/1517.csv
+26,7,7,1,jAtam,0.9677419354838709708636836629,1,0,jātam,jāta,,n. sg. nom.,5,5,shr_new_nbest/new_17/1517.csv
+27,8,7,1,jAtam,0.9677419354838709708636836629,1,0,jātam,jāta,,m. sg. acc.,5,5,shr_new_nbest/new_17/1517.csv
+28,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+29,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+30,,3,0,<eps>,0.03225806451612902913631633715,1,0,<eps>,,,,7,7,
+31,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+32,,6,0,<eps>,1,1,0,<eps>,,,,5,5,
+33,,7,0,<eps>,0.03225806451612902913631633715,1,0,<eps>,,,,5,5,
+34,,8,0,<eps>,1,1,0,<eps>,,,,1,1,

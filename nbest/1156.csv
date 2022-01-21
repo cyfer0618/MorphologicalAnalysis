@@ -1,0 +1,53 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,dEvam,1,1,0,daivam,daiva,,m. sg. acc.,6,5,shr_new_nbest/new_6/1109.csv
+1,1,1,0,dEvam,1,1,0,daivam,daiva,,n. sg. acc.,6,5,shr_new_nbest/new_6/1109.csv
+2,2,1,0,dEvam,1,1,0,daivam,daiva,,n. sg. nom.,6,5,shr_new_nbest/new_6/1109.csv
+3,3,3,1,anukulamasti,0.9475811731878348261003305189,1,0,anu,anu,,prep.,3,3,shr_new_nbest/new_6/1110.csv
+4,4,3,1,anukulamasti,0.9475811731878348261003305189,1,0,anu,anu,,adv.,3,3,shr_new_nbest/new_6/1110.csv
+5,5,3,1,anukulamasti,0.9475811731878348261003305189,1,3,kulam,kula,,n. sg. acc.,5,8,shr_new_nbest/new_6/1110.csv
+6,6,3,1,anukulamasti,0.9475811731878348261003305189,1,3,kulam,kula,,n. sg. nom.,5,8,shr_new_nbest/new_6/1110.csv
+7,7,3,1,anukulamasti,0.9475811731878348261003305189,1,8,asti,as,,pr. [2] ac. sg. 3,4,12,shr_new_nbest/new_6/1110.csv
+8,8,3,1,anukulamasti,0.9475811731878348261003305189,2,0,anu,anu,,iic.,3,3,shr_new_nbest/new_6/1110.csv
+9,9,3,1,anukulamasti,0.9475811731878348261003305189,2,3,kulam,kula,,ind.,5,8,shr_new_nbest/new_6/1110.csv
+10,3,3,2,anukUlamasti,0.03813311351165247919489742676,1,0,anukūlam,anukūla,,m. sg. acc.,8,8,shr_new_nbest/new_6/1109.csv
+11,4,3,2,anukUlamasti,0.03813311351165247919489742676,1,0,anukūlam,anukūla,,n. sg. acc.,8,8,shr_new_nbest/new_6/1109.csv
+12,5,3,2,anukUlamasti,0.03813311351165247919489742676,1,0,anukūlam,anukūla,,n. sg. nom.,8,8,shr_new_nbest/new_6/1109.csv
+13,6,3,2,anukUlamasti,0.03813311351165247919489742676,1,8,asti,as,,pr. [2] ac. sg. 3,4,12,shr_new_nbest/new_6/1109.csv
+14,7,3,2,anukUlamasti,0.03813311351165247919489742676,2,0,anu,anu,,prep.,3,3,shr_new_nbest/new_6/1109.csv
+15,8,3,2,anukUlamasti,0.03813311351165247919489742676,2,0,anu,anu,,adv.,3,3,shr_new_nbest/new_6/1109.csv
+16,9,3,2,anukUlamasti,0.03813311351165247919489742676,2,3,kūlam,kūla,,n. sg. acc.,5,8,shr_new_nbest/new_6/1109.csv
+17,10,3,2,anukUlamasti,0.03813311351165247919489742676,2,3,kūlam,kūla,,n. sg. nom.,5,8,shr_new_nbest/new_6/1109.csv
+18,11,3,2,anukUlamasti,0.03813311351165247919489742676,3,0,anu,anu,,iic.,3,3,shr_new_nbest/new_6/1109.csv
+19,12,3,2,anukUlamasti,0.03813311351165247919489742676,3,3,kūlam,kūla,,ind.,5,8,shr_new_nbest/new_6/1109.csv
+20,3,3,3,ankulamasti,5.200558583423441733005834569E-13,1,0,ankulamasti,ankulamasti,,?,11,11,shr_new_nbest/new_6/1111.csv
+21,3,3,4,anu,3.667735161210080734181614613E-21,1,0,anu,anu,,prep.,3,3,shr_new_nbest/new_6/1114.csv
+22,4,3,4,anu,3.667735161210080734181614613E-21,1,0,anu,anu,,adv.,3,3,shr_new_nbest/new_6/1114.csv
+23,3,3,5,anukulaasti,2.756616919151288983121906416E-22,1,0,anukula asti,anukula,,?,12,11,shr_new_nbest/new_6/1115.csv
+24,3,3,6,anukUlaasti,1.109333837147698320981888583E-23,1,0,anukūla asti,anukūla,,?,12,11,shr_new_nbest/new_6/1113.csv
+25,3,3,7,anukulmasti,1.088688824879904904024161242E-25,1,0,anukulmasti,anukulmasti,,?,11,11,shr_new_nbest/new_6/1116.csv
+26,3,3,8,anukUlam,4.764828185510091507563312114E-27,1,0,anukūlam,anukūla,,m. sg. acc.,8,8,shr_new_nbest/new_6/1112.csv
+27,4,3,8,anukUlam,4.764828185510091507563312114E-27,1,0,anukūlam,anukūla,,n. sg. acc.,8,8,shr_new_nbest/new_6/1112.csv
+28,5,3,8,anukUlam,4.764828185510091507563312114E-27,1,0,anukūlam,anukūla,,n. sg. nom.,8,8,shr_new_nbest/new_6/1112.csv
+29,7,3,8,anukUlam,4.764828185510091507563312114E-27,2,0,anu,anu,,ind.,3,3,shr_new_nbest/new_6/1112.csv
+30,8,3,8,anukUlam,4.764828185510091507563312114E-27,2,3,kūlam,kūla,,n. sg. acc.,5,8,shr_new_nbest/new_6/1112.csv
+31,9,3,8,anukUlam,4.764828185510091507563312114E-27,2,3,kūlam,kūla,,n. sg. nom.,5,8,shr_new_nbest/new_6/1112.csv
+32,10,3,8,anukUlam,4.764828185510091507563312114E-27,3,0,anu,anu,,iic.,3,3,shr_new_nbest/new_6/1112.csv
+33,11,3,8,anukUlam,4.764828185510091507563312114E-27,3,3,kūlam,kūla,,ind.,5,8,shr_new_nbest/new_6/1112.csv
+34,3,3,9,anukula,1.193404993359577677787600985E-42,1,0,anu,anu,,prep.,3,3,shr_new_nbest/new_6/1118.csv
+35,4,3,9,anukula,1.193404993359577677787600985E-42,1,0,anu,anu,,adv.,3,3,shr_new_nbest/new_6/1118.csv
+36,5,3,9,anukula,1.193404993359577677787600985E-42,1,3,kula,kula,,n. sg. voc.,4,7,shr_new_nbest/new_6/1118.csv
+37,3,3,10,anukulamaasti,1.134468326390122327883226917E-43,1,0,anukulama asti,anukulama,,?,14,13,shr_new_nbest/new_6/1117.csv
+38,5,5,1,kulamasti,0.9851479310695935615076376306,1,0,kulam,kula,,n. sg. acc.,5,5,shr_new_nbest/new_6/1114.csv
+39,6,5,1,kulamasti,0.9851479310695935615076376306,1,0,kulam,kula,,n. sg. nom.,5,5,shr_new_nbest/new_6/1114.csv
+40,7,5,1,kulamasti,0.9851479310695935615076376306,1,5,asti,as,,pr. [2] ac. sg. 3,4,9,shr_new_nbest/new_6/1114.csv
+41,6,6,1,masti,4.9652263469797384736816E-44,1,0,masti,masti,,?,5,5,shr_new_nbest/new_6/1118.csv
+42,6,7,1,masti,0.9857142857142857140882887699,1,0,masti,masti,,?,5,5,shr_new_nbest/new_6/1118.csv
+43,6,7,2,asti,2.867550299999999999425667655E-22,1,0,asti,as,,pr. [2] ac. sg. 3,4,4,shr_new_nbest/new_6/1112.csv
+44,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+45,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+46,,3,0,<eps>,0.01428571329999263884247510653,1,0,<eps>,,,,13,13,
+47,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+48,,5,0,<eps>,0.01485206893040643849236236937,1,0,<eps>,,,,9,9,
+49,,6,0,<eps>,1,1,0,<eps>,,,,5,5,
+50,,7,0,<eps>,0.01428571428571428591142447493,1,0,<eps>,,,,5,5,
+51,,8,0,<eps>,1,1,0,<eps>,,,,1,1,

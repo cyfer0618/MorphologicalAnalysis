@@ -1,0 +1,38 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,iti,1,1,0,iti,iti,,part.,3,3,shr_new_nbest/new_7/1436.csv
+1,1,3,0,manvAnaH,1,1,0,manvānaḥ,manvāna,,m. sg. nom.,8,8,shr_new_nbest/new_7/1436.csv
+2,5,3,0,manvAnaH,1,2,0,manu,manu,,iic.,4,4,shr_new_nbest/new_7/1436.csv
+3,6,3,0,manvAnaH,1,2,4,ānaḥ,āna,,m. sg. nom.,4,8,shr_new_nbest/new_7/1436.csv
+4,8,3,0,manvAnaH,1,3,0,manū,manu,,m. du. acc.,4,4,shr_new_nbest/new_7/1436.csv
+5,9,3,0,manvAnaH,1,3,0,manū,manu,,m. du. nom.,4,4,shr_new_nbest/new_7/1436.csv
+6,10,3,0,manvAnaH,1,3,4,ānaḥ,an,,impft. [2] ac. sg. 2,4,8,shr_new_nbest/new_7/1436.csv
+7,2,7,0,kEkeyIm,1,1,0,kaikeyīm,kaikeya,,f. sg. acc.,8,7,shr_new_nbest/new_7/1436.csv
+8,2,7,1,kEkeyI,3.618525E-33,1,0,kaikeyī,kaikeya,,f. sg. nom.,7,6,shr_new_nbest/new_7/1439.csv
+9,3,8,1,Im,3.772417E-28,1,0,īm,īm,,?,2,2,shr_new_nbest/new_7/1439.csv
+10,3,8,2,apaSyata,3.118664025E-65,1,0,apaśyata,paś,,impft. [4] md. sg. 3,8,8,shr_new_nbest/new_7/1438.csv
+11,4,8,2,apaSyata,3.118664025E-65,1,0,apaśyata,paś,,impft. [4] ac. pl. 2,8,8,shr_new_nbest/new_7/1438.csv
+12,7,8,2,apaSyata,3.118664025E-65,2,0,apa,apa,,prep.,3,3,shr_new_nbest/new_7/1438.csv
+13,8,8,2,apaSyata,3.118664025E-65,2,3,śyata,śā,,imp. [4] ac. pl. 2,5,8,shr_new_nbest/new_7/1438.csv
+14,12,8,2,apaSyata,3.118664025E-65,3,0,a,a,,iic.,1,1,shr_new_nbest/new_7/1438.csv
+15,13,8,2,apaSyata,3.118664025E-65,3,1,paśyata,paśyata,,m. sg. voc.,7,8,shr_new_nbest/new_7/1438.csv
+16,14,8,2,apaSyata,3.118664025E-65,3,1,paśyata,paśyata,,n. sg. voc.,7,8,shr_new_nbest/new_7/1438.csv
+17,3,9,1,apaSyat,0.9374999999999999970703125000,1,0,apaśyat,apaśyat,,n. sg. acc.,7,7,shr_new_nbest/new_7/1436.csv
+18,4,9,1,apaSyat,0.9374999999999999970703125000,1,0,apaśyat,apaśyat,,n. sg. nom.,7,7,shr_new_nbest/new_7/1436.csv
+19,7,9,1,apaSyat,0.9374999999999999970703125000,2,0,apaśyat,paś,,impft. [4] ac. sg. 3,7,7,shr_new_nbest/new_7/1436.csv
+20,11,9,1,apaSyat,0.9374999999999999970703125000,3,0,apaśyat,apaśyat,,n. sg. voc.,7,7,shr_new_nbest/new_7/1436.csv
+21,12,9,1,apaSyat,0.9374999999999999970703125000,4,0,apa,apa,,prep.,3,3,shr_new_nbest/new_7/1436.csv
+22,13,9,1,apaSyat,0.9374999999999999970703125000,4,3,śyat,śyat,,n. sg. acc.,4,7,shr_new_nbest/new_7/1436.csv
+23,14,9,1,apaSyat,0.9374999999999999970703125000,4,3,śyat,śyat,,n. sg. nom.,4,7,shr_new_nbest/new_7/1436.csv
+24,15,9,1,apaSyat,0.9374999999999999970703125000,5,0,a,a,,iic.,1,1,shr_new_nbest/new_7/1436.csv
+25,16,9,1,apaSyat,0.9374999999999999970703125000,5,1,paśyat,paśyat,,n. sg. acc.,6,7,shr_new_nbest/new_7/1436.csv
+26,17,9,1,apaSyat,0.9374999999999999970703125000,5,1,paśyat,paśyat,,n. sg. nom.,6,7,shr_new_nbest/new_7/1436.csv
+27,18,9,1,apaSyat,0.9374999999999999970703125000,6,1,paśyat,paśyat,,n. sg. voc.,6,7,shr_new_nbest/new_7/1436.csv
+28,19,9,1,apaSyat,0.9374999999999999970703125000,7,3,śyat,śyat,,n. sg. voc.,4,7,shr_new_nbest/new_7/1436.csv
+29,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+30,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+31,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+32,,5,0,<eps>,1,1,0,<eps>,,,,1,1,
+33,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+34,,8,0,<eps>,1,1,0,<eps>,,,,8,8,
+35,,9,0,<eps>,0.06250000000000000292968750000,1,0,<eps>,,,,7,7,
+36,,10,0,<eps>,1,1,0,<eps>,,,,1,1,

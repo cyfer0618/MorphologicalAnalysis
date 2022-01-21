@@ -1,0 +1,44 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,tasya,1,1,0,tasya,tad,,n. sg. g.,5,5,shr_new_nbest/new_13/1240.csv
+1,1,1,0,tasya,1,1,0,tasya,tad,,m. sg. g.,5,5,shr_new_nbest/new_13/1240.csv
+2,2,3,0,putrI,0.9999999902138990957677718350,1,0,putrī,putra,,f. sg. nom.,5,5,shr_new_nbest/new_13/1240.csv
+3,3,3,0,putrI,0.9999999902138990957677718350,1,0,putrī,putrin,,m. sg. nom.,5,5,shr_new_nbest/new_13/1240.csv
+4,2,3,1,putri,5.915565942109674218354574963E-9,1,0,putri,putrin,,n. sg. acc.,5,5,shr_new_nbest/new_13/1241.csv
+5,3,3,1,putri,5.915565942109674218354574963E-9,1,0,putri,putrin,,n. sg. nom.,5,5,shr_new_nbest/new_13/1241.csv
+6,7,3,1,putri,5.915565942109674218354574963E-9,2,0,putri,putrin,,n. sg. voc.,5,5,shr_new_nbest/new_13/1241.csv
+7,8,3,1,putri,5.915565942109674218354574963E-9,2,0,putri,putra,,f. sg. voc.,5,5,shr_new_nbest/new_13/1241.csv
+8,2,3,2,putrIvivAhayogya,3.870534962122553936637512759E-9,1,0,putrī,putra,,iic.,5,5,shr_new_nbest/new_13/1242.csv
+9,3,3,2,putrIvivAhayogya,3.870534962122553936637512759E-9,1,5,vivāha,vivāha,,iic.,6,11,shr_new_nbest/new_13/1242.csv
+10,4,3,2,putrIvivAhayogya,3.870534962122553936637512759E-9,1,11,yogya,yogya,,n. sg. voc.,5,16,shr_new_nbest/new_13/1242.csv
+11,5,3,2,putrIvivAhayogya,3.870534962122553936637512759E-9,1,11,yogya,yogya,,m. sg. voc.,5,16,shr_new_nbest/new_13/1242.csv
+12,6,3,2,putrIvivAhayogya,3.870534962122553936637512759E-9,2,0,putrī,putra,,f. sg. nom.,5,5,shr_new_nbest/new_13/1242.csv
+13,7,3,2,putrIvivAhayogya,3.870534962122553936637512759E-9,2,0,putrī,putrin,,m. sg. nom.,5,5,shr_new_nbest/new_13/1242.csv
+14,2,3,3,putrIvivAhayogyA,9.732289858718828481301813783E-27,1,0,putrī,putra,,iic.,5,5,shr_new_nbest/new_13/1248.csv
+15,3,3,3,putrIvivAhayogyA,9.732289858718828481301813783E-27,1,5,vivāha,vivāha,,iic.,6,11,shr_new_nbest/new_13/1248.csv
+16,4,3,3,putrIvivAhayogyA,9.732289858718828481301813783E-27,1,11,yogyā,yogya,,f. sg. nom.,5,16,shr_new_nbest/new_13/1248.csv
+17,5,3,3,putrIvivAhayogyA,9.732289858718828481301813783E-27,2,0,putrī,putra,,f. sg. nom.,5,5,shr_new_nbest/new_13/1248.csv
+18,6,3,3,putrIvivAhayogyA,9.732289858718828481301813783E-27,2,0,putrī,putrin,,m. sg. nom.,5,5,shr_new_nbest/new_13/1248.csv
+19,4,5,1,vivAhayogya,0.9743589743589743570868675270,1,0,vivāha,vivāha,,iic.,6,6,shr_new_nbest/new_13/1240.csv
+20,5,5,1,vivAhayogya,0.9743589743589743570868675270,1,6,yogya,yogya,,n. sg. voc.,5,11,shr_new_nbest/new_13/1240.csv
+21,6,5,1,vivAhayogya,0.9743589743589743570868675270,1,6,yogya,yogya,,m. sg. voc.,5,11,shr_new_nbest/new_13/1240.csv
+22,4,5,2,vivAhayogyA,2.449982769230769226023216574E-18,1,0,vivāha,vivāha,,iic.,6,6,shr_new_nbest/new_13/1243.csv
+23,5,5,2,vivAhayogyA,2.449982769230769226023216574E-18,1,6,yogyā,yogya,,f. sg. nom.,5,11,shr_new_nbest/new_13/1243.csv
+24,4,5,3,vivAhayogyAm,1.836906358974358970800588658E-26,1,0,vivāha,vivāha,,iic.,6,6,shr_new_nbest/new_13/1244.csv
+25,5,5,3,vivAhayogyAm,1.836906358974358970800588658E-26,1,6,yogyām,yogya,,f. sg. acc.,6,12,shr_new_nbest/new_13/1244.csv
+26,4,5,4,vivAhayogyAH,1.078043435897435895347552361E-31,1,0,vivāha,vivāha,,iic.,6,6,shr_new_nbest/new_13/1247.csv
+27,5,5,4,vivAhayogyAH,1.078043435897435895347552361E-31,1,6,yogyāḥ,yogya,,f. pl. acc.,6,12,shr_new_nbest/new_13/1247.csv
+28,6,5,4,vivAhayogyAH,1.078043435897435895347552361E-31,1,6,yogyāḥ,yogya,,f. pl. nom.,6,12,shr_new_nbest/new_13/1247.csv
+29,7,5,4,vivAhayogyAH,1.078043435897435895347552361E-31,1,6,yogyāḥ,yogya,,m. pl. nom.,6,12,shr_new_nbest/new_13/1247.csv
+30,8,5,4,vivAhayogyAH,1.078043435897435895347552361E-31,2,6,yogyāḥ,yogya,,f. pl. voc.,6,12,shr_new_nbest/new_13/1247.csv
+31,9,5,4,vivAhayogyAH,1.078043435897435895347552361E-31,2,6,yogyāḥ,yogya,,m. pl. voc.,6,12,shr_new_nbest/new_13/1247.csv
+32,4,7,1,vivAhayogyA,0,1,0,vivāha,vivāha,,iic.,6,6,shr_new_nbest/new_13/1243.csv
+33,5,7,1,vivAhayogyA,0,1,6,yogyā,yogya,,f. sg. nom.,5,11,shr_new_nbest/new_13/1243.csv
+34,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+35,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+36,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+37,,5,0,<eps>,0.02564102564102564046314968526,1,0,<eps>,,,,12,12,
+38,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+39,,7,0,<eps>,1,1,0,<eps>,,,,11,11,
+40,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+41,,9,0,<eps>,1,1,0,<eps>,,,,1,1,
+42,,10,0,<eps>,1,1,0,<eps>,,,,1,1,

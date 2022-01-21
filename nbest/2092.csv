@@ -1,0 +1,54 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,kfzitu,0.9999999999999999908697678030,1,0,kṛṣi,kṛ,,inj. [4] md. sg. 1,4,4,shr_new_nbest/new_11/70.csv
+1,1,1,0,kfzitu,0.9999999999999999908697678030,1,4,tu,tu,,conj.,2,6,shr_new_nbest/new_11/70.csv
+2,0,1,1,kfzihitu,8.558568999999999921858277756E-18,1,0,kṛṣi,kṛ,,inj. [4] md. sg. 1,4,4,shr_new_nbest/new_11/74.csv
+3,1,1,1,kfzihitu,8.558568999999999921858277756E-18,1,4,hi,hi,,part.,2,6,shr_new_nbest/new_11/74.csv
+4,2,1,1,kfzihitu,8.558568999999999921858277756E-18,1,6,tu,tu,,conj.,2,8,shr_new_nbest/new_11/74.csv
+5,0,1,2,kfzihi,5.716629999999999947805840716E-19,1,0,kṛṣi,kṛ,,inj. [4] md. sg. 1,4,4,shr_new_nbest/new_11/72.csv
+6,1,1,2,kfzihi,5.716629999999999947805840716E-19,1,4,hi,hi,,part.,2,6,shr_new_nbest/new_11/72.csv
+7,0,1,3,kfzihy,1.965092999999999982058244621E-25,1,0,kṛṣihy,kṛṣihy,,?,6,6,shr_new_nbest/new_11/77.csv
+8,0,1,4,kfziH,1.774877999999999983794951739E-28,1,0,kṛṣiḥ,kṛṣi,,f. sg. nom.,5,5,shr_new_nbest/new_11/75.csv
+9,0,1,5,kfzittu,3.008978999999999972527323054E-30,1,0,kṛṣittu,kṛṣittu,,?,7,7,shr_new_nbest/new_11/76.csv
+10,2,3,1,tu,0.9878048780487804887926829268,1,0,tu,tu,,conj.,2,2,shr_new_nbest/new_11/72.csv
+11,2,5,1,na,0.9878048780487804887926829268,1,0,na,na,,part.,2,2,shr_new_nbest/new_11/70.csv
+12,3,7,0,pravartate,1,1,0,pravartate,pra-vṛt,,pr. [1] md. sg. 3,10,10,shr_new_nbest/new_11/70.csv
+13,7,7,0,pravartate,1,2,0,pravartate,pra-vartat,,n. sg. dat.,10,10,shr_new_nbest/new_11/70.csv
+14,8,7,0,pravartate,1,2,0,pravartate,pra-vartat,,m. sg. dat.,10,10,shr_new_nbest/new_11/70.csv
+15,9,7,0,pravartate,1,3,0,pravarta,pra-vṛt,,imp. [1] ac. sg. 2,8,8,shr_new_nbest/new_11/70.csv
+16,10,7,0,pravartate,1,3,8,te,tad,,n. du. acc.,2,10,shr_new_nbest/new_11/70.csv
+17,11,7,0,pravartate,1,3,8,te,tad,,n. du. nom.,2,10,shr_new_nbest/new_11/70.csv
+18,12,7,0,pravartate,1,3,8,te,tad,,m. pl. nom.,2,10,shr_new_nbest/new_11/70.csv
+19,13,7,0,pravartate,1,3,8,te,tad,,f. du. acc.,2,10,shr_new_nbest/new_11/70.csv
+20,14,7,0,pravartate,1,3,8,te,tad,,f. du. nom.,2,10,shr_new_nbest/new_11/70.csv
+21,15,7,0,pravartate,1,3,8,te,yuṣmad,,m. sg. g.,2,10,shr_new_nbest/new_11/70.csv
+22,16,7,0,pravartate,1,3,8,te,yuṣmad,,m. sg. dat.,2,10,shr_new_nbest/new_11/70.csv
+23,4,9,0,sma,1,1,0,sma,sma,,part.,3,3,shr_new_nbest/new_11/70.csv
+24,5,11,0,kzAmakAraRataH,1,1,0,kṣāma,kṣāma,,iic.,5,5,shr_new_nbest/new_11/70.csv
+25,6,11,0,kzAmakAraRataH,1,1,5,kāraṇataḥ,kāraṇatā,,m. sg. nom.,9,14,shr_new_nbest/new_11/70.csv
+26,5,11,1,kzAmaakAraRataH,5.033103E-35,1,0,kṣāma akāraṇataḥ,kṣāma,,?,16,15,shr_new_nbest/new_11/78.csv
+27,5,11,2,kzAma,6.004863659392E-41,1,0,kṣāma,kṣāma,,m. sg. voc.,5,5,shr_new_nbest/new_11/73.csv
+28,6,11,2,kzAma,6.004863659392E-41,1,0,kṣāma,kṣāma,,n. sg. voc.,5,5,shr_new_nbest/new_11/73.csv
+29,7,13,1,kAraRataH,0.9878048780487804887926829268,1,0,kāraṇataḥ,kāraṇa,,tasil,9,9,shr_new_nbest/new_11/73.csv
+30,10,13,1,kAraRataH,0.9878048780487804887926829268,2,0,kā,kim,,f. sg. nom.,2,2,shr_new_nbest/new_11/73.csv
+31,11,13,1,kAraRataH,0.9878048780487804887926829268,2,2,raṇataḥ,raṇa,,tasil,7,9,shr_new_nbest/new_11/73.csv
+32,20,13,1,kAraRataH,0.9878048780487804887926829268,3,1,araṇataḥ,araṇa,,tasil,8,9,shr_new_nbest/new_11/73.csv
+33,21,13,1,kAraRataH,0.9878048780487804887926829268,4,1,a,a,,iic.,1,2,shr_new_nbest/new_11/73.csv
+34,22,13,1,kAraRataH,0.9878048780487804887926829268,4,2,raṇataḥ,raṇ,,pr. [1] ac. du. 3,7,9,shr_new_nbest/new_11/73.csv
+35,23,13,1,kAraRataH,0.9878048780487804887926829268,5,2,raṇataḥ,raṇat,,n. sg. g.,7,9,shr_new_nbest/new_11/73.csv
+36,24,13,1,kAraRataH,0.9878048780487804887926829268,5,2,raṇataḥ,raṇat,,n. sg. abl.,7,9,shr_new_nbest/new_11/73.csv
+37,25,13,1,kAraRataH,0.9878048780487804887926829268,5,2,raṇataḥ,raṇat,,m. pl. acc.,7,9,shr_new_nbest/new_11/73.csv
+38,26,13,1,kAraRataH,0.9878048780487804887926829268,5,2,raṇataḥ,raṇat,,m. sg. g.,7,9,shr_new_nbest/new_11/73.csv
+39,27,13,1,kAraRataH,0.9878048780487804887926829268,5,2,raṇataḥ,raṇat,,m. sg. abl.,7,9,shr_new_nbest/new_11/73.csv
+40,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+41,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+42,,3,0,<eps>,0.01219512195121951120731707317,1,0,<eps>,,,,2,2,
+43,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+44,,5,0,<eps>,0.01219512195121951120731707317,1,0,<eps>,,,,2,2,
+45,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+46,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+47,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+48,,12,0,<eps>,1,1,0,<eps>,,,,1,1,
+49,,13,0,<eps>,0.01219512195121951120731707317,1,0,<eps>,,,,9,9,
+50,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+51,,15,0,<eps>,1,1,0,<eps>,,,,1,1,
+52,,16,0,<eps>,1,1,0,<eps>,,,,1,1,

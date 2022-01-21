@@ -1,0 +1,40 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,nItiH,1,1,0,nītiḥ,nīti,,f. sg. nom.,5,5,shr_new_nbest/new_9/850.csv
+1,1,5,0,Ekamatyam,1,1,0,aikamatyam,aikamatya,,n. sg. acc.,10,9,shr_new_nbest/new_9/850.csv
+2,2,5,0,Ekamatyam,1,1,0,aikamatyam,aikamatya,,n. sg. nom.,10,9,shr_new_nbest/new_9/850.csv
+3,3,5,0,Ekamatyam,1,1,0,aikamatyam,aikamatya,,m. sg. acc.,10,9,shr_new_nbest/new_9/850.csv
+4,1,5,1,EkamacCam,5.6898653213903049579E-44,1,0,aikamaccham,aikamaccham,,?,11,9,shr_new_nbest/new_9/851.csv
+5,1,5,2,EkamaDyam,8.436381657025E-52,1,0,aikamadhyam,aikamadhyam,,?,11,9,shr_new_nbest/new_9/852.csv
+6,1,5,3,hEkamacCam,9.8464620621210055551E-58,1,0,ha,ha,,part.,2,2,shr_new_nbest/new_9/853.csv
+7,2,5,3,hEkamacCam,9.8464620621210055551E-58,1,5,accham,accha,,m. sg. acc.,6,10,shr_new_nbest/new_9/853.csv
+8,3,5,3,hEkamacCam,9.8464620621210055551E-58,1,5,accham,accha,,n. sg. acc.,6,10,shr_new_nbest/new_9/853.csv
+9,4,5,3,hEkamacCam,9.8464620621210055551E-58,1,5,accham,accha,,n. sg. nom.,6,10,shr_new_nbest/new_9/853.csv
+10,7,5,3,hEkamacCam,9.8464620621210055551E-58,2,1,ekam,eka,,m. sg. acc.,4,5,shr_new_nbest/new_9/853.csv
+11,8,5,3,hEkamacCam,9.8464620621210055551E-58,2,1,ekam,eka,,n. sg. acc.,4,5,shr_new_nbest/new_9/853.csv
+12,9,5,3,hEkamacCam,9.8464620621210055551E-58,2,1,ekam,eka,,n. sg. nom.,4,5,shr_new_nbest/new_9/853.csv
+13,1,5,4,Ekamartyam,2.010068937361E-62,1,0,aikamartyam,aikamartyam,,?,11,10,shr_new_nbest/new_9/854.csv
+14,1,5,5,kEkamacCam,1.7747961375660744258E-62,1,0,kā,kim,,f. sg. nom.,2,2,shr_new_nbest/new_9/856.csv
+15,2,5,5,kEkamacCam,1.7747961375660744258E-62,1,5,accham,accha,,m. sg. acc.,6,10,shr_new_nbest/new_9/856.csv
+16,3,5,5,kEkamacCam,1.7747961375660744258E-62,1,5,accham,accha,,n. sg. acc.,6,10,shr_new_nbest/new_9/856.csv
+17,4,5,5,kEkamacCam,1.7747961375660744258E-62,1,5,accham,accha,,n. sg. nom.,6,10,shr_new_nbest/new_9/856.csv
+18,7,5,5,kEkamacCam,1.7747961375660744258E-62,2,1,ekam,eka,,m. sg. acc.,4,5,shr_new_nbest/new_9/856.csv
+19,8,5,5,kEkamacCam,1.7747961375660744258E-62,2,1,ekam,eka,,n. sg. acc.,4,5,shr_new_nbest/new_9/856.csv
+20,9,5,5,kEkamacCam,1.7747961375660744258E-62,2,1,ekam,eka,,n. sg. nom.,4,5,shr_new_nbest/new_9/856.csv
+21,4,10,0,ca,1,1,0,ca,ca,,conj.,2,2,shr_new_nbest/new_9/850.csv
+22,5,12,0,naSyati,1,1,0,naśyati,naś,,pr. [4] ac. sg. 3,7,7,shr_new_nbest/new_9/850.csv
+23,6,12,0,naSyati,1,2,0,naśyati,naśyat,,n. sg. loc.,7,7,shr_new_nbest/new_9/850.csv
+24,7,12,0,naSyati,1,2,0,naśyati,naśyat,,m. sg. loc.,7,7,shr_new_nbest/new_9/850.csv
+25,8,12,0,naSyati,1,3,0,na,na,,part.,2,2,shr_new_nbest/new_9/850.csv
+26,9,12,0,naSyati,1,3,2,śyati,śā,,pr. [4] ac. sg. 3,5,7,shr_new_nbest/new_9/850.csv
+27,10,12,0,naSyati,1,4,2,śyati,śyat,,n. sg. loc.,5,7,shr_new_nbest/new_9/850.csv
+28,11,12,0,naSyati,1,4,2,śyati,śyat,,m. sg. loc.,5,7,shr_new_nbest/new_9/850.csv
+29,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+30,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+31,,3,0,<eps>,1,1,0,<eps>,,,,1,1,
+32,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+33,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+34,,7,0,<eps>,1,1,0,<eps>,,,,1,1,
+35,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+36,,9,0,<eps>,1,1,0,<eps>,,,,1,1,
+37,,11,0,<eps>,1,1,0,<eps>,,,,1,1,
+38,,13,0,<eps>,1,1,0,<eps>,,,,1,1,

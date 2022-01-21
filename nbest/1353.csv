@@ -1,0 +1,107 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,striyastu,0.9999999988544053916123870083,1,0,striyaḥ,strī,,f. pl. acc.,7,7,shr_new_nbest/new_7/1009.csv
+1,1,1,0,striyastu,0.9999999988544053916123870083,1,0,striyaḥ,strī,,f. pl. nom.,7,7,shr_new_nbest/new_7/1009.csv
+2,2,1,0,striyastu,0.9999999988544053916123870083,1,7,tu,tu,,conj.,2,9,shr_new_nbest/new_7/1009.csv
+3,0,1,1,striyas,1.145462998687763763092499659E-9,1,0,striyaḥ,strī,,f. pl. acc.,7,7,shr_new_nbest/new_7/1013.csv
+4,1,1,1,striyas,1.145462998687763763092499659E-9,1,0,striyaḥ,strī,,f. pl. nom.,7,7,shr_new_nbest/new_7/1013.csv
+5,7,1,1,striyas,1.145462998687763763092499659E-9,2,0,striyaḥ,strī,,f. pl. voc.,7,7,shr_new_nbest/new_7/1013.csv
+6,0,1,2,strIyastu,1.316096998492286372684887705E-13,1,0,strī,strī,,f. sg. nom.,4,4,shr_new_nbest/new_7/1015.csv
+7,1,1,2,strIyastu,1.316096998492286372684887705E-13,1,4,yaḥ,yad,,m. sg. nom.,3,7,shr_new_nbest/new_7/1015.csv
+8,2,1,2,strIyastu,1.316096998492286372684887705E-13,1,7,tu,tu,,conj.,2,9,shr_new_nbest/new_7/1015.csv
+9,2,3,1,tu,1.145392998688074877053669852E-9,1,0,tu,tu,,conj.,2,2,shr_new_nbest/new_7/1013.csv
+10,3,4,0,paYcanApawavaH,0.9991059743156120106494702849,1,0,pañca,pañcan,,iic.,5,5,shr_new_nbest/new_7/1009.csv
+11,4,4,0,paYcanApawavaH,0.9991059743156120106494702849,1,5,nā,nṛ,,m. sg. nom.,2,7,shr_new_nbest/new_7/1009.csv
+12,5,4,0,paYcanApawavaH,0.9991059743156120106494702849,1,7,paṭavaḥ,paṭu,,m. pl. nom.,7,14,shr_new_nbest/new_7/1009.csv
+13,6,4,0,paYcanApawavaH,0.9991059743156120106494702849,1,7,paṭavaḥ,paṭu,,f. pl. nom.,7,14,shr_new_nbest/new_7/1009.csv
+14,7,4,0,paYcanApawavaH,0.9991059743156120106494702849,2,0,pañca,pañcan,,m. pl. acc.,5,5,shr_new_nbest/new_7/1009.csv
+15,8,4,0,paYcanApawavaH,0.9991059743156120106494702849,2,0,pañca,pañcan,,m. pl. nom.,5,5,shr_new_nbest/new_7/1009.csv
+16,9,4,0,paYcanApawavaH,0.9991059743156120106494702849,2,5,na,na,,part.,2,7,shr_new_nbest/new_7/1009.csv
+17,10,4,0,paYcanApawavaH,0.9991059743156120106494702849,2,7,paṭavaḥ,paṭu,,m. pl. voc.,7,14,shr_new_nbest/new_7/1009.csv
+18,11,4,0,paYcanApawavaH,0.9991059743156120106494702849,2,7,paṭavaḥ,paṭu,,f. pl. voc.,7,14,shr_new_nbest/new_7/1009.csv
+19,12,4,0,paYcanApawavaH,0.9991059743156120106494702849,3,6,a,a,,iic.,1,7,shr_new_nbest/new_7/1009.csv
+20,13,4,0,paYcanApawavaH,0.9991059743156120106494702849,3,7,paṭa,paṭ,,imp. [1] ac. sg. 2,4,11,shr_new_nbest/new_7/1009.csv
+21,14,4,0,paYcanApawavaH,0.9991059743156120106494702849,3,11,vaḥ,yuṣmad,,m. pl. g.,3,14,shr_new_nbest/new_7/1009.csv
+22,15,4,0,paYcanApawavaH,0.9991059743156120106494702849,3,11,vaḥ,yuṣmad,,m. pl. dat.,3,14,shr_new_nbest/new_7/1009.csv
+23,16,4,0,paYcanApawavaH,0.9991059743156120106494702849,3,11,vaḥ,yuṣmad,,m. pl. acc.,3,14,shr_new_nbest/new_7/1009.csv
+24,3,4,1,paYcanA,0.0008940185704462994681338696112,1,0,pañca,pañcan,,iic.,5,5,shr_new_nbest/new_7/1010.csv
+25,4,4,1,paYcanA,0.0008940185704462994681338696112,1,5,nā,nṛ,,m. sg. nom.,2,7,shr_new_nbest/new_7/1010.csv
+26,7,4,1,paYcanA,0.0008940185704462994681338696112,2,0,pañca,pañcan,,m. pl. acc.,5,5,shr_new_nbest/new_7/1010.csv
+27,8,4,1,paYcanA,0.0008940185704462994681338696112,2,0,pañca,pañcan,,m. pl. nom.,5,5,shr_new_nbest/new_7/1010.csv
+28,3,4,2,tvam,7.113867939357383613173160868E-9,1,0,tvam,yuṣmad,,m. sg. nom.,4,4,shr_new_nbest/new_7/1016.csv
+29,2,4,3,tu,7.375037636746645916815100787E-14,1,0,tu,tu,,conj.,2,2,shr_new_nbest/new_7/1013.csv
+30,3,4,4,vaYcanApawavaH,1.340390339955015560689770812E-19,1,0,vañcana,vañcana,,iic.,7,7,shr_new_nbest/new_7/1012.csv
+31,4,4,4,vaYcanApawavaH,1.340390339955015560689770812E-19,1,7,paṭavaḥ,paṭu,,m. pl. nom.,7,14,shr_new_nbest/new_7/1012.csv
+32,5,4,4,vaYcanApawavaH,1.340390339955015560689770812E-19,1,7,paṭavaḥ,paṭu,,f. pl. nom.,7,14,shr_new_nbest/new_7/1012.csv
+33,6,4,4,vaYcanApawavaH,1.340390339955015560689770812E-19,2,0,vañcanā,vañcana,,f. sg. nom.,7,7,shr_new_nbest/new_7/1012.csv
+34,7,4,4,vaYcanApawavaH,1.340390339955015560689770812E-19,2,7,paṭavaḥ,paṭu,,m. pl. voc.,7,14,shr_new_nbest/new_7/1012.csv
+35,8,4,4,vaYcanApawavaH,1.340390339955015560689770812E-19,2,7,paṭavaḥ,paṭu,,f. pl. voc.,7,14,shr_new_nbest/new_7/1012.csv
+36,9,4,4,vaYcanApawavaH,1.340390339955015560689770812E-19,3,0,vañca,vañc,,imp. [1] ac. sg. 2,5,5,shr_new_nbest/new_7/1012.csv
+37,10,4,4,vaYcanApawavaH,1.340390339955015560689770812E-19,3,5,na,na,,part.,2,7,shr_new_nbest/new_7/1012.csv
+38,11,4,4,vaYcanApawavaH,1.340390339955015560689770812E-19,3,7,paṭa,paṭ,,imp. [1] ac. sg. 2,4,11,shr_new_nbest/new_7/1012.csv
+39,12,4,4,vaYcanApawavaH,1.340390339955015560689770812E-19,3,11,vaḥ,yuṣmad,,m. pl. g.,3,14,shr_new_nbest/new_7/1012.csv
+40,13,4,4,vaYcanApawavaH,1.340390339955015560689770812E-19,3,11,vaḥ,yuṣmad,,m. pl. dat.,3,14,shr_new_nbest/new_7/1012.csv
+41,14,4,4,vaYcanApawavaH,1.340390339955015560689770812E-19,3,11,vaḥ,yuṣmad,,m. pl. acc.,3,14,shr_new_nbest/new_7/1012.csv
+42,15,4,4,vaYcanApawavaH,1.340390339955015560689770812E-19,4,5,nā,nṛ,,m. sg. nom.,2,7,shr_new_nbest/new_7/1012.csv
+43,16,4,4,vaYcanApawavaH,1.340390339955015560689770812E-19,5,6,a,a,,iic.,1,7,shr_new_nbest/new_7/1012.csv
+44,3,4,5,vaYcanA,1.307265897064600553723638270E-20,1,0,vañcanā,vañcana,,f. sg. nom.,7,7,shr_new_nbest/new_7/1014.csv
+45,6,4,5,vaYcanA,1.307265897064600553723638270E-20,2,0,vañca,vañc,,imp. [1] ac. sg. 2,5,5,shr_new_nbest/new_7/1014.csv
+46,7,4,5,vaYcanA,1.307265897064600553723638270E-20,2,5,nā,nṛ,,m. sg. nom.,2,7,shr_new_nbest/new_7/1014.csv
+47,3,4,6,praYcanA,1.530880531574316281089787051E-21,1,0,prañcanā,prañcanā,,?,8,8,shr_new_nbest/new_7/1018.csv
+48,3,5,1,paYcanA,2.017254568738395893322431405E-15,1,0,pañca,pañcan,,iic.,5,5,shr_new_nbest/new_7/1010.csv
+49,4,5,1,paYcanA,2.017254568738395893322431405E-15,1,5,nā,nṛ,,m. sg. nom.,2,7,shr_new_nbest/new_7/1010.csv
+50,7,5,1,paYcanA,2.017254568738395893322431405E-15,2,0,pañca,pañcan,,m. pl. acc.,5,5,shr_new_nbest/new_7/1010.csv
+51,8,5,1,paYcanA,2.017254568738395893322431405E-15,2,0,pañca,pañcan,,m. pl. nom.,5,5,shr_new_nbest/new_7/1010.csv
+52,3,5,2,tvam,1.851947999999996229849505529E-17,1,0,tvam,yuṣmad,,m. sg. nom.,4,4,shr_new_nbest/new_7/1016.csv
+53,3,5,3,paYcanApawavaH,1.520806059898724091980177239E-21,1,0,pañca,pañcan,,iic.,5,5,shr_new_nbest/new_7/1009.csv
+54,4,5,3,paYcanApawavaH,1.520806059898724091980177239E-21,1,5,nā,nṛ,,m. sg. nom.,2,7,shr_new_nbest/new_7/1009.csv
+55,5,5,3,paYcanApawavaH,1.520806059898724091980177239E-21,1,7,paṭavaḥ,paṭu,,m. pl. nom.,7,14,shr_new_nbest/new_7/1009.csv
+56,6,5,3,paYcanApawavaH,1.520806059898724091980177239E-21,1,7,paṭavaḥ,paṭu,,f. pl. nom.,7,14,shr_new_nbest/new_7/1009.csv
+57,7,5,3,paYcanApawavaH,1.520806059898724091980177239E-21,2,0,pañca,pañcan,,m. pl. acc.,5,5,shr_new_nbest/new_7/1009.csv
+58,8,5,3,paYcanApawavaH,1.520806059898724091980177239E-21,2,0,pañca,pañcan,,m. pl. nom.,5,5,shr_new_nbest/new_7/1009.csv
+59,9,5,3,paYcanApawavaH,1.520806059898724091980177239E-21,2,5,na,na,,part.,2,7,shr_new_nbest/new_7/1009.csv
+60,10,5,3,paYcanApawavaH,1.520806059898724091980177239E-21,2,7,paṭavaḥ,paṭu,,m. pl. voc.,7,14,shr_new_nbest/new_7/1009.csv
+61,11,5,3,paYcanApawavaH,1.520806059898724091980177239E-21,2,7,paṭavaḥ,paṭu,,f. pl. voc.,7,14,shr_new_nbest/new_7/1009.csv
+62,12,5,3,paYcanApawavaH,1.520806059898724091980177239E-21,3,6,a,a,,iic.,1,7,shr_new_nbest/new_7/1009.csv
+63,13,5,3,paYcanApawavaH,1.520806059898724091980177239E-21,3,7,paṭa,paṭ,,imp. [1] ac. sg. 2,4,11,shr_new_nbest/new_7/1009.csv
+64,14,5,3,paYcanApawavaH,1.520806059898724091980177239E-21,3,11,vaḥ,yuṣmad,,m. pl. g.,3,14,shr_new_nbest/new_7/1009.csv
+65,15,5,3,paYcanApawavaH,1.520806059898724091980177239E-21,3,11,vaḥ,yuṣmad,,m. pl. dat.,3,14,shr_new_nbest/new_7/1009.csv
+66,16,5,3,paYcanApawavaH,1.520806059898724091980177239E-21,3,11,vaḥ,yuṣmad,,m. pl. acc.,3,14,shr_new_nbest/new_7/1009.csv
+67,3,5,4,vaYcanApawavaH,2.644737959807897319428364182E-27,1,0,vañcana,vañcana,,iic.,7,7,shr_new_nbest/new_7/1012.csv
+68,4,5,4,vaYcanApawavaH,2.644737959807897319428364182E-27,1,7,paṭavaḥ,paṭu,,m. pl. nom.,7,14,shr_new_nbest/new_7/1012.csv
+69,5,5,4,vaYcanApawavaH,2.644737959807897319428364182E-27,1,7,paṭavaḥ,paṭu,,f. pl. nom.,7,14,shr_new_nbest/new_7/1012.csv
+70,6,5,4,vaYcanApawavaH,2.644737959807897319428364182E-27,2,0,vañcanā,vañcana,,f. sg. nom.,7,7,shr_new_nbest/new_7/1012.csv
+71,7,5,4,vaYcanApawavaH,2.644737959807897319428364182E-27,2,7,paṭavaḥ,paṭu,,m. pl. voc.,7,14,shr_new_nbest/new_7/1012.csv
+72,8,5,4,vaYcanApawavaH,2.644737959807897319428364182E-27,2,7,paṭavaḥ,paṭu,,f. pl. voc.,7,14,shr_new_nbest/new_7/1012.csv
+73,9,5,4,vaYcanApawavaH,2.644737959807897319428364182E-27,3,0,vañca,vañc,,imp. [1] ac. sg. 2,5,5,shr_new_nbest/new_7/1012.csv
+74,10,5,4,vaYcanApawavaH,2.644737959807897319428364182E-27,3,5,na,na,,part.,2,7,shr_new_nbest/new_7/1012.csv
+75,11,5,4,vaYcanApawavaH,2.644737959807897319428364182E-27,3,7,paṭa,paṭ,,imp. [1] ac. sg. 2,4,11,shr_new_nbest/new_7/1012.csv
+76,12,5,4,vaYcanApawavaH,2.644737959807897319428364182E-27,3,11,vaḥ,yuṣmad,,m. pl. g.,3,14,shr_new_nbest/new_7/1012.csv
+77,13,5,4,vaYcanApawavaH,2.644737959807897319428364182E-27,3,11,vaḥ,yuṣmad,,m. pl. dat.,3,14,shr_new_nbest/new_7/1012.csv
+78,14,5,4,vaYcanApawavaH,2.644737959807897319428364182E-27,3,11,vaḥ,yuṣmad,,m. pl. acc.,3,14,shr_new_nbest/new_7/1012.csv
+79,15,5,4,vaYcanApawavaH,2.644737959807897319428364182E-27,4,5,nā,nṛ,,m. sg. nom.,2,7,shr_new_nbest/new_7/1012.csv
+80,16,5,4,vaYcanApawavaH,2.644737959807897319428364182E-27,5,6,a,a,,iic.,1,7,shr_new_nbest/new_7/1012.csv
+81,3,5,5,vaYcanA,2.613275184393151498744257529E-28,1,0,vañcanā,vañcana,,f. sg. nom.,7,7,shr_new_nbest/new_7/1014.csv
+82,6,5,5,vaYcanA,2.613275184393151498744257529E-28,2,0,vañca,vañc,,imp. [1] ac. sg. 2,5,5,shr_new_nbest/new_7/1014.csv
+83,7,5,5,vaYcanA,2.613275184393151498744257529E-28,2,5,nā,nṛ,,m. sg. nom.,2,7,shr_new_nbest/new_7/1014.csv
+84,3,5,6,praYcanA,4.055412985134902156527830454E-31,1,0,prañcanā,prañcanā,,?,8,8,shr_new_nbest/new_7/1018.csv
+85,5,6,1,nA,0.6429551759598417259688728126,1,0,nā,nṛ,,m. sg. nom.,2,2,shr_new_nbest/new_7/1016.csv
+86,4,6,2,ca,1.485955471213873350201385407E-7,1,0,ca,ca,,conj.,2,2,shr_new_nbest/new_7/1016.csv
+87,5,7,1,nA,6.712613297463490920785185440E-9,1,0,nā,nṛ,,m. sg. nom.,2,2,shr_new_nbest/new_7/1016.csv
+88,5,8,1,pawavaH,0.9841269841269841271090954900,1,0,paṭavaḥ,paṭu,,m. pl. nom.,7,7,shr_new_nbest/new_7/1010.csv
+89,6,8,1,pawavaH,0.9841269841269841271090954900,1,0,paṭavaḥ,paṭu,,f. pl. nom.,7,7,shr_new_nbest/new_7/1010.csv
+90,9,8,1,pawavaH,0.9841269841269841271090954900,2,0,paṭavaḥ,paṭu,,m. pl. voc.,7,7,shr_new_nbest/new_7/1010.csv
+91,10,8,1,pawavaH,0.9841269841269841271090954900,2,0,paṭavaḥ,paṭu,,f. pl. voc.,7,7,shr_new_nbest/new_7/1010.csv
+92,11,8,1,pawavaH,0.9841269841269841271090954900,3,0,paṭa,paṭ,,imp. [1] ac. sg. 2,4,4,shr_new_nbest/new_7/1010.csv
+93,12,8,1,pawavaH,0.9841269841269841271090954900,3,4,vaḥ,yuṣmad,,m. pl. g.,3,7,shr_new_nbest/new_7/1010.csv
+94,13,8,1,pawavaH,0.9841269841269841271090954900,3,4,vaḥ,yuṣmad,,m. pl. dat.,3,7,shr_new_nbest/new_7/1010.csv
+95,14,8,1,pawavaH,0.9841269841269841271090954900,3,4,vaḥ,yuṣmad,,m. pl. acc.,3,7,shr_new_nbest/new_7/1010.csv
+96,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+97,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+98,,3,0,<eps>,0.9999999988546070013119251229,1,0,<eps>,,,,2,2,
+99,,4,7,<eps>,2.192457713469920288540102738E-24,1,0,<eps>,,,,14,14,
+100,,5,0,<eps>,0.9999999999999979642244304530,1,0,<eps>,,,,14,14,
+101,,6,0,<eps>,0.3570446754446111526437921673,1,0,<eps>,,,,2,2,
+102,,7,0,<eps>,0.9999999932873867025365090792,1,0,<eps>,,,,2,2,
+103,,8,0,<eps>,0.01587301587301587289090450995,1,0,<eps>,,,,7,7,
+104,,9,0,<eps>,1,1,0,<eps>,,,,1,1,
+105,,10,0,<eps>,1,1,0,<eps>,,,,1,1,

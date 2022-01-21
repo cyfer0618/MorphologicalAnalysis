@@ -1,0 +1,26 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,anyasyAm,1,1,0,anyasyām,anya,,f. sg. loc.,8,8,shr_new_nbest/new_2/1981.csv
+1,7,1,0,anyasyAm,1,2,0,a,a,,iic.,1,1,shr_new_nbest/new_2/1981.csv
+2,8,1,0,anyasyAm,1,2,1,nyasyām,ni-asya,,f. sg. acc.,7,8,shr_new_nbest/new_2/1981.csv
+3,1,5,0,zazwisAhasram,0.9999999985879660019938400143,1,0,ṣaṣṭi,ṣaṣṭi,,iic.,5,5,shr_new_nbest/new_2/1981.csv
+4,2,5,0,zazwisAhasram,0.9999999985879660019938400143,1,5,sāhasram,sāhasra,,m. sg. acc.,8,13,shr_new_nbest/new_2/1981.csv
+5,3,5,0,zazwisAhasram,0.9999999985879660019938400143,1,5,sāhasram,sāhasra,,n. sg. acc.,8,13,shr_new_nbest/new_2/1981.csv
+6,4,5,0,zazwisAhasram,0.9999999985879660019938400143,1,5,sāhasram,sāhasra,,n. sg. nom.,8,13,shr_new_nbest/new_2/1981.csv
+7,1,5,1,zazwisahasram,1.412033998006159985659369891E-9,1,0,ṣaṣṭi,ṣaṣṭi,,iic.,5,5,shr_new_nbest/new_2/1982.csv
+8,2,5,1,zazwisahasram,1.412033998006159985659369891E-9,1,5,sahasram,sahasra,,n. sg. acc.,8,13,shr_new_nbest/new_2/1982.csv
+9,3,5,1,zazwisahasram,1.412033998006159985659369891E-9,1,5,sahasram,sahasra,,n. sg. nom.,8,13,shr_new_nbest/new_2/1982.csv
+10,8,5,1,zazwisahasram,1.412033998006159985659369891E-9,2,5,sahasram,sahasra,,m. sg. acc.,8,13,shr_new_nbest/new_2/1982.csv
+11,5,9,0,putrAH,1,1,0,putrāḥ,putra,,m. pl. nom.,6,6,shr_new_nbest/new_2/1981.csv
+12,9,9,0,putrAH,1,2,0,putrāḥ,putra,,m. pl. voc.,6,6,shr_new_nbest/new_2/1981.csv
+13,6,10,1,utpatsyante,3.0311972708161E-67,1,0,utpatsyante,ut-pad,,fut. md. pl. 3,11,11,shr_new_nbest/new_2/1981.csv
+14,6,11,1,utpatsyante,0.9411764705882352941176470588,1,0,utpatsyante,ut-pad,,fut. md. pl. 3,11,11,shr_new_nbest/new_2/1981.csv
+15,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+16,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+17,,3,0,<eps>,1,1,0,<eps>,,,,1,1,
+18,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+19,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+20,,7,0,<eps>,1,1,0,<eps>,,,,1,1,
+21,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+22,,10,0,<eps>,1,1,0,<eps>,,,,11,11,
+23,,11,0,<eps>,0.05882352941176470588235294118,1,0,<eps>,,,,11,11,
+24,,12,0,<eps>,1,1,0,<eps>,,,,1,1,

@@ -1,0 +1,45 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,tarhi,1,1,0,tarhi,tarhi,,adv.,5,5,shr_new_nbest/new_24/906.csv
+1,1,3,0,varadakziRApraSnaH,0.9999997765116492901651282091,1,0,vara,vara,,iic.,4,4,shr_new_nbest/new_24/906.csv
+2,2,3,0,varadakziRApraSnaH,0.9999997765116492901651282091,1,0,vara,vara,,iic.,4,4,shr_new_nbest/new_24/906.csv
+3,3,3,0,varadakziRApraSnaH,0.9999997765116492901651282091,1,4,dakṣiṇa,dakṣiṇa,,iic.,7,11,shr_new_nbest/new_24/906.csv
+4,4,3,0,varadakziRApraSnaH,0.9999997765116492901651282091,1,11,praśnaḥ,praśna,,m. sg. nom.,7,18,shr_new_nbest/new_24/906.csv
+5,7,3,0,varadakziRApraSnaH,0.9999997765116492901651282091,2,0,vara,vṛ,,imp. [1] ac. sg. 2,4,4,shr_new_nbest/new_24/906.csv
+6,8,3,0,varadakziRApraSnaH,0.9999997765116492901651282091,2,4,dakṣiṇā,dakṣiṇā,,iic.,7,11,shr_new_nbest/new_24/906.csv
+7,9,3,0,varadakziRApraSnaH,0.9999997765116492901651282091,3,4,dakṣiṇā,dakṣiṇā,,adv.,7,11,shr_new_nbest/new_24/906.csv
+8,10,3,0,varadakziRApraSnaH,0.9999997765116492901651282091,4,4,dakṣiṇā,dakṣiṇā,,f. sg. nom.,7,11,shr_new_nbest/new_24/906.csv
+9,11,3,0,varadakziRApraSnaH,0.9999997765116492901651282091,4,4,dakṣiṇā,dakṣiṇa,,f. sg. nom.,7,11,shr_new_nbest/new_24/906.csv
+10,12,3,0,varadakziRApraSnaH,0.9999997765116492901651282091,5,10,a,a,,iic.,1,11,shr_new_nbest/new_24/906.csv
+11,1,3,1,varadakziRA,2.234343947518934025371518298E-7,1,0,vara,vṛ,,imp. [1] ac. sg. 2,4,4,shr_new_nbest/new_24/911.csv
+12,2,3,1,varadakziRA,2.234343947518934025371518298E-7,1,4,dakṣiṇā,dakṣiṇā,,adv.,7,11,shr_new_nbest/new_24/911.csv
+13,6,3,1,varadakziRA,2.234343947518934025371518298E-7,2,4,dakṣiṇā,dakṣiṇā,,f. sg. nom.,7,11,shr_new_nbest/new_24/911.csv
+14,7,3,1,varadakziRA,2.234343947518934025371518298E-7,2,4,dakṣiṇā,dakṣiṇa,,f. sg. nom.,7,11,shr_new_nbest/new_24/911.csv
+15,1,3,2,maradakziRApraSnaH,5.395595794146925375067095270E-11,1,0,mara,mara,,iic.,4,4,shr_new_nbest/new_24/914.csv
+16,2,3,2,maradakziRApraSnaH,5.395595794146925375067095270E-11,1,4,dakṣiṇa,dakṣiṇa,,iic.,7,11,shr_new_nbest/new_24/914.csv
+17,3,3,2,maradakziRApraSnaH,5.395595794146925375067095270E-11,1,11,praśnaḥ,praśna,,m. sg. nom.,7,18,shr_new_nbest/new_24/914.csv
+18,6,3,2,maradakziRApraSnaH,5.395595794146925375067095270E-11,2,4,dakṣiṇā,dakṣiṇā,,iic.,7,11,shr_new_nbest/new_24/914.csv
+19,7,3,2,maradakziRApraSnaH,5.395595794146925375067095270E-11,3,10,a,a,,iic.,1,11,shr_new_nbest/new_24/914.csv
+20,3,7,1,praSnaH,0.9900990099009900990099009901,1,0,praśnaḥ,praśna,,m. sg. nom.,7,7,shr_new_nbest/new_24/911.csv
+21,5,9,1,kutaH,0.9900990099009900990099009901,1,0,kutaḥ,kutas,,adv.,5,5,shr_new_nbest/new_24/906.csv
+22,6,10,1,atra,1.300642901222499999999830833E-22,1,0,atra,atra,,adv.,4,4,shr_new_nbest/new_24/907.csv
+23,6,10,2,trA,3.328635356000999999999567064E-38,1,0,trā,trā,,?,3,3,shr_new_nbest/new_24/906.csv
+24,6,11,1,trA,0.9895869805778248219490454881,1,0,trā,trā,,?,3,3,shr_new_nbest/new_24/906.csv
+25,6,11,2,atra,0.0005100384895321191019591502254,1,0,atra,atra,,adv.,4,4,shr_new_nbest/new_24/907.csv
+26,6,11,3,DAtrA,0.000001004454405582349336884587719,1,0,dhātrā,dhātṛ,,m. sg. i.,6,5,shr_new_nbest/new_24/910.csv
+27,6,11,4,mAtrA,9.123745091632869267936931226E-7,1,0,mātrā,mātrā,,f. sg. nom.,5,5,shr_new_nbest/new_24/908.csv
+28,7,11,4,mAtrA,9.123745091632869267936931226E-7,1,0,mātrā,mātra,,f. sg. nom.,5,5,shr_new_nbest/new_24/908.csv
+29,8,11,4,mAtrA,9.123745091632869267936931226E-7,1,0,mātrā,mātṛ,,f. sg. i.,5,5,shr_new_nbest/new_24/908.csv
+30,6,11,5,tra,6.001370989208238288408551148E-8,1,0,tra,tra,,?,3,3,shr_new_nbest/new_24/909.csv
+31,6,11,6,yAtrA,1.448251413254317820853978695E-8,1,0,yātrā,yātrā,,f. sg. nom.,5,5,shr_new_nbest/new_24/912.csv
+32,7,11,6,yAtrA,1.448251413254317820853978695E-8,1,0,yātrā,yātṛ,,f. sg. i.,5,5,shr_new_nbest/new_24/912.csv
+33,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+34,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+35,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+36,,5,0,<eps>,1,1,0,<eps>,,,,1,1,
+37,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+38,,7,0,<eps>,0.009900990099009900990099009901,1,0,<eps>,,,,7,7,
+39,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+40,,9,0,<eps>,0.009900990099009900990099009901,1,0,<eps>,,,,5,5,
+41,,10,0,<eps>,0.9999999999999999999998699360,1,0,<eps>,,,,4,4,
+42,,11,0,<eps>,0.009900989607504288687170590793,1,0,<eps>,,,,5,5,
+43,,12,0,<eps>,1,1,0,<eps>,,,,1,1,

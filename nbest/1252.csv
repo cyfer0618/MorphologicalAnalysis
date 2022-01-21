@@ -1,0 +1,142 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,tadA,1,1,0,tadā,tadā,,adv.,4,4,shr_new_nbest/new_7/42.csv
+1,1,3,1,sA,0.9899999042767092062041247275,1,0,sā,tad,,f. sg. nom.,2,2,shr_new_nbest/new_7/42.csv
+2,1,3,2,sa,9.569019271671612700547529534E-8,1,0,sa,tad,,m. sg. nom.,2,2,shr_new_nbest/new_7/44.csv
+3,2,5,0,BartArameva,1,1,0,bhartāram,bhartṛ,,m. sg. acc.,9,8,shr_new_nbest/new_7/42.csv
+4,3,5,0,BartArameva,1,1,8,iva,iva,,part.,3,11,shr_new_nbest/new_7/42.csv
+5,12,5,0,BartArameva,1,2,0,bhartā,bhartṛ,,m. sg. nom.,6,5,shr_new_nbest/new_7/42.csv
+6,13,5,0,BartArameva,1,2,5,rameva,ram,,opt. [1] ac. du. 1,6,11,shr_new_nbest/new_7/42.csv
+7,20,5,0,BartArameva,1,3,0,bhartā,bhṛ,,per. fut. ac. sg. 3,6,5,shr_new_nbest/new_7/42.csv
+8,21,5,0,BartArameva,1,3,5,ramā,rama,,f. sg. nom.,4,9,shr_new_nbest/new_7/42.csv
+9,26,5,0,BartArameva,1,4,0,bhā,bhā,,iic.,3,2,shr_new_nbest/new_7/42.csv
+10,27,5,0,BartArameva,1,4,2,ṛta,ṛta,,iic.,3,5,shr_new_nbest/new_7/42.csv
+11,28,5,0,BartArameva,1,4,5,rama,ram,,imp. [1] ac. sg. 2,4,9,shr_new_nbest/new_7/42.csv
+12,31,5,0,BartArameva,1,5,0,bhā,bhā,,f. sg. nom.,3,2,shr_new_nbest/new_7/42.csv
+13,32,5,0,BartArameva,1,5,2,ṛtā,ṛta,,f. sg. nom.,3,5,shr_new_nbest/new_7/42.csv
+14,33,5,0,BartArameva,1,5,7,mā,mā,,part.,2,9,shr_new_nbest/new_7/42.csv
+15,34,5,0,BartArameva,1,6,4,ārameva,ā-ram,,opt. [1] ac. du. 1,7,11,shr_new_nbest/new_7/42.csv
+16,35,5,0,BartArameva,1,7,4,ārama,ā-ram,,imp. [1] ac. sg. 2,5,9,shr_new_nbest/new_7/42.csv
+17,36,5,0,BartArameva,1,8,4,aram,ara,,m. sg. acc.,4,8,shr_new_nbest/new_7/42.csv
+18,37,5,0,BartArameva,1,8,4,aram,ara,,n. sg. acc.,4,8,shr_new_nbest/new_7/42.csv
+19,38,5,0,BartArameva,1,8,4,aram,ara,,n. sg. nom.,4,8,shr_new_nbest/new_7/42.csv
+20,39,5,0,BartArameva,1,8,8,eva,eva,,prep.,3,11,shr_new_nbest/new_7/42.csv
+21,40,5,0,BartArameva,1,9,4,āram,āra,,n. sg. acc.,4,8,shr_new_nbest/new_7/42.csv
+22,41,5,0,BartArameva,1,9,4,āram,āra,,n. sg. nom.,4,8,shr_new_nbest/new_7/42.csv
+23,42,5,0,BartArameva,1,9,4,āram,āra,,m. sg. acc.,4,8,shr_new_nbest/new_7/42.csv
+24,43,5,0,BartArameva,1,10,4,āram,ṛ,,aor. [2] ac. sg. 1,4,8,shr_new_nbest/new_7/42.csv
+25,44,5,0,BartArameva,1,11,4,ara,ṛ,,pft. ac. pl. 2,3,7,shr_new_nbest/new_7/42.csv
+26,45,5,0,BartArameva,1,11,4,ara,ṛ,,pft. ac. sg. 3,3,7,shr_new_nbest/new_7/42.csv
+27,46,5,0,BartArameva,1,11,4,ara,ṛ,,pft. ac. sg. 1,3,7,shr_new_nbest/new_7/42.csv
+28,47,5,0,BartArameva,1,11,7,mā,asmad,,m. sg. acc.,2,9,shr_new_nbest/new_7/42.csv
+29,48,5,0,BartArameva,1,12,4,a,a,,iic.,1,5,shr_new_nbest/new_7/42.csv
+30,4,8,1,SaNkitumArabDagate,2.954852831526567651E-84,1,0,śaṅkitum,śaṅk,,inf.,8,8,shr_new_nbest/new_7/42.csv
+31,5,8,1,SaNkitumArabDagate,2.954852831526567651E-84,1,8,ārabdha,ā-rabdha,,iic.,7,14,shr_new_nbest/new_7/42.csv
+32,6,8,1,SaNkitumArabDagate,2.954852831526567651E-84,1,14,gate,gata,,f. du. acc.,4,18,shr_new_nbest/new_7/42.csv
+33,7,8,1,SaNkitumArabDagate,2.954852831526567651E-84,1,14,gate,gata,,f. du. nom.,4,18,shr_new_nbest/new_7/42.csv
+34,8,8,1,SaNkitumArabDagate,2.954852831526567651E-84,1,14,gate,gata,,n. du. acc.,4,18,shr_new_nbest/new_7/42.csv
+35,9,8,1,SaNkitumArabDagate,2.954852831526567651E-84,1,14,gate,gata,,n. du. nom.,4,18,shr_new_nbest/new_7/42.csv
+36,10,8,1,SaNkitumArabDagate,2.954852831526567651E-84,1,14,gate,gata,,n. sg. loc.,4,18,shr_new_nbest/new_7/42.csv
+37,11,8,1,SaNkitumArabDagate,2.954852831526567651E-84,1,14,gate,gata,,m. sg. loc.,4,18,shr_new_nbest/new_7/42.csv
+38,14,8,1,SaNkitumArabDagate,2.954852831526567651E-84,2,0,śaṅki,śaṅkin,,n. sg. acc.,5,5,shr_new_nbest/new_7/42.csv
+39,15,8,1,SaNkitumArabDagate,2.954852831526567651E-84,2,0,śaṅki,śaṅkin,,n. sg. nom.,5,5,shr_new_nbest/new_7/42.csv
+40,16,8,1,SaNkitumArabDagate,2.954852831526567651E-84,2,5,tu,tu,,conj.,2,7,shr_new_nbest/new_7/42.csv
+41,17,8,1,SaNkitumArabDagate,2.954852831526567651E-84,2,7,mā,mā,,part.,2,9,shr_new_nbest/new_7/42.csv
+42,18,8,1,SaNkitumArabDagate,2.954852831526567651E-84,2,9,rabdha,rabdha,,iic.,6,14,shr_new_nbest/new_7/42.csv
+43,19,8,1,SaNkitumArabDagate,2.954852831526567651E-84,2,14,gate,gati,,f. sg. voc.,4,18,shr_new_nbest/new_7/42.csv
+44,22,8,1,SaNkitumArabDagate,2.954852831526567651E-84,3,7,mā,asmad,,m. sg. acc.,2,9,shr_new_nbest/new_7/42.csv
+45,23,8,1,SaNkitumArabDagate,2.954852831526567651E-84,3,14,gate,gata,,f. du. voc.,4,18,shr_new_nbest/new_7/42.csv
+46,24,8,1,SaNkitumArabDagate,2.954852831526567651E-84,3,14,gate,gata,,f. sg. voc.,4,18,shr_new_nbest/new_7/42.csv
+47,25,8,1,SaNkitumArabDagate,2.954852831526567651E-84,3,14,gate,gata,,n. du. voc.,4,18,shr_new_nbest/new_7/42.csv
+48,29,8,1,SaNkitumArabDagate,2.954852831526567651E-84,4,8,a,a,,iic.,1,9,shr_new_nbest/new_7/42.csv
+49,30,8,1,SaNkitumArabDagate,2.954852831526567651E-84,4,14,gate,gati,,m. sg. voc.,4,18,shr_new_nbest/new_7/42.csv
+50,4,8,2,SaNkitum,1.215017413786568836228625254E-101,1,0,śaṅkitum,śaṅk,,inf.,8,8,shr_new_nbest/new_7/43.csv
+51,4,8,3,SaNkitumArabDagati,2.960617603505017427862823232E-106,1,0,śaṅkitum,śaṅk,,inf.,8,8,shr_new_nbest/new_7/51.csv
+52,5,8,3,SaNkitumArabDagati,2.960617603505017427862823232E-106,1,8,ārabdha,ā-rabdha,,iic.,7,14,shr_new_nbest/new_7/51.csv
+53,6,8,3,SaNkitumArabDagati,2.960617603505017427862823232E-106,1,14,gati,gati,,n. sg. acc.,4,18,shr_new_nbest/new_7/51.csv
+54,7,8,3,SaNkitumArabDagati,2.960617603505017427862823232E-106,1,14,gati,gati,,n. sg. nom.,4,18,shr_new_nbest/new_7/51.csv
+55,10,8,3,SaNkitumArabDagati,2.960617603505017427862823232E-106,2,0,śaṅki,śaṅkin,,n. sg. acc.,5,5,shr_new_nbest/new_7/51.csv
+56,11,8,3,SaNkitumArabDagati,2.960617603505017427862823232E-106,2,0,śaṅki,śaṅkin,,n. sg. nom.,5,5,shr_new_nbest/new_7/51.csv
+57,12,8,3,SaNkitumArabDagati,2.960617603505017427862823232E-106,2,5,tu,tu,,conj.,2,7,shr_new_nbest/new_7/51.csv
+58,13,8,3,SaNkitumArabDagati,2.960617603505017427862823232E-106,2,7,mā,mā,,part.,2,9,shr_new_nbest/new_7/51.csv
+59,14,8,3,SaNkitumArabDagati,2.960617603505017427862823232E-106,2,9,rabdha,rabdha,,iic.,6,14,shr_new_nbest/new_7/51.csv
+60,15,8,3,SaNkitumArabDagati,2.960617603505017427862823232E-106,2,14,gati,gati,,n. sg. voc.,4,18,shr_new_nbest/new_7/51.csv
+61,18,8,3,SaNkitumArabDagati,2.960617603505017427862823232E-106,3,7,mā,asmad,,m. sg. acc.,2,9,shr_new_nbest/new_7/51.csv
+62,22,8,3,SaNkitumArabDagati,2.960617603505017427862823232E-106,4,8,a,a,,iic.,1,9,shr_new_nbest/new_7/51.csv
+63,4,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,1,0,śaṅkitum,śaṅk,,inf.,8,8,shr_new_nbest/new_7/42.csv
+64,5,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,1,8,ārabdha,ā-rabdha,,iic.,7,14,shr_new_nbest/new_7/42.csv
+65,6,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,1,14,gate,gata,,f. du. acc.,4,18,shr_new_nbest/new_7/42.csv
+66,7,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,1,14,gate,gata,,f. du. nom.,4,18,shr_new_nbest/new_7/42.csv
+67,8,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,1,14,gate,gata,,n. du. acc.,4,18,shr_new_nbest/new_7/42.csv
+68,9,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,1,14,gate,gata,,n. du. nom.,4,18,shr_new_nbest/new_7/42.csv
+69,10,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,1,14,gate,gata,,n. sg. loc.,4,18,shr_new_nbest/new_7/42.csv
+70,11,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,1,14,gate,gata,,m. sg. loc.,4,18,shr_new_nbest/new_7/42.csv
+71,14,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,2,0,śaṅki,śaṅkin,,n. sg. acc.,5,5,shr_new_nbest/new_7/42.csv
+72,15,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,2,0,śaṅki,śaṅkin,,n. sg. nom.,5,5,shr_new_nbest/new_7/42.csv
+73,16,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,2,5,tu,tu,,conj.,2,7,shr_new_nbest/new_7/42.csv
+74,17,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,2,7,mā,mā,,part.,2,9,shr_new_nbest/new_7/42.csv
+75,18,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,2,9,rabdha,rabdha,,iic.,6,14,shr_new_nbest/new_7/42.csv
+76,19,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,2,14,gate,gati,,f. sg. voc.,4,18,shr_new_nbest/new_7/42.csv
+77,22,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,3,7,mā,asmad,,m. sg. acc.,2,9,shr_new_nbest/new_7/42.csv
+78,23,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,3,14,gate,gata,,f. du. voc.,4,18,shr_new_nbest/new_7/42.csv
+79,24,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,3,14,gate,gata,,f. sg. voc.,4,18,shr_new_nbest/new_7/42.csv
+80,25,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,3,14,gate,gata,,n. du. voc.,4,18,shr_new_nbest/new_7/42.csv
+81,29,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,4,8,a,a,,iic.,1,9,shr_new_nbest/new_7/42.csv
+82,30,9,0,SaNkitumArabDagate,0.9999999999999999954759089600,4,14,gate,gati,,m. sg. voc.,4,18,shr_new_nbest/new_7/42.csv
+83,4,9,1,SaNkitum,4.111938844544259581397214316E-18,1,0,śaṅkitum,śaṅk,,inf.,8,8,shr_new_nbest/new_7/43.csv
+84,4,9,3,SaNkitumArabDagati,1.001950950624999995467082682E-22,1,0,śaṅkitum,śaṅk,,inf.,8,8,shr_new_nbest/new_7/51.csv
+85,5,9,3,SaNkitumArabDagati,1.001950950624999995467082682E-22,1,8,ārabdha,ā-rabdha,,iic.,7,14,shr_new_nbest/new_7/51.csv
+86,6,9,3,SaNkitumArabDagati,1.001950950624999995467082682E-22,1,14,gati,gati,,n. sg. acc.,4,18,shr_new_nbest/new_7/51.csv
+87,7,9,3,SaNkitumArabDagati,1.001950950624999995467082682E-22,1,14,gati,gati,,n. sg. nom.,4,18,shr_new_nbest/new_7/51.csv
+88,10,9,3,SaNkitumArabDagati,1.001950950624999995467082682E-22,2,0,śaṅki,śaṅkin,,n. sg. acc.,5,5,shr_new_nbest/new_7/51.csv
+89,11,9,3,SaNkitumArabDagati,1.001950950624999995467082682E-22,2,0,śaṅki,śaṅkin,,n. sg. nom.,5,5,shr_new_nbest/new_7/51.csv
+90,12,9,3,SaNkitumArabDagati,1.001950950624999995467082682E-22,2,5,tu,tu,,conj.,2,7,shr_new_nbest/new_7/51.csv
+91,13,9,3,SaNkitumArabDagati,1.001950950624999995467082682E-22,2,7,mā,mā,,part.,2,9,shr_new_nbest/new_7/51.csv
+92,14,9,3,SaNkitumArabDagati,1.001950950624999995467082682E-22,2,9,rabdha,rabdha,,iic.,6,14,shr_new_nbest/new_7/51.csv
+93,15,9,3,SaNkitumArabDagati,1.001950950624999995467082682E-22,2,14,gati,gati,,n. sg. voc.,4,18,shr_new_nbest/new_7/51.csv
+94,18,9,3,SaNkitumArabDagati,1.001950950624999995467082682E-22,3,7,mā,asmad,,m. sg. acc.,2,9,shr_new_nbest/new_7/51.csv
+95,22,9,3,SaNkitumArabDagati,1.001950950624999995467082682E-22,4,8,a,a,,iic.,1,9,shr_new_nbest/new_7/51.csv
+96,4,9,4,SaNkitaArabDagate,9.483736422232353801846713026E-67,1,0,śaṅkita ārabdhagate,śaṅkita,,?,19,17,shr_new_nbest/new_7/49.csv
+97,4,9,5,SaNkitaArabDavatI,2.632508924124917837640821798E-83,1,0,śaṅkita ārabdhavatī,śaṅkita,,?,19,17,shr_new_nbest/new_7/47.csv
+98,4,11,1,SaNkitaArabDagate,1.69786850704E-37,1,0,śaṅkita ārabdhagate,śaṅkita,,?,19,17,shr_new_nbest/new_7/49.csv
+99,5,13,1,ArabDavatI,1.673895377468555835958253008E-33,1,0,ārabdhavatī,ārabdhavatī,,?,11,10,shr_new_nbest/new_7/43.csv
+100,5,13,2,ArabDagate,4.013898149432369099547981356E-71,1,0,ārabdha,ā-rabdha,,iic.,7,6,shr_new_nbest/new_7/45.csv
+101,6,13,2,ArabDagate,4.013898149432369099547981356E-71,1,6,gate,gata,,f. du. acc.,4,10,shr_new_nbest/new_7/45.csv
+102,7,13,2,ArabDagate,4.013898149432369099547981356E-71,1,6,gate,gata,,f. du. nom.,4,10,shr_new_nbest/new_7/45.csv
+103,8,13,2,ArabDagate,4.013898149432369099547981356E-71,1,6,gate,gata,,n. du. acc.,4,10,shr_new_nbest/new_7/45.csv
+104,9,13,2,ArabDagate,4.013898149432369099547981356E-71,1,6,gate,gata,,n. du. nom.,4,10,shr_new_nbest/new_7/45.csv
+105,10,13,2,ArabDagate,4.013898149432369099547981356E-71,1,6,gate,gata,,n. sg. loc.,4,10,shr_new_nbest/new_7/45.csv
+106,11,13,2,ArabDagate,4.013898149432369099547981356E-71,1,6,gate,gata,,m. sg. loc.,4,10,shr_new_nbest/new_7/45.csv
+107,14,13,2,ArabDagate,4.013898149432369099547981356E-71,2,6,gate,gati,,f. sg. voc.,4,10,shr_new_nbest/new_7/45.csv
+108,17,13,2,ArabDagate,4.013898149432369099547981356E-71,3,6,gate,gata,,f. du. voc.,4,10,shr_new_nbest/new_7/45.csv
+109,18,13,2,ArabDagate,4.013898149432369099547981356E-71,3,6,gate,gata,,f. sg. voc.,4,10,shr_new_nbest/new_7/45.csv
+110,19,13,2,ArabDagate,4.013898149432369099547981356E-71,3,6,gate,gata,,n. du. voc.,4,10,shr_new_nbest/new_7/45.csv
+111,23,13,2,ArabDagate,4.013898149432369099547981356E-71,4,6,gate,gati,,m. sg. voc.,4,10,shr_new_nbest/new_7/45.csv
+112,5,15,1,ArabDagate,1.344558599819216085374168674E-10,1,0,ārabdha,ā-rabdha,,iic.,7,6,shr_new_nbest/new_7/45.csv
+113,6,15,1,ArabDagate,1.344558599819216085374168674E-10,1,6,gate,gata,,f. du. acc.,4,10,shr_new_nbest/new_7/45.csv
+114,7,15,1,ArabDagate,1.344558599819216085374168674E-10,1,6,gate,gata,,f. du. nom.,4,10,shr_new_nbest/new_7/45.csv
+115,8,15,1,ArabDagate,1.344558599819216085374168674E-10,1,6,gate,gata,,n. du. acc.,4,10,shr_new_nbest/new_7/45.csv
+116,9,15,1,ArabDagate,1.344558599819216085374168674E-10,1,6,gate,gata,,n. du. nom.,4,10,shr_new_nbest/new_7/45.csv
+117,10,15,1,ArabDagate,1.344558599819216085374168674E-10,1,6,gate,gata,,n. sg. loc.,4,10,shr_new_nbest/new_7/45.csv
+118,11,15,1,ArabDagate,1.344558599819216085374168674E-10,1,6,gate,gata,,m. sg. loc.,4,10,shr_new_nbest/new_7/45.csv
+119,14,15,1,ArabDagate,1.344558599819216085374168674E-10,2,6,gate,gati,,f. sg. voc.,4,10,shr_new_nbest/new_7/45.csv
+120,17,15,1,ArabDagate,1.344558599819216085374168674E-10,3,6,gate,gata,,f. du. voc.,4,10,shr_new_nbest/new_7/45.csv
+121,18,15,1,ArabDagate,1.344558599819216085374168674E-10,3,6,gate,gata,,f. sg. voc.,4,10,shr_new_nbest/new_7/45.csv
+122,19,15,1,ArabDagate,1.344558599819216085374168674E-10,3,6,gate,gata,,n. du. voc.,4,10,shr_new_nbest/new_7/45.csv
+123,23,15,1,ArabDagate,1.344558599819216085374168674E-10,4,6,gate,gati,,m. sg. voc.,4,10,shr_new_nbest/new_7/45.csv
+124,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+125,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+126,,3,0,<eps>,0.01000000003309807707974826703,1,0,<eps>,,,,2,2,
+127,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+128,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+129,,7,0,<eps>,1,1,0,<eps>,,,,1,1,
+130,,8,0,<eps>,1,1,0,<eps>,,,,18,18,
+131,,9,2,<eps>,4.120519999999999981358392388E-19,1,0,<eps>,,,,18,18,
+132,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+133,,11,0,<eps>,1,1,0,<eps>,,,,17,17,
+134,,12,0,<eps>,1,1,0,<eps>,,,,1,1,
+135,,13,0,<eps>,1,1,0,<eps>,,,,10,10,
+136,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+137,,15,0,<eps>,0.9999999998655441400180783915,1,0,<eps>,,,,10,10,
+138,,16,0,<eps>,1,1,0,<eps>,,,,1,1,
+139,,17,0,<eps>,1,1,0,<eps>,,,,1,1,
+140,,18,0,<eps>,1,1,0,<eps>,,,,1,1,

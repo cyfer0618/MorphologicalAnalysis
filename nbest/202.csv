@@ -1,0 +1,65 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,tO,1,1,0,tau,tad,,m. du. acc.,3,2,shr_new_nbest/new_1/1953.csv
+1,1,1,0,tO,1,1,0,tau,tad,,m. du. nom.,3,2,shr_new_nbest/new_1/1953.csv
+2,2,3,0,taTA,1,1,0,tathā,tathā,,adv.,5,4,shr_new_nbest/new_1/1953.csv
+3,3,5,0,akurvatAm,0.6776469866570586903735022193,1,0,akurva,kṛ,,impft. [8] ac. du. 1,6,6,shr_new_nbest/new_1/1953.csv
+4,4,5,0,akurvatAm,0.6776469866570586903735022193,1,6,tām,tad,,f. sg. acc.,3,9,shr_new_nbest/new_1/1953.csv
+5,5,5,0,akurvatAm,0.6776469866570586903735022193,2,0,a,a,,iic.,1,1,shr_new_nbest/new_1/1953.csv
+6,6,5,0,akurvatAm,0.6776469866570586903735022193,2,1,kurvatām,kurvat,,n. pl. g.,8,9,shr_new_nbest/new_1/1953.csv
+7,7,5,0,akurvatAm,0.6776469866570586903735022193,2,1,kurvatām,kurvat,,m. pl. g.,8,9,shr_new_nbest/new_1/1953.csv
+8,3,5,1,akftam,0.3223078178113729926282207593,1,0,akṛtam,akṛta,,m. sg. acc.,6,6,shr_new_nbest/new_1/1954.csv
+9,4,5,1,akftam,0.3223078178113729926282207593,1,0,akṛtam,akṛta,,n. sg. acc.,6,6,shr_new_nbest/new_1/1954.csv
+10,5,5,1,akftam,0.3223078178113729926282207593,1,0,akṛtam,akṛta,,n. sg. nom.,6,6,shr_new_nbest/new_1/1954.csv
+11,6,5,1,akftam,0.3223078178113729926282207593,2,0,akṛtam,kṛ,,aor. [1] ac. du. 2,6,6,shr_new_nbest/new_1/1954.csv
+12,7,5,1,akftam,0.3223078178113729926282207593,3,0,a,a,,iic.,1,1,shr_new_nbest/new_1/1954.csv
+13,8,5,1,akftam,0.3223078178113729926282207593,3,1,kṛtam,kṛta,,n. sg. acc.,5,6,shr_new_nbest/new_1/1954.csv
+14,9,5,1,akftam,0.3223078178113729926282207593,3,1,kṛtam,kṛta,,n. sg. nom.,5,6,shr_new_nbest/new_1/1954.csv
+15,10,5,1,akftam,0.3223078178113729926282207593,3,1,kṛtam,kṛta,,m. sg. acc.,5,6,shr_new_nbest/new_1/1954.csv
+16,3,5,3,akurutAm,0.00001664155437709196156672124427,1,0,akurutām,kṛ,,impft. [8] ac. du. 3,8,8,shr_new_nbest/new_1/1956.csv
+17,3,5,4,akftAm,1.039276105820075141977133253E-8,1,0,akṛtām,akṛta,,f. sg. acc.,6,6,shr_new_nbest/new_1/1957.csv
+18,4,5,4,akftAm,1.039276105820075141977133253E-8,2,0,akṛtām,kṛ,,aor. [1] ac. du. 3,6,6,shr_new_nbest/new_1/1957.csv
+19,5,5,4,akftAm,1.039276105820075141977133253E-8,3,0,a,a,,iic.,1,1,shr_new_nbest/new_1/1957.csv
+20,6,5,4,akftAm,1.039276105820075141977133253E-8,3,1,kṛtām,kṛta,,f. sg. acc.,5,6,shr_new_nbest/new_1/1957.csv
+21,3,5,5,akftAn,2.253341441609273485034833260E-20,1,0,akṛtān,akṛta,,m. pl. acc.,6,6,shr_new_nbest/new_1/1958.csv
+22,4,5,5,akftAn,2.253341441609273485034833260E-20,2,0,a,a,,iic.,1,1,shr_new_nbest/new_1/1958.csv
+23,5,5,5,akftAn,2.253341441609273485034833260E-20,2,1,kṛtān,kṛta,,m. pl. acc.,5,6,shr_new_nbest/new_1/1958.csv
+24,3,5,6,akurutam,1.112152888554904611219126012E-22,1,0,akurutam,kṛ,,impft. [8] ac. du. 2,8,8,shr_new_nbest/new_1/1962.csv
+25,3,5,7,kurutAm,2.991983733252310577646973640E-32,1,0,kurutām,kṛ,,imp. [8] md. sg. 3,7,7,shr_new_nbest/new_1/1960.csv
+26,4,5,7,kurutAm,2.991983733252310577646973640E-32,1,0,kurutām,kṛ,,imp. [8] ac. du. 3,7,7,shr_new_nbest/new_1/1960.csv
+27,5,5,7,kurutAm,2.991983733252310577646973640E-32,2,0,kuru,kṛ,,imp. [8] ac. sg. 2,4,4,shr_new_nbest/new_1/1960.csv
+28,6,5,7,kurutAm,2.991983733252310577646973640E-32,2,4,tām,tad,,f. sg. acc.,3,7,shr_new_nbest/new_1/1960.csv
+29,3,5,8,akftakam,8.338613264604834916771745568E-56,1,0,akṛta,kṛ,,aor. [4] md. sg. 3,5,5,shr_new_nbest/new_1/1961.csv
+30,4,5,8,akftakam,8.338613264604834916771745568E-56,1,0,akṛta,kṛ,,aor. [1] md. sg. 3,5,5,shr_new_nbest/new_1/1961.csv
+31,5,5,8,akftakam,8.338613264604834916771745568E-56,1,0,akṛta,kṛ,,aor. [1] ac. pl. 2,5,5,shr_new_nbest/new_1/1961.csv
+32,6,5,8,akftakam,8.338613264604834916771745568E-56,1,5,kam,kam,,adv.,3,8,shr_new_nbest/new_1/1961.csv
+33,7,5,8,akftakam,8.338613264604834916771745568E-56,2,0,a,a,,iic.,1,1,shr_new_nbest/new_1/1961.csv
+34,8,5,8,akftakam,8.338613264604834916771745568E-56,2,1,kṛtakam,kṛtaka,,m. sg. acc.,7,8,shr_new_nbest/new_1/1961.csv
+35,9,5,8,akftakam,8.338613264604834916771745568E-56,2,1,kṛtakam,kṛtaka,,n. sg. acc.,7,8,shr_new_nbest/new_1/1961.csv
+36,10,5,8,akftakam,8.338613264604834916771745568E-56,2,1,kṛtakam,kṛtaka,,n. sg. nom.,7,8,shr_new_nbest/new_1/1961.csv
+37,11,5,8,akftakam,8.338613264604834916771745568E-56,3,5,kam,kim,,m. sg. acc.,3,8,shr_new_nbest/new_1/1961.csv
+38,3,6,1,kurutAm,0.00001657394483028630991270728071,1,0,kurutām,kṛ,,imp. [8] md. sg. 3,7,7,shr_new_nbest/new_1/1960.csv
+39,4,6,1,kurutAm,0.00001657394483028630991270728071,1,0,kurutām,kṛ,,imp. [8] ac. du. 3,7,7,shr_new_nbest/new_1/1960.csv
+40,5,6,1,kurutAm,0.00001657394483028630991270728071,2,0,kuru,kṛ,,imp. [8] ac. sg. 2,4,4,shr_new_nbest/new_1/1960.csv
+41,6,6,1,kurutAm,0.00001657394483028630991270728071,2,4,tām,tad,,f. sg. acc.,3,7,shr_new_nbest/new_1/1960.csv
+42,3,6,2,kftam,1.883832813740497439596563729E-53,1,0,kṛtam,kṛta,,n. sg. acc.,5,5,shr_new_nbest/new_1/1959.csv
+43,4,6,2,kftam,1.883832813740497439596563729E-53,1,0,kṛtam,kṛta,,n. sg. nom.,5,5,shr_new_nbest/new_1/1959.csv
+44,5,6,2,kftam,1.883832813740497439596563729E-53,1,0,kṛtam,kṛta,,m. sg. acc.,5,5,shr_new_nbest/new_1/1959.csv
+45,3,7,1,kftam,0.8758948825121677970523636438,1,0,kṛtam,kṛta,,n. sg. acc.,5,5,shr_new_nbest/new_1/1959.csv
+46,4,7,1,kftam,0.8758948825121677970523636438,1,0,kṛtam,kṛta,,n. sg. nom.,5,5,shr_new_nbest/new_1/1959.csv
+47,5,7,1,kftam,0.8758948825121677970523636438,1,0,kṛtam,kṛta,,m. sg. acc.,5,5,shr_new_nbest/new_1/1959.csv
+48,3,7,2,akftam,0.00007725191945064548201441023417,1,0,akṛtam,akṛta,,m. sg. acc.,6,6,shr_new_nbest/new_1/1954.csv
+49,4,7,2,akftam,0.00007725191945064548201441023417,1,0,akṛtam,akṛta,,n. sg. acc.,6,6,shr_new_nbest/new_1/1954.csv
+50,5,7,2,akftam,0.00007725191945064548201441023417,1,0,akṛtam,akṛta,,n. sg. nom.,6,6,shr_new_nbest/new_1/1954.csv
+51,6,7,2,akftam,0.00007725191945064548201441023417,2,0,akṛtam,kṛ,,aor. [1] ac. du. 2,6,6,shr_new_nbest/new_1/1954.csv
+52,7,7,2,akftam,0.00007725191945064548201441023417,3,0,a,a,,iic.,1,1,shr_new_nbest/new_1/1954.csv
+53,8,7,2,akftam,0.00007725191945064548201441023417,3,1,kṛtam,kṛta,,n. sg. acc.,5,6,shr_new_nbest/new_1/1954.csv
+54,9,7,2,akftam,0.00007725191945064548201441023417,3,1,kṛtam,kṛta,,n. sg. nom.,5,6,shr_new_nbest/new_1/1954.csv
+55,10,7,2,akftam,0.00007725191945064548201441023417,3,1,kṛtam,kṛta,,m. sg. acc.,5,6,shr_new_nbest/new_1/1954.csv
+56,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+57,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+58,,3,1,<eps>,1.84543E-32,1,0,<eps>,,,,4,4,
+59,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+60,,5,2,<eps>,0.00002854358443016681331425068015,1,0,<eps>,,,,9,9,
+61,,6,0,<eps>,0.9999834260551697136900872927,1,0,<eps>,,,,7,7,
+62,,7,0,<eps>,0.1240278655683815574656219460,1,0,<eps>,,,,6,6,
+63,,8,0,<eps>,1,1,0,<eps>,,,,1,1,

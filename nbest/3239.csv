@@ -1,0 +1,107 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,sUrya,0.9999999999999999939219359710,1,0,sūrya,sūrya,,m. sg. voc.,5,5,shr_new_nbest/new_16/1120.csv
+1,0,1,1,sUryA,6.078064029128999963057137659E-18,1,0,sūryā,sūrya,,f. sg. nom.,5,5,shr_new_nbest/new_16/1125.csv
+2,1,3,1,yanta,0.9975903611116263676362812701,1,0,yanta,yanta,,?,5,5,shr_new_nbest/new_16/1120.csv
+3,1,3,2,yantamuzwiBavanam,3.349639069705573497085281788E-10,1,0,yantamuṣṭibhavanam,yantamuṣṭibhavanam,,?,18,17,shr_new_nbest/new_16/1126.csv
+4,2,5,1,muzwiBavanam,0.9906473774858524359829725873,1,0,muṣṭi,muṣṭi,,iic.,5,5,shr_new_nbest/new_16/1120.csv
+5,3,5,1,muzwiBavanam,0.9906473774858524359829725873,1,5,bhavanam,bhavana,,n. sg. acc.,8,12,shr_new_nbest/new_16/1120.csv
+6,4,5,1,muzwiBavanam,0.9906473774858524359829725873,1,5,bhavanam,bhavana,,n. sg. nom.,8,12,shr_new_nbest/new_16/1120.csv
+7,19,5,1,muzwiBavanam,0.9906473774858524359829725873,2,5,bhavanam,bhavana,,m. sg. acc.,8,12,shr_new_nbest/new_16/1120.csv
+8,23,5,1,muzwiBavanam,0.9906473774858524359829725873,3,5,bha,bha,,iic.,3,7,shr_new_nbest/new_16/1120.csv
+9,24,5,1,muzwiBavanam,0.9906473774858524359829725873,3,7,vanam,vana,,n. sg. acc.,5,12,shr_new_nbest/new_16/1120.csv
+10,25,5,1,muzwiBavanam,0.9906473774858524359829725873,3,7,vanam,vana,,n. sg. nom.,5,12,shr_new_nbest/new_16/1120.csv
+11,29,5,1,muzwiBavanam,0.9906473774858524359829725873,4,7,vanam,vana,,m. sg. acc.,5,12,shr_new_nbest/new_16/1120.csv
+12,2,5,2,muzwimavanam,0.006753849525479267494444994742,1,0,muṣṭim,muṣṭi,,m. sg. acc.,6,6,shr_new_nbest/new_16/1122.csv
+13,3,5,2,muzwimavanam,0.006753849525479267494444994742,1,0,muṣṭim,muṣṭi,,f. sg. acc.,6,6,shr_new_nbest/new_16/1122.csv
+14,4,5,2,muzwimavanam,0.006753849525479267494444994742,1,6,avanam,van,,impft. [1] ac. sg. 1,6,12,shr_new_nbest/new_16/1122.csv
+15,19,5,2,muzwimavanam,0.006753849525479267494444994742,2,6,a,a,,iic.,1,7,shr_new_nbest/new_16/1122.csv
+16,20,5,2,muzwimavanam,0.006753849525479267494444994742,2,7,vanam,vana,,n. sg. acc.,5,12,shr_new_nbest/new_16/1122.csv
+17,21,5,2,muzwimavanam,0.006753849525479267494444994742,2,7,vanam,vana,,n. sg. nom.,5,12,shr_new_nbest/new_16/1122.csv
+18,2,5,3,muzwiBuvanam,3.334990879058554498960199484E-9,1,0,muṣṭi,muṣṭi,,iic.,5,5,shr_new_nbest/new_16/1123.csv
+19,3,5,3,muzwiBuvanam,3.334990879058554498960199484E-9,1,5,bhuvanam,bhuvana,,n. sg. acc.,8,12,shr_new_nbest/new_16/1123.csv
+20,4,5,3,muzwiBuvanam,3.334990879058554498960199484E-9,1,5,bhuvanam,bhuvana,,n. sg. nom.,8,12,shr_new_nbest/new_16/1123.csv
+21,5,5,3,muzwiBuvanam,3.334990879058554498960199484E-9,1,5,bhuvanam,bhuvana,,m. sg. acc.,8,12,shr_new_nbest/new_16/1123.csv
+22,20,5,3,muzwiBuvanam,3.334990879058554498960199484E-9,2,5,bhu,bhu,,n. sg. acc.,3,7,shr_new_nbest/new_16/1123.csv
+23,21,5,3,muzwiBuvanam,3.334990879058554498960199484E-9,2,5,bhu,bhu,,n. sg. nom.,3,7,shr_new_nbest/new_16/1123.csv
+24,22,5,3,muzwiBuvanam,3.334990879058554498960199484E-9,2,5,bhu,bhū,,n. sg. acc.,3,7,shr_new_nbest/new_16/1123.csv
+25,23,5,3,muzwiBuvanam,3.334990879058554498960199484E-9,2,5,bhu,bhū,,n. sg. nom.,3,7,shr_new_nbest/new_16/1123.csv
+26,24,5,3,muzwiBuvanam,3.334990879058554498960199484E-9,2,7,vanam,vana,,n. sg. acc.,5,12,shr_new_nbest/new_16/1123.csv
+27,25,5,3,muzwiBuvanam,3.334990879058554498960199484E-9,2,7,vanam,vana,,n. sg. nom.,5,12,shr_new_nbest/new_16/1123.csv
+28,29,5,3,muzwiBuvanam,3.334990879058554498960199484E-9,3,5,bhu,bhu,,iic.,3,7,shr_new_nbest/new_16/1123.csv
+29,30,5,3,muzwiBuvanam,3.334990879058554498960199484E-9,3,7,vanam,vana,,m. sg. acc.,5,12,shr_new_nbest/new_16/1123.csv
+30,2,5,4,muzwivamanam,3.578383159086434960562984796E-11,1,0,muṣṭi,muṣṭi,,iic.,5,5,shr_new_nbest/new_16/1124.csv
+31,3,5,4,muzwivamanam,3.578383159086434960562984796E-11,1,5,vamanam,vamana,,n. sg. acc.,7,12,shr_new_nbest/new_16/1124.csv
+32,4,5,4,muzwivamanam,3.578383159086434960562984796E-11,1,5,vamanam,vamana,,n. sg. nom.,7,12,shr_new_nbest/new_16/1124.csv
+33,19,5,4,muzwivamanam,3.578383159086434960562984796E-11,2,5,vamanam,vamana,,m. sg. acc.,7,12,shr_new_nbest/new_16/1124.csv
+34,5,9,1,kasmAtsrotasa,0.9972515052691516358147946370,1,0,kasmātsrotasa,kasmātsrotasa,,?,13,13,shr_new_nbest/new_16/1120.csv
+35,5,9,2,kasmAt,0.0003388561155741575155427659200,1,0,kasmāt,kim,,n. sg. abl.,6,6,shr_new_nbest/new_16/1121.csv
+36,6,9,2,kasmAt,0.0003388561155741575155427659200,1,0,kasmāt,kim,,m. sg. abl.,6,6,shr_new_nbest/new_16/1121.csv
+37,5,10,1,kasmAt,2.303835E-30,1,0,kasmāt,kim,,n. sg. abl.,6,6,shr_new_nbest/new_16/1121.csv
+38,6,10,1,kasmAt,2.303835E-30,1,0,kasmāt,kim,,m. sg. abl.,6,6,shr_new_nbest/new_16/1121.csv
+39,7,11,1,srotasa,0.9975903614457831326623312527,1,0,srotasa,srotasa,,?,7,7,shr_new_nbest/new_16/1121.csv
+40,6,15,0,ADatte,1,1,0,ādhatte,ā-dhā,,pr. [3] md. sg. 3,7,6,shr_new_nbest/new_16/1120.csv
+41,7,19,0,mftyorUrDvam,0.9999999999999999999888670900,1,0,mṛtyoḥ,mṛtyu,,m. sg. g.,6,6,shr_new_nbest/new_16/1120.csv
+42,8,19,0,mftyorUrDvam,0.9999999999999999999888670900,1,0,mṛtyoḥ,mṛtyu,,m. sg. abl.,6,6,shr_new_nbest/new_16/1120.csv
+43,9,19,0,mftyorUrDvam,0.9999999999999999999888670900,1,0,mṛtyoḥ,mṛti,,f. du. loc.,6,6,shr_new_nbest/new_16/1120.csv
+44,10,19,0,mftyorUrDvam,0.9999999999999999999888670900,1,0,mṛtyoḥ,mṛti,,f. du. g.,6,6,shr_new_nbest/new_16/1120.csv
+45,11,19,0,mftyorUrDvam,0.9999999999999999999888670900,1,6,ūrdhvam,ūrdhva,,m. sg. acc.,7,12,shr_new_nbest/new_16/1120.csv
+46,12,19,0,mftyorUrDvam,0.9999999999999999999888670900,1,6,ūrdhvam,ūrdhva,,n. sg. acc.,7,12,shr_new_nbest/new_16/1120.csv
+47,13,19,0,mftyorUrDvam,0.9999999999999999999888670900,1,6,ūrdhvam,ūrdhva,,n. sg. nom.,7,12,shr_new_nbest/new_16/1120.csv
+48,20,19,0,mftyorUrDvam,0.9999999999999999999888670900,2,0,mṛtyā,mṛti,,f. sg. i.,5,5,shr_new_nbest/new_16/1120.csv
+49,26,19,0,mftyorUrDvam,0.9999999999999999999888670900,3,0,mṛtyā,mṛtya,,f. sg. nom.,5,5,shr_new_nbest/new_16/1120.csv
+50,30,19,0,mftyorUrDvam,0.9999999999999999999888670900,4,0,mṛtya,mṛtya,,iic.,5,5,shr_new_nbest/new_16/1120.csv
+51,31,19,0,mftyorUrDvam,0.9999999999999999999888670900,5,4,uru,uru,,iic.,3,7,shr_new_nbest/new_16/1120.csv
+52,32,19,0,mftyorUrDvam,0.9999999999999999999888670900,6,4,ūru,ūru,,iic.,3,7,shr_new_nbest/new_16/1120.csv
+53,33,19,0,mftyorUrDvam,0.9999999999999999999888670900,7,4,uru,uru,,n. sg. acc.,3,7,shr_new_nbest/new_16/1120.csv
+54,34,19,0,mftyorUrDvam,0.9999999999999999999888670900,7,4,uru,uru,,n. sg. nom.,3,7,shr_new_nbest/new_16/1120.csv
+55,35,19,0,mftyorUrDvam,0.9999999999999999999888670900,8,4,urū,uru,,m. du. acc.,3,7,shr_new_nbest/new_16/1120.csv
+56,36,19,0,mftyorUrDvam,0.9999999999999999999888670900,8,4,urū,uru,,m. du. nom.,3,7,shr_new_nbest/new_16/1120.csv
+57,37,19,0,mftyorUrDvam,0.9999999999999999999888670900,9,4,ūrū,ūru,,m. du. acc.,3,7,shr_new_nbest/new_16/1120.csv
+58,38,19,0,mftyorUrDvam,0.9999999999999999999888670900,9,4,ūrū,ūru,,m. du. nom.,3,7,shr_new_nbest/new_16/1120.csv
+59,39,19,0,mftyorUrDvam,0.9999999999999999999888670900,10,4,uru,uru,,adv.,3,7,shr_new_nbest/new_16/1120.csv
+60,40,19,0,mftyorUrDvam,0.9999999999999999999888670900,11,4,ūru,ūru,,n. sg. acc.,3,7,shr_new_nbest/new_16/1120.csv
+61,41,19,0,mftyorUrDvam,0.9999999999999999999888670900,11,4,ūru,ūru,,n. sg. nom.,3,7,shr_new_nbest/new_16/1120.csv
+62,42,19,0,mftyorUrDvam,0.9999999999999999999888670900,12,4,ūrū,ūru,,f. du. acc.,3,7,shr_new_nbest/new_16/1120.csv
+63,43,19,0,mftyorUrDvam,0.9999999999999999999888670900,12,4,ūrū,ūru,,f. du. nom.,3,7,shr_new_nbest/new_16/1120.csv
+64,14,25,0,janaH,1,1,0,janaḥ,janas,,n. sg. acc.,5,5,shr_new_nbest/new_16/1120.csv
+65,15,25,0,janaH,1,1,0,janaḥ,janas,,n. sg. nom.,5,5,shr_new_nbest/new_16/1120.csv
+66,16,25,0,janaH,1,1,0,janaḥ,jana,,m. sg. nom.,5,5,shr_new_nbest/new_16/1120.csv
+67,21,25,0,janaH,1,2,0,janaḥ,janas,,n. sg. voc.,5,5,shr_new_nbest/new_16/1120.csv
+68,17,27,1,kutra,0.9975903556662125178665861120,1,0,kutra,kutra,,adv.,5,5,shr_new_nbest/new_16/1120.csv
+69,17,27,2,kutrayAti,5.793530930290420852823145510E-9,1,0,kutra,kutra,,adv.,5,5,shr_new_nbest/new_16/1129.csv
+70,18,27,2,kutrayAti,5.793530930290420852823145510E-9,1,5,yāti,yā,,pr. [2] ac. sg. 3,4,9,shr_new_nbest/new_16/1129.csv
+71,22,27,2,kutrayAti,5.793530930290420852823145510E-9,2,5,yā,yad,,f. sg. nom.,2,7,shr_new_nbest/new_16/1129.csv
+72,27,27,2,kutrayAti,5.793530930290420852823145510E-9,3,6,ati,ati,,prep.,3,9,shr_new_nbest/new_16/1129.csv
+73,28,27,2,kutrayAti,5.793530930290420852823145510E-9,3,6,ati,ati,,adv.,3,9,shr_new_nbest/new_16/1129.csv
+74,18,29,1,yAti,0.9975903614457831326623312527,1,0,yāti,yā,,pr. [2] ac. sg. 3,4,4,shr_new_nbest/new_16/1120.csv
+75,22,29,1,yAti,0.9975903614457831326623312527,2,0,yā,yad,,f. sg. nom.,2,2,shr_new_nbest/new_16/1120.csv
+76,27,29,1,yAti,0.9975903614457831326623312527,3,1,ati,ati,,prep.,3,4,shr_new_nbest/new_16/1120.csv
+77,28,29,1,yAti,0.9975903614457831326623312527,3,1,ati,ati,,adv.,3,4,shr_new_nbest/new_16/1120.csv
+78,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+79,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+80,,3,0,<eps>,0.002409638553409725393161380215,1,0,<eps>,,,,17,17,
+81,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+82,,5,0,<eps>,0.002598769617893585873163569467,1,0,<eps>,,,,12,12,
+83,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+84,,7,0,<eps>,1,1,0,<eps>,,,,1,1,
+85,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+86,,9,0,<eps>,0.002409638615274206669662597059,1,0,<eps>,,,,13,13,
+87,,10,0,<eps>,1,1,0,<eps>,,,,6,6,
+88,,11,0,<eps>,0.002409638554216867337668747278,1,0,<eps>,,,,7,7,
+89,,12,0,<eps>,1,1,0,<eps>,,,,1,1,
+90,,13,0,<eps>,1,1,0,<eps>,,,,1,1,
+91,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+92,,16,0,<eps>,1,1,0,<eps>,,,,1,1,
+93,,17,0,<eps>,1,1,0,<eps>,,,,1,1,
+94,,18,0,<eps>,1,1,0,<eps>,,,,1,1,
+95,,19,1,<eps>,1.113290999999999999987605831E-20,1,0,<eps>,,,,12,12,
+96,,20,0,<eps>,1,1,0,<eps>,,,,1,1,
+97,,21,0,<eps>,1,1,0,<eps>,,,,1,1,
+98,,22,0,<eps>,1,1,0,<eps>,,,,1,1,
+99,,23,0,<eps>,1,1,0,<eps>,,,,1,1,
+100,,24,0,<eps>,1,1,0,<eps>,,,,1,1,
+101,,26,0,<eps>,1,1,0,<eps>,,,,1,1,
+102,,27,0,<eps>,0.002409638540256551842993035146,1,0,<eps>,,,,9,9,
+103,,28,0,<eps>,1,1,0,<eps>,,,,1,1,
+104,,29,0,<eps>,0.002409638554216867337668747278,1,0,<eps>,,,,4,4,
+105,,30,0,<eps>,1,1,0,<eps>,,,,1,1,

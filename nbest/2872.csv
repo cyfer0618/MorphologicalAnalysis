@@ -1,0 +1,45 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,alpavayaskaH,1,1,0,alpa,alpa,,iic.,4,4,shr_new_nbest/new_14/1532.csv
+1,1,1,0,alpavayaskaH,1,1,4,vayaḥ,vayas,,n. sg. acc.,5,9,shr_new_nbest/new_14/1532.csv
+2,2,1,0,alpavayaskaH,1,1,4,vayaḥ,vayas,,n. sg. nom.,5,9,shr_new_nbest/new_14/1532.csv
+3,3,1,0,alpavayaskaH,1,1,4,vayaḥ,vayas,,n. sg. acc.,5,9,shr_new_nbest/new_14/1532.csv
+4,4,1,0,alpavayaskaH,1,1,4,vayaḥ,vayas,,n. sg. nom.,5,9,shr_new_nbest/new_14/1532.csv
+5,5,1,0,alpavayaskaH,1,1,9,kaḥ,kim,,m. sg. nom.,3,12,shr_new_nbest/new_14/1532.csv
+6,0,1,1,alpagayaskaH,4.6975492853689E-41,1,0,alpa,alpa,,iic.,4,4,shr_new_nbest/new_14/1540.csv
+7,1,1,1,alpagayaskaH,4.6975492853689E-41,1,4,gayaḥ,gaya,,m. sg. nom.,5,9,shr_new_nbest/new_14/1540.csv
+8,2,1,1,alpagayaskaH,4.6975492853689E-41,1,9,kaḥ,kim,,m. sg. nom.,3,12,shr_new_nbest/new_14/1540.csv
+9,11,1,1,alpagayaskaH,4.6975492853689E-41,2,4,gayaḥ,gayā,,m. sg. nom.,5,9,shr_new_nbest/new_14/1540.csv
+10,6,6,0,tvam,1,1,0,tvam,yuṣmad,,m. sg. nom.,4,4,shr_new_nbest/new_14/1532.csv
+11,7,8,0,kim,1,1,0,kim,kim,,n. sg. acc.,3,3,shr_new_nbest/new_14/1532.csv
+12,8,8,0,kim,1,1,0,kim,kim,,n. sg. nom.,3,3,shr_new_nbest/new_14/1532.csv
+13,9,10,0,gItam,1,1,0,gītam,gīta,,n. sg. acc.,5,5,shr_new_nbest/new_14/1532.csv
+14,10,10,0,gItam,1,1,0,gītam,gīta,,n. sg. nom.,5,5,shr_new_nbest/new_14/1532.csv
+15,11,10,0,gItam,1,1,0,gītam,gīta,,m. sg. acc.,5,5,shr_new_nbest/new_14/1532.csv
+16,12,12,0,racayitum,0.9999999999999999999999993070,1,0,racayitum,rac,,inf.,9,9,shr_new_nbest/new_14/1532.csv
+17,12,12,2,rakzayitum,9.267113999999999999999993578E-28,1,0,rakṣayitum,rakṣ,,ca. inf.,10,10,shr_new_nbest/new_14/1537.csv
+18,12,12,3,racitam,1.527176993354099999999998942E-46,1,0,racitam,racita,,n. sg. acc.,7,7,shr_new_nbest/new_14/1538.csv
+19,13,12,3,racitam,1.527176993354099999999998942E-46,1,0,racitam,racita,,n. sg. nom.,7,7,shr_new_nbest/new_14/1538.csv
+20,14,12,3,racitam,1.527176993354099999999998942E-46,1,0,racitam,racita,,m. sg. acc.,7,7,shr_new_nbest/new_14/1538.csv
+21,12,12,4,racIitum,7.414879978850833763999994861E-48,1,0,racī itum,racī,,?,9,8,shr_new_nbest/new_14/1536.csv
+22,12,12,5,raciitum,1.510185177672031779600092344E-50,1,0,raci itum,raci,,?,9,8,shr_new_nbest/new_14/1535.csv
+23,12,12,6,pracIitum,2.703477150012227273999998126E-54,1,0,pracī itum,pracī,,?,10,9,shr_new_nbest/new_14/1539.csv
+24,12,12,7,prAcIitum,2.060697448117499999999998572E-61,1,0,prācī itum,prācī,,?,10,9,shr_new_nbest/new_14/1541.csv
+25,12,14,1,rakzitum,6.432413820000000450268553639E-23,1,0,rakṣitum,rakṣ,,inf.,8,8,shr_new_nbest/new_14/1534.csv
+26,13,16,1,SaknuyAm,0.9893617021276595752045801261,1,0,śaknuyām,śak,,opt. [5] ac. sg. 1,8,8,shr_new_nbest/new_14/1532.csv
+27,13,16,2,SaknuyAt,2.665298480141617023260682103E-22,1,0,śaknuyāt,śak,,opt. [5] ac. sg. 3,8,8,shr_new_nbest/new_14/1533.csv
+28,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+29,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+30,,3,0,<eps>,1,1,0,<eps>,,,,1,1,
+31,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+32,,5,0,<eps>,1,1,0,<eps>,,,,1,1,
+33,,7,0,<eps>,1,1,0,<eps>,,,,1,1,
+34,,9,0,<eps>,1,1,0,<eps>,,,,1,1,
+35,,11,0,<eps>,1,1,0,<eps>,,,,1,1,
+36,,12,1,<eps>,6.916573999999999999999995207E-25,1,0,<eps>,,,,10,10,
+37,,13,0,<eps>,1,1,0,<eps>,,,,1,1,
+38,,14,0,<eps>,0.9999999999999999999999356756,1,0,<eps>,,,,8,8,
+39,,15,0,<eps>,1,1,0,<eps>,,,,1,1,
+40,,16,0,<eps>,0.01063829787234042479515334384,1,0,<eps>,,,,8,8,
+41,,17,0,<eps>,1,1,0,<eps>,,,,1,1,
+42,,18,0,<eps>,1,1,0,<eps>,,,,1,1,
+43,,19,0,<eps>,1,1,0,<eps>,,,,1,1,

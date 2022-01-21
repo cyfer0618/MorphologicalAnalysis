@@ -1,0 +1,141 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,yadi,0.9999999999999999999999998520,1,0,yadi,yadi,,conj.,4,4,shr_new_nbest/new_23/132.csv
+1,0,1,1,yadIBavantaH,1.483222999999999999999999780E-25,1,0,yadībhavantaḥ,yadībhavantaḥ,,?,13,12,shr_new_nbest/new_23/137.csv
+2,1,3,1,BavantaH,0.9917355371900826449559456321,1,0,bhavantaḥ,bhavat,,m. pl. nom.,9,8,shr_new_nbest/new_23/132.csv
+3,6,3,1,BavantaH,0.9917355371900826449559456321,2,0,bhavantaḥ,bhavat,,m. pl. nom.,9,8,shr_new_nbest/new_23/132.csv
+4,11,3,1,BavantaH,0.9917355371900826449559456321,3,0,bhavantaḥ,bhavat,,m. pl. voc.,9,8,shr_new_nbest/new_23/132.csv
+5,14,3,1,BavantaH,0.9917355371900826449559456321,4,0,bhavantaḥ,bhavat,,m. pl. voc.,9,8,shr_new_nbest/new_23/132.csv
+6,2,5,0,mama,1,1,0,mama,asmad,,m. sg. g.,4,4,shr_new_nbest/new_23/132.csv
+7,7,5,0,mama,1,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_23/132.csv
+8,8,5,0,mama,1,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_23/132.csv
+9,2,5,1,mavapfzWam,5.022406E-33,1,0,mavapṛṣṭham,mavapṛṣṭham,,?,11,10,shr_new_nbest/new_23/140.csv
+10,3,7,1,pfzWam,0.9917355371900826449559456321,1,0,pṛṣṭham,pṛṣṭha,,n. sg. acc.,7,6,shr_new_nbest/new_23/132.csv
+11,4,7,1,pfzWam,0.9917355371900826449559456321,1,0,pṛṣṭham,pṛṣṭha,,n. sg. nom.,7,6,shr_new_nbest/new_23/132.csv
+12,3,7,2,praSnam,3.746661818181818183056747708E-32,1,0,praśnam,praśna,,m. sg. acc.,7,7,shr_new_nbest/new_23/141.csv
+13,5,9,0,mArohanti,0.9981009020927195606664258978,1,0,māraḥ,māra,,m. sg. nom.,5,5,shr_new_nbest/new_23/133.csv
+14,9,9,0,mArohanti,0.9981009020927195606664258978,2,0,māra,māra,,iic.,4,4,shr_new_nbest/new_23/133.csv
+15,10,9,0,mArohanti,0.9981009020927195606664258978,2,4,hanti,han,,pr. [2] ac. sg. 3,5,9,shr_new_nbest/new_23/133.csv
+16,12,9,0,mArohanti,0.9981009020927195606664258978,3,0,mā,mā,,part.,2,2,shr_new_nbest/new_23/133.csv
+17,13,9,0,mArohanti,0.9981009020927195606664258978,3,2,rohanti,ruh,,pr. [1] ac. pl. 3,7,9,shr_new_nbest/new_23/133.csv
+18,15,9,0,mArohanti,0.9981009020927195606664258978,4,0,mā,asmad,,m. sg. acc.,2,2,shr_new_nbest/new_23/133.csv
+19,16,9,0,mArohanti,0.9981009020927195606664258978,4,2,rohanti,rohat,,n. pl. acc.,7,9,shr_new_nbest/new_23/133.csv
+20,17,9,0,mArohanti,0.9981009020927195606664258978,4,2,rohanti,rohat,,n. pl. nom.,7,9,shr_new_nbest/new_23/133.csv
+21,18,9,0,mArohanti,0.9981009020927195606664258978,5,1,ārohanti,ā-ruh,,pr. [1] ac. pl. 3,8,9,shr_new_nbest/new_23/133.csv
+22,19,9,0,mArohanti,0.9981009020927195606664258978,6,1,ārohanti,ā-rohat,,n. pl. acc.,8,9,shr_new_nbest/new_23/133.csv
+23,20,9,0,mArohanti,0.9981009020927195606664258978,6,1,ārohanti,ā-rohat,,n. pl. nom.,8,9,shr_new_nbest/new_23/133.csv
+24,21,9,0,mArohanti,0.9981009020927195606664258978,7,1,ārohanti,ā-rohat,,f. sg. voc.,8,9,shr_new_nbest/new_23/133.csv
+25,22,9,0,mArohanti,0.9981009020927195606664258978,7,1,ārohanti,ā-rohat,,n. pl. voc.,8,9,shr_new_nbest/new_23/133.csv
+26,23,9,0,mArohanti,0.9981009020927195606664258978,8,1,araḥ,ara,,m. sg. nom.,4,5,shr_new_nbest/new_23/133.csv
+27,24,9,0,mArohanti,0.9981009020927195606664258978,9,1,āraḥ,āra,,m. sg. nom.,4,5,shr_new_nbest/new_23/133.csv
+28,25,9,0,mArohanti,0.9981009020927195606664258978,10,1,āraḥ,ṛ,,aor. [2] ac. sg. 2,4,5,shr_new_nbest/new_23/133.csv
+29,26,9,0,mArohanti,0.9981009020927195606664258978,11,1,ara,ara,,iic.,3,4,shr_new_nbest/new_23/133.csv
+30,27,9,0,mArohanti,0.9981009020927195606664258978,12,1,āra,āra,,iic.,3,4,shr_new_nbest/new_23/133.csv
+31,28,9,0,mArohanti,0.9981009020927195606664258978,13,1,arā,ara,,f. sg. nom.,3,4,shr_new_nbest/new_23/133.csv
+32,29,9,0,mArohanti,0.9981009020927195606664258978,14,1,ārā,āra,,f. sg. nom.,3,4,shr_new_nbest/new_23/133.csv
+33,30,9,0,mArohanti,0.9981009020927195606664258978,15,1,ara,ṛ,,pft. ac. pl. 2,3,4,shr_new_nbest/new_23/133.csv
+34,31,9,0,mArohanti,0.9981009020927195606664258978,15,1,ara,ṛ,,pft. ac. sg. 3,3,4,shr_new_nbest/new_23/133.csv
+35,32,9,0,mArohanti,0.9981009020927195606664258978,15,1,ara,ṛ,,pft. ac. sg. 1,3,4,shr_new_nbest/new_23/133.csv
+36,33,9,0,mArohanti,0.9981009020927195606664258978,16,1,a,a,,iic.,1,2,shr_new_nbest/new_23/133.csv
+37,34,9,0,mArohanti,0.9981009020927195606664258978,16,2,rohanti,rohat,,f. sg. voc.,7,9,shr_new_nbest/new_23/133.csv
+38,35,9,0,mArohanti,0.9981009020927195606664258978,16,2,rohanti,rohat,,n. pl. voc.,7,9,shr_new_nbest/new_23/133.csv
+39,36,9,0,mArohanti,0.9981009020927195606664258978,17,3,ūhanti,ūhat,,n. pl. acc.,6,9,shr_new_nbest/new_23/133.csv
+40,37,9,0,mArohanti,0.9981009020927195606664258978,17,3,ūhanti,ūhat,,n. pl. nom.,6,9,shr_new_nbest/new_23/133.csv
+41,38,9,0,mArohanti,0.9981009020927195606664258978,18,3,ūhanti,ūhat,,f. sg. voc.,6,9,shr_new_nbest/new_23/133.csv
+42,39,9,0,mArohanti,0.9981009020927195606664258978,18,3,ūhanti,ūhat,,n. pl. voc.,6,9,shr_new_nbest/new_23/133.csv
+43,40,9,0,mArohanti,0.9981009020927195606664258978,19,3,ūhanti,ūh,,pr. [1] ac. pl. 3,6,9,shr_new_nbest/new_23/133.csv
+44,5,9,2,mA,6.622815718832259699588337259E-18,1,0,mā,mā,,part.,2,2,shr_new_nbest/new_23/135.csv
+45,10,9,2,mA,6.622815718832259699588337259E-18,2,0,mā,asmad,,m. sg. acc.,2,2,shr_new_nbest/new_23/135.csv
+46,5,9,3,mAruhanti,9.421066385368942254546490928E-62,1,0,mā,mā,,part.,2,2,shr_new_nbest/new_23/134.csv
+47,6,9,3,mAruhanti,9.421066385368942254546490928E-62,1,2,ruhanti,ruh,,pr. [6] ac. pl. 3,7,9,shr_new_nbest/new_23/134.csv
+48,10,9,3,mAruhanti,9.421066385368942254546490928E-62,2,0,mā,asmad,,m. sg. acc.,2,2,shr_new_nbest/new_23/134.csv
+49,11,9,3,mAruhanti,9.421066385368942254546490928E-62,2,2,ruhanti,ruhat,,n. pl. acc.,7,9,shr_new_nbest/new_23/134.csv
+50,12,9,3,mAruhanti,9.421066385368942254546490928E-62,2,2,ruhanti,ruhat,,n. pl. nom.,7,9,shr_new_nbest/new_23/134.csv
+51,14,9,3,mAruhanti,9.421066385368942254546490928E-62,3,1,āruhanti,ā-ruh,,pr. [6] ac. pl. 3,8,9,shr_new_nbest/new_23/134.csv
+52,16,9,3,mAruhanti,9.421066385368942254546490928E-62,4,1,āruhanti,ā-ruhat,,n. pl. acc.,8,9,shr_new_nbest/new_23/134.csv
+53,17,9,3,mAruhanti,9.421066385368942254546490928E-62,4,1,āruhanti,ā-ruhat,,n. pl. nom.,8,9,shr_new_nbest/new_23/134.csv
+54,18,9,3,mAruhanti,9.421066385368942254546490928E-62,5,1,āruhanti,ā-ruhat,,f. sg. voc.,8,9,shr_new_nbest/new_23/134.csv
+55,19,9,3,mAruhanti,9.421066385368942254546490928E-62,5,1,āruhanti,ā-ruhat,,n. pl. voc.,8,9,shr_new_nbest/new_23/134.csv
+56,20,9,3,mAruhanti,9.421066385368942254546490928E-62,6,1,a,a,,iic.,1,2,shr_new_nbest/new_23/134.csv
+57,21,9,3,mAruhanti,9.421066385368942254546490928E-62,6,2,ruhanti,ruhat,,f. sg. voc.,7,9,shr_new_nbest/new_23/134.csv
+58,22,9,3,mAruhanti,9.421066385368942254546490928E-62,6,2,ruhanti,ruhat,,n. pl. voc.,7,9,shr_new_nbest/new_23/134.csv
+59,5,9,4,ArohantI,1.145181062376751419438510138E-90,1,0,ārohantī,ā-rohat,,f. sg. nom.,8,8,shr_new_nbest/new_23/139.csv
+60,6,9,4,ArohantI,1.145181062376751419438510138E-90,1,0,ārohantī,ā-rohat,,n. du. acc.,8,8,shr_new_nbest/new_23/139.csv
+61,7,9,4,ArohantI,1.145181062376751419438510138E-90,1,0,ārohantī,ā-rohat,,n. du. nom.,8,8,shr_new_nbest/new_23/139.csv
+62,11,9,4,ArohantI,1.145181062376751419438510138E-90,2,0,ārohantī,ā-rohat,,n. du. voc.,8,8,shr_new_nbest/new_23/139.csv
+63,13,9,4,ArohantI,1.145181062376751419438510138E-90,3,0,āra,āra,,iic.,3,3,shr_new_nbest/new_23/139.csv
+64,15,9,4,ArohantI,1.145181062376751419438510138E-90,4,0,ārā,āra,,f. sg. nom.,3,3,shr_new_nbest/new_23/139.csv
+65,16,9,4,ArohantI,1.145181062376751419438510138E-90,5,2,ūhantī,ūhat,,f. sg. nom.,6,8,shr_new_nbest/new_23/139.csv
+66,17,9,4,ArohantI,1.145181062376751419438510138E-90,5,2,ūhantī,ūhat,,n. du. acc.,6,8,shr_new_nbest/new_23/139.csv
+67,18,9,4,ArohantI,1.145181062376751419438510138E-90,5,2,ūhantī,ūhat,,n. du. nom.,6,8,shr_new_nbest/new_23/139.csv
+68,19,9,4,ArohantI,1.145181062376751419438510138E-90,6,2,ūhantī,ūhat,,n. du. voc.,6,8,shr_new_nbest/new_23/139.csv
+69,5,10,1,ArohantI,0E-46,1,0,ārohantī,ā-rohat,,f. sg. nom.,8,8,shr_new_nbest/new_23/139.csv
+70,6,10,1,ArohantI,0E-46,1,0,ārohantī,ā-rohat,,n. du. acc.,8,8,shr_new_nbest/new_23/139.csv
+71,7,10,1,ArohantI,0E-46,1,0,ārohantī,ā-rohat,,n. du. nom.,8,8,shr_new_nbest/new_23/139.csv
+72,11,10,1,ArohantI,0E-46,2,0,ārohantī,ā-rohat,,n. du. voc.,8,8,shr_new_nbest/new_23/139.csv
+73,13,10,1,ArohantI,0E-46,3,0,āra,āra,,iic.,3,3,shr_new_nbest/new_23/139.csv
+74,15,10,1,ArohantI,0E-46,4,0,ārā,āra,,f. sg. nom.,3,3,shr_new_nbest/new_23/139.csv
+75,16,10,1,ArohantI,0E-46,5,2,ūhantī,ūhat,,f. sg. nom.,6,8,shr_new_nbest/new_23/139.csv
+76,17,10,1,ArohantI,0E-46,5,2,ūhantī,ūhat,,n. du. acc.,6,8,shr_new_nbest/new_23/139.csv
+77,18,10,1,ArohantI,0E-46,5,2,ūhantī,ūhat,,n. du. nom.,6,8,shr_new_nbest/new_23/139.csv
+78,19,10,1,ArohantI,0E-46,6,2,ūhantī,ūhat,,n. du. voc.,6,8,shr_new_nbest/new_23/139.csv
+79,6,11,1,rohanti,0.9898556975709631356347168848,1,0,rohanti,ruh,,pr. [1] ac. pl. 3,7,7,shr_new_nbest/new_23/135.csv
+80,11,11,1,rohanti,0.9898556975709631356347168848,2,0,rohanti,rohat,,n. pl. acc.,7,7,shr_new_nbest/new_23/135.csv
+81,12,11,1,rohanti,0.9898556975709631356347168848,2,0,rohanti,rohat,,n. pl. nom.,7,7,shr_new_nbest/new_23/135.csv
+82,14,11,1,rohanti,0.9898556975709631356347168848,3,0,rohanti,rohat,,f. sg. voc.,7,7,shr_new_nbest/new_23/135.csv
+83,15,11,1,rohanti,0.9898556975709631356347168848,3,0,rohanti,rohat,,n. pl. voc.,7,7,shr_new_nbest/new_23/135.csv
+84,5,11,2,Arohanti,0.001879839660099967967694048097,1,0,ārohanti,ā-ruh,,pr. [1] ac. pl. 3,8,8,shr_new_nbest/new_23/132.csv
+85,9,11,2,Arohanti,0.001879839660099967967694048097,2,0,ārohanti,ā-rohat,,n. pl. acc.,8,8,shr_new_nbest/new_23/132.csv
+86,10,11,2,Arohanti,0.001879839660099967967694048097,2,0,ārohanti,ā-rohat,,n. pl. nom.,8,8,shr_new_nbest/new_23/132.csv
+87,12,11,2,Arohanti,0.001879839660099967967694048097,3,0,ārohanti,ā-rohat,,f. sg. voc.,8,8,shr_new_nbest/new_23/132.csv
+88,13,11,2,Arohanti,0.001879839660099967967694048097,3,0,ārohanti,ā-rohat,,n. pl. voc.,8,8,shr_new_nbest/new_23/132.csv
+89,15,11,2,Arohanti,0.001879839660099967967694048097,4,0,āraḥ,āra,,m. sg. nom.,4,4,shr_new_nbest/new_23/132.csv
+90,16,11,2,Arohanti,0.001879839660099967967694048097,5,0,āraḥ,ṛ,,aor. [2] ac. sg. 2,4,4,shr_new_nbest/new_23/132.csv
+91,17,11,2,Arohanti,0.001879839660099967967694048097,6,0,āra,āra,,iic.,3,3,shr_new_nbest/new_23/132.csv
+92,18,11,2,Arohanti,0.001879839660099967967694048097,6,3,hanti,han,,pr. [2] ac. sg. 3,5,8,shr_new_nbest/new_23/132.csv
+93,19,11,2,Arohanti,0.001879839660099967967694048097,7,0,ārā,āra,,f. sg. nom.,3,3,shr_new_nbest/new_23/132.csv
+94,20,11,2,Arohanti,0.001879839660099967967694048097,8,2,ūhanti,ūhat,,n. pl. acc.,6,8,shr_new_nbest/new_23/132.csv
+95,21,11,2,Arohanti,0.001879839660099967967694048097,8,2,ūhanti,ūhat,,n. pl. nom.,6,8,shr_new_nbest/new_23/132.csv
+96,22,11,2,Arohanti,0.001879839660099967967694048097,9,2,ūhanti,ūhat,,f. sg. voc.,6,8,shr_new_nbest/new_23/132.csv
+97,23,11,2,Arohanti,0.001879839660099967967694048097,9,2,ūhanti,ūhat,,n. pl. voc.,6,8,shr_new_nbest/new_23/132.csv
+98,24,11,2,Arohanti,0.001879839660099967967694048097,10,2,ūhanti,ūh,,pr. [1] ac. pl. 3,6,8,shr_new_nbest/new_23/132.csv
+99,5,11,3,mAruhanti,3.513761635468949334432050167E-16,1,0,mā,mā,,part.,2,2,shr_new_nbest/new_23/134.csv
+100,6,11,3,mAruhanti,3.513761635468949334432050167E-16,1,2,ruhanti,ruh,,pr. [6] ac. pl. 3,7,9,shr_new_nbest/new_23/134.csv
+101,10,11,3,mAruhanti,3.513761635468949334432050167E-16,2,0,mā,asmad,,m. sg. acc.,2,2,shr_new_nbest/new_23/134.csv
+102,11,11,3,mAruhanti,3.513761635468949334432050167E-16,2,2,ruhanti,ruhat,,n. pl. acc.,7,9,shr_new_nbest/new_23/134.csv
+103,12,11,3,mAruhanti,3.513761635468949334432050167E-16,2,2,ruhanti,ruhat,,n. pl. nom.,7,9,shr_new_nbest/new_23/134.csv
+104,14,11,3,mAruhanti,3.513761635468949334432050167E-16,3,1,āruhanti,ā-ruh,,pr. [6] ac. pl. 3,8,9,shr_new_nbest/new_23/134.csv
+105,16,11,3,mAruhanti,3.513761635468949334432050167E-16,4,1,āruhanti,ā-ruhat,,n. pl. acc.,8,9,shr_new_nbest/new_23/134.csv
+106,17,11,3,mAruhanti,3.513761635468949334432050167E-16,4,1,āruhanti,ā-ruhat,,n. pl. nom.,8,9,shr_new_nbest/new_23/134.csv
+107,18,11,3,mAruhanti,3.513761635468949334432050167E-16,5,1,āruhanti,ā-ruhat,,f. sg. voc.,8,9,shr_new_nbest/new_23/134.csv
+108,19,11,3,mAruhanti,3.513761635468949334432050167E-16,5,1,āruhanti,ā-ruhat,,n. pl. voc.,8,9,shr_new_nbest/new_23/134.csv
+109,20,11,3,mAruhanti,3.513761635468949334432050167E-16,6,1,a,a,,iic.,1,2,shr_new_nbest/new_23/134.csv
+110,21,11,3,mAruhanti,3.513761635468949334432050167E-16,6,2,ruhanti,ruhat,,f. sg. voc.,7,9,shr_new_nbest/new_23/134.csv
+111,22,11,3,mAruhanti,3.513761635468949334432050167E-16,6,2,ruhanti,ruhat,,n. pl. voc.,7,9,shr_new_nbest/new_23/134.csv
+112,5,11,4,Aruhanti,3.670475684278631682014891404E-28,1,0,āruhanti,ā-ruh,,pr. [6] ac. pl. 3,8,8,shr_new_nbest/new_23/136.csv
+113,9,11,4,Aruhanti,3.670475684278631682014891404E-28,2,0,āruhanti,ā-ruhat,,n. pl. acc.,8,8,shr_new_nbest/new_23/136.csv
+114,10,11,4,Aruhanti,3.670475684278631682014891404E-28,2,0,āruhanti,ā-ruhat,,n. pl. nom.,8,8,shr_new_nbest/new_23/136.csv
+115,12,11,4,Aruhanti,3.670475684278631682014891404E-28,3,0,āruhanti,ā-ruhat,,f. sg. voc.,8,8,shr_new_nbest/new_23/136.csv
+116,13,11,4,Aruhanti,3.670475684278631682014891404E-28,3,0,āruhanti,ā-ruhat,,n. pl. voc.,8,8,shr_new_nbest/new_23/136.csv
+117,5,11,5,ArohantI,5.512710290087714492451607143E-64,1,0,ārohantī,ā-rohat,,f. sg. nom.,8,8,shr_new_nbest/new_23/139.csv
+118,6,11,5,ArohantI,5.512710290087714492451607143E-64,1,0,ārohantī,ā-rohat,,n. du. acc.,8,8,shr_new_nbest/new_23/139.csv
+119,7,11,5,ArohantI,5.512710290087714492451607143E-64,1,0,ārohantī,ā-rohat,,n. du. nom.,8,8,shr_new_nbest/new_23/139.csv
+120,11,11,5,ArohantI,5.512710290087714492451607143E-64,2,0,ārohantī,ā-rohat,,n. du. voc.,8,8,shr_new_nbest/new_23/139.csv
+121,13,11,5,ArohantI,5.512710290087714492451607143E-64,3,0,āra,āra,,iic.,3,3,shr_new_nbest/new_23/139.csv
+122,15,11,5,ArohantI,5.512710290087714492451607143E-64,4,0,ārā,āra,,f. sg. nom.,3,3,shr_new_nbest/new_23/139.csv
+123,16,11,5,ArohantI,5.512710290087714492451607143E-64,5,2,ūhantī,ūhat,,f. sg. nom.,6,8,shr_new_nbest/new_23/139.csv
+124,17,11,5,ArohantI,5.512710290087714492451607143E-64,5,2,ūhantī,ūhat,,n. du. acc.,6,8,shr_new_nbest/new_23/139.csv
+125,18,11,5,ArohantI,5.512710290087714492451607143E-64,5,2,ūhantī,ūhat,,n. du. nom.,6,8,shr_new_nbest/new_23/139.csv
+126,19,11,5,ArohantI,5.512710290087714492451607143E-64,6,2,ūhantī,ūhat,,n. du. voc.,6,8,shr_new_nbest/new_23/139.csv
+127,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+128,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+129,,3,0,<eps>,0.008264462809917355044054367871,1,0,<eps>,,,,8,8,
+130,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+131,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+132,,7,0,<eps>,0.008264462809917355044054367871,1,0,<eps>,,,,7,7,
+133,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+134,,9,1,<eps>,0.001899097907280432710758383407,1,0,<eps>,,,,9,9,
+135,,10,0,<eps>,1,1,0,<eps>,,,,8,8,
+136,,11,0,<eps>,0.008264462768936545021425520256,1,0,<eps>,,,,9,9,
+137,,12,0,<eps>,1,1,0,<eps>,,,,1,1,
+138,,13,0,<eps>,1,1,0,<eps>,,,,1,1,
+139,,14,0,<eps>,1,1,0,<eps>,,,,1,1,

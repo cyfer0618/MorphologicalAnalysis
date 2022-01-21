@@ -1,0 +1,85 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,sA,0.9999999999999999999973596230,1,0,sā,tad,,f. sg. nom.,2,2,shr_new_nbest/new_19/648.csv
+1,0,1,1,sa,2.638889999999999999993032336E-21,1,0,sa,tad,,m. sg. nom.,2,2,shr_new_nbest/new_19/654.csv
+2,1,3,0,BavantamanukzaRam,0.9861297666044901397213245757,1,0,bhavantam,bhavat,,m. sg. acc.,9,8,shr_new_nbest/new_19/649.csv
+3,2,3,0,BavantamanukzaRam,0.9861297666044901397213245757,1,8,anu,anu,,prep.,3,11,shr_new_nbest/new_19/649.csv
+4,3,3,0,BavantamanukzaRam,0.9861297666044901397213245757,1,8,anu,anu,,adv.,3,11,shr_new_nbest/new_19/649.csv
+5,4,3,0,BavantamanukzaRam,0.9861297666044901397213245757,1,11,kṣaṇam,kṣaṇa,,m. sg. acc.,6,17,shr_new_nbest/new_19/649.csv
+6,5,3,0,BavantamanukzaRam,0.9861297666044901397213245757,1,11,kṣaṇam,kṣaṇa,,n. sg. acc.,6,17,shr_new_nbest/new_19/649.csv
+7,6,3,0,BavantamanukzaRam,0.9861297666044901397213245757,1,11,kṣaṇam,kṣaṇa,,n. sg. nom.,6,17,shr_new_nbest/new_19/649.csv
+8,8,3,0,BavantamanukzaRam,0.9861297666044901397213245757,2,0,bhavantam,bhavat,,m. sg. acc.,9,8,shr_new_nbest/new_19/649.csv
+9,9,3,0,BavantamanukzaRam,0.9861297666044901397213245757,2,8,anu,anu,,iic.,3,11,shr_new_nbest/new_19/649.csv
+10,10,3,0,BavantamanukzaRam,0.9861297666044901397213245757,2,11,kṣaṇam,kṣaṇa,,ind.,6,17,shr_new_nbest/new_19/649.csv
+11,13,3,0,BavantamanukzaRam,0.9861297666044901397213245757,3,0,bhavam,bhava,,m. sg. acc.,6,5,shr_new_nbest/new_19/649.csv
+12,14,3,0,BavantamanukzaRam,0.9861297666044901397213245757,3,5,tam,tad,,m. sg. acc.,3,8,shr_new_nbest/new_19/649.csv
+13,1,3,2,PavantamanukzaRam,6.592510715468769782900757507E-9,1,0,phavantamanukṣaṇam,phavantamanukṣaṇam,,?,18,17,shr_new_nbest/new_19/651.csv
+14,1,3,3,Bavanta,3.530340734866334533703824477E-19,1,0,bhavanta,bhavanta,,?,8,7,shr_new_nbest/new_19/657.csv
+15,0,3,4,sa,1.508030774111178202921057495E-24,1,0,sa,tad,,m. sg. nom.,2,2,shr_new_nbest/new_19/654.csv
+16,1,3,5,BavantamaanukzaRam,7.644125523401618213947063281E-25,1,0,bhavantama anukṣaṇam,bhavantama,,?,20,18,shr_new_nbest/new_19/652.csv
+17,1,3,6,PaqantamanukzaRam,8.160783349972959633533504233E-31,1,0,phaṭ,phaṭ,,ind.,4,3,shr_new_nbest/new_19/655.csv
+18,2,3,6,PaqantamanukzaRam,8.160783349972959633533504233E-31,1,3,antam,anta,,m. sg. acc.,5,8,shr_new_nbest/new_19/655.csv
+19,3,3,6,PaqantamanukzaRam,8.160783349972959633533504233E-31,1,8,anu,anu,,prep.,3,11,shr_new_nbest/new_19/655.csv
+20,4,3,6,PaqantamanukzaRam,8.160783349972959633533504233E-31,1,8,anu,anu,,adv.,3,11,shr_new_nbest/new_19/655.csv
+21,5,3,6,PaqantamanukzaRam,8.160783349972959633533504233E-31,1,11,kṣaṇam,kṣaṇa,,m. sg. acc.,6,17,shr_new_nbest/new_19/655.csv
+22,6,3,6,PaqantamanukzaRam,8.160783349972959633533504233E-31,1,11,kṣaṇam,kṣaṇa,,n. sg. acc.,6,17,shr_new_nbest/new_19/655.csv
+23,7,3,6,PaqantamanukzaRam,8.160783349972959633533504233E-31,1,11,kṣaṇam,kṣaṇa,,n. sg. nom.,6,17,shr_new_nbest/new_19/655.csv
+24,9,3,6,PaqantamanukzaRam,8.160783349972959633533504233E-31,2,3,anta,anta,,iic.,4,7,shr_new_nbest/new_19/655.csv
+25,10,3,6,PaqantamanukzaRam,8.160783349972959633533504233E-31,2,7,manu,manu,,iic.,4,11,shr_new_nbest/new_19/655.csv
+26,11,3,6,PaqantamanukzaRam,8.160783349972959633533504233E-31,2,11,kṣaṇam,kṣaṇa,,ind.,6,17,shr_new_nbest/new_19/655.csv
+27,14,3,6,PaqantamanukzaRam,8.160783349972959633533504233E-31,3,7,manu,manu,,n. sg. acc.,4,11,shr_new_nbest/new_19/655.csv
+28,15,3,6,PaqantamanukzaRam,8.160783349972959633533504233E-31,3,7,manu,manu,,n. sg. nom.,4,11,shr_new_nbest/new_19/655.csv
+29,16,3,6,PaqantamanukzaRam,8.160783349972959633533504233E-31,4,8,anu,anu,,iic.,3,11,shr_new_nbest/new_19/655.csv
+30,1,3,7,BavantamankzaRam,2.288765336903671115869844797E-42,1,0,bhavantamankṣaṇam,bhavantamankṣaṇam,,?,17,16,shr_new_nbest/new_19/653.csv
+31,2,3,8,anukzaRam,1.826151248706655250440859895E-76,1,0,anu,anu,,prep.,3,3,shr_new_nbest/new_19/650.csv
+32,3,3,8,anukzaRam,1.826151248706655250440859895E-76,1,0,anu,anu,,adv.,3,3,shr_new_nbest/new_19/650.csv
+33,4,3,8,anukzaRam,1.826151248706655250440859895E-76,1,3,kṣaṇam,kṣaṇa,,m. sg. acc.,6,9,shr_new_nbest/new_19/650.csv
+34,5,3,8,anukzaRam,1.826151248706655250440859895E-76,1,3,kṣaṇam,kṣaṇa,,n. sg. acc.,6,9,shr_new_nbest/new_19/650.csv
+35,6,3,8,anukzaRam,1.826151248706655250440859895E-76,1,3,kṣaṇam,kṣaṇa,,n. sg. nom.,6,9,shr_new_nbest/new_19/650.csv
+36,9,3,8,anukzaRam,1.826151248706655250440859895E-76,2,0,anu,anu,,iic.,3,3,shr_new_nbest/new_19/650.csv
+37,10,3,8,anukzaRam,1.826151248706655250440859895E-76,2,3,kṣaṇam,kṣaṇa,,ind.,6,9,shr_new_nbest/new_19/650.csv
+38,1,5,0,BagavantamanukzaRam,0.9999999999999929714131311921,1,0,bhagavantam,bhagavat,,m. sg. acc.,11,10,shr_new_nbest/new_19/648.csv
+39,2,5,0,BagavantamanukzaRam,0.9999999999999929714131311921,1,10,anu,anu,,prep.,3,13,shr_new_nbest/new_19/648.csv
+40,3,5,0,BagavantamanukzaRam,0.9999999999999929714131311921,1,10,anu,anu,,adv.,3,13,shr_new_nbest/new_19/648.csv
+41,4,5,0,BagavantamanukzaRam,0.9999999999999929714131311921,1,13,kṣaṇam,kṣaṇa,,m. sg. acc.,6,19,shr_new_nbest/new_19/648.csv
+42,5,5,0,BagavantamanukzaRam,0.9999999999999929714131311921,1,13,kṣaṇam,kṣaṇa,,n. sg. acc.,6,19,shr_new_nbest/new_19/648.csv
+43,6,5,0,BagavantamanukzaRam,0.9999999999999929714131311921,1,13,kṣaṇam,kṣaṇa,,n. sg. nom.,6,19,shr_new_nbest/new_19/648.csv
+44,8,5,0,BagavantamanukzaRam,0.9999999999999929714131311921,2,10,anu,anu,,iic.,3,13,shr_new_nbest/new_19/648.csv
+45,9,5,0,BagavantamanukzaRam,0.9999999999999929714131311921,2,13,kṣaṇam,kṣaṇa,,ind.,6,19,shr_new_nbest/new_19/648.csv
+46,1,5,1,Bavantam,7.028476279999892123887860679E-15,1,0,bhavantam,bhavat,,m. sg. acc.,9,8,shr_new_nbest/new_19/650.csv
+47,8,5,1,Bavantam,7.028476279999892123887860679E-15,2,0,bhavantam,bhavat,,m. sg. acc.,9,8,shr_new_nbest/new_19/650.csv
+48,13,5,1,Bavantam,7.028476279999892123887860679E-15,3,0,bhavam,bhava,,m. sg. acc.,6,5,shr_new_nbest/new_19/650.csv
+49,14,5,1,Bavantam,7.028476279999892123887860679E-15,3,5,tam,tad,,m. sg. acc.,3,8,shr_new_nbest/new_19/650.csv
+50,2,7,1,manukzaRam,0.9886363636355089934319738793,1,0,manu,manu,,iic.,4,4,shr_new_nbest/new_19/657.csv
+51,3,7,1,manukzaRam,0.9886363636355089934319738793,1,4,kṣaṇam,kṣaṇa,,m. sg. acc.,6,10,shr_new_nbest/new_19/657.csv
+52,4,7,1,manukzaRam,0.9886363636355089934319738793,1,4,kṣaṇam,kṣaṇa,,n. sg. acc.,6,10,shr_new_nbest/new_19/657.csv
+53,5,7,1,manukzaRam,0.9886363636355089934319738793,1,4,kṣaṇam,kṣaṇa,,n. sg. nom.,6,10,shr_new_nbest/new_19/657.csv
+54,2,7,2,anukzaRam,8.644667999992526974856969424E-13,1,0,anu,anu,,prep.,3,3,shr_new_nbest/new_19/650.csv
+55,3,7,2,anukzaRam,8.644667999992526974856969424E-13,1,0,anu,anu,,adv.,3,3,shr_new_nbest/new_19/650.csv
+56,4,7,2,anukzaRam,8.644667999992526974856969424E-13,1,3,kṣaṇam,kṣaṇa,,m. sg. acc.,6,9,shr_new_nbest/new_19/650.csv
+57,5,7,2,anukzaRam,8.644667999992526974856969424E-13,1,3,kṣaṇam,kṣaṇa,,n. sg. acc.,6,9,shr_new_nbest/new_19/650.csv
+58,6,7,2,anukzaRam,8.644667999992526974856969424E-13,1,3,kṣaṇam,kṣaṇa,,n. sg. nom.,6,9,shr_new_nbest/new_19/650.csv
+59,9,7,2,anukzaRam,8.644667999992526974856969424E-13,2,0,anu,anu,,iic.,3,3,shr_new_nbest/new_19/650.csv
+60,10,7,2,anukzaRam,8.644667999992526974856969424E-13,2,3,kṣaṇam,kṣaṇa,,ind.,6,9,shr_new_nbest/new_19/650.csv
+61,2,8,1,anukzaRam,2.270076E-31,1,0,anu,anu,,prep.,3,3,shr_new_nbest/new_19/650.csv
+62,3,8,1,anukzaRam,2.270076E-31,1,0,anu,anu,,adv.,3,3,shr_new_nbest/new_19/650.csv
+63,4,8,1,anukzaRam,2.270076E-31,1,3,kṣaṇam,kṣaṇa,,m. sg. acc.,6,9,shr_new_nbest/new_19/650.csv
+64,5,8,1,anukzaRam,2.270076E-31,1,3,kṣaṇam,kṣaṇa,,n. sg. acc.,6,9,shr_new_nbest/new_19/650.csv
+65,6,8,1,anukzaRam,2.270076E-31,1,3,kṣaṇam,kṣaṇa,,n. sg. nom.,6,9,shr_new_nbest/new_19/650.csv
+66,9,8,1,anukzaRam,2.270076E-31,2,0,anu,anu,,iic.,3,3,shr_new_nbest/new_19/650.csv
+67,10,8,1,anukzaRam,2.270076E-31,2,3,kṣaṇam,kṣaṇa,,ind.,6,9,shr_new_nbest/new_19/650.csv
+68,7,11,1,smarati,0.9886363636363636367456095041,1,0,smarati,smṛ,,pr. [1] ac. sg. 3,7,7,shr_new_nbest/new_19/648.csv
+69,10,11,1,smarati,0.9886363636363636367456095041,2,0,smarati,smarat,,n. sg. loc.,7,7,shr_new_nbest/new_19/648.csv
+70,11,11,1,smarati,0.9886363636363636367456095041,2,0,smarati,smarat,,m. sg. loc.,7,7,shr_new_nbest/new_19/648.csv
+71,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+72,,1,2,<eps>,1.487441999999999999996072592E-24,1,0,<eps>,,,,2,2,
+73,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+74,,3,1,<eps>,0.01387022680299914445686929551,1,0,<eps>,,,,18,18,
+75,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+76,,5,2,<eps>,1.105888080135305358069227254E-19,1,0,<eps>,,,,19,19,
+77,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+78,,7,0,<eps>,0.01136363636362653976802686800,1,0,<eps>,,,,10,10,
+79,,8,0,<eps>,1,1,0,<eps>,,,,9,9,
+80,,9,0,<eps>,1,1,0,<eps>,,,,1,1,
+81,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+82,,11,0,<eps>,0.01136363636363636325439049587,1,0,<eps>,,,,7,7,
+83,,12,0,<eps>,1,1,0,<eps>,,,,1,1,

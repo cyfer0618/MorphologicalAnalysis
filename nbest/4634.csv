@@ -1,0 +1,41 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,tAnapi,0.9999999999999999976898570000,1,0,tāna,tāna,,iic.,4,4,shr_new_nbest/new_23/389.csv
+1,1,1,0,tAnapi,0.9999999999999999976898570000,1,4,pi,pā,,m. sg. loc.,2,6,shr_new_nbest/new_23/389.csv
+2,2,1,0,tAnapi,0.9999999999999999976898570000,1,4,pi,pā,,m. sg. loc.,2,6,shr_new_nbest/new_23/389.csv
+3,8,1,0,tAnapi,0.9999999999999999976898570000,2,0,tān,tad,,m. pl. acc.,3,3,shr_new_nbest/new_23/389.csv
+4,9,1,0,tAnapi,0.9999999999999999976898570000,2,3,api,api,,conj.,3,6,shr_new_nbest/new_23/389.csv
+5,10,1,0,tAnapi,0.9999999999999999976898570000,2,3,api,api,,prep.,3,6,shr_new_nbest/new_23/389.csv
+6,0,1,1,tAn,2.310142999999999994661490987E-18,1,0,tān,tad,,m. pl. acc.,3,3,shr_new_nbest/new_23/393.csv
+7,1,3,1,api,1.898198276396843270069771638E-9,1,0,api,api,,conj.,3,3,shr_new_nbest/new_23/393.csv
+8,2,3,1,api,1.898198276396843270069771638E-9,1,0,api,api,,prep.,3,3,shr_new_nbest/new_23/393.csv
+9,3,5,1,vikrIya,0.9857142857142857140885714286,1,0,vikrīya,vi-krī,,abs.,7,7,shr_new_nbest/new_23/389.csv
+10,11,5,1,vikrIya,0.9857142857142857140885714286,2,0,vikri,vi-kṛ,,inj. [1] md. sg. 1,5,5,shr_new_nbest/new_23/389.csv
+11,13,5,1,vikrIya,0.9857142857142857140885714286,3,4,īya,i,,pft. ac. pl. 2,3,7,shr_new_nbest/new_23/389.csv
+12,4,9,1,yaTezwam,0.9857142857142857140885714286,1,0,yathā,yathā,,conj.,5,4,shr_new_nbest/new_23/389.csv
+13,12,9,1,yaTezwam,0.9857142857142857140885714286,2,0,yathā,yathā,,iic.,5,4,shr_new_nbest/new_23/389.csv
+14,14,9,1,yaTezwam,0.9857142857142857140885714286,3,3,iṣṭam,iṣṭa,,n. sg. acc.,5,8,shr_new_nbest/new_23/389.csv
+15,15,9,1,yaTezwam,0.9857142857142857140885714286,3,3,iṣṭam,iṣṭa,,n. sg. nom.,5,8,shr_new_nbest/new_23/389.csv
+16,16,9,1,yaTezwam,0.9857142857142857140885714286,3,3,iṣṭam,iṣṭa,,m. sg. acc.,5,8,shr_new_nbest/new_23/389.csv
+17,17,9,1,yaTezwam,0.9857142857142857140885714286,3,3,iṣṭam,iṣṭa,,n. sg. acc.,5,8,shr_new_nbest/new_23/389.csv
+18,18,9,1,yaTezwam,0.9857142857142857140885714286,3,3,iṣṭam,iṣṭa,,n. sg. nom.,5,8,shr_new_nbest/new_23/389.csv
+19,19,9,1,yaTezwam,0.9857142857142857140885714286,3,3,iṣṭam,iṣṭa,,m. sg. acc.,5,8,shr_new_nbest/new_23/389.csv
+20,5,11,0,Danam,1,1,0,dhanam,dhana,,n. sg. acc.,6,5,shr_new_nbest/new_23/389.csv
+21,6,11,0,Danam,1,1,0,dhanam,dhana,,n. sg. nom.,6,5,shr_new_nbest/new_23/389.csv
+22,7,13,0,sampAdayizyAmi,0.9999999999997498902000000626,1,0,sampādayiṣyāmi,sam-pad,,ca. fut. ac. sg. 1,14,14,shr_new_nbest/new_23/389.csv
+23,7,13,1,sampAdaezyAmi,2.501097999999374450879439756E-13,1,0,sampāda eṣyāmi,sampāda,,?,14,13,shr_new_nbest/new_23/391.csv
+24,7,13,2,sampAdayizyAma,5.359155771922659622621715578E-33,1,0,sampādayiṣyāma,sampādayiṣyāma,,?,14,14,shr_new_nbest/new_23/394.csv
+25,7,13,3,sampAdayizyAmIti,1.812605484295346649604843988E-34,1,0,sampādayiṣyāmi,sam-pad,,ca. fut. ac. sg. 1,14,14,shr_new_nbest/new_23/392.csv
+26,13,13,3,sampAdayizyAmIti,1.812605484295346649604843988E-34,2,13,iti,iti,,part.,3,16,shr_new_nbest/new_23/392.csv
+27,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+28,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+29,,3,0,<eps>,0.9999999981018017236031567299,1,0,<eps>,,,,3,3,
+30,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+31,,5,0,<eps>,0.01428571428571428591142857143,1,0,<eps>,,,,7,7,
+32,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+33,,7,0,<eps>,1,1,0,<eps>,,,,1,1,
+34,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+35,,9,0,<eps>,0.01428571428571428591142857143,1,0,<eps>,,,,8,8,
+36,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+37,,12,0,<eps>,1,1,0,<eps>,,,,1,1,
+38,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+39,,15,0,<eps>,1,1,0,<eps>,,,,1,1,

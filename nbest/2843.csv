@@ -1,0 +1,66 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,alpavayaskasya,1,1,0,alpa,alpa,,iic.,4,4,shr_new_nbest/new_14/1256.csv
+1,1,1,0,alpavayaskasya,1,1,4,vayaḥ,vayas,,n. sg. acc.,5,9,shr_new_nbest/new_14/1256.csv
+2,2,1,0,alpavayaskasya,1,1,4,vayaḥ,vayas,,n. sg. nom.,5,9,shr_new_nbest/new_14/1256.csv
+3,3,1,0,alpavayaskasya,1,1,4,vayaḥ,vayas,,n. sg. acc.,5,9,shr_new_nbest/new_14/1256.csv
+4,4,1,0,alpavayaskasya,1,1,4,vayaḥ,vayas,,n. sg. nom.,5,9,shr_new_nbest/new_14/1256.csv
+5,5,1,0,alpavayaskasya,1,1,9,kasya,kim,,n. sg. g.,5,14,shr_new_nbest/new_14/1256.csv
+6,6,1,0,alpavayaskasya,1,1,9,kasya,kim,,m. sg. g.,5,14,shr_new_nbest/new_14/1256.csv
+7,7,6,1,putrasya,0.9927007299270072995019446960,1,0,putrasya,putra,,m. sg. g.,8,8,shr_new_nbest/new_14/1256.csv
+8,16,6,1,putrasya,0.9927007299270072995019446960,2,0,putrasya,putra,,imp. [vn.] ac. sg. 2,8,8,shr_new_nbest/new_14/1256.csv
+9,8,8,0,uttamam,0.9999999868018401737883669082,1,0,uttamam,uttama,,m. sg. acc.,7,7,shr_new_nbest/new_14/1256.csv
+10,9,8,0,uttamam,0.9999999868018401737883669082,1,0,uttamam,uttama,,n. sg. acc.,7,7,shr_new_nbest/new_14/1256.csv
+11,10,8,0,uttamam,0.9999999868018401737883669082,1,0,uttamam,uttama,,n. sg. nom.,7,7,shr_new_nbest/new_14/1256.csv
+12,8,8,1,muttamam,1.319815982580857490808667259E-8,1,0,muttamam,muttamam,,?,8,8,shr_new_nbest/new_14/1258.csv
+13,8,8,2,vfttam,4.028538946830698411873515512E-19,1,0,vṛttam,vṛtta,,n. sg. acc.,6,6,shr_new_nbest/new_14/1262.csv
+14,9,8,2,vfttam,4.028538946830698411873515512E-19,1,0,vṛttam,vṛtta,,n. sg. nom.,6,6,shr_new_nbest/new_14/1262.csv
+15,10,8,2,vfttam,4.028538946830698411873515512E-19,1,0,vṛttam,vṛtta,,m. sg. acc.,6,6,shr_new_nbest/new_14/1262.csv
+16,8,8,3,vfttamam,2.042892745841575802765853166E-22,1,0,vṛttamam,vṛttamam,,?,8,8,shr_new_nbest/new_14/1265.csv
+17,11,10,0,sevAcintanavacanam,0.9870865296124959323175662415,1,0,seva,seva,,iic.,4,4,shr_new_nbest/new_14/1256.csv
+18,12,10,0,sevAcintanavacanam,0.9870865296124959323175662415,1,4,cintana,cintana,,iic.,7,11,shr_new_nbest/new_14/1256.csv
+19,13,10,0,sevAcintanavacanam,0.9870865296124959323175662415,1,11,vacanam,vacana,,n. sg. acc.,7,18,shr_new_nbest/new_14/1256.csv
+20,14,10,0,sevAcintanavacanam,0.9870865296124959323175662415,1,11,vacanam,vacana,,n. sg. nom.,7,18,shr_new_nbest/new_14/1256.csv
+21,17,10,0,sevAcintanavacanam,0.9870865296124959323175662415,2,0,sevā,sevā,,iic.,4,4,shr_new_nbest/new_14/1256.csv
+22,18,10,0,sevAcintanavacanam,0.9870865296124959323175662415,2,11,vacanam,vacana,,m. sg. acc.,7,18,shr_new_nbest/new_14/1256.csv
+23,19,10,0,sevAcintanavacanam,0.9870865296124959323175662415,3,0,sevā,sevā,,f. sg. nom.,4,4,shr_new_nbest/new_14/1256.csv
+24,20,10,0,sevAcintanavacanam,0.9870865296124959323175662415,4,0,sā,tad,,f. sg. nom.,2,2,shr_new_nbest/new_14/1256.csv
+25,21,10,0,sevAcintanavacanam,0.9870865296124959323175662415,4,3,a,a,,iic.,1,4,shr_new_nbest/new_14/1256.csv
+26,22,10,0,sevAcintanavacanam,0.9870865296124959323175662415,5,1,iva,iva,,part.,3,4,shr_new_nbest/new_14/1256.csv
+27,11,10,1,sevA,0.01291347038740280395599060683,1,0,sevā,sevā,,f. sg. nom.,4,4,shr_new_nbest/new_14/1257.csv
+28,11,10,2,sevAcintana,1.012637264431515389525606444E-13,1,0,seva,seva,,iic.,4,4,shr_new_nbest/new_14/1260.csv
+29,12,10,2,sevAcintana,1.012637264431515389525606444E-13,1,4,cintana,cintana,,n. sg. voc.,7,11,shr_new_nbest/new_14/1260.csv
+30,17,10,2,sevAcintana,1.012637264431515389525606444E-13,2,0,sevā,sevā,,iic.,4,4,shr_new_nbest/new_14/1260.csv
+31,18,10,2,sevAcintana,1.012637264431515389525606444E-13,2,4,cintana,cintana,,m. sg. voc.,7,11,shr_new_nbest/new_14/1260.csv
+32,19,10,2,sevAcintana,1.012637264431515389525606444E-13,3,0,sevā,sevā,,f. sg. nom.,4,4,shr_new_nbest/new_14/1260.csv
+33,20,10,2,sevAcintana,1.012637264431515389525606444E-13,4,0,sā,tad,,f. sg. nom.,2,2,shr_new_nbest/new_14/1260.csv
+34,21,10,2,sevAcintana,1.012637264431515389525606444E-13,4,3,a,a,,iic.,1,4,shr_new_nbest/new_14/1260.csv
+35,22,10,2,sevAcintana,1.012637264431515389525606444E-13,5,1,iva,iva,,part.,3,4,shr_new_nbest/new_14/1260.csv
+36,8,10,4,muttamam,1.645118049353374889822127990E-36,1,0,muttamam,muttamam,,?,8,8,shr_new_nbest/new_14/1258.csv
+37,11,11,1,sevA,2.004746E-31,1,0,sevā,sevā,,f. sg. nom.,4,4,shr_new_nbest/new_14/1257.csv
+38,12,12,0,cintanavacanam,0.9999999999998974114999999665,1,0,cintana,cintana,,iic.,7,7,shr_new_nbest/new_14/1257.csv
+39,13,12,0,cintanavacanam,0.9999999999998974114999999665,1,7,vacanam,vacana,,n. sg. acc.,7,14,shr_new_nbest/new_14/1257.csv
+40,14,12,0,cintanavacanam,0.9999999999998974114999999665,1,7,vacanam,vacana,,n. sg. nom.,7,14,shr_new_nbest/new_14/1257.csv
+41,17,12,0,cintanavacanam,0.9999999999998974114999999665,2,7,vacanam,vacana,,m. sg. acc.,7,14,shr_new_nbest/new_14/1257.csv
+42,12,12,1,cintana,1.025884999999894755996677466E-13,1,0,cintana,cintana,,n. sg. voc.,7,7,shr_new_nbest/new_14/1261.csv
+43,11,12,3,sevA,1.246474999999872125999462458E-28,1,0,sevā,sevā,,f. sg. nom.,4,4,shr_new_nbest/new_14/1257.csv
+44,13,16,1,vacanam,0.9927007299270072995019446960,1,0,vacanam,vacana,,n. sg. acc.,7,7,shr_new_nbest/new_14/1260.csv
+45,14,16,1,vacanam,0.9927007299270072995019446960,1,0,vacanam,vacana,,n. sg. nom.,7,7,shr_new_nbest/new_14/1260.csv
+46,15,18,0,SrutvA,1,1,0,śrutvā,śru,,abs.,6,6,shr_new_nbest/new_14/1256.csv
+47,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+48,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+49,,3,0,<eps>,1,1,0,<eps>,,,,1,1,
+50,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+51,,5,0,<eps>,1,1,0,<eps>,,,,1,1,
+52,,6,0,<eps>,0.007299270072992700498055303959,1,0,<eps>,,,,8,8,
+53,,7,0,<eps>,1,1,0,<eps>,,,,1,1,
+54,,8,4,<eps>,1.645117978287469703022370591E-36,1,0,<eps>,,,,8,8,
+55,,9,0,<eps>,1,1,0,<eps>,,,,1,1,
+56,,10,3,<eps>,1.246475037394124899120328746E-28,1,0,<eps>,,,,18,18,
+57,,11,0,<eps>,1,1,0,<eps>,,,,4,4,
+58,,12,2,<eps>,4.386317999999550014215856853E-26,1,0,<eps>,,,,14,14,
+59,,13,0,<eps>,1,1,0,<eps>,,,,1,1,
+60,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+61,,15,0,<eps>,1,1,0,<eps>,,,,1,1,
+62,,16,0,<eps>,0.007299270072992700498055303959,1,0,<eps>,,,,7,7,
+63,,17,0,<eps>,1,1,0,<eps>,,,,1,1,
+64,,19,0,<eps>,1,1,0,<eps>,,,,1,1,

@@ -1,0 +1,72 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,kim,1,1,0,kim,kim,,n. sg. acc.,3,3,shr_new_nbest/new_10/688.csv
+1,1,1,0,kim,1,1,0,kim,kim,,n. sg. nom.,3,3,shr_new_nbest/new_10/688.csv
+2,0,1,1,kimtatkAraRadvayam,3.077928264145E-30,1,0,kimtatkāraṇadvayam,kimtatkāraṇadvayam,,?,18,18,shr_new_nbest/new_10/692.csv
+3,2,3,1,tatkAraRadvayam,0.9885195333894278611122271015,1,0,tat,tad,,iic.,3,3,shr_new_nbest/new_10/688.csv
+4,3,3,1,tatkAraRadvayam,0.9885195333894278611122271015,1,3,kāraṇa,kāraṇa,,iic.,6,9,shr_new_nbest/new_10/688.csv
+5,4,3,1,tatkAraRadvayam,0.9885195333894278611122271015,1,9,dvayam,dvaya,,m. sg. acc.,6,15,shr_new_nbest/new_10/688.csv
+6,5,3,1,tatkAraRadvayam,0.9885195333894278611122271015,1,9,dvayam,dvaya,,n. sg. acc.,6,15,shr_new_nbest/new_10/688.csv
+7,6,3,1,tatkAraRadvayam,0.9885195333894278611122271015,1,9,dvayam,dvaya,,n. sg. nom.,6,15,shr_new_nbest/new_10/688.csv
+8,17,3,1,tatkAraRadvayam,0.9885195333894278611122271015,2,0,tat,tad,,n. sg. acc.,3,3,shr_new_nbest/new_10/688.csv
+9,18,3,1,tatkAraRadvayam,0.9885195333894278611122271015,2,0,tat,tad,,n. sg. nom.,3,3,shr_new_nbest/new_10/688.csv
+10,19,3,1,tatkAraRadvayam,0.9885195333894278611122271015,2,3,kā,kim,,f. sg. nom.,2,5,shr_new_nbest/new_10/688.csv
+11,20,3,1,tatkAraRadvayam,0.9885195333894278611122271015,2,5,raṇat,raṇat,,n. sg. acc.,5,10,shr_new_nbest/new_10/688.csv
+12,21,3,1,tatkAraRadvayam,0.9885195333894278611122271015,2,5,raṇat,raṇat,,n. sg. nom.,5,10,shr_new_nbest/new_10/688.csv
+13,22,3,1,tatkAraRadvayam,0.9885195333894278611122271015,2,10,vayam,asmad,,m. pl. nom.,5,15,shr_new_nbest/new_10/688.csv
+14,25,3,1,tatkAraRadvayam,0.9885195333894278611122271015,3,4,araṇat,raṇ,,impft. [1] ac. sg. 3,6,10,shr_new_nbest/new_10/688.csv
+15,26,3,1,tatkAraRadvayam,0.9885195333894278611122271015,4,4,araṇa,araṇa,,iic.,5,9,shr_new_nbest/new_10/688.csv
+16,27,3,1,tatkAraRadvayam,0.9885195333894278611122271015,5,4,a,a,,iic.,1,5,shr_new_nbest/new_10/688.csv
+17,28,3,1,tatkAraRadvayam,0.9885195333894278611122271015,5,5,raṇa,raṇa,,iic.,4,9,shr_new_nbest/new_10/688.csv
+18,29,3,1,tatkAraRadvayam,0.9885195333894278611122271015,6,5,raṇa,raṇ,,imp. [1] ac. sg. 2,4,9,shr_new_nbest/new_10/688.csv
+19,2,3,2,tat,0.001171188137620708604268167154,1,0,tat,tad,,n. sg. acc.,3,3,shr_new_nbest/new_10/689.csv
+20,3,3,2,tat,0.001171188137620708604268167154,1,0,tat,tad,,n. sg. nom.,3,3,shr_new_nbest/new_10/689.csv
+21,2,3,3,tadkAraRadvayam,1.223141952670716799535532917E-24,1,0,tadkāraṇadvayam,tadkāraṇadvayam,,?,15,15,shr_new_nbest/new_10/690.csv
+22,2,3,4,tad,5.963219204841531178959682884E-30,1,0,tad,tad,,?,3,3,shr_new_nbest/new_10/691.csv
+23,4,5,1,kAraRadvayam,0.9896907216494845367354660432,1,0,kāraṇa,kāraṇa,,iic.,6,6,shr_new_nbest/new_10/689.csv
+24,5,5,1,kAraRadvayam,0.9896907216494845367354660432,1,6,dvayam,dvaya,,m. sg. acc.,6,12,shr_new_nbest/new_10/689.csv
+25,6,5,1,kAraRadvayam,0.9896907216494845367354660432,1,6,dvayam,dvaya,,n. sg. acc.,6,12,shr_new_nbest/new_10/689.csv
+26,7,5,1,kAraRadvayam,0.9896907216494845367354660432,1,6,dvayam,dvaya,,n. sg. nom.,6,12,shr_new_nbest/new_10/689.csv
+27,18,5,1,kAraRadvayam,0.9896907216494845367354660432,2,0,kā,kim,,f. sg. nom.,2,2,shr_new_nbest/new_10/689.csv
+28,19,5,1,kAraRadvayam,0.9896907216494845367354660432,2,2,raṇat,raṇat,,n. sg. acc.,5,7,shr_new_nbest/new_10/689.csv
+29,20,5,1,kAraRadvayam,0.9896907216494845367354660432,2,2,raṇat,raṇat,,n. sg. nom.,5,7,shr_new_nbest/new_10/689.csv
+30,21,5,1,kAraRadvayam,0.9896907216494845367354660432,2,7,vayam,asmad,,m. pl. nom.,5,12,shr_new_nbest/new_10/689.csv
+31,24,5,1,kAraRadvayam,0.9896907216494845367354660432,3,1,araṇat,raṇ,,impft. [1] ac. sg. 3,6,7,shr_new_nbest/new_10/689.csv
+32,25,5,1,kAraRadvayam,0.9896907216494845367354660432,4,1,araṇa,araṇa,,iic.,5,6,shr_new_nbest/new_10/689.csv
+33,26,5,1,kAraRadvayam,0.9896907216494845367354660432,5,1,a,a,,iic.,1,2,shr_new_nbest/new_10/689.csv
+34,27,5,1,kAraRadvayam,0.9896907216494845367354660432,5,2,raṇa,raṇa,,iic.,4,6,shr_new_nbest/new_10/689.csv
+35,28,5,1,kAraRadvayam,0.9896907216494845367354660432,6,2,raṇa,raṇ,,imp. [1] ac. sg. 2,4,6,shr_new_nbest/new_10/689.csv
+36,7,9,0,AScaryeRa,1,1,0,āścaryeṇa,āścarya,,m. sg. i.,9,9,shr_new_nbest/new_10/688.csv
+37,8,9,0,AScaryeRa,1,1,0,āścaryeṇa,āścarya,,n. sg. i.,9,9,shr_new_nbest/new_10/688.csv
+38,9,13,0,pfzwavatI,1,1,0,pṛṣṭavatī,pṛṣṭavat,,f. sg. nom.,9,9,shr_new_nbest/new_10/688.csv
+39,10,13,0,pfzwavatI,1,1,0,pṛṣṭavatī,pṛṣṭavat,,n. du. acc.,9,9,shr_new_nbest/new_10/688.csv
+40,11,13,0,pfzwavatI,1,1,0,pṛṣṭavatī,pṛṣṭavat,,n. du. nom.,9,9,shr_new_nbest/new_10/688.csv
+41,12,13,0,pfzwavatI,1,1,0,pṛṣṭavatī,pṛṣṭavat,,f. sg. nom.,9,9,shr_new_nbest/new_10/688.csv
+42,13,13,0,pfzwavatI,1,1,0,pṛṣṭavatī,pṛṣṭavat,,n. du. acc.,9,9,shr_new_nbest/new_10/688.csv
+43,14,13,0,pfzwavatI,1,1,0,pṛṣṭavatī,pṛṣṭavat,,n. du. nom.,9,9,shr_new_nbest/new_10/688.csv
+44,23,13,0,pfzwavatI,1,2,0,pṛṣṭavatī,pṛṣṭavat,,n. du. voc.,9,9,shr_new_nbest/new_10/688.csv
+45,24,13,0,pfzwavatI,1,2,0,pṛṣṭavatī,pṛṣṭavat,,n. du. voc.,9,9,shr_new_nbest/new_10/688.csv
+46,15,16,1,ca,5.914572E-32,1,0,ca,ca,,conj.,2,2,shr_new_nbest/new_10/693.csv
+47,15,17,0,sA,1,1,0,sā,tad,,f. sg. nom.,2,2,shr_new_nbest/new_10/688.csv
+48,15,17,1,sAmahilA,6.723767E-35,1,0,sā,tad,,f. sg. nom.,2,2,shr_new_nbest/new_10/695.csv
+49,16,17,1,sAmahilA,6.723767E-35,1,2,mahilā,mahilā,,f. sg. nom.,6,8,shr_new_nbest/new_10/695.csv
+50,25,17,1,sAmahilA,6.723767E-35,2,1,a,a,,iic.,1,2,shr_new_nbest/new_10/695.csv
+51,16,19,1,mahilA,0.9896907216494845367354660432,1,0,mahilā,mahilā,,f. sg. nom.,6,6,shr_new_nbest/new_10/688.csv
+52,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+53,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+54,,3,0,<eps>,0.01030927847295143028350350810,1,0,<eps>,,,,15,15,
+55,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+56,,5,0,<eps>,0.01030927835051546326453395685,1,0,<eps>,,,,12,12,
+57,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+58,,7,0,<eps>,1,1,0,<eps>,,,,1,1,
+59,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+60,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+61,,11,0,<eps>,1,1,0,<eps>,,,,1,1,
+62,,12,0,<eps>,1,1,0,<eps>,,,,1,1,
+63,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+64,,15,0,<eps>,1,1,0,<eps>,,,,1,1,
+65,,16,0,<eps>,1,1,0,<eps>,,,,2,2,
+66,,18,0,<eps>,1,1,0,<eps>,,,,1,1,
+67,,19,0,<eps>,0.01030927835051546326453395685,1,0,<eps>,,,,6,6,
+68,,20,0,<eps>,1,1,0,<eps>,,,,1,1,
+69,,21,0,<eps>,1,1,0,<eps>,,,,1,1,
+70,,22,0,<eps>,1,1,0,<eps>,,,,1,1,

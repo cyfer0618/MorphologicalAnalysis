@@ -1,0 +1,71 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,ataH,1,1,0,ataḥ,atas,,adv.,4,4,shr_new_nbest/new_24/876.csv
+1,1,3,0,tameva,0.9999999999999999005364800000,1,0,tam,tad,,m. sg. acc.,3,3,shr_new_nbest/new_24/876.csv
+2,2,3,0,tameva,0.9999999999999999005364800000,1,3,eva,eva,,prep.,3,6,shr_new_nbest/new_24/876.csv
+3,1,3,1,tvameva,9.946351999999999010700818921E-17,1,0,tvam,yuṣmad,,m. sg. nom.,4,4,shr_new_nbest/new_24/879.csv
+4,2,3,1,tvameva,9.946351999999999010700818921E-17,1,4,eva,eva,,prep.,3,7,shr_new_nbest/new_24/879.csv
+5,10,3,1,tvameva,9.946351999999999010700818921E-17,2,0,tu,tu,,conj.,2,2,shr_new_nbest/new_24/879.csv
+6,11,3,1,tvameva,9.946351999999999010700818921E-17,2,2,ameva,am,,opt. [1] ac. du. 1,5,7,shr_new_nbest/new_24/879.csv
+7,14,3,1,tvameva,9.946351999999999010700818921E-17,3,2,amā,amā,,adv.,3,5,shr_new_nbest/new_24/879.csv
+8,16,3,1,tvameva,9.946351999999999010700818921E-17,4,2,ama,am,,imp. [1] ac. sg. 2,3,5,shr_new_nbest/new_24/879.csv
+9,18,3,1,tvameva,9.946351999999999010700818921E-17,5,4,iva,iva,,part.,3,7,shr_new_nbest/new_24/879.csv
+10,5,3,2,tasya,3.170151798897500252621446647E-102,1,0,tasya,tad,,n. sg. g.,5,5,shr_new_nbest/new_24/876.csv
+11,6,3,2,tasya,3.170151798897500252621446647E-102,1,0,tasya,tad,,m. sg. g.,5,5,shr_new_nbest/new_24/876.csv
+12,5,3,3,tasyat,6.043851150133487112409657752E-109,1,0,tasyat,tasyat,,?,6,6,shr_new_nbest/new_24/883.csv
+13,5,3,4,tasyata,2.866687395496536962280111192E-115,1,0,tasyata,tasyata,,?,7,7,shr_new_nbest/new_24/884.csv
+14,3,5,0,BavAn,0.9999993282704810098706175098,1,0,bhavān,bhava,,m. pl. acc.,6,5,shr_new_nbest/new_24/876.csv
+15,4,5,0,BavAn,0.9999993282704810098706175098,1,0,bhavān,bhavat,,m. sg. nom.,6,5,shr_new_nbest/new_24/876.csv
+16,3,5,1,BavAntasya,6.717295189901293666104415918E-7,1,0,bhava,bhava,,iic.,5,4,shr_new_nbest/new_24/877.csv
+17,7,5,1,BavAntasya,6.717295189901293666104415918E-7,2,0,bhava,bhū,,imp. [1] ac. sg. 2,5,4,shr_new_nbest/new_24/877.csv
+18,10,5,1,BavAntasya,6.717295189901293666104415918E-7,3,3,āntasya,ānta,,n. sg. g.,7,10,shr_new_nbest/new_24/877.csv
+19,11,5,1,BavAntasya,6.717295189901293666104415918E-7,3,3,āntasya,ānta,,m. sg. g.,7,10,shr_new_nbest/new_24/877.csv
+20,13,5,1,BavAntasya,6.717295189901293666104415918E-7,4,3,antasya,anta,,m. sg. g.,7,10,shr_new_nbest/new_24/877.csv
+21,15,5,1,BavAntasya,6.717295189901293666104415918E-7,5,3,antasya,anta,,n. sg. g.,7,10,shr_new_nbest/new_24/877.csv
+22,3,5,2,BavAnpasya,1.587982017483045625254416132E-23,1,0,bhavānpasya,bhavānpasya,,?,11,10,shr_new_nbest/new_24/882.csv
+23,1,5,4,tvameva,0E+28,1,0,tvam,yuṣmad,,m. sg. nom.,4,4,shr_new_nbest/new_24/879.csv
+24,2,5,4,tvameva,0E+28,1,4,eva,eva,,prep.,3,7,shr_new_nbest/new_24/879.csv
+25,10,5,4,tvameva,0E+28,2,0,tu,tu,,conj.,2,2,shr_new_nbest/new_24/879.csv
+26,11,5,4,tvameva,0E+28,2,2,ameva,am,,opt. [1] ac. du. 1,5,7,shr_new_nbest/new_24/879.csv
+27,14,5,4,tvameva,0E+28,3,2,amā,amā,,adv.,3,5,shr_new_nbest/new_24/879.csv
+28,16,5,4,tvameva,0E+28,4,2,ama,am,,imp. [1] ac. sg. 2,3,5,shr_new_nbest/new_24/879.csv
+29,18,5,4,tvameva,0E+28,5,4,iva,iva,,part.,3,7,shr_new_nbest/new_24/879.csv
+30,1,5,5,tameva,0E+28,1,0,tam,tad,,m. sg. acc.,3,3,shr_new_nbest/new_24/876.csv
+31,2,5,5,tameva,0E+28,1,3,eva,eva,,prep.,3,6,shr_new_nbest/new_24/876.csv
+32,5,7,0,tasya,0.9999999999999999744647850000,1,0,tasya,tad,,n. sg. g.,5,5,shr_new_nbest/new_24/876.csv
+33,6,7,0,tasya,0.9999999999999999744647850000,1,0,tasya,tad,,m. sg. g.,5,5,shr_new_nbest/new_24/876.csv
+34,5,7,1,pasya,2.364019999999999939634241036E-17,1,0,pasya,pasya,,?,5,5,shr_new_nbest/new_24/880.csv
+35,5,7,3,tasyat,4.514255516795999884727514814E-35,1,0,tasyat,tasyat,,?,6,6,shr_new_nbest/new_24/883.csv
+36,5,7,4,tasyata,3.068158200289499921653920702E-37,1,0,tasyata,tasyata,,?,7,7,shr_new_nbest/new_24/884.csv
+37,3,7,5,BavAntasya,0E-12,1,0,bhava,bhava,,iic.,5,4,shr_new_nbest/new_24/877.csv
+38,7,7,5,BavAntasya,0E-12,2,0,bhava,bhū,,imp. [1] ac. sg. 2,5,4,shr_new_nbest/new_24/877.csv
+39,10,7,5,BavAntasya,0E-12,3,3,āntasya,ānta,,n. sg. g.,7,10,shr_new_nbest/new_24/877.csv
+40,11,7,5,BavAntasya,0E-12,3,3,āntasya,ānta,,m. sg. g.,7,10,shr_new_nbest/new_24/877.csv
+41,13,7,5,BavAntasya,0E-12,4,3,antasya,anta,,m. sg. g.,7,10,shr_new_nbest/new_24/877.csv
+42,15,7,5,BavAntasya,0E-12,5,3,antasya,anta,,n. sg. g.,7,10,shr_new_nbest/new_24/877.csv
+43,3,7,6,BavAn,0E+27,1,0,bhavān,bhava,,m. pl. acc.,6,5,shr_new_nbest/new_24/876.csv
+44,4,7,6,BavAn,0E+27,1,0,bhavān,bhavat,,m. sg. nom.,6,5,shr_new_nbest/new_24/876.csv
+45,7,9,0,tu,0.9999999999999999981049850000,1,0,tu,tu,,conj.,2,2,shr_new_nbest/new_24/876.csv
+46,5,9,1,paSyatu,1.895014999999999996408918150E-18,1,0,paśyatu,paś,,imp. [4] ac. sg. 3,7,7,shr_new_nbest/new_24/878.csv
+47,8,9,1,paSyatu,1.895014999999999996408918150E-18,2,0,paśya,paś,,imp. [4] ac. sg. 2,5,5,shr_new_nbest/new_24/878.csv
+48,9,9,1,paSyatu,1.895014999999999996408918150E-18,2,5,tu,tu,,conj.,2,7,shr_new_nbest/new_24/878.csv
+49,5,9,3,tasya,0E+27,1,0,tasya,tad,,n. sg. g.,5,5,shr_new_nbest/new_24/876.csv
+50,6,9,3,tasya,0E+27,1,0,tasya,tad,,m. sg. g.,5,5,shr_new_nbest/new_24/876.csv
+51,8,11,1,iti,0.9722222222222222235725308642,1,0,iti,iti,,part.,3,3,shr_new_nbest/new_24/876.csv
+52,9,13,0,uktavAn,1,1,0,uktavān,uktavat,,m. sg. nom.,7,7,shr_new_nbest/new_24/876.csv
+53,10,13,0,uktavAn,1,2,0,ukta,ukta,,iic.,4,4,shr_new_nbest/new_24/876.csv
+54,11,13,0,uktavAn,1,2,4,vān,vas,,m. sg. nom.,3,7,shr_new_nbest/new_24/876.csv
+55,12,13,0,uktavAn,1,3,4,vān,vāt,,m. sg. nom.,3,7,shr_new_nbest/new_24/876.csv
+56,13,13,0,uktavAn,1,4,4,vān,vāt,,m. sg. voc.,3,7,shr_new_nbest/new_24/876.csv
+57,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+58,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+59,,3,5,<eps>,0E+27,1,0,<eps>,,,,7,7,
+60,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+61,,5,3,<eps>,2.208181062426382725325017771E-33,1,0,<eps>,,,,10,10,
+62,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+63,,7,2,<eps>,1.895014999999999951610384547E-18,1,0,<eps>,,,,10,10,
+64,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+65,,9,2,<eps>,2.370247999999999995508344486E-31,1,0,<eps>,,,,7,7,
+66,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+67,,11,0,<eps>,0.02777777777777777642746913580,1,0,<eps>,,,,3,3,
+68,,12,0,<eps>,1,1,0,<eps>,,,,1,1,
+69,,14,0,<eps>,1,1,0,<eps>,,,,1,1,

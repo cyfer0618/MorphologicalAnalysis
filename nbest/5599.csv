@@ -1,0 +1,237 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,pratyuta,1,1,0,pratyuta,pratyuta,,adv.,8,8,shr_new_nbest/new_27/1781.csv
+1,22,1,0,pratyuta,1,2,0,prati,prati,,prep.,5,5,shr_new_nbest/new_27/1781.csv
+2,23,1,0,pratyuta,1,2,5,uta,uta,,conj.,3,8,shr_new_nbest/new_27/1781.csv
+3,29,1,0,pratyuta,1,3,5,uta,uta,,n. sg. voc.,3,8,shr_new_nbest/new_27/1781.csv
+4,30,1,0,pratyuta,1,3,5,uta,uta,,m. sg. voc.,3,8,shr_new_nbest/new_27/1781.csv
+5,1,5,0,vAbAvacanapramARapuzwAm,0.9999058251876181286610000642,1,0,vābāvacanapramāṇapuṣṭām,vābāvacanapramāṇapuṣṭām,,?,23,23,shr_new_nbest/new_27/1781.csv
+6,1,5,1,vAbAvacanapramARapuzwAn,0.00009417481237226261875789222890,1,0,vābāvacanapramāṇapuṣṭān,vābāvacanapramāṇapuṣṭān,,?,23,23,shr_new_nbest/new_27/1784.csv
+7,1,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,1,0,vāma,vāma,,iic.,4,4,shr_new_nbest/new_27/1786.csv
+8,2,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,1,0,vāma,vāma,,iic.,4,4,shr_new_nbest/new_27/1786.csv
+9,3,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,1,0,vāma,vāma,,iic.,4,4,shr_new_nbest/new_27/1786.csv
+10,4,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,1,4,vacana,vacana,,iic.,6,10,shr_new_nbest/new_27/1786.csv
+11,5,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,1,10,pramāṇa,pramāṇa,,iic.,7,17,shr_new_nbest/new_27/1786.csv
+12,6,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,1,17,puṣṭām,puṣṭa,,f. sg. acc.,6,23,shr_new_nbest/new_27/1786.csv
+13,28,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,2,0,vāmau,vāma,,m. du. acc.,5,4,shr_new_nbest/new_27/1786.csv
+14,29,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,2,0,vāmau,vāma,,m. du. nom.,5,4,shr_new_nbest/new_27/1786.csv
+15,30,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,2,0,vāmau,vāma,,m. du. acc.,5,4,shr_new_nbest/new_27/1786.csv
+16,31,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,2,0,vāmau,vāma,,m. du. nom.,5,4,shr_new_nbest/new_27/1786.csv
+17,32,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,2,0,vāmau,vāma,,m. du. acc.,5,4,shr_new_nbest/new_27/1786.csv
+18,33,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,2,0,vāmau,vāma,,m. du. nom.,5,4,shr_new_nbest/new_27/1786.csv
+19,34,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,2,4,vacan,vacat,,m. sg. nom.,5,9,shr_new_nbest/new_27/1786.csv
+20,35,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,2,9,apramāṇa,apramāṇa,,iic.,8,17,shr_new_nbest/new_27/1786.csv
+21,43,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,3,0,vāmā,vāma,,f. sg. nom.,4,4,shr_new_nbest/new_27/1786.csv
+22,44,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,3,0,vāmā,vāma,,f. sg. nom.,4,4,shr_new_nbest/new_27/1786.csv
+23,45,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,3,5,acan,acat,,m. sg. nom.,4,9,shr_new_nbest/new_27/1786.csv
+24,46,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,3,9,a,a,,iic.,1,10,shr_new_nbest/new_27/1786.csv
+25,55,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,4,0,vāma,vā,,imp. [2] ac. pl. 1,4,4,shr_new_nbest/new_27/1786.csv
+26,56,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,4,5,aca,añc,,imp. [1] ac. sg. 2,3,8,shr_new_nbest/new_27/1786.csv
+27,57,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,4,8,na,na,,ind.,2,10,shr_new_nbest/new_27/1786.csv
+28,63,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,5,0,vām,yuṣmad,,m. du. g.,3,3,shr_new_nbest/new_27/1786.csv
+29,64,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,5,0,vām,yuṣmad,,m. du. dat.,3,3,shr_new_nbest/new_27/1786.csv
+30,65,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,5,0,vām,yuṣmad,,m. du. acc.,3,3,shr_new_nbest/new_27/1786.csv
+31,66,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,5,3,avacana,avacana,,iic.,7,10,shr_new_nbest/new_27/1786.csv
+32,71,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,6,0,vā,vā,,ind.,2,2,shr_new_nbest/new_27/1786.csv
+33,72,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,6,2,māva,mā,,imp. [2] ac. du. 1,4,6,shr_new_nbest/new_27/1786.csv
+34,73,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,6,6,ca,ca,,ind.,2,8,shr_new_nbest/new_27/1786.csv
+35,75,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,7,1,amāva,am,,imp. [1] ac. du. 1,5,6,shr_new_nbest/new_27/1786.csv
+36,76,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,7,1,amāva,mā,,impft. [2] ac. du. 1,5,6,shr_new_nbest/new_27/1786.csv
+37,78,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,8,1,āmāva,am,,impft. [1] ac. du. 1,5,6,shr_new_nbest/new_27/1786.csv
+38,79,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,9,1,āma,āma,,iic.,3,4,shr_new_nbest/new_27/1786.csv
+39,80,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,10,1,āmau,āma,,m. du. acc.,4,4,shr_new_nbest/new_27/1786.csv
+40,81,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,10,1,āmau,āma,,m. du. nom.,4,4,shr_new_nbest/new_27/1786.csv
+41,82,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,11,1,āmā,āma,,f. sg. nom.,3,4,shr_new_nbest/new_27/1786.csv
+42,83,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,12,1,ama,am,,imp. [1] ac. sg. 2,3,4,shr_new_nbest/new_27/1786.csv
+43,84,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,13,1,āma,am,,pft. ac. pl. 2,3,4,shr_new_nbest/new_27/1786.csv
+44,85,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,13,1,āma,am,,pft. ac. sg. 3,3,4,shr_new_nbest/new_27/1786.csv
+45,86,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,13,1,āma,am,,pft. ac. sg. 1,3,4,shr_new_nbest/new_27/1786.csv
+46,87,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,14,1,amā,amā,,ind.,3,4,shr_new_nbest/new_27/1786.csv
+47,88,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,15,2,mā,mā,,ind.,2,4,shr_new_nbest/new_27/1786.csv
+48,89,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,16,2,mā,asmad,,m. sg. acc.,2,4,shr_new_nbest/new_27/1786.csv
+49,90,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,17,3,avacan,vac,,impft. [2] ac. pl. 3,6,9,shr_new_nbest/new_27/1786.csv
+50,91,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,18,3,ava,av,,imp. [1] ac. sg. 2,3,6,shr_new_nbest/new_27/1786.csv
+51,92,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,19,3,āva,av,,pft. ac. pl. 2,3,6,shr_new_nbest/new_27/1786.csv
+52,93,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,19,3,āva,av,,pft. ac. sg. 3,3,6,shr_new_nbest/new_27/1786.csv
+53,94,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,19,3,āva,av,,pft. ac. sg. 1,3,6,shr_new_nbest/new_27/1786.csv
+54,95,5,3,vAmAvacanapramARapuzwAm,2.528149916212906951798023203E-32,20,3,a,a,,iic.,1,4,shr_new_nbest/new_27/1786.csv
+55,1,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,1,0,vāma,vāma,,iic.,4,4,shr_new_nbest/new_27/1786.csv
+56,2,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,1,0,vāma,vāma,,iic.,4,4,shr_new_nbest/new_27/1786.csv
+57,3,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,1,0,vāma,vāma,,iic.,4,4,shr_new_nbest/new_27/1786.csv
+58,4,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,1,4,vacana,vacana,,iic.,6,10,shr_new_nbest/new_27/1786.csv
+59,5,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,1,10,pramāṇa,pramāṇa,,iic.,7,17,shr_new_nbest/new_27/1786.csv
+60,6,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,1,17,puṣṭām,puṣṭa,,f. sg. acc.,6,23,shr_new_nbest/new_27/1786.csv
+61,28,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,2,0,vāmau,vāma,,m. du. acc.,5,4,shr_new_nbest/new_27/1786.csv
+62,29,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,2,0,vāmau,vāma,,m. du. nom.,5,4,shr_new_nbest/new_27/1786.csv
+63,30,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,2,0,vāmau,vāma,,m. du. acc.,5,4,shr_new_nbest/new_27/1786.csv
+64,31,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,2,0,vāmau,vāma,,m. du. nom.,5,4,shr_new_nbest/new_27/1786.csv
+65,32,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,2,0,vāmau,vāma,,m. du. acc.,5,4,shr_new_nbest/new_27/1786.csv
+66,33,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,2,0,vāmau,vāma,,m. du. nom.,5,4,shr_new_nbest/new_27/1786.csv
+67,34,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,2,4,vacan,vacat,,m. sg. nom.,5,9,shr_new_nbest/new_27/1786.csv
+68,35,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,2,9,apramāṇa,apramāṇa,,iic.,8,17,shr_new_nbest/new_27/1786.csv
+69,43,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,3,0,vāmā,vāma,,f. sg. nom.,4,4,shr_new_nbest/new_27/1786.csv
+70,44,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,3,0,vāmā,vāma,,f. sg. nom.,4,4,shr_new_nbest/new_27/1786.csv
+71,45,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,3,5,acan,acat,,m. sg. nom.,4,9,shr_new_nbest/new_27/1786.csv
+72,46,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,3,9,a,a,,iic.,1,10,shr_new_nbest/new_27/1786.csv
+73,55,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,4,0,vāma,vā,,imp. [2] ac. pl. 1,4,4,shr_new_nbest/new_27/1786.csv
+74,56,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,4,5,aca,añc,,imp. [1] ac. sg. 2,3,8,shr_new_nbest/new_27/1786.csv
+75,57,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,4,8,na,na,,ind.,2,10,shr_new_nbest/new_27/1786.csv
+76,63,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,5,0,vām,yuṣmad,,m. du. g.,3,3,shr_new_nbest/new_27/1786.csv
+77,64,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,5,0,vām,yuṣmad,,m. du. dat.,3,3,shr_new_nbest/new_27/1786.csv
+78,65,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,5,0,vām,yuṣmad,,m. du. acc.,3,3,shr_new_nbest/new_27/1786.csv
+79,66,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,5,3,avacana,avacana,,iic.,7,10,shr_new_nbest/new_27/1786.csv
+80,71,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,6,0,vā,vā,,ind.,2,2,shr_new_nbest/new_27/1786.csv
+81,72,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,6,2,māva,mā,,imp. [2] ac. du. 1,4,6,shr_new_nbest/new_27/1786.csv
+82,73,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,6,6,ca,ca,,ind.,2,8,shr_new_nbest/new_27/1786.csv
+83,75,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,7,1,amāva,am,,imp. [1] ac. du. 1,5,6,shr_new_nbest/new_27/1786.csv
+84,76,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,7,1,amāva,mā,,impft. [2] ac. du. 1,5,6,shr_new_nbest/new_27/1786.csv
+85,78,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,8,1,āmāva,am,,impft. [1] ac. du. 1,5,6,shr_new_nbest/new_27/1786.csv
+86,79,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,9,1,āma,āma,,iic.,3,4,shr_new_nbest/new_27/1786.csv
+87,80,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,10,1,āmau,āma,,m. du. acc.,4,4,shr_new_nbest/new_27/1786.csv
+88,81,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,10,1,āmau,āma,,m. du. nom.,4,4,shr_new_nbest/new_27/1786.csv
+89,82,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,11,1,āmā,āma,,f. sg. nom.,3,4,shr_new_nbest/new_27/1786.csv
+90,83,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,12,1,ama,am,,imp. [1] ac. sg. 2,3,4,shr_new_nbest/new_27/1786.csv
+91,84,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,13,1,āma,am,,pft. ac. pl. 2,3,4,shr_new_nbest/new_27/1786.csv
+92,85,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,13,1,āma,am,,pft. ac. sg. 3,3,4,shr_new_nbest/new_27/1786.csv
+93,86,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,13,1,āma,am,,pft. ac. sg. 1,3,4,shr_new_nbest/new_27/1786.csv
+94,87,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,14,1,amā,amā,,ind.,3,4,shr_new_nbest/new_27/1786.csv
+95,88,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,15,2,mā,mā,,ind.,2,4,shr_new_nbest/new_27/1786.csv
+96,89,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,16,2,mā,asmad,,m. sg. acc.,2,4,shr_new_nbest/new_27/1786.csv
+97,90,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,17,3,avacan,vac,,impft. [2] ac. pl. 3,6,9,shr_new_nbest/new_27/1786.csv
+98,91,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,18,3,ava,av,,imp. [1] ac. sg. 2,3,6,shr_new_nbest/new_27/1786.csv
+99,92,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,19,3,āva,av,,pft. ac. pl. 2,3,6,shr_new_nbest/new_27/1786.csv
+100,93,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,19,3,āva,av,,pft. ac. sg. 3,3,6,shr_new_nbest/new_27/1786.csv
+101,94,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,19,3,āva,av,,pft. ac. sg. 1,3,6,shr_new_nbest/new_27/1786.csv
+102,95,7,0,vAmAvacanapramARapuzwAm,0.9999981183831378765862727895,20,3,a,a,,iic.,1,4,shr_new_nbest/new_27/1786.csv
+103,2,17,1,nirarTakAm,0.9992163009043572134220899388,1,0,nirarthakām,nirarthakām,,?,11,10,shr_new_nbest/new_27/1781.csv
+104,2,17,2,nirarTakAn,2.135057678664731658503800878E-12,1,0,nirarthakān,nirarthaka,,m. pl. acc.,11,10,shr_new_nbest/new_27/1788.csv
+105,3,21,1,kAm,0.9992163009404388713519760763,1,0,kām,kim,,f. sg. acc.,3,3,shr_new_nbest/new_27/1781.csv
+106,3,21,2,kAmapi,7.001079439386442005419147874E-49,1,0,kāma,kāma,,iic.,4,4,shr_new_nbest/new_27/1783.csv
+107,4,21,2,kAmapi,7.001079439386442005419147874E-49,1,4,pi,pā,,m. sg. loc.,2,6,shr_new_nbest/new_27/1783.csv
+108,5,21,2,kAmapi,7.001079439386442005419147874E-49,1,4,pi,pā,,m. sg. loc.,2,6,shr_new_nbest/new_27/1783.csv
+109,24,21,2,kAmapi,7.001079439386442005419147874E-49,2,0,kām,kim,,f. sg. acc.,3,3,shr_new_nbest/new_27/1783.csv
+110,25,21,2,kAmapi,7.001079439386442005419147874E-49,2,3,api,api,,conj.,3,6,shr_new_nbest/new_27/1783.csv
+111,26,21,2,kAmapi,7.001079439386442005419147874E-49,2,3,api,api,,prep.,3,6,shr_new_nbest/new_27/1783.csv
+112,34,21,2,kAmapi,7.001079439386442005419147874E-49,3,0,kā,kim,,f. sg. nom.,2,2,shr_new_nbest/new_27/1783.csv
+113,44,21,2,kAmapi,7.001079439386442005419147874E-49,4,1,āma,āma,,iic.,3,4,shr_new_nbest/new_27/1783.csv
+114,4,23,1,api,0.9992162443028531537388883598,1,0,api,api,,conj.,3,3,shr_new_nbest/new_27/1781.csv
+115,5,23,1,api,0.9992162443028531537388883598,1,0,api,api,,prep.,3,3,shr_new_nbest/new_27/1781.csv
+116,3,23,2,kAmapi,5.660363744411909895050505502E-8,1,0,kāma,kāma,,iic.,4,4,shr_new_nbest/new_27/1783.csv
+117,4,23,2,kAmapi,5.660363744411909895050505502E-8,1,4,pi,pā,,m. sg. loc.,2,6,shr_new_nbest/new_27/1783.csv
+118,5,23,2,kAmapi,5.660363744411909895050505502E-8,1,4,pi,pā,,m. sg. loc.,2,6,shr_new_nbest/new_27/1783.csv
+119,24,23,2,kAmapi,5.660363744411909895050505502E-8,2,0,kām,kim,,f. sg. acc.,3,3,shr_new_nbest/new_27/1783.csv
+120,25,23,2,kAmapi,5.660363744411909895050505502E-8,2,3,api,api,,conj.,3,6,shr_new_nbest/new_27/1783.csv
+121,26,23,2,kAmapi,5.660363744411909895050505502E-8,2,3,api,api,,prep.,3,6,shr_new_nbest/new_27/1783.csv
+122,34,23,2,kAmapi,5.660363744411909895050505502E-8,3,0,kā,kim,,f. sg. nom.,2,2,shr_new_nbest/new_27/1783.csv
+123,44,23,2,kAmapi,5.660363744411909895050505502E-8,4,1,āma,āma,,iic.,3,4,shr_new_nbest/new_27/1783.csv
+124,6,25,1,reKAm,0.9992163009404388713519760763,1,0,rekhām,rekhā,,f. sg. acc.,6,5,shr_new_nbest/new_27/1781.csv
+125,7,29,1,pIqayati,0.9992163009404388713519760763,1,0,pīḍayati,pīḍ,,pr. [10] ac. sg. 3,8,8,shr_new_nbest/new_27/1781.csv
+126,24,29,1,pIqayati,0.9992163009404388713519760763,2,0,pīḍayati,pīḍayat,,n. sg. loc.,8,8,shr_new_nbest/new_27/1781.csv
+127,25,29,1,pIqayati,0.9992163009404388713519760763,2,0,pīḍayati,pīḍayat,,m. sg. loc.,8,8,shr_new_nbest/new_27/1781.csv
+128,31,29,1,pIqayati,0.9992163009404388713519760763,3,0,pīḍe,pīḍā,,f. du. acc.,4,4,shr_new_nbest/new_27/1781.csv
+129,32,29,1,pIqayati,0.9992163009404388713519760763,3,0,pīḍe,pīḍā,,f. du. nom.,4,4,shr_new_nbest/new_27/1781.csv
+130,33,29,1,pIqayati,0.9992163009404388713519760763,3,5,ati,ati,,prep.,3,8,shr_new_nbest/new_27/1781.csv
+131,34,29,1,pIqayati,0.9992163009404388713519760763,3,5,ati,ati,,adv.,3,8,shr_new_nbest/new_27/1781.csv
+132,8,33,0,ataH,1,1,0,ataḥ,atas,,adv.,4,4,shr_new_nbest/new_27/1781.csv
+133,9,35,0,kasyacin,0.9999999999999999986957247070,1,0,kasyacin,kasyacin,,?,8,8,shr_new_nbest/new_27/1781.csv
+134,9,35,1,kasyacinmaH,1.304097764840999998299097506E-18,1,0,kasya,kim,,n. sg. g.,5,5,shr_new_nbest/new_27/1785.csv
+135,10,35,1,kasyacinmaH,1.304097764840999998299097506E-18,1,0,kasya,kim,,m. sg. g.,5,5,shr_new_nbest/new_27/1785.csv
+136,11,35,1,kasyacinmaH,1.304097764840999998299097506E-18,1,5,cinmaḥ,ci,,pr. [5] ac. pl. 1,6,11,shr_new_nbest/new_27/1785.csv
+137,10,41,1,maH,0.9992162752759568044493152465,1,0,maḥ,maḥ,,?,3,3,shr_new_nbest/new_27/1781.csv
+138,10,41,2,mahApuruzasya,2.568461107244532958646881661E-8,1,0,mahā,mahat,,iic.,4,4,shr_new_nbest/new_27/1782.csv
+139,11,41,2,mahApuruzasya,2.568461107244532958646881661E-8,1,4,puruṣasya,puruṣa,,m. sg. g.,9,13,shr_new_nbest/new_27/1782.csv
+140,26,41,2,mahApuruzasya,2.568461107244532958646881661E-8,2,0,maha,mah,,imp. [1] ac. sg. 2,4,4,shr_new_nbest/new_27/1782.csv
+141,27,41,2,mahApuruzasya,2.568461107244532958646881661E-8,2,4,puruṣasya,puruṣa,,n. sg. g.,9,13,shr_new_nbest/new_27/1782.csv
+142,37,41,2,mahApuruzasya,2.568461107244532958646881661E-8,3,3,āpuḥ,ā-pā,,aor. [1] ac. pl. 3,4,7,shr_new_nbest/new_27/1782.csv
+143,38,41,2,mahApuruzasya,2.568461107244532958646881661E-8,3,7,uṣasya,uṣas,,imp. [vn.] ac. sg. 2,6,13,shr_new_nbest/new_27/1782.csv
+144,44,41,2,mahApuruzasya,2.568461107244532958646881661E-8,4,3,apuḥ,pā,,impft. [2] ac. pl. 3,4,7,shr_new_nbest/new_27/1782.csv
+145,50,41,2,mahApuruzasya,2.568461107244532958646881661E-8,5,3,apuḥ,pā,,aor. [1] ac. pl. 3,4,7,shr_new_nbest/new_27/1782.csv
+146,55,41,2,mahApuruzasya,2.568461107244532958646881661E-8,6,3,āpuḥ,āp,,pft. ac. pl. 3,4,7,shr_new_nbest/new_27/1782.csv
+147,57,41,2,mahApuruzasya,2.568461107244532958646881661E-8,7,3,a,a,,iic.,1,4,shr_new_nbest/new_27/1782.csv
+148,58,41,2,mahApuruzasya,2.568461107244532958646881661E-8,7,4,pu,pū,,n. sg. acc.,2,6,shr_new_nbest/new_27/1782.csv
+149,59,41,2,mahApuruzasya,2.568461107244532958646881661E-8,7,4,pu,pū,,n. sg. nom.,2,6,shr_new_nbest/new_27/1782.csv
+150,60,41,2,mahApuruzasya,2.568461107244532958646881661E-8,7,6,ruṣasya,ruṣa,,m. sg. g.,7,13,shr_new_nbest/new_27/1782.csv
+151,61,41,2,mahApuruzasya,2.568461107244532958646881661E-8,7,6,ruṣasya,ruṣa,,n. sg. g.,7,13,shr_new_nbest/new_27/1782.csv
+152,63,41,2,mahApuruzasya,2.568461107244532958646881661E-8,8,4,pu,pū,,iic.,2,6,shr_new_nbest/new_27/1782.csv
+153,11,43,1,puruzasya,0.9992157841554109553993777921,1,0,puruṣasya,puruṣa,,m. sg. g.,9,9,shr_new_nbest/new_27/1781.csv
+154,12,45,1,SaraRam,0.9992163009404388713519760763,1,0,śaraṇam,śaraṇa,,m. sg. acc.,7,7,shr_new_nbest/new_27/1781.csv
+155,13,45,1,SaraRam,0.9992163009404388713519760763,1,0,śaraṇam,śaraṇa,,n. sg. acc.,7,7,shr_new_nbest/new_27/1781.csv
+156,14,45,1,SaraRam,0.9992163009404388713519760763,1,0,śaraṇam,śaraṇa,,n. sg. nom.,7,7,shr_new_nbest/new_27/1781.csv
+157,15,47,1,avaSyameva,0.9992163009404388713519760763,1,0,avaśyam,avaśya,,m. sg. acc.,7,7,shr_new_nbest/new_27/1781.csv
+158,16,47,1,avaSyameva,0.9992163009404388713519760763,1,0,avaśyam,avaśya,,n. sg. acc.,7,7,shr_new_nbest/new_27/1781.csv
+159,17,47,1,avaSyameva,0.9992163009404388713519760763,1,0,avaśyam,avaśya,,n. sg. nom.,7,7,shr_new_nbest/new_27/1781.csv
+160,18,47,1,avaSyameva,0.9992163009404388713519760763,1,7,iva,iva,,part.,3,10,shr_new_nbest/new_27/1781.csv
+161,26,47,1,avaSyameva,0.9992163009404388713519760763,2,0,ava,av,,imp. [1] ac. sg. 2,3,3,shr_new_nbest/new_27/1781.csv
+162,27,47,1,avaSyameva,0.9992163009404388713519760763,2,3,śya,śā,,imp. [4] ac. sg. 2,3,6,shr_new_nbest/new_27/1781.csv
+163,28,47,1,avaSyameva,0.9992163009404388713519760763,2,6,mā,mā,,part.,2,8,shr_new_nbest/new_27/1781.csv
+164,35,47,1,avaSyameva,0.9992163009404388713519760763,3,0,a,a,,iic.,1,1,shr_new_nbest/new_27/1781.csv
+165,36,47,1,avaSyameva,0.9992163009404388713519760763,3,1,vaśyam,vaśya,,n. sg. acc.,6,7,shr_new_nbest/new_27/1781.csv
+166,37,47,1,avaSyameva,0.9992163009404388713519760763,3,1,vaśyam,vaśya,,n. sg. nom.,6,7,shr_new_nbest/new_27/1781.csv
+167,38,47,1,avaSyameva,0.9992163009404388713519760763,3,1,vaśyam,vaśya,,m. sg. acc.,6,7,shr_new_nbest/new_27/1781.csv
+168,39,47,1,avaSyameva,0.9992163009404388713519760763,3,7,eva,eva,,prep.,3,10,shr_new_nbest/new_27/1781.csv
+169,40,47,1,avaSyameva,0.9992163009404388713519760763,4,1,vaśi,vaśi,,n. sg. acc.,4,5,shr_new_nbest/new_27/1781.csv
+170,41,47,1,avaSyameva,0.9992163009404388713519760763,4,1,vaśi,vaśi,,n. sg. nom.,4,5,shr_new_nbest/new_27/1781.csv
+171,42,47,1,avaSyameva,0.9992163009404388713519760763,4,1,vaśi,vaśin,,n. sg. acc.,4,5,shr_new_nbest/new_27/1781.csv
+172,43,47,1,avaSyameva,0.9992163009404388713519760763,4,1,vaśi,vaśin,,n. sg. nom.,4,5,shr_new_nbest/new_27/1781.csv
+173,44,47,1,avaSyameva,0.9992163009404388713519760763,4,5,ameva,am,,opt. [1] ac. du. 1,5,10,shr_new_nbest/new_27/1781.csv
+174,45,47,1,avaSyameva,0.9992163009404388713519760763,5,1,vaśī,vaśi,,m. du. acc.,4,5,shr_new_nbest/new_27/1781.csv
+175,46,47,1,avaSyameva,0.9992163009404388713519760763,5,1,vaśī,vaśi,,m. du. nom.,4,5,shr_new_nbest/new_27/1781.csv
+176,47,47,1,avaSyameva,0.9992163009404388713519760763,5,1,vaśī,vaśin,,m. sg. nom.,4,5,shr_new_nbest/new_27/1781.csv
+177,48,47,1,avaSyameva,0.9992163009404388713519760763,5,5,amā,amā,,adv.,3,8,shr_new_nbest/new_27/1781.csv
+178,49,47,1,avaSyameva,0.9992163009404388713519760763,6,5,ama,am,,imp. [1] ac. sg. 2,3,8,shr_new_nbest/new_27/1781.csv
+179,50,47,1,avaSyameva,0.9992163009404388713519760763,7,6,mā,asmad,,m. sg. acc.,2,8,shr_new_nbest/new_27/1781.csv
+180,19,51,1,grahaRIyam,0.9992163009404388713519760763,1,0,grahaṇīyam,grahaṇīya,,n. sg. acc.,10,10,shr_new_nbest/new_27/1781.csv
+181,20,51,1,grahaRIyam,0.9992163009404388713519760763,1,0,grahaṇīyam,grahaṇīya,,n. sg. nom.,10,10,shr_new_nbest/new_27/1781.csv
+182,21,51,1,grahaRIyam,0.9992163009404388713519760763,1,0,grahaṇīyam,grahaṇīya,,m. sg. acc.,10,10,shr_new_nbest/new_27/1781.csv
+183,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+184,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+185,,3,0,<eps>,1,1,0,<eps>,,,,1,1,
+186,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+187,,5,2,<eps>,9.608720242043570569575178519E-15,1,0,<eps>,,,,23,23,
+188,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+189,,7,1,<eps>,0.000001881616862123413727210512277,1,0,<eps>,,,,23,23,
+190,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+191,,9,0,<eps>,1,1,0,<eps>,,,,1,1,
+192,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+193,,11,0,<eps>,1,1,0,<eps>,,,,1,1,
+194,,12,0,<eps>,1,1,0,<eps>,,,,1,1,
+195,,13,0,<eps>,1,1,0,<eps>,,,,1,1,
+196,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+197,,15,0,<eps>,1,1,0,<eps>,,,,1,1,
+198,,16,0,<eps>,1,1,0,<eps>,,,,1,1,
+199,,17,0,<eps>,0.0007836990935077288992453298348,1,0,<eps>,,,,10,10,
+200,,18,0,<eps>,1,1,0,<eps>,,,,1,1,
+201,,19,0,<eps>,1,1,0,<eps>,,,,1,1,
+202,,20,0,<eps>,1,1,0,<eps>,,,,1,1,
+203,,21,0,<eps>,0.0007836990595611286480239237036,1,0,<eps>,,,,6,6,
+204,,22,0,<eps>,1,1,0,<eps>,,,,1,1,
+205,,23,0,<eps>,0.0007836990935094021420126896732,1,0,<eps>,,,,6,6,
+206,,24,0,<eps>,1,1,0,<eps>,,,,1,1,
+207,,25,0,<eps>,0.0007836990595611286480239237036,1,0,<eps>,,,,5,5,
+208,,26,0,<eps>,1,1,0,<eps>,,,,1,1,
+209,,27,0,<eps>,1,1,0,<eps>,,,,1,1,
+210,,28,0,<eps>,1,1,0,<eps>,,,,1,1,
+211,,29,0,<eps>,0.0007836990595611286480239237036,1,0,<eps>,,,,8,8,
+212,,30,0,<eps>,1,1,0,<eps>,,,,1,1,
+213,,31,0,<eps>,1,1,0,<eps>,,,,1,1,
+214,,32,0,<eps>,1,1,0,<eps>,,,,1,1,
+215,,34,0,<eps>,1,1,0,<eps>,,,,1,1,
+216,,35,2,<eps>,1.775277999999999997684548766E-22,1,0,<eps>,,,,11,11,
+217,,36,0,<eps>,1,1,0,<eps>,,,,1,1,
+218,,37,0,<eps>,1,1,0,<eps>,,,,1,1,
+219,,38,0,<eps>,1,1,0,<eps>,,,,1,1,
+220,,39,0,<eps>,1,1,0,<eps>,,,,1,1,
+221,,40,0,<eps>,1,1,0,<eps>,,,,1,1,
+222,,41,0,<eps>,0.0007836990394321231053551669916,1,0,<eps>,,,,13,13,
+223,,42,0,<eps>,1,1,0,<eps>,,,,1,1,
+224,,43,0,<eps>,0.0007842158445890446006222078647,1,0,<eps>,,,,9,9,
+225,,44,0,<eps>,1,1,0,<eps>,,,,1,1,
+226,,45,0,<eps>,0.0007836990595611286480239237036,1,0,<eps>,,,,7,7,
+227,,46,0,<eps>,1,1,0,<eps>,,,,1,1,
+228,,47,0,<eps>,0.0007836990595611286480239237036,1,0,<eps>,,,,10,10,
+229,,48,0,<eps>,1,1,0,<eps>,,,,1,1,
+230,,49,0,<eps>,1,1,0,<eps>,,,,1,1,
+231,,50,0,<eps>,1,1,0,<eps>,,,,1,1,
+232,,51,0,<eps>,0.0007836990595611286480239237036,1,0,<eps>,,,,10,10,
+233,,52,0,<eps>,1,1,0,<eps>,,,,1,1,
+234,,53,0,<eps>,1,1,0,<eps>,,,,1,1,
+235,,54,0,<eps>,1,1,0,<eps>,,,,1,1,

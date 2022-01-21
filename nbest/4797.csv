@@ -1,0 +1,33 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,api,1,1,0,api,api,,conj.,3,3,shr_new_nbest/new_23/1927.csv
+1,1,1,0,api,1,1,0,api,api,,prep.,3,3,shr_new_nbest/new_23/1927.csv
+2,0,1,1,apitu,1.292268E-34,1,0,api,api,,conj.,3,3,shr_new_nbest/new_23/1928.csv
+3,1,1,1,apitu,1.292268E-34,1,0,api,api,,prep.,3,3,shr_new_nbest/new_23/1928.csv
+4,2,1,1,apitu,1.292268E-34,1,3,tu,tu,,conj.,2,5,shr_new_nbest/new_23/1928.csv
+5,2,3,1,tu,0.9600000000000000024576000000,1,0,tu,tu,,conj.,2,2,shr_new_nbest/new_23/1927.csv
+6,3,5,1,punaH,0.9600000000000000024576000000,1,0,punaḥ,punar,,adv.,5,5,shr_new_nbest/new_23/1927.csv
+7,4,5,1,punaH,0.9600000000000000024576000000,1,0,punaḥ,punar,,conj.,5,5,shr_new_nbest/new_23/1927.csv
+8,5,7,0,kadAcit,1,1,0,kadācit,kadācit,,adv.,7,7,shr_new_nbest/new_23/1927.csv
+9,6,7,0,kadAcit,1,2,0,kadā,kadā,,adv.,4,4,shr_new_nbest/new_23/1927.csv
+10,7,7,0,kadAcit,1,2,4,cit,cit,,m. sg. nom.,3,7,shr_new_nbest/new_23/1927.csv
+11,8,7,0,kadAcit,1,2,4,cit,cit,,n. sg. acc.,3,7,shr_new_nbest/new_23/1927.csv
+12,9,7,0,kadAcit,1,2,4,cit,cit,,n. sg. nom.,3,7,shr_new_nbest/new_23/1927.csv
+13,10,7,0,kadAcit,1,2,4,cit,cit,,f. sg. nom.,3,7,shr_new_nbest/new_23/1927.csv
+14,11,7,0,kadAcit,1,3,3,acit,acit,,m. sg. nom.,4,7,shr_new_nbest/new_23/1927.csv
+15,12,7,0,kadAcit,1,3,3,acit,acit,,n. sg. acc.,4,7,shr_new_nbest/new_23/1927.csv
+16,13,7,0,kadAcit,1,3,3,acit,acit,,n. sg. nom.,4,7,shr_new_nbest/new_23/1927.csv
+17,14,7,0,kadAcit,1,3,3,acit,acit,,f. sg. nom.,4,7,shr_new_nbest/new_23/1927.csv
+18,15,7,0,kadAcit,1,4,3,acit,acit,,m. sg. voc.,4,7,shr_new_nbest/new_23/1927.csv
+19,16,7,0,kadAcit,1,4,3,acit,acit,,n. sg. voc.,4,7,shr_new_nbest/new_23/1927.csv
+20,17,7,0,kadAcit,1,4,3,acit,acit,,f. sg. voc.,4,7,shr_new_nbest/new_23/1927.csv
+21,18,7,0,kadAcit,1,5,3,a,a,,iic.,1,4,shr_new_nbest/new_23/1927.csv
+22,19,7,0,kadAcit,1,5,4,cit,cit,,m. sg. voc.,3,7,shr_new_nbest/new_23/1927.csv
+23,20,7,0,kadAcit,1,5,4,cit,cit,,n. sg. voc.,3,7,shr_new_nbest/new_23/1927.csv
+24,21,7,0,kadAcit,1,5,4,cit,cit,,f. sg. voc.,3,7,shr_new_nbest/new_23/1927.csv
+25,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+26,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+27,,3,0,<eps>,0.03999999999999999754240000000,1,0,<eps>,,,,2,2,
+28,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+29,,5,0,<eps>,0.03999999999999999754240000000,1,0,<eps>,,,,5,5,
+30,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+31,,8,0,<eps>,1,1,0,<eps>,,,,1,1,

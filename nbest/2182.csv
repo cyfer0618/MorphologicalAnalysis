@@ -1,0 +1,29 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,etatsarvam,0.9999999999997700727000000529,1,0,etat,etad,,adv.,4,4,shr_new_nbest/new_11/929.csv
+1,1,1,0,etatsarvam,0.9999999999997700727000000529,1,4,sarvam,sarva,,m. sg. acc.,6,10,shr_new_nbest/new_11/929.csv
+2,2,1,0,etatsarvam,0.9999999999997700727000000529,1,4,sarvam,sarva,,n. sg. acc.,6,10,shr_new_nbest/new_11/929.csv
+3,3,1,0,etatsarvam,0.9999999999997700727000000529,1,4,sarvam,sarva,,n. sg. nom.,6,10,shr_new_nbest/new_11/929.csv
+4,9,1,0,etatsarvam,0.9999999999997700727000000529,2,0,etat,etad,,iic.,4,4,shr_new_nbest/new_11/929.csv
+5,12,1,0,etatsarvam,0.9999999999997700727000000529,3,0,etat,etad,,n. sg. acc.,4,4,shr_new_nbest/new_11/929.csv
+6,13,1,0,etatsarvam,0.9999999999997700727000000529,3,0,etat,etad,,n. sg. nom.,4,4,shr_new_nbest/new_11/929.csv
+7,0,1,1,etat,2.299272999999471334367147222E-13,1,0,etat,etad,,adv.,4,4,shr_new_nbest/new_11/930.csv
+8,9,1,1,etat,2.299272999999471334367147222E-13,2,0,etat,etad,,n. sg. acc.,4,4,shr_new_nbest/new_11/930.csv
+9,10,1,1,etat,2.299272999999471334367147222E-13,2,0,etat,etad,,n. sg. nom.,4,4,shr_new_nbest/new_11/930.csv
+10,1,2,1,sarvam,2.299272999999471334367147222E-13,1,0,sarvam,sarva,,m. sg. acc.,6,6,shr_new_nbest/new_11/930.csv
+11,2,2,1,sarvam,2.299272999999471334367147222E-13,1,0,sarvam,sarva,,n. sg. acc.,6,6,shr_new_nbest/new_11/930.csv
+12,3,2,1,sarvam,2.299272999999471334367147222E-13,1,0,sarvam,sarva,,n. sg. nom.,6,6,shr_new_nbest/new_11/930.csv
+13,4,3,1,kim,0.9655172413793103488228299643,1,0,kim,kim,,n. sg. acc.,3,3,shr_new_nbest/new_11/929.csv
+14,5,3,1,kim,0.9655172413793103488228299643,1,0,kim,kim,,n. sg. nom.,3,3,shr_new_nbest/new_11/929.csv
+15,4,3,2,Kim,2.815372643468000011649817835E-68,1,0,khim,khim,,?,4,3,shr_new_nbest/new_11/932.csv
+16,6,5,1,icCati,0.9655172413793103488228299643,1,0,icchati,iṣ,,pr. [6] ac. sg. 3,7,6,shr_new_nbest/new_11/929.csv
+17,10,5,1,icCati,0.9655172413793103488228299643,2,0,icchati,icchat,,n. sg. loc.,7,6,shr_new_nbest/new_11/929.csv
+18,11,5,1,icCati,0.9655172413793103488228299643,2,0,icchati,icchat,,m. sg. loc.,7,6,shr_new_nbest/new_11/929.csv
+19,7,7,0,BavAn,1,1,0,bhavān,bhava,,m. pl. acc.,6,5,shr_new_nbest/new_11/929.csv
+20,8,7,0,BavAn,1,1,0,bhavān,bhavat,,m. sg. nom.,6,5,shr_new_nbest/new_11/929.csv
+21,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+22,,2,0,<eps>,0.9999999999997700727000000529,1,0,<eps>,,,,6,6,
+23,,3,0,<eps>,0.03448275862068965117717003567,1,0,<eps>,,,,3,3,
+24,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+25,,5,0,<eps>,0.03448275862068965117717003567,1,0,<eps>,,,,6,6,
+26,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+27,,8,0,<eps>,1,1,0,<eps>,,,,1,1,

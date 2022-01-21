@@ -1,0 +1,40 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,tasya,1,1,0,tasya,tad,,n. sg. g.,5,5,shr_new_nbest/new_12/1361.csv
+1,1,1,0,tasya,1,1,0,tasya,tad,,m. sg. g.,5,5,shr_new_nbest/new_12/1361.csv
+2,2,3,0,muKe,1,1,0,mukhe,mukha,,n. du. acc.,5,4,shr_new_nbest/new_12/1361.csv
+3,3,3,0,muKe,1,1,0,mukhe,mukha,,n. du. nom.,5,4,shr_new_nbest/new_12/1361.csv
+4,4,3,0,muKe,1,1,0,mukhe,mukha,,n. sg. loc.,5,4,shr_new_nbest/new_12/1361.csv
+5,16,3,0,muKe,1,2,0,mukhe,mukha,,n. du. voc.,5,4,shr_new_nbest/new_12/1361.csv
+6,5,5,0,dIrGam,1,1,0,dīrgham,dīrgha,,m. sg. acc.,7,6,shr_new_nbest/new_12/1361.csv
+7,6,5,0,dIrGam,1,1,0,dīrgham,dīrgha,,n. sg. acc.,7,6,shr_new_nbest/new_12/1361.csv
+8,7,5,0,dIrGam,1,1,0,dīrgham,dīrgha,,n. sg. nom.,7,6,shr_new_nbest/new_12/1361.csv
+9,8,7,1,Svetam,0.9714285714285714285159183673,1,0,śvetam,śveta,,m. sg. acc.,6,6,shr_new_nbest/new_12/1361.csv
+10,9,7,1,Svetam,0.9714285714285714285159183673,1,0,śvetam,śveta,,n. sg. acc.,6,6,shr_new_nbest/new_12/1361.csv
+11,10,7,1,Svetam,0.9714285714285714285159183673,1,0,śvetam,śveta,,n. sg. nom.,6,6,shr_new_nbest/new_12/1361.csv
+12,17,7,1,Svetam,0.9714285714285714285159183673,2,0,śva,śvan,,iic.,3,3,shr_new_nbest/new_12/1361.csv
+13,19,7,1,Svetam,0.9714285714285714285159183673,3,0,śvā,śvan,,m. sg. nom.,3,3,shr_new_nbest/new_12/1361.csv
+14,20,7,1,Svetam,0.9714285714285714285159183673,4,2,etam,ā-ita,,n. sg. acc.,4,6,shr_new_nbest/new_12/1361.csv
+15,21,7,1,Svetam,0.9714285714285714285159183673,4,2,etam,ā-ita,,n. sg. nom.,4,6,shr_new_nbest/new_12/1361.csv
+16,22,7,1,Svetam,0.9714285714285714285159183673,4,2,etam,ā-ita,,m. sg. acc.,4,6,shr_new_nbest/new_12/1361.csv
+17,23,7,1,Svetam,0.9714285714285714285159183673,5,2,itam,ita,,m. sg. acc.,4,6,shr_new_nbest/new_12/1361.csv
+18,24,7,1,Svetam,0.9714285714285714285159183673,5,2,itam,ita,,n. sg. acc.,4,6,shr_new_nbest/new_12/1361.csv
+19,25,7,1,Svetam,0.9714285714285714285159183673,5,2,itam,ita,,n. sg. nom.,4,6,shr_new_nbest/new_12/1361.csv
+20,26,7,1,Svetam,0.9714285714285714285159183673,6,2,etam,ā-i,,imp. [2] ac. du. 2,4,6,shr_new_nbest/new_12/1361.csv
+21,27,7,1,Svetam,0.9714285714285714285159183673,7,2,itam,i,,imp. [2] ac. du. 2,4,6,shr_new_nbest/new_12/1361.csv
+22,11,9,1,SmaSru,0.9714285714285714285159183673,1,0,śmaśru,śmaśru,,n. sg. acc.,6,6,shr_new_nbest/new_12/1361.csv
+23,12,9,1,SmaSru,0.9714285714285714285159183673,1,0,śmaśru,śmaśru,,n. sg. nom.,6,6,shr_new_nbest/new_12/1361.csv
+24,18,9,1,SmaSru,0.9714285714285714285159183673,2,0,śmaśru,śmaśru,,n. sg. voc.,6,6,shr_new_nbest/new_12/1361.csv
+25,11,9,2,kzmaSru,1.329540810398685714209740525E-58,1,0,kṣmaśru,kṣmaśru,,?,7,7,shr_new_nbest/new_12/1362.csv
+26,13,12,0,AsIt,1,1,0,āsīt,ās,,inj. [5] ac. sg. 3,4,4,shr_new_nbest/new_12/1361.csv
+27,14,12,0,AsIt,1,1,0,āsīt,ās,,aor. [5] ac. sg. 3,4,4,shr_new_nbest/new_12/1361.csv
+28,15,12,0,AsIt,1,1,0,āsīt,as,,impft. [2] ac. sg. 3,4,4,shr_new_nbest/new_12/1361.csv
+29,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+30,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+31,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+32,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+33,,7,0,<eps>,0.02857142857142857148408163265,1,0,<eps>,,,,6,6,
+34,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+35,,9,0,<eps>,0.02857142857142857148408163265,1,0,<eps>,,,,7,7,
+36,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+37,,11,0,<eps>,1,1,0,<eps>,,,,1,1,
+38,,13,0,<eps>,1,1,0,<eps>,,,,1,1,

@@ -1,0 +1,43 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,nArAyaRo,1,1,0,nārāḥ,nāra,,m. pl. nom.,5,5,shr_new_nbest/new_16/1999.csv
+1,1,1,0,nArAyaRo,1,1,5,aṇo,aṇu,,m. sg. voc.,3,8,shr_new_nbest/new_16/1999.csv
+2,4,1,0,nArAyaRo,1,2,0,na,na,,part.,2,2,shr_new_nbest/new_16/1999.csv
+3,5,1,0,nArAyaRo,1,2,2,rāḥ,rai,,m. sg. nom.,3,5,shr_new_nbest/new_16/1999.csv
+4,6,1,0,nArAyaRo,1,2,2,rāḥ,rai,,f. sg. nom.,3,5,shr_new_nbest/new_16/1999.csv
+5,7,1,0,nArAyaRo,1,3,0,nā,nṛ,,m. sg. nom.,2,2,shr_new_nbest/new_16/1999.csv
+6,8,1,0,nArAyaRo,1,4,1,arāḥ,ara,,m. pl. nom.,4,5,shr_new_nbest/new_16/1999.csv
+7,9,1,0,nArAyaRo,1,4,1,arāḥ,ara,,f. pl. acc.,4,5,shr_new_nbest/new_16/1999.csv
+8,10,1,0,nArAyaRo,1,4,1,arāḥ,ara,,f. pl. nom.,4,5,shr_new_nbest/new_16/1999.csv
+9,11,1,0,nArAyaRo,1,5,1,ārāḥ,āra,,m. pl. nom.,4,5,shr_new_nbest/new_16/1999.csv
+10,12,1,0,nArAyaRo,1,5,1,ārāḥ,āra,,f. pl. acc.,4,5,shr_new_nbest/new_16/1999.csv
+11,13,1,0,nArAyaRo,1,5,1,ārāḥ,āra,,f. pl. nom.,4,5,shr_new_nbest/new_16/1999.csv
+12,14,1,0,nArAyaRo,1,6,1,arāḥ,rā,,impft. [2] ac. sg. 2,4,5,shr_new_nbest/new_16/1999.csv
+13,15,1,0,nArAyaRo,1,7,1,a,a,,iic.,1,2,shr_new_nbest/new_16/1999.csv
+14,0,1,1,nArAyaRoऽDvanimakarot,3.0183114712302481571745156E-29,1,0,nārāyaṇaḥ,nārāyaṇa,,m. sg. nom.,9,9,shr_new_nbest/new_17/1.csv
+15,1,1,1,nArAyaRoऽDvanimakarot,3.0183114712302481571745156E-29,1,9,dhvanim,dhvani,,m. sg. acc.,7,15,shr_new_nbest/new_17/1.csv
+16,2,1,1,nArAyaRoऽDvanimakarot,3.0183114712302481571745156E-29,1,15,akarot,kṛ,,impft. [8] ac. sg. 3,6,21,shr_new_nbest/new_17/1.csv
+17,3,1,1,nArAyaRoऽDvanimakarot,3.0183114712302481571745156E-29,2,8,a,a,,iic.,1,9,shr_new_nbest/new_17/1.csv
+18,0,1,2,nArAyaRoDvanimakarot,1.0137676375145571999096852E-40,1,0,nārāyaṇaḥ,nārāyaṇa,,m. sg. nom.,9,9,shr_new_nbest/new_17/5.csv
+19,1,1,2,nArAyaRoDvanimakarot,1.0137676375145571999096852E-40,1,14,akarot,kṛ,,impft. [8] ac. sg. 3,6,20,shr_new_nbest/new_17/5.csv
+20,2,1,2,nArAyaRoDvanimakarot,1.0137676375145571999096852E-40,2,8,dhvanim,dhvani,,m. sg. acc.,7,14,shr_new_nbest/new_17/5.csv
+21,0,1,3,nArAyaRoऽpi,8.600301065538E-49,1,0,nārāyaṇaḥ,nārāyaṇa,,m. sg. nom.,9,9,shr_new_nbest/new_17/8.csv
+22,3,1,3,nArAyaRoऽpi,8.600301065538E-49,2,8,api,api,,ind.,3,11,shr_new_nbest/new_17/8.csv
+23,2,3,0,Dvanimakarot,0.9999999993216508300702613600,1,0,dhvanim,dhvani,,m. sg. acc.,7,6,shr_new_nbest/new_16/1999.csv
+24,3,3,0,Dvanimakarot,0.9999999993216508300702613600,1,6,akarot,kṛ,,impft. [8] ac. sg. 3,6,12,shr_new_nbest/new_16/1999.csv
+25,2,3,1,tvanimakarot,6.783491699297386387641590675E-10,1,0,tvanimakarot,tvanimakarot,,?,12,12,shr_new_nbest/new_17/0.csv
+26,2,3,3,Dvanimakaro,1.876510998727070320785976215E-29,1,0,dhvanim,dhvani,,m. sg. acc.,7,6,shr_new_nbest/new_17/7.csv
+27,3,3,3,Dvanimakaro,1.876510998727070320785976215E-29,1,6,a,a,,iic.,1,7,shr_new_nbest/new_17/7.csv
+28,4,3,3,Dvanimakaro,1.876510998727070320785976215E-29,1,7,karā,kara,,f. sg. nom.,4,11,shr_new_nbest/new_17/7.csv
+29,8,3,3,Dvanimakaro,1.876510998727070320785976215E-29,2,10,u,u,,ind.,1,11,shr_new_nbest/new_17/7.csv
+30,2,3,4,Dvani,2.146385609144795671251243321E-31,1,0,dhvani,dhvani,,?,6,5,shr_new_nbest/new_17/6.csv
+31,3,5,1,makarot,0.9743589743589743594740302423,1,0,makarot,makarot,,?,7,7,shr_new_nbest/new_17/6.csv
+32,2,5,2,Dvanim,1.205528564102564103182322339E-27,1,0,dhvanim,dhvani,,m. sg. acc.,7,6,shr_new_nbest/new_17/2.csv
+33,3,7,1,akarot,2.331930800000000041200714744E-18,1,0,akarot,kṛ,,impft. [8] ac. sg. 3,6,6,shr_new_nbest/new_17/2.csv
+34,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+35,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+36,,3,2,<eps>,1.237317338825902880360389472E-27,1,0,<eps>,,,,12,12,
+37,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+38,,5,0,<eps>,0.02564102564102564052596975671,1,0,<eps>,,,,7,7,
+39,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+40,,7,0,<eps>,0.9999999999999999976680692000,1,0,<eps>,,,,6,6,
+41,,8,0,<eps>,1,1,0,<eps>,,,,1,1,

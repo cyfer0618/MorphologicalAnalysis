@@ -1,0 +1,39 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,samayaSca,0.9999999999999999999999999960,1,0,samayaḥ,samaya,,m. sg. nom.,7,7,shr_new_nbest/new_8/385.csv
+1,1,1,0,samayaSca,0.9999999999999999999999999960,1,7,ca,ca,,conj.,2,9,shr_new_nbest/new_8/385.csv
+2,0,1,1,samayuSca,4.379330999999999999999999982E-27,1,0,samayuḥ,sam-yā,,impft. [2] ac. pl. 3,7,7,shr_new_nbest/new_8/387.csv
+3,1,1,1,samayuSca,4.379330999999999999999999982E-27,1,7,ca,ca,,conj.,2,9,shr_new_nbest/new_8/387.csv
+4,3,1,1,samayuSca,4.379330999999999999999999982E-27,2,0,sama,sama,,iic.,4,4,shr_new_nbest/new_8/387.csv
+5,4,1,1,samayuSca,4.379330999999999999999999982E-27,2,4,yuḥ,yu,,m. sg. nom.,3,7,shr_new_nbest/new_8/387.csv
+6,5,1,1,samayuSca,4.379330999999999999999999982E-27,2,4,yuḥ,yu,,f. sg. nom.,3,7,shr_new_nbest/new_8/387.csv
+7,0,1,2,samayaS,1.799414999999999999999999993E-33,1,0,samayaś,samayaś,,?,7,7,shr_new_nbest/new_8/392.csv
+8,0,1,3,samESca,1.762716713478451563972222768E-53,1,0,samaiḥ,sama,,m. pl. i.,6,5,shr_new_nbest/new_8/386.csv
+9,1,1,3,samESca,1.762716713478451563972222768E-53,1,0,samaiḥ,sama,,n. pl. i.,6,5,shr_new_nbest/new_8/386.csv
+10,2,1,3,samESca,1.762716713478451563972222768E-53,1,5,ca,ca,,conj.,2,7,shr_new_nbest/new_8/386.csv
+11,4,1,3,samESca,1.762716713478451563972222768E-53,2,0,samaiḥ,sam-i,,impft. [2] ac. sg. 2,6,5,shr_new_nbest/new_8/386.csv
+12,12,1,3,samESca,1.762716713478451563972222768E-53,3,0,samaiḥ,sam-ā-i,,impft. [2] ac. sg. 2,6,5,shr_new_nbest/new_8/386.csv
+13,14,1,3,samESca,1.762716713478451563972222768E-53,4,0,samā,samā,,f. sg. nom.,4,4,shr_new_nbest/new_8/386.csv
+14,15,1,3,samESca,1.762716713478451563972222768E-53,4,0,samā,sama,,f. sg. nom.,4,4,shr_new_nbest/new_8/386.csv
+15,18,1,3,samESca,1.762716713478451563972222768E-53,5,3,aiḥ,i,,impft. [2] ac. sg. 2,3,5,shr_new_nbest/new_8/386.csv
+16,1,3,1,ca,1.799415E-33,1,0,ca,ca,,conj.,2,2,shr_new_nbest/new_8/392.csv
+17,2,3,2,ha,1.71284E-34,1,0,ha,ha,,part.,2,2,shr_new_nbest/new_8/391.csv
+18,2,4,0,AsannaH,1,1,0,āsannaḥ,ā-sanna,,m. sg. nom.,7,7,shr_new_nbest/new_8/385.csv
+19,3,4,0,AsannaH,1,2,0,āsam,āsa,,m. sg. acc.,4,4,shr_new_nbest/new_8/385.csv
+20,4,4,0,AsannaH,1,2,0,āsam,āsa,,n. sg. acc.,4,4,shr_new_nbest/new_8/385.csv
+21,5,4,0,AsannaH,1,2,0,āsam,āsa,,n. sg. nom.,4,4,shr_new_nbest/new_8/385.csv
+22,6,4,0,AsannaH,1,2,0,āsam,āsa,,m. sg. acc.,4,4,shr_new_nbest/new_8/385.csv
+23,7,4,0,AsannaH,1,2,4,naḥ,asmad,,m. pl. g.,3,7,shr_new_nbest/new_8/385.csv
+24,8,4,0,AsannaH,1,2,4,naḥ,asmad,,m. pl. dat.,3,7,shr_new_nbest/new_8/385.csv
+25,9,4,0,AsannaH,1,2,4,naḥ,asmad,,m. pl. acc.,3,7,shr_new_nbest/new_8/385.csv
+26,10,4,0,AsannaH,1,3,0,āsat,as,,impft. [1] ac. sg. 3,4,4,shr_new_nbest/new_8/385.csv
+27,11,4,0,AsannaH,1,4,0,āsam,as,,impft. [2] ac. sg. 1,4,4,shr_new_nbest/new_8/385.csv
+28,12,4,0,AsannaH,1,4,0,āsam,as,,impft. [1] ac. sg. 1,4,4,shr_new_nbest/new_8/385.csv
+29,13,4,0,AsannaH,1,5,0,āsan,as,,impft. [2] ac. pl. 3,4,4,shr_new_nbest/new_8/385.csv
+30,14,4,0,AsannaH,1,5,0,āsan,as,,impft. [1] ac. pl. 3,4,4,shr_new_nbest/new_8/385.csv
+31,15,4,0,AsannaH,1,6,0,āsam,as,,abs.,4,4,shr_new_nbest/new_8/385.csv
+32,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+33,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+34,,3,0,<eps>,1,1,0,<eps>,,,,2,2,
+35,,5,0,<eps>,1,1,0,<eps>,,,,1,1,
+36,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+37,,7,0,<eps>,1,1,0,<eps>,,,,1,1,

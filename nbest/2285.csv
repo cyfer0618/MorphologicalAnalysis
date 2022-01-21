@@ -1,0 +1,60 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,mama,1,1,0,mama,asmad,,m. sg. g.,4,4,shr_new_nbest/new_11/1920.csv
+1,11,1,0,mama,1,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_11/1920.csv
+2,12,1,0,mama,1,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_11/1920.csv
+3,1,3,1,mAtA,0.9863013698630136955719796134,1,0,mātā,mātṛ,,f. sg. nom.,4,4,shr_new_nbest/new_11/1920.csv
+4,13,3,1,mAtA,0.9863013698630136955719796134,2,0,mātā,mā,,per. fut. ac. sg. 3,4,4,shr_new_nbest/new_11/1920.csv
+5,14,3,1,mAtA,0.9863013698630136955719796134,2,0,mātā,mā,,per. fut. ac. sg. 3,4,4,shr_new_nbest/new_11/1920.csv
+6,15,3,1,mAtA,0.9863013698630136955719796134,2,0,mātā,mā,,per. fut. ac. sg. 3,4,4,shr_new_nbest/new_11/1920.csv
+7,1,3,2,mahatA,3.977344109589041083558131409E-18,1,0,mahatā,mahat,,m. sg. i.,6,6,shr_new_nbest/new_11/1926.csv
+8,2,3,2,mahatA,3.977344109589041083558131409E-18,1,0,mahatā,mahat,,n. sg. i.,6,6,shr_new_nbest/new_11/1926.csv
+9,2,5,1,devatAste,0.6213666619709853922486286072,1,0,devatāḥ,devatā,,f. pl. acc.,7,7,shr_new_nbest/new_11/1920.csv
+10,3,5,1,devatAste,0.6213666619709853922486286072,1,0,devatāḥ,devatā,,f. pl. nom.,7,7,shr_new_nbest/new_11/1920.csv
+11,4,5,1,devatAste,0.6213666619709853922486286072,1,7,te,tad,,n. du. acc.,2,9,shr_new_nbest/new_11/1920.csv
+12,5,5,1,devatAste,0.6213666619709853922486286072,1,7,te,tad,,n. du. nom.,2,9,shr_new_nbest/new_11/1920.csv
+13,6,5,1,devatAste,0.6213666619709853922486286072,1,7,te,tad,,m. pl. nom.,2,9,shr_new_nbest/new_11/1920.csv
+14,7,5,1,devatAste,0.6213666619709853922486286072,1,7,te,tad,,f. du. acc.,2,9,shr_new_nbest/new_11/1920.csv
+15,8,5,1,devatAste,0.6213666619709853922486286072,1,7,te,tad,,f. du. nom.,2,9,shr_new_nbest/new_11/1920.csv
+16,9,5,1,devatAste,0.6213666619709853922486286072,1,7,te,yuṣmad,,m. sg. g.,2,9,shr_new_nbest/new_11/1920.csv
+17,10,5,1,devatAste,0.6213666619709853922486286072,1,7,te,yuṣmad,,m. sg. dat.,2,9,shr_new_nbest/new_11/1920.csv
+18,16,5,1,devatAste,0.6213666619709853922486286072,2,0,devatā,devatā,,iic.,6,6,shr_new_nbest/new_11/1920.csv
+19,17,5,1,devatAste,0.6213666619709853922486286072,3,0,devatā,devatā,,f. sg. nom.,6,6,shr_new_nbest/new_11/1920.csv
+20,18,5,1,devatAste,0.6213666619709853922486286072,4,5,aste,asta,,f. du. acc.,4,9,shr_new_nbest/new_11/1920.csv
+21,19,5,1,devatAste,0.6213666619709853922486286072,4,5,aste,asta,,f. du. nom.,4,9,shr_new_nbest/new_11/1920.csv
+22,20,5,1,devatAste,0.6213666619709853922486286072,4,5,aste,asta,,n. du. acc.,4,9,shr_new_nbest/new_11/1920.csv
+23,21,5,1,devatAste,0.6213666619709853922486286072,4,5,aste,asta,,n. du. nom.,4,9,shr_new_nbest/new_11/1920.csv
+24,22,5,1,devatAste,0.6213666619709853922486286072,4,5,aste,asta,,n. sg. loc.,4,9,shr_new_nbest/new_11/1920.csv
+25,23,5,1,devatAste,0.6213666619709853922486286072,4,5,aste,asta,,m. sg. loc.,4,9,shr_new_nbest/new_11/1920.csv
+26,24,5,1,devatAste,0.6213666619709853922486286072,5,5,aste,asta,,f. du. voc.,4,9,shr_new_nbest/new_11/1920.csv
+27,25,5,1,devatAste,0.6213666619709853922486286072,5,5,aste,asta,,f. sg. voc.,4,9,shr_new_nbest/new_11/1920.csv
+28,26,5,1,devatAste,0.6213666619709853922486286072,5,5,aste,asta,,n. du. voc.,4,9,shr_new_nbest/new_11/1920.csv
+29,27,5,1,devatAste,0.6213666619709853922486286072,6,5,āste,ās,,pr. [2] md. sg. 3,4,9,shr_new_nbest/new_11/1920.csv
+30,2,5,2,devatA,0.2033718918917593042071765844,1,0,devatā,devatā,,f. sg. nom.,6,6,shr_new_nbest/new_11/1921.csv
+31,2,5,3,devatAsti,0.1613528414938521745149088678,1,0,devatā,devatā,,f. sg. nom.,6,6,shr_new_nbest/new_11/1923.csv
+32,8,5,3,devatAsti,0.1613528414938521745149088678,2,5,asti,as,,pr. [2] ac. sg. 3,4,9,shr_new_nbest/new_11/1923.csv
+33,2,5,4,devatAasti,0.0002099744066737571140746046589,1,0,devatā asti,devatā,,?,11,10,shr_new_nbest/new_11/1925.csv
+34,2,5,5,devatAAste,1.407068343844769804848021573E-20,1,0,devatā āste,devatā,,?,11,10,shr_new_nbest/new_11/1928.csv
+35,2,5,6,devatAstaTA,3.559565416362448460840617678E-29,1,0,devatāḥ,devatā,,f. pl. acc.,7,7,shr_new_nbest/new_11/1929.csv
+36,3,5,6,devatAstaTA,3.559565416362448460840617678E-29,1,0,devatāḥ,devatā,,f. pl. nom.,7,7,shr_new_nbest/new_11/1929.csv
+37,4,5,6,devatAstaTA,3.559565416362448460840617678E-29,1,7,tathā,tathā,,ind.,5,11,shr_new_nbest/new_11/1929.csv
+38,3,6,1,s,2.773795999999999923060557504E-17,1,0,ḥ,s,,?,1,1,shr_new_nbest/new_11/1927.csv
+39,3,6,2,ste,2.795817166443999922449735270E-47,1,0,ste,ste,,?,3,3,shr_new_nbest/new_11/1924.csv
+40,3,6,3,sti,5.205217734640999855617878685E-60,1,0,sti,sti,,?,3,3,shr_new_nbest/new_11/1921.csv
+41,3,7,1,ste,0.7827713825225166606010393287,1,0,ste,ste,,?,3,3,shr_new_nbest/new_11/1924.csv
+42,3,7,2,sti,0.2032654703576240898428202419,1,0,sti,sti,,?,3,3,shr_new_nbest/new_11/1921.csv
+43,3,7,3,asti,0.0002645168572208285901879524178,1,0,asti,as,,pr. [2] ac. sg. 3,4,4,shr_new_nbest/new_11/1922.csv
+44,4,7,4,te,2.735798819614943620897300558E-17,1,0,te,tad,,n. du. acc.,2,2,shr_new_nbest/new_11/1927.csv
+45,5,7,4,te,2.735798819614943620897300558E-17,1,0,te,tad,,n. du. nom.,2,2,shr_new_nbest/new_11/1927.csv
+46,6,7,4,te,2.735798819614943620897300558E-17,1,0,te,tad,,m. pl. nom.,2,2,shr_new_nbest/new_11/1927.csv
+47,7,7,4,te,2.735798819614943620897300558E-17,1,0,te,tad,,f. du. acc.,2,2,shr_new_nbest/new_11/1927.csv
+48,8,7,4,te,2.735798819614943620897300558E-17,1,0,te,tad,,f. du. nom.,2,2,shr_new_nbest/new_11/1927.csv
+49,9,7,4,te,2.735798819614943620897300558E-17,1,0,te,yuṣmad,,m. sg. g.,2,2,shr_new_nbest/new_11/1927.csv
+50,10,7,4,te,2.735798819614943620897300558E-17,1,0,te,yuṣmad,,m. sg. dat.,2,2,shr_new_nbest/new_11/1927.csv
+51,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+52,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+53,,3,0,<eps>,0.01369863013698630045067627698,1,0,<eps>,,,,6,6,
+54,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+55,,5,0,<eps>,0.01369863023672937190114065300,1,0,<eps>,,,,11,11,
+56,,6,0,<eps>,0.9999999999999999722620400000,1,0,<eps>,,,,3,3,
+57,,7,0,<eps>,0.01369863026263839360796428083,1,0,<eps>,,,,4,4,
+58,,8,0,<eps>,1,1,0,<eps>,,,,1,1,

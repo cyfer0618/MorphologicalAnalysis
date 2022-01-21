@@ -1,0 +1,79 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,vaDUnAm,1,1,0,vadhūnām,vadhū,,f. pl. g.,8,7,shr_new_nbest/new_4/1928.csv
+1,1,1,0,vaDUnAm,1,1,0,vadhūnām,vadhu,,f. pl. g.,8,7,shr_new_nbest/new_4/1928.csv
+2,15,1,0,vaDUnAm,1,2,0,vadhu,vadhu,,iic.,5,4,shr_new_nbest/new_4/1928.csv
+3,16,1,0,vaDUnAm,1,2,0,vadhu,vadhū,,iic.,5,4,shr_new_nbest/new_4/1928.csv
+4,19,1,0,vaDUnAm,1,3,0,vadhū,vadhū,,iic.,5,4,shr_new_nbest/new_4/1928.csv
+5,20,1,0,vaDUnAm,1,4,0,vadhū,vadhu,,f. du. acc.,5,4,shr_new_nbest/new_4/1928.csv
+6,21,1,0,vaDUnAm,1,4,0,vadhū,vadhu,,f. du. nom.,5,4,shr_new_nbest/new_4/1928.csv
+7,22,1,0,vaDUnAm,1,5,3,ūnām,ūna,,f. sg. acc.,4,7,shr_new_nbest/new_4/1928.csv
+8,2,3,1,Sirasi,0.9902912621359223310585352060,1,0,śirasi,śiras,,n. sg. loc.,6,6,shr_new_nbest/new_4/1928.csv
+9,3,5,0,SuganDatElam,0.9999968247022272420306281053,1,0,śuk,śuc,,iic.,3,3,shr_new_nbest/new_4/1929.csv
+10,4,5,0,SuganDatElam,0.9999968247022272420306281053,1,3,andhatā,andhatā,,iic.,7,9,shr_new_nbest/new_4/1929.csv
+11,16,5,0,SuganDatElam,0.9999968247022272420306281053,2,0,śuk,śuc,,m. sg. nom.,3,3,shr_new_nbest/new_4/1929.csv
+12,17,5,0,SuganDatElam,0.9999968247022272420306281053,2,0,śuk,śuc,,n. sg. acc.,3,3,shr_new_nbest/new_4/1929.csv
+13,18,5,0,SuganDatElam,0.9999968247022272420306281053,2,0,śuk,śuc,,n. sg. nom.,3,3,shr_new_nbest/new_4/1929.csv
+14,19,5,0,SuganDatElam,0.9999968247022272420306281053,2,0,śuk,śuc,,f. sg. nom.,3,3,shr_new_nbest/new_4/1929.csv
+15,20,5,0,SuganDatElam,0.9999968247022272420306281053,2,3,andhatā,andhatā,,f. sg. nom.,7,9,shr_new_nbest/new_4/1929.csv
+16,23,5,0,SuganDatElam,0.9999968247022272420306281053,3,3,andha,andha,,iic.,5,7,shr_new_nbest/new_4/1929.csv
+17,24,5,0,SuganDatElam,0.9999968247022272420306281053,3,7,tailam,taila,,n. sg. acc.,6,12,shr_new_nbest/new_4/1929.csv
+18,25,5,0,SuganDatElam,0.9999968247022272420306281053,3,7,tailam,taila,,n. sg. nom.,6,12,shr_new_nbest/new_4/1929.csv
+19,28,5,0,SuganDatElam,0.9999968247022272420306281053,4,7,tailam,taila,,m. sg. acc.,6,12,shr_new_nbest/new_4/1929.csv
+20,30,5,0,SuganDatElam,0.9999968247022272420306281053,5,8,elam,elā,,m. sg. acc.,4,12,shr_new_nbest/new_4/1929.csv
+21,31,5,0,SuganDatElam,0.9999968247022272420306281053,6,8,ailam,il,,impft. [6] ac. sg. 1,5,12,shr_new_nbest/new_4/1929.csv
+22,3,5,2,Su,3.450948128280113255822698567E-12,1,0,śu,śu,,?,2,2,shr_new_nbest/new_4/1931.csv
+23,3,5,3,suganDatElam,6.507759160756656075669440470E-13,1,0,sugandha,sugandha,,iic.,8,7,shr_new_nbest/new_4/1928.csv
+24,4,5,3,suganDatElam,6.507759160756656075669440470E-13,1,7,tailam,taila,,n. sg. acc.,6,12,shr_new_nbest/new_4/1928.csv
+25,5,5,3,suganDatElam,6.507759160756656075669440470E-13,1,7,tailam,taila,,n. sg. nom.,6,12,shr_new_nbest/new_4/1928.csv
+26,17,5,3,suganDatElam,6.507759160756656075669440470E-13,2,7,tailam,taila,,m. sg. acc.,6,12,shr_new_nbest/new_4/1928.csv
+27,3,5,4,SruganDatElam,4.316587106629654198888699325E-13,1,0,śrugandhatailam,śrugandhatailam,,?,15,13,shr_new_nbest/new_4/1932.csv
+28,3,5,5,SyuganDatElam,3.513101789710714291602667769E-20,1,0,śyugandhatailam,śyugandhatailam,,?,15,13,shr_new_nbest/new_4/1935.csv
+29,4,7,1,ganDatElam,0.9902881174431945901073763250,1,0,gandha,gandha,,iic.,6,5,shr_new_nbest/new_4/1931.csv
+30,5,7,1,ganDatElam,0.9902881174431945901073763250,1,5,tailam,taila,,n. sg. acc.,6,10,shr_new_nbest/new_4/1931.csv
+31,6,7,1,ganDatElam,0.9902881174431945901073763250,1,5,tailam,taila,,n. sg. nom.,6,10,shr_new_nbest/new_4/1931.csv
+32,18,7,1,ganDatElam,0.9902881174431945901073763250,2,5,tailam,taila,,m. sg. acc.,6,10,shr_new_nbest/new_4/1931.csv
+33,3,7,2,suganDatElam,0.000003144455086675656609761071455,1,0,sugandha,sugandha,,iic.,8,7,shr_new_nbest/new_4/1928.csv
+34,4,7,2,suganDatElam,0.000003144455086675656609761071455,1,7,tailam,taila,,n. sg. acc.,6,12,shr_new_nbest/new_4/1928.csv
+35,5,7,2,suganDatElam,0.000003144455086675656609761071455,1,7,tailam,taila,,n. sg. nom.,6,12,shr_new_nbest/new_4/1928.csv
+36,17,7,2,suganDatElam,0.000003144455086675656609761071455,2,7,tailam,taila,,m. sg. acc.,6,12,shr_new_nbest/new_4/1928.csv
+37,6,11,0,suvAsinIBiH,1,1,0,suva,sū,,imp. [6] ac. sg. 2,4,4,shr_new_nbest/new_4/1928.csv
+38,7,11,0,suvAsinIBiH,1,1,6,nībhiḥ,nī,,m. pl. i.,6,11,shr_new_nbest/new_4/1928.csv
+39,8,11,0,suvAsinIBiH,1,1,6,nībhiḥ,nī,,f. pl. i.,6,11,shr_new_nbest/new_4/1928.csv
+40,18,11,0,suvAsinIBiH,1,2,3,asi,asi,,iic.,3,6,shr_new_nbest/new_4/1928.csv
+41,9,19,0,nikziptam,1,1,0,nikṣiptam,ni-kṣipta,,n. sg. acc.,9,9,shr_new_nbest/new_4/1928.csv
+42,10,19,0,nikziptam,1,1,0,nikṣiptam,ni-kṣipta,,n. sg. nom.,9,9,shr_new_nbest/new_4/1928.csv
+43,11,19,0,nikziptam,1,1,0,nikṣiptam,ni-kṣipta,,m. sg. acc.,9,9,shr_new_nbest/new_4/1928.csv
+44,9,19,1,nikziptamAsIt,1.457503728500630593034719026E-31,1,0,nikṣiptam,ni-kṣipta,,n. sg. acc.,9,9,shr_new_nbest/new_4/1936.csv
+45,10,19,1,nikziptamAsIt,1.457503728500630593034719026E-31,1,0,nikṣiptam,ni-kṣipta,,n. sg. nom.,9,9,shr_new_nbest/new_4/1936.csv
+46,11,19,1,nikziptamAsIt,1.457503728500630593034719026E-31,1,0,nikṣiptam,ni-kṣipta,,m. sg. acc.,9,9,shr_new_nbest/new_4/1936.csv
+47,12,19,1,nikziptamAsIt,1.457503728500630593034719026E-31,1,9,āsīt,ās,,inj. [5] ac. sg. 3,4,13,shr_new_nbest/new_4/1936.csv
+48,13,19,1,nikziptamAsIt,1.457503728500630593034719026E-31,1,9,āsīt,ās,,aor. [5] ac. sg. 3,4,13,shr_new_nbest/new_4/1936.csv
+49,14,19,1,nikziptamAsIt,1.457503728500630593034719026E-31,1,9,āsīt,as,,impft. [2] ac. sg. 3,4,13,shr_new_nbest/new_4/1936.csv
+50,12,20,1,mAsIt,5.041695418383997572402130827E-16,1,0,mā,mā,,part.,2,2,shr_new_nbest/new_4/1933.csv
+51,17,20,1,mAsIt,5.041695418383997572402130827E-16,2,0,mā,asmad,,m. sg. acc.,2,2,shr_new_nbest/new_4/1933.csv
+52,19,20,1,mAsIt,5.041695418383997572402130827E-16,3,1,āsīt,ās,,inj. [5] ac. sg. 3,4,5,shr_new_nbest/new_4/1933.csv
+53,20,20,1,mAsIt,5.041695418383997572402130827E-16,3,1,āsīt,ās,,aor. [5] ac. sg. 3,4,5,shr_new_nbest/new_4/1933.csv
+54,21,20,1,mAsIt,5.041695418383997572402130827E-16,3,1,āsīt,as,,impft. [2] ac. sg. 3,4,5,shr_new_nbest/new_4/1933.csv
+55,12,21,1,AsIt,0.9902912621359223310585352060,1,0,āsīt,ās,,inj. [5] ac. sg. 3,4,4,shr_new_nbest/new_4/1928.csv
+56,13,21,1,AsIt,0.9902912621359223310585352060,1,0,āsīt,ās,,aor. [5] ac. sg. 3,4,4,shr_new_nbest/new_4/1928.csv
+57,14,21,1,AsIt,0.9902912621359223310585352060,1,0,āsīt,as,,impft. [2] ac. sg. 3,4,4,shr_new_nbest/new_4/1928.csv
+58,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+59,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+60,,3,0,<eps>,0.009708737864077668941464794043,1,0,<eps>,,,,6,6,
+61,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+62,,5,1,<eps>,0.000003175293239375179222132558715,1,0,<eps>,,,,13,13,
+63,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+64,,7,0,<eps>,0.009708738101718734236013913879,1,0,<eps>,,,,12,12,
+65,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+66,,9,0,<eps>,1,1,0,<eps>,,,,1,1,
+67,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+68,,12,0,<eps>,1,1,0,<eps>,,,,1,1,
+69,,13,0,<eps>,1,1,0,<eps>,,,,1,1,
+70,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+71,,15,0,<eps>,1,1,0,<eps>,,,,1,1,
+72,,16,0,<eps>,1,1,0,<eps>,,,,1,1,
+73,,17,0,<eps>,1,1,0,<eps>,,,,1,1,
+74,,18,0,<eps>,1,1,0,<eps>,,,,1,1,
+75,,20,0,<eps>,0.9999999999999994958304581620,1,0,<eps>,,,,5,5,
+76,,21,0,<eps>,0.009708737864077668941464794043,1,0,<eps>,,,,4,4,
+77,,22,0,<eps>,1,1,0,<eps>,,,,1,1,

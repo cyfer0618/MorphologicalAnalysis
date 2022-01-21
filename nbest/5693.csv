@@ -1,0 +1,43 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,tAn,0.9999999999999999985684970630,1,0,tān,tad,,m. pl. acc.,3,3,shr_new_nbest/new_28/696.csv
+1,0,1,1,tAnRaH,1.216797080628799998258151405E-18,1,0,tānṇaḥ,tānṇaḥ,,?,6,6,shr_new_nbest/new_28/700.csv
+2,0,1,2,tAnnaH,2.146987762215999996926580713E-19,1,0,tām,tad,,f. sg. acc.,3,3,shr_new_nbest/new_28/704.csv
+3,1,1,2,tAnnaH,2.146987762215999996926580713E-19,1,3,naḥ,asmad,,m. pl. g.,3,6,shr_new_nbest/new_28/704.csv
+4,2,1,2,tAnnaH,2.146987762215999996926580713E-19,1,3,naḥ,asmad,,m. pl. dat.,3,6,shr_new_nbest/new_28/704.csv
+5,3,1,2,tAnnaH,2.146987762215999996926580713E-19,1,3,naḥ,asmad,,m. pl. acc.,3,6,shr_new_nbest/new_28/704.csv
+6,10,1,2,tAnnaH,2.146987762215999996926580713E-19,2,0,tān,tad,,m. pl. acc.,3,3,shr_new_nbest/new_28/704.csv
+7,0,1,3,tAm,7.079981999999999989864984973E-24,1,0,tām,tad,,f. sg. acc.,3,3,shr_new_nbest/new_28/705.csv
+8,1,3,1,RaH,0.8400176736017465683343911038,1,0,ṇaḥ,ṇaḥ,,?,3,3,shr_new_nbest/new_28/696.csv
+9,1,3,2,naH,0.1482176193532706185524414665,1,0,naḥ,asmad,,m. pl. g.,3,3,shr_new_nbest/new_28/697.csv
+10,2,3,2,naH,0.1482176193532706185524414665,1,0,naḥ,asmad,,m. pl. dat.,3,3,shr_new_nbest/new_28/697.csv
+11,3,3,2,naH,0.1482176193532706185524414665,1,0,naḥ,asmad,,m. pl. acc.,3,3,shr_new_nbest/new_28/697.csv
+12,1,3,3,vaH,1.269060266589485169798606988E-22,1,0,vaḥ,yuṣmad,,m. pl. g.,3,3,shr_new_nbest/new_28/701.csv
+13,2,3,3,vaH,1.269060266589485169798606988E-22,1,0,vaḥ,yuṣmad,,m. pl. dat.,3,3,shr_new_nbest/new_28/701.csv
+14,3,3,3,vaH,1.269060266589485169798606988E-22,1,0,vaḥ,yuṣmad,,m. pl. acc.,3,3,shr_new_nbest/new_28/701.csv
+15,2,5,0,puruzAn,1,1,0,puruṣān,puruṣa,,m. pl. acc.,7,7,shr_new_nbest/new_28/696.csv
+16,3,7,1,so,0.9882352941176470595675806896,1,0,sā,tad,,f. sg. nom.,2,2,shr_new_nbest/new_28/696.csv
+17,8,7,1,so,0.9882352941176470595675806896,2,1,u,u,,ind.,1,2,shr_new_nbest/new_28/696.csv
+18,3,7,2,sO,3.214493223529411767126103332E-23,1,0,sau,sau,,?,3,2,shr_new_nbest/new_28/702.csv
+19,3,7,3,sa,3.348086823529411767226687159E-28,1,0,sa,sa,,?,2,2,shr_new_nbest/new_28/703.csv
+20,4,9,0,eva,0.9999999999999783243200000005,1,0,eva,eva,,prep.,3,3,shr_new_nbest/new_28/696.csv
+21,4,9,1,evajYAtum,2.167567999999953016489653761E-14,1,0,eva,eva,,prep.,3,3,shr_new_nbest/new_28/698.csv
+22,5,9,1,evajYAtum,2.167567999999953016489653761E-14,1,3,jñātum,jñā,,inf.,6,9,shr_new_nbest/new_28/698.csv
+23,5,11,1,jYAtum,0.9882352941176470595676124567,1,0,jñātum,jñā,,inf.,6,6,shr_new_nbest/new_28/696.csv
+24,6,13,0,samarTaH,1,1,0,samarthaḥ,samartha,,m. sg. nom.,9,8,shr_new_nbest/new_28/696.csv
+25,7,15,0,Bavati,1,1,0,bhavati,bhavat,,m. sg. loc.,7,6,shr_new_nbest/new_28/696.csv
+26,9,15,0,Bavati,1,2,0,bhavati,bhū,,pr. [1] ac. sg. 3,7,6,shr_new_nbest/new_28/696.csv
+27,10,15,0,Bavati,1,3,0,bhavati,bhavat,,n. sg. loc.,7,6,shr_new_nbest/new_28/696.csv
+28,11,15,0,Bavati,1,3,0,bhavati,bhavat,,m. sg. loc.,7,6,shr_new_nbest/new_28/696.csv
+29,12,15,0,Bavati,1,4,0,bhavati,bhavat,,f. sg. voc.,7,6,shr_new_nbest/new_28/696.csv
+30,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+31,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+32,,3,0,<eps>,0.01176470704498281311304052346,1,0,<eps>,,,,3,3,
+33,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+34,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+35,,7,0,<eps>,0.01176470588235294043238716507,1,0,<eps>,,,,2,2,
+36,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+37,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+38,,11,0,<eps>,0.01176470588235294043238754325,1,0,<eps>,,,,6,6,
+39,,12,0,<eps>,1,1,0,<eps>,,,,1,1,
+40,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+41,,16,0,<eps>,1,1,0,<eps>,,,,1,1,

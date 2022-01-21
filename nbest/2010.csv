@@ -1,0 +1,59 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,mama,1,1,0,mama,asmad,,m. sg. g.,4,4,shr_new_nbest/new_10/1302.csv
+1,13,1,0,mama,1,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_10/1302.csv
+2,14,1,0,mama,1,2,0,mama,mā,,pft. ac. pl. 2,4,4,shr_new_nbest/new_10/1302.csv
+3,1,3,0,samIpe,1,1,0,samīpe,samīpa,,m. sg. loc.,6,6,shr_new_nbest/new_10/1302.csv
+4,2,3,0,samIpe,1,1,0,samīpe,samīpa,,n. du. acc.,6,6,shr_new_nbest/new_10/1302.csv
+5,3,3,0,samIpe,1,1,0,samīpe,samīpa,,n. du. nom.,6,6,shr_new_nbest/new_10/1302.csv
+6,4,3,0,samIpe,1,1,0,samīpe,samīpa,,n. sg. loc.,6,6,shr_new_nbest/new_10/1302.csv
+7,5,3,0,samIpe,1,1,0,samīpe,samīpa,,f. du. acc.,6,6,shr_new_nbest/new_10/1302.csv
+8,6,3,0,samIpe,1,1,0,samīpe,samīpa,,f. du. nom.,6,6,shr_new_nbest/new_10/1302.csv
+9,15,3,0,samIpe,1,2,0,samīpe,samīpa,,n. du. voc.,6,6,shr_new_nbest/new_10/1302.csv
+10,16,3,0,samIpe,1,2,0,samīpe,samīpa,,f. du. voc.,6,6,shr_new_nbest/new_10/1302.csv
+11,17,3,0,samIpe,1,2,0,samīpe,samīpa,,f. sg. voc.,6,6,shr_new_nbest/new_10/1302.csv
+12,7,5,0,paYca,1,1,0,pañca,pañcan,,m. pl. acc.,5,5,shr_new_nbest/new_10/1302.csv
+13,8,5,0,paYca,1,1,0,pañca,pañcan,,m. pl. nom.,5,5,shr_new_nbest/new_10/1302.csv
+14,9,6,1,bAdara,1.905406990416266530556997844E-39,1,0,bādara,bādara,,m. sg. voc.,6,6,shr_new_nbest/new_10/1304.csv
+15,10,6,1,bAdara,1.905406990416266530556997844E-39,1,0,bādara,bādara,,n. sg. voc.,6,6,shr_new_nbest/new_10/1304.csv
+16,9,6,2,bAdaraPalAni,5.4349347573877353367042288E-56,1,0,bādara,bādara,,iic.,6,6,shr_new_nbest/new_10/1303.csv
+17,10,6,2,bAdaraPalAni,5.4349347573877353367042288E-56,1,6,phalāni,phala,,n. pl. acc.,7,12,shr_new_nbest/new_10/1303.csv
+18,11,6,2,bAdaraPalAni,5.4349347573877353367042288E-56,1,6,phalāni,phala,,n. pl. nom.,7,12,shr_new_nbest/new_10/1303.csv
+19,18,6,2,bAdaraPalAni,5.4349347573877353367042288E-56,2,6,phalāni,phala,,n. pl. voc.,7,12,shr_new_nbest/new_10/1303.csv
+20,9,7,1,badaraPalAni,0.9868419831837093441229417778,1,0,badara,badara,,iic.,6,6,shr_new_nbest/new_10/1302.csv
+21,10,7,1,badaraPalAni,0.9868419831837093441229417778,1,6,phalāni,phala,,n. pl. acc.,7,12,shr_new_nbest/new_10/1302.csv
+22,11,7,1,badaraPalAni,0.9868419831837093441229417778,1,6,phalāni,phala,,n. pl. nom.,7,12,shr_new_nbest/new_10/1302.csv
+23,18,7,1,badaraPalAni,0.9868419831837093441229417778,2,6,phalāni,phala,,n. pl. voc.,7,12,shr_new_nbest/new_10/1302.csv
+24,9,7,2,bAdaraPalAni,1.833727368171587002510876515E-11,1,0,bādara,bādara,,iic.,6,6,shr_new_nbest/new_10/1303.csv
+25,10,7,2,bAdaraPalAni,1.833727368171587002510876515E-11,1,6,phalāni,phala,,n. pl. acc.,7,12,shr_new_nbest/new_10/1303.csv
+26,11,7,2,bAdaraPalAni,1.833727368171587002510876515E-11,1,6,phalāni,phala,,n. pl. nom.,7,12,shr_new_nbest/new_10/1303.csv
+27,18,7,2,bAdaraPalAni,1.833727368171587002510876515E-11,2,6,phalāni,phala,,n. pl. voc.,7,12,shr_new_nbest/new_10/1303.csv
+28,9,7,3,bAdara,3.770048565185108072331304133E-12,1,0,bādara,bādara,,m. sg. voc.,6,6,shr_new_nbest/new_10/1304.csv
+29,10,7,3,bAdara,3.770048565185108072331304133E-12,1,0,bādara,bādara,,n. sg. voc.,6,6,shr_new_nbest/new_10/1304.csv
+30,9,7,4,bADara,3.651636573745386531968087842E-18,1,0,bādhara,bādhara,,?,7,6,shr_new_nbest/new_10/1305.csv
+31,9,7,5,bodara,1.606470149970725173713409292E-24,1,0,bodara,bodara,,?,6,6,shr_new_nbest/new_10/1309.csv
+32,9,7,6,bAdaram,2.304050440690392381728886504E-25,1,0,bādaram,bādara,,m. sg. acc.,7,7,shr_new_nbest/new_10/1308.csv
+33,10,7,6,bAdaram,2.304050440690392381728886504E-25,1,0,bādaram,bādara,,n. sg. acc.,7,7,shr_new_nbest/new_10/1308.csv
+34,11,7,6,bAdaram,2.304050440690392381728886504E-25,1,0,bādaram,bādara,,n. sg. nom.,7,7,shr_new_nbest/new_10/1308.csv
+35,9,7,7,bAdaraH,3.235213868320383014170048770E-28,1,0,bādaraḥ,bādara,,m. sg. nom.,7,7,shr_new_nbest/new_10/1310.csv
+36,11,9,1,PalAni,0.9868421052631578940876038781,1,0,phalāni,phala,,n. pl. acc.,7,6,shr_new_nbest/new_10/1304.csv
+37,12,9,1,PalAni,0.9868421052631578940876038781,1,0,phalāni,phala,,n. pl. nom.,7,6,shr_new_nbest/new_10/1304.csv
+38,19,9,1,PalAni,0.9868421052631578940876038781,2,0,phalāni,phal,,imp. [1] ac. sg. 1,7,6,shr_new_nbest/new_10/1304.csv
+39,22,9,1,PalAni,0.9868421052631578940876038781,3,0,phalāni,phala,,n. pl. voc.,7,6,shr_new_nbest/new_10/1304.csv
+40,12,10,1,santi,8.8753790171929E-67,1,0,santi,as,,pr. [2] ac. pl. 3,5,5,shr_new_nbest/new_10/1302.csv
+41,19,10,1,santi,8.8753790171929E-67,2,0,santi,sat,,n. pl. acc.,5,5,shr_new_nbest/new_10/1302.csv
+42,20,10,1,santi,8.8753790171929E-67,2,0,santi,sat,,n. pl. nom.,5,5,shr_new_nbest/new_10/1302.csv
+43,21,10,1,santi,8.8753790171929E-67,3,0,santi,sat,,n. pl. voc.,5,5,shr_new_nbest/new_10/1302.csv
+44,12,11,1,santi,0.9868421052631578940876038781,1,0,santi,as,,pr. [2] ac. pl. 3,5,5,shr_new_nbest/new_10/1302.csv
+45,19,11,1,santi,0.9868421052631578940876038781,2,0,santi,sat,,n. pl. acc.,5,5,shr_new_nbest/new_10/1302.csv
+46,20,11,1,santi,0.9868421052631578940876038781,2,0,santi,sat,,n. pl. nom.,5,5,shr_new_nbest/new_10/1302.csv
+47,21,11,1,santi,0.9868421052631578940876038781,3,0,santi,sat,,n. pl. voc.,5,5,shr_new_nbest/new_10/1302.csv
+48,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+49,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+50,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+51,,6,0,<eps>,1,1,0,<eps>,,,,12,12,
+52,,7,0,<eps>,0.01315801679418332997851883414,1,0,<eps>,,,,12,12,
+53,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+54,,9,0,<eps>,0.01315789473684210591239612188,1,0,<eps>,,,,6,6,
+55,,10,0,<eps>,1,1,0,<eps>,,,,5,5,
+56,,11,0,<eps>,0.01315789473684210591239612188,1,0,<eps>,,,,5,5,
+57,,12,0,<eps>,1,1,0,<eps>,,,,1,1,

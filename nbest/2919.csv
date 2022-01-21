@@ -1,0 +1,101 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,tadA,0.9999999999999999988476030000,1,0,tadā,tadā,,adv.,4,4,shr_new_nbest/new_14/1969.csv
+1,0,1,1,tadAdIrGajIvI,1.152396999999999998671981154E-18,1,0,tadā,tadā,,adv.,4,4,shr_new_nbest/new_14/1972.csv
+2,1,1,1,tadAdIrGajIvI,1.152396999999999998671981154E-18,1,4,dīrgha,dīrgha,,iic.,6,9,shr_new_nbest/new_14/1972.csv
+3,2,1,1,tadAdIrGajIvI,1.152396999999999998671981154E-18,1,9,jīvī,jīvin,,m. sg. nom.,4,13,shr_new_nbest/new_14/1972.csv
+4,11,1,1,tadAdIrGajIvI,1.152396999999999998671981154E-18,2,0,tat,tad,,iic.,3,3,shr_new_nbest/new_14/1972.csv
+5,12,1,1,tadAdIrGajIvI,1.152396999999999998671981154E-18,2,3,ādīrgha,ādīrgha,,iic.,7,9,shr_new_nbest/new_14/1972.csv
+6,24,1,1,tadAdIrGajIvI,1.152396999999999998671981154E-18,3,0,tat,tad,,n. sg. acc.,3,3,shr_new_nbest/new_14/1972.csv
+7,25,1,1,tadAdIrGajIvI,1.152396999999999998671981154E-18,3,0,tat,tad,,n. sg. nom.,3,3,shr_new_nbest/new_14/1972.csv
+8,26,1,1,tadAdIrGajIvI,1.152396999999999998671981154E-18,3,3,a,a,,iic.,1,4,shr_new_nbest/new_14/1972.csv
+9,1,3,1,dIrGajIvI,0.9937888198757763975155279503,1,0,dīrgha,dīrgha,,iic.,6,5,shr_new_nbest/new_14/1969.csv
+10,2,3,1,dIrGajIvI,0.9937888198757763975155279503,1,5,jīvī,jīvin,,m. sg. nom.,4,9,shr_new_nbest/new_14/1969.csv
+11,3,7,0,avadad,0.9999999999997525465470109672,1,0,avadad,avadad,,?,6,6,shr_new_nbest/new_14/1969.csv
+12,3,7,1,avadan,2.474449999999387688803251288E-13,1,0,avadan,vad,,impft. [1] ac. pl. 3,6,6,shr_new_nbest/new_14/1970.csv
+13,11,7,1,avadan,2.474449999999387688803251288E-13,2,0,a,a,,iic.,1,1,shr_new_nbest/new_14/1970.csv
+14,12,7,1,avadan,2.474449999999387688803251288E-13,2,1,vadan,vadat,,m. sg. nom.,5,6,shr_new_nbest/new_14/1970.csv
+15,24,7,1,avadan,2.474449999999387688803251288E-13,3,1,vadan,vadat,,m. sg. voc.,5,6,shr_new_nbest/new_14/1970.csv
+16,3,7,2,avadat,8.452988071418279345723651924E-18,1,0,avadat,vad,,impft. [1] ac. sg. 3,6,6,shr_new_nbest/new_14/1971.csv
+17,11,7,2,avadat,8.452988071418279345723651924E-18,2,0,avat,avat,,iic.,4,4,shr_new_nbest/new_14/1971.csv
+18,12,7,2,avadat,8.452988071418279345723651924E-18,2,4,at,ad,,m. sg. nom.,2,6,shr_new_nbest/new_14/1971.csv
+19,13,7,2,avadat,8.452988071418279345723651924E-18,2,4,at,ad,,n. sg. acc.,2,6,shr_new_nbest/new_14/1971.csv
+20,14,7,2,avadat,8.452988071418279345723651924E-18,2,4,at,ad,,n. sg. nom.,2,6,shr_new_nbest/new_14/1971.csv
+21,15,7,2,avadat,8.452988071418279345723651924E-18,2,4,at,ad,,f. sg. nom.,2,6,shr_new_nbest/new_14/1971.csv
+22,27,7,2,avadat,8.452988071418279345723651924E-18,3,0,a,a,,iic.,1,1,shr_new_nbest/new_14/1971.csv
+23,28,7,2,avadat,8.452988071418279345723651924E-18,3,1,vadat,vadat,,n. sg. acc.,5,6,shr_new_nbest/new_14/1971.csv
+24,29,7,2,avadat,8.452988071418279345723651924E-18,3,1,vadat,vadat,,n. sg. nom.,5,6,shr_new_nbest/new_14/1971.csv
+25,33,7,2,avadat,8.452988071418279345723651924E-18,4,1,vadat,vadat,,n. sg. voc.,5,6,shr_new_nbest/new_14/1971.csv
+26,40,7,2,avadat,8.452988071418279345723651924E-18,5,4,at,ad,,m. sg. voc.,2,6,shr_new_nbest/new_14/1971.csv
+27,41,7,2,avadat,8.452988071418279345723651924E-18,5,4,at,ad,,n. sg. voc.,2,6,shr_new_nbest/new_14/1971.csv
+28,42,7,2,avadat,8.452988071418279345723651924E-18,5,4,at,ad,,f. sg. voc.,2,6,shr_new_nbest/new_14/1971.csv
+29,3,7,3,avada,1.023421000078609065134598996E-24,1,0,avada,avada,,?,5,5,shr_new_nbest/new_14/1974.csv
+30,3,7,4,adadat,1.224946159446096882843119334E-44,1,0,adadat,dā,,impft. [1] ac. sg. 3,6,6,shr_new_nbest/new_14/1975.csv
+31,11,7,4,adadat,1.224946159446096882843119334E-44,2,0,adat,adat,,iic.,4,4,shr_new_nbest/new_14/1975.csv
+32,12,7,4,adadat,1.224946159446096882843119334E-44,2,4,at,ad,,m. sg. nom.,2,6,shr_new_nbest/new_14/1975.csv
+33,13,7,4,adadat,1.224946159446096882843119334E-44,2,4,at,ad,,n. sg. acc.,2,6,shr_new_nbest/new_14/1975.csv
+34,14,7,4,adadat,1.224946159446096882843119334E-44,2,4,at,ad,,n. sg. nom.,2,6,shr_new_nbest/new_14/1975.csv
+35,15,7,4,adadat,1.224946159446096882843119334E-44,2,4,at,ad,,f. sg. nom.,2,6,shr_new_nbest/new_14/1975.csv
+36,27,7,4,adadat,1.224946159446096882843119334E-44,3,0,a,a,,iic.,1,1,shr_new_nbest/new_14/1975.csv
+37,28,7,4,adadat,1.224946159446096882843119334E-44,3,1,dadat,dadat,,n. sg. nom.,5,6,shr_new_nbest/new_14/1975.csv
+38,29,7,4,adadat,1.224946159446096882843119334E-44,3,1,dadat,dadat,,m. sg. nom.,5,6,shr_new_nbest/new_14/1975.csv
+39,30,7,4,adadat,1.224946159446096882843119334E-44,3,1,dadat,dadat,,n. sg. acc.,5,6,shr_new_nbest/new_14/1975.csv
+40,31,7,4,adadat,1.224946159446096882843119334E-44,3,1,dadat,dadat,,n. sg. nom.,5,6,shr_new_nbest/new_14/1975.csv
+41,35,7,4,adadat,1.224946159446096882843119334E-44,4,1,dadat,dadat,,n. sg. voc.,5,6,shr_new_nbest/new_14/1975.csv
+42,36,7,4,adadat,1.224946159446096882843119334E-44,4,1,dadat,dadat,,m. sg. voc.,5,6,shr_new_nbest/new_14/1975.csv
+43,37,7,4,adadat,1.224946159446096882843119334E-44,4,1,dadat,dadat,,n. sg. voc.,5,6,shr_new_nbest/new_14/1975.csv
+44,44,7,4,adadat,1.224946159446096882843119334E-44,5,1,dat,danta,,iic.,3,4,shr_new_nbest/new_14/1975.csv
+45,45,7,4,adadat,1.224946159446096882843119334E-44,5,4,at,ad,,m. sg. voc.,2,6,shr_new_nbest/new_14/1975.csv
+46,46,7,4,adadat,1.224946159446096882843119334E-44,5,4,at,ad,,n. sg. voc.,2,6,shr_new_nbest/new_14/1975.csv
+47,47,7,4,adadat,1.224946159446096882843119334E-44,5,4,at,ad,,f. sg. voc.,2,6,shr_new_nbest/new_14/1975.csv
+48,4,11,1,BoH,0.9937888198757763975155279503,1,0,bhoḥ,bhos,,ind.,4,3,shr_new_nbest/new_14/1969.csv
+49,5,13,1,BavadBiH,0.9937888198757763975155279503,1,0,bhavadbhiḥ,bhavat,,m. pl. i.,10,8,shr_new_nbest/new_14/1969.csv
+50,11,13,1,BavadBiH,0.9937888198757763975155279503,2,0,bhavadbhiḥ,bhavat,,n. pl. i.,10,8,shr_new_nbest/new_14/1969.csv
+51,12,13,1,BavadBiH,0.9937888198757763975155279503,2,0,bhavadbhiḥ,bhavat,,m. pl. i.,10,8,shr_new_nbest/new_14/1969.csv
+52,6,15,1,aparAdDam,0.9937888198757763975155279503,1,0,aparāddham,apa-rāddha,,n. sg. acc.,10,9,shr_new_nbest/new_14/1969.csv
+53,7,15,1,aparAdDam,0.9937888198757763975155279503,1,0,aparāddham,apa-rāddha,,n. sg. nom.,10,9,shr_new_nbest/new_14/1969.csv
+54,8,15,1,aparAdDam,0.9937888198757763975155279503,1,0,aparāddham,apa-rāddha,,m. sg. acc.,10,9,shr_new_nbest/new_14/1969.csv
+55,13,15,1,aparAdDam,0.9937888198757763975155279503,2,0,apa,apa,,prep.,3,3,shr_new_nbest/new_14/1969.csv
+56,14,15,1,aparAdDam,0.9937888198757763975155279503,2,3,rāddham,rāddha,,n. sg. acc.,7,9,shr_new_nbest/new_14/1969.csv
+57,15,15,1,aparAdDam,0.9937888198757763975155279503,2,3,rāddham,rāddha,,n. sg. nom.,7,9,shr_new_nbest/new_14/1969.csv
+58,16,15,1,aparAdDam,0.9937888198757763975155279503,2,3,rāddham,rāddha,,m. sg. acc.,7,9,shr_new_nbest/new_14/1969.csv
+59,6,15,2,aparADam,8.685257142857142857142857143E-31,1,0,aparādham,aparādha,,m. sg. acc.,9,8,shr_new_nbest/new_14/1977.csv
+60,11,15,2,aparADam,8.685257142857142857142857143E-31,2,0,apa,apa,,iic.,3,3,shr_new_nbest/new_14/1977.csv
+61,12,15,2,aparADam,8.685257142857142857142857143E-31,2,3,rādham,rādhā,,ind.,6,8,shr_new_nbest/new_14/1977.csv
+62,9,18,1,vanaspativizaye,0.9937888198757763975155279503,1,0,vanaspati,vanaspati,,iic.,9,9,shr_new_nbest/new_14/1969.csv
+63,10,18,1,vanaspativizaye,0.9937888198757763975155279503,1,9,viṣaye,viṣaya,,m. sg. loc.,6,15,shr_new_nbest/new_14/1969.csv
+64,17,18,1,vanaspativizaye,0.9937888198757763975155279503,2,9,viṣaye,viṣaya,,f. du. acc.,6,15,shr_new_nbest/new_14/1969.csv
+65,18,18,1,vanaspativizaye,0.9937888198757763975155279503,2,9,viṣaye,viṣaya,,f. du. nom.,6,15,shr_new_nbest/new_14/1969.csv
+66,19,18,1,vanaspativizaye,0.9937888198757763975155279503,2,9,viṣaye,viṣaya,,n. du. acc.,6,15,shr_new_nbest/new_14/1969.csv
+67,20,18,1,vanaspativizaye,0.9937888198757763975155279503,2,9,viṣaye,viṣaya,,n. du. nom.,6,15,shr_new_nbest/new_14/1969.csv
+68,21,18,1,vanaspativizaye,0.9937888198757763975155279503,2,9,viṣaye,viṣaya,,n. sg. loc.,6,15,shr_new_nbest/new_14/1969.csv
+69,22,18,1,vanaspativizaye,0.9937888198757763975155279503,3,9,viṣaye,viṣaya,,f. du. voc.,6,15,shr_new_nbest/new_14/1969.csv
+70,23,18,1,vanaspativizaye,0.9937888198757763975155279503,3,9,viṣaye,viṣaya,,f. sg. voc.,6,15,shr_new_nbest/new_14/1969.csv
+71,24,18,1,vanaspativizaye,0.9937888198757763975155279503,3,9,viṣaye,viṣaya,,n. du. voc.,6,15,shr_new_nbest/new_14/1969.csv
+72,25,18,1,vanaspativizaye,0.9937888198757763975155279503,4,9,viṣa,viṣa,,iic.,4,13,shr_new_nbest/new_14/1969.csv
+73,26,18,1,vanaspativizaye,0.9937888198757763975155279503,4,13,ye,ya,,n. du. acc.,2,15,shr_new_nbest/new_14/1969.csv
+74,27,18,1,vanaspativizaye,0.9937888198757763975155279503,4,13,ye,ya,,n. du. nom.,2,15,shr_new_nbest/new_14/1969.csv
+75,28,18,1,vanaspativizaye,0.9937888198757763975155279503,4,13,ye,ya,,n. sg. loc.,2,15,shr_new_nbest/new_14/1969.csv
+76,29,18,1,vanaspativizaye,0.9937888198757763975155279503,4,13,ye,ya,,f. du. acc.,2,15,shr_new_nbest/new_14/1969.csv
+77,30,18,1,vanaspativizaye,0.9937888198757763975155279503,4,13,ye,ya,,f. du. nom.,2,15,shr_new_nbest/new_14/1969.csv
+78,31,18,1,vanaspativizaye,0.9937888198757763975155279503,5,13,ye,ya,,n. du. voc.,2,15,shr_new_nbest/new_14/1969.csv
+79,32,18,1,vanaspativizaye,0.9937888198757763975155279503,5,13,ye,ya,,f. du. voc.,2,15,shr_new_nbest/new_14/1969.csv
+80,33,18,1,vanaspativizaye,0.9937888198757763975155279503,5,13,ye,ya,,f. sg. voc.,2,15,shr_new_nbest/new_14/1969.csv
+81,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+82,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+83,,3,0,<eps>,0.006211180124223602484472049689,1,0,<eps>,,,,9,9,
+84,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+85,,5,0,<eps>,1,1,0,<eps>,,,,1,1,
+86,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+87,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+88,,9,0,<eps>,1,1,0,<eps>,,,,1,1,
+89,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+90,,11,0,<eps>,0.006211180124223602484472049689,1,0,<eps>,,,,3,3,
+91,,12,0,<eps>,1,1,0,<eps>,,,,1,1,
+92,,13,0,<eps>,0.006211180124223602484472049689,1,0,<eps>,,,,8,8,
+93,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+94,,15,0,<eps>,0.006211180124223602484472049689,1,0,<eps>,,,,9,9,
+95,,16,0,<eps>,1,1,0,<eps>,,,,1,1,
+96,,17,0,<eps>,1,1,0,<eps>,,,,1,1,
+97,,18,0,<eps>,0.006211180124223602484472049689,1,0,<eps>,,,,15,15,
+98,,19,0,<eps>,1,1,0,<eps>,,,,1,1,
+99,,20,0,<eps>,1,1,0,<eps>,,,,1,1,

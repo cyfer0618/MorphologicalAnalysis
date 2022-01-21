@@ -1,0 +1,87 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,mA,0.9999999996881440000235345718,1,0,mā,mā,,part.,2,2,shr_new_nbest/new_22/1987.csv
+1,11,1,0,mA,0.9999999996881440000235345718,2,0,mā,asmad,,m. sg. acc.,2,2,shr_new_nbest/new_22/1987.csv
+2,0,1,1,mAmA,3.118559999027458352713393974E-10,1,0,mā,mā,,part.,2,2,shr_new_nbest/new_22/1994.csv
+3,1,1,1,mAmA,3.118559999027458352713393974E-10,1,2,mā,mā,,part.,2,4,shr_new_nbest/new_22/1994.csv
+4,11,1,1,mAmA,3.118559999027458352713393974E-10,2,0,mā,asmad,,m. sg. acc.,2,2,shr_new_nbest/new_22/1994.csv
+5,12,1,1,mAmA,3.118559999027458352713393974E-10,2,2,mā,asmad,,m. sg. acc.,2,4,shr_new_nbest/new_22/1994.csv
+6,17,1,1,mAmA,3.118559999027458352713393974E-10,3,1,āmā,āma,,f. sg. nom.,3,4,shr_new_nbest/new_22/1994.csv
+7,18,1,1,mAmA,3.118559999027458352713393974E-10,4,1,amā,amā,,adv.,3,4,shr_new_nbest/new_22/1994.csv
+8,0,1,2,mAm,6.163722998077806000257060581E-20,1,0,mām,asmad,,m. sg. acc.,3,3,shr_new_nbest/new_22/1996.csv
+9,0,1,3,mAma,9.828107532775045696534381262E-21,1,0,māma,mā,,imp. [2] ac. pl. 1,4,4,shr_new_nbest/new_22/1995.csv
+10,10,1,3,mAma,9.828107532775045696534381262E-21,2,0,mā,mā,,part.,2,2,shr_new_nbest/new_22/1995.csv
+11,15,1,3,mAma,9.828107532775045696534381262E-21,3,0,mā,asmad,,m. sg. acc.,2,2,shr_new_nbest/new_22/1995.csv
+12,16,1,3,mAma,9.828107532775045696534381262E-21,4,1,ama,am,,imp. [1] ac. sg. 2,3,4,shr_new_nbest/new_22/1995.csv
+13,17,1,3,mAma,9.828107532775045696534381262E-21,5,1,āma,am,,pft. ac. pl. 2,3,4,shr_new_nbest/new_22/1995.csv
+14,18,1,3,mAma,9.828107532775045696534381262E-21,5,1,āma,am,,pft. ac. sg. 3,3,4,shr_new_nbest/new_22/1995.csv
+15,19,1,3,mAma,9.828107532775045696534381262E-21,5,1,āma,am,,pft. ac. sg. 1,3,4,shr_new_nbest/new_22/1995.csv
+16,20,1,3,mAma,9.828107532775045696534381262E-21,6,1,āma,āma,,m. sg. voc.,3,4,shr_new_nbest/new_22/1995.csv
+17,21,1,3,mAma,9.828107532775045696534381262E-21,6,1,āma,āma,,n. sg. voc.,3,4,shr_new_nbest/new_22/1995.csv
+18,0,3,1,mA,0.9830508474576271192105218845,1,0,mā,mā,,part.,2,2,shr_new_nbest/new_22/1987.csv
+19,11,3,1,mA,0.9830508474576271192105218845,2,0,mā,asmad,,m. sg. acc.,2,2,shr_new_nbest/new_22/1987.csv
+20,0,3,2,mAm,5.064869661016949155460854801E-23,1,0,mām,asmad,,m. sg. acc.,3,3,shr_new_nbest/new_22/1996.csv
+21,2,5,0,kimarTam,1,1,0,kim,kim,,iic.,3,3,shr_new_nbest/new_22/1987.csv
+22,3,5,0,kimarTam,1,1,3,artham,artha,,m. sg. acc.,6,8,shr_new_nbest/new_22/1987.csv
+23,13,5,0,kimarTam,1,2,0,kim,kim,,n. sg. acc.,3,3,shr_new_nbest/new_22/1987.csv
+24,14,5,0,kimarTam,1,2,0,kim,kim,,n. sg. nom.,3,3,shr_new_nbest/new_22/1987.csv
+25,15,5,0,kimarTam,1,2,3,artham,artha,,n. sg. acc.,6,8,shr_new_nbest/new_22/1987.csv
+26,16,5,0,kimarTam,1,2,3,artham,artha,,n. sg. nom.,6,8,shr_new_nbest/new_22/1987.csv
+27,4,7,0,BavAn,0.8750904871289539118636946934,1,0,bhavān,bhava,,m. pl. acc.,6,5,shr_new_nbest/new_22/1987.csv
+28,5,7,0,BavAn,0.8750904871289539118636946934,1,0,bhavān,bhavat,,m. sg. nom.,6,5,shr_new_nbest/new_22/1987.csv
+29,4,7,1,BavA,0.1225686122036236489871862946,1,0,bhavā,bhavā,,?,5,4,shr_new_nbest/new_22/1990.csv
+30,4,7,2,BavAnnodanam,0.002331368286200400808506841920,1,0,bhavāt,bhava,,m. sg. abl.,6,5,shr_new_nbest/new_22/1992.csv
+31,5,7,2,BavAnnodanam,0.002331368286200400808506841920,1,5,nodanam,nodana,,m. sg. acc.,7,12,shr_new_nbest/new_22/1992.csv
+32,6,7,2,BavAnnodanam,0.002331368286200400808506841920,1,5,nodanam,nodana,,n. sg. acc.,7,12,shr_new_nbest/new_22/1992.csv
+33,7,7,2,BavAnnodanam,0.002331368286200400808506841920,1,5,nodanam,nodana,,n. sg. nom.,7,12,shr_new_nbest/new_22/1992.csv
+34,16,7,2,BavAnnodanam,0.002331368286200400808506841920,2,0,bhavān,bhava,,m. pl. acc.,6,5,shr_new_nbest/new_22/1992.csv
+35,17,7,2,BavAnnodanam,0.002331368286200400808506841920,2,0,bhavān,bhavat,,m. sg. nom.,6,5,shr_new_nbest/new_22/1992.csv
+36,18,7,2,BavAnnodanam,0.002331368286200400808506841920,3,0,bhava,bhava,,iic.,5,4,shr_new_nbest/new_22/1992.csv
+37,19,7,2,BavAnnodanam,0.002331368286200400808506841920,4,3,at,ad,,m. sg. nom.,2,5,shr_new_nbest/new_22/1992.csv
+38,20,7,2,BavAnnodanam,0.002331368286200400808506841920,4,3,at,ad,,n. sg. acc.,2,5,shr_new_nbest/new_22/1992.csv
+39,21,7,2,BavAnnodanam,0.002331368286200400808506841920,4,3,at,ad,,n. sg. nom.,2,5,shr_new_nbest/new_22/1992.csv
+40,22,7,2,BavAnnodanam,0.002331368286200400808506841920,4,3,at,ad,,f. sg. nom.,2,5,shr_new_nbest/new_22/1992.csv
+41,23,7,2,BavAnnodanam,0.002331368286200400808506841920,5,3,at,ad,,iic.,2,5,shr_new_nbest/new_22/1992.csv
+42,4,7,3,BavAnodanam,0.000007808374237274063087963139007,1,0,bhavān,bhava,,m. pl. acc.,6,5,shr_new_nbest/new_22/1989.csv
+43,5,7,3,BavAnodanam,0.000007808374237274063087963139007,1,0,bhavān,bhavat,,m. sg. nom.,6,5,shr_new_nbest/new_22/1989.csv
+44,6,7,3,BavAnodanam,0.000007808374237274063087963139007,1,5,odanam,odana,,m. sg. acc.,6,11,shr_new_nbest/new_22/1989.csv
+45,7,7,3,BavAnodanam,0.000007808374237274063087963139007,1,5,odanam,odana,,n. sg. acc.,6,11,shr_new_nbest/new_22/1989.csv
+46,8,7,3,BavAnodanam,0.000007808374237274063087963139007,1,5,odanam,odana,,n. sg. nom.,6,11,shr_new_nbest/new_22/1989.csv
+47,17,7,3,BavAnodanam,0.000007808374237274063087963139007,2,0,bhava,bhava,,iic.,5,4,shr_new_nbest/new_22/1989.csv
+48,18,7,3,BavAnodanam,0.000007808374237274063087963139007,2,4,nodanam,nodana,,m. sg. acc.,7,11,shr_new_nbest/new_22/1989.csv
+49,19,7,3,BavAnodanam,0.000007808374237274063087963139007,2,4,nodanam,nodana,,n. sg. acc.,7,11,shr_new_nbest/new_22/1989.csv
+50,20,7,3,BavAnodanam,0.000007808374237274063087963139007,2,4,nodanam,nodana,,n. sg. nom.,7,11,shr_new_nbest/new_22/1989.csv
+51,21,7,3,BavAnodanam,0.000007808374237274063087963139007,3,0,bhava,bhū,,imp. [1] ac. sg. 2,5,4,shr_new_nbest/new_22/1989.csv
+52,22,7,3,BavAnodanam,0.000007808374237274063087963139007,4,3,an,an,,iic.,2,5,shr_new_nbest/new_22/1989.csv
+53,23,7,3,BavAnodanam,0.000007808374237274063087963139007,5,3,a,a,,iic.,1,4,shr_new_nbest/new_22/1989.csv
+54,4,7,4,BavAnrodanam,0.000001724006984764277524206991184,1,0,bhavān,bhava,,m. pl. acc.,6,5,shr_new_nbest/new_22/1993.csv
+55,5,7,4,BavAnrodanam,0.000001724006984764277524206991184,1,0,bhavān,bhavat,,m. sg. nom.,6,5,shr_new_nbest/new_22/1993.csv
+56,6,7,4,BavAnrodanam,0.000001724006984764277524206991184,1,5,rodanam,rodana,,n. sg. acc.,7,12,shr_new_nbest/new_22/1993.csv
+57,7,7,4,BavAnrodanam,0.000001724006984764277524206991184,1,5,rodanam,rodana,,n. sg. nom.,7,12,shr_new_nbest/new_22/1993.csv
+58,16,7,4,BavAnrodanam,0.000001724006984764277524206991184,2,0,bhava,bhava,,iic.,5,4,shr_new_nbest/new_22/1993.csv
+59,17,7,4,BavAnrodanam,0.000001724006984764277524206991184,2,4,nṛ,nṛ,,iic.,2,6,shr_new_nbest/new_22/1993.csv
+60,18,7,4,BavAnrodanam,0.000001724006984764277524206991184,2,4,nṛ,nara,,iic.,2,6,shr_new_nbest/new_22/1993.csv
+61,19,7,4,BavAnrodanam,0.000001724006984764277524206991184,2,6,odanam,odana,,m. sg. acc.,6,12,shr_new_nbest/new_22/1993.csv
+62,20,7,4,BavAnrodanam,0.000001724006984764277524206991184,2,6,odanam,odana,,n. sg. acc.,6,12,shr_new_nbest/new_22/1993.csv
+63,21,7,4,BavAnrodanam,0.000001724006984764277524206991184,2,6,odanam,odana,,n. sg. nom.,6,12,shr_new_nbest/new_22/1993.csv
+64,22,7,4,BavAnrodanam,0.000001724006984764277524206991184,3,0,bhava,bhū,,imp. [1] ac. sg. 2,5,4,shr_new_nbest/new_22/1993.csv
+65,23,7,4,BavAnrodanam,0.000001724006984764277524206991184,4,3,a,a,,iic.,1,4,shr_new_nbest/new_22/1993.csv
+66,6,9,0,nodanam,0.9992610635293768670946217989,1,0,nodanam,nodana,,m. sg. acc.,7,7,shr_new_nbest/new_22/1987.csv
+67,7,9,0,nodanam,0.9992610635293768670946217989,1,0,nodanam,nodana,,n. sg. acc.,7,7,shr_new_nbest/new_22/1987.csv
+68,8,9,0,nodanam,0.9992610635293768670946217989,1,0,nodanam,nodana,,n. sg. nom.,7,7,shr_new_nbest/new_22/1987.csv
+69,6,9,1,rodanam,0.0007389364706231329053782010558,1,0,rodanam,rodana,,n. sg. acc.,7,7,shr_new_nbest/new_22/1988.csv
+70,7,9,1,rodanam,0.0007389364706231329053782010558,1,0,rodanam,rodana,,n. sg. nom.,7,7,shr_new_nbest/new_22/1988.csv
+71,9,13,0,karoti,1,1,0,karoti,kṛ,,pr. [8] ac. sg. 3,6,6,shr_new_nbest/new_22/1987.csv
+72,10,15,0,iti,1,1,0,iti,iti,,part.,3,3,shr_new_nbest/new_22/1987.csv
+73,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+74,,1,4,<eps>,2.254254999296997052773052926E-21,1,0,<eps>,,,,4,4,
+75,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+76,,3,0,<eps>,0.01694915254237288078942746674,1,0,<eps>,,,,3,3,
+77,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+78,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+79,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+80,,9,2,<eps>,4.530515024379688133880512642E-31,1,0,<eps>,,,,7,7,
+81,,10,0,<eps>,1,1,0,<eps>,,,,1,1,
+82,,11,0,<eps>,1,1,0,<eps>,,,,1,1,
+83,,12,0,<eps>,1,1,0,<eps>,,,,1,1,
+84,,14,0,<eps>,1,1,0,<eps>,,,,1,1,
+85,,16,0,<eps>,1,1,0,<eps>,,,,1,1,

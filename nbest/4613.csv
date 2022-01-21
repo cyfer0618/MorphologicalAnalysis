@@ -1,0 +1,27 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,ekasmin,0.9999999999999999999999354800,1,0,ekasmin,eka,,m. sg. loc.,7,7,shr_new_nbest/new_23/202.csv
+1,1,1,0,ekasmin,0.9999999999999999999999354800,1,0,ekasmin,eka,,n. sg. loc.,7,7,shr_new_nbest/new_23/202.csv
+2,0,1,1,ekasmindine,6.452030119720899999999583715E-23,1,0,ekasmin,eka,,m. sg. loc.,7,7,shr_new_nbest/new_23/203.csv
+3,1,1,1,ekasmindine,6.452030119720899999999583715E-23,1,0,ekasmin,eka,,n. sg. loc.,7,7,shr_new_nbest/new_23/203.csv
+4,2,1,1,ekasmindine,6.452030119720899999999583715E-23,1,7,dine,dina,,n. du. acc.,4,11,shr_new_nbest/new_23/203.csv
+5,3,1,1,ekasmindine,6.452030119720899999999583715E-23,1,7,dine,dina,,n. du. nom.,4,11,shr_new_nbest/new_23/203.csv
+6,4,1,1,ekasmindine,6.452030119720899999999583715E-23,1,7,dine,dina,,n. sg. loc.,4,11,shr_new_nbest/new_23/203.csv
+7,7,1,1,ekasmindine,6.452030119720899999999583715E-23,2,7,dine,dina,,n. du. voc.,4,11,shr_new_nbest/new_23/203.csv
+8,2,3,1,dine,0.9285714285714285654591836735,1,0,dine,dina,,n. du. acc.,4,4,shr_new_nbest/new_23/202.csv
+9,3,3,1,dine,0.9285714285714285654591836735,1,0,dine,dina,,n. du. nom.,4,4,shr_new_nbest/new_23/202.csv
+10,4,3,1,dine,0.9285714285714285654591836735,1,0,dine,dina,,n. sg. loc.,4,4,shr_new_nbest/new_23/202.csv
+11,7,3,1,dine,0.9285714285714285654591836735,2,0,dine,dina,,n. du. voc.,4,4,shr_new_nbest/new_23/202.csv
+12,5,5,0,karkawakaH,1,1,0,karkaṭakaḥ,karkaṭaka,,m. sg. nom.,10,10,shr_new_nbest/new_23/202.csv
+13,6,9,0,uktavAn,1,1,0,uktavān,uktavat,,m. sg. nom.,7,7,shr_new_nbest/new_23/202.csv
+14,8,9,0,uktavAn,1,2,0,ukta,ukta,,iic.,4,4,shr_new_nbest/new_23/202.csv
+15,9,9,0,uktavAn,1,2,4,vān,vas,,m. sg. nom.,3,7,shr_new_nbest/new_23/202.csv
+16,10,9,0,uktavAn,1,3,4,vān,vāt,,m. sg. nom.,3,7,shr_new_nbest/new_23/202.csv
+17,11,9,0,uktavAn,1,4,4,vān,vāt,,m. sg. voc.,3,7,shr_new_nbest/new_23/202.csv
+18,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+19,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+20,,3,0,<eps>,0.07142857142857143454081632653,1,0,<eps>,,,,4,4,
+21,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+22,,6,0,<eps>,1,1,0,<eps>,,,,1,1,
+23,,7,0,<eps>,1,1,0,<eps>,,,,1,1,
+24,,8,0,<eps>,1,1,0,<eps>,,,,1,1,
+25,,10,0,<eps>,1,1,0,<eps>,,,,1,1,

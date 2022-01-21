@@ -1,0 +1,13 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,devadarSanam,0.9999999999999999999998374540,1,0,deva,deva,,iic.,4,4,shr_new_nbest/new_10/1515.csv
+1,1,1,0,devadarSanam,0.9999999999999999999998374540,1,4,darśanam,darśana,,n. sg. acc.,8,12,shr_new_nbest/new_10/1515.csv
+2,2,1,0,devadarSanam,0.9999999999999999999998374540,1,4,darśanam,darśana,,n. sg. nom.,8,12,shr_new_nbest/new_10/1515.csv
+3,3,1,0,devadarSanam,0.9999999999999999999998374540,2,4,darśanam,darśana,,m. sg. acc.,8,12,shr_new_nbest/new_10/1515.csv
+4,0,1,1,deva,1.625458999999999999999735788E-22,1,0,deva,deva,,m. sg. voc.,4,4,shr_new_nbest/new_10/1516.csv
+5,1,1,1,deva,1.625458999999999999999735788E-22,1,0,deva,deva,,n. sg. voc.,4,4,shr_new_nbest/new_10/1516.csv
+6,2,3,1,darSanam,0.9090909090909090909090909091,1,0,darśanam,darśana,,n. sg. acc.,8,8,shr_new_nbest/new_10/1516.csv
+7,3,3,1,darSanam,0.9090909090909090909090909091,1,0,darśanam,darśana,,n. sg. nom.,8,8,shr_new_nbest/new_10/1516.csv
+8,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+9,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+10,,3,0,<eps>,0.09090909090909090909090909091,1,0,<eps>,,,,8,8,
+11,,4,0,<eps>,1,1,0,<eps>,,,,1,1,

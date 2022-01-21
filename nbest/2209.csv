@@ -1,0 +1,34 @@
+,old_id,binNumber,WCNedgeNumber,WCNedgeWord,WCN Confidence Score,level,position,word,lemma,pre_verb,morph,wordlenth,endposition,OriginalCSV
+0,0,1,0,kimarTam,1,1,0,kim,kim,,iic.,3,3,shr_new_nbest/new_11/1193.csv
+1,1,1,0,kimarTam,1,1,3,artham,artha,,m. sg. acc.,6,8,shr_new_nbest/new_11/1193.csv
+2,11,1,0,kimarTam,1,2,0,kim,kim,,n. sg. acc.,3,3,shr_new_nbest/new_11/1193.csv
+3,12,1,0,kimarTam,1,2,0,kim,kim,,n. sg. nom.,3,3,shr_new_nbest/new_11/1193.csv
+4,13,1,0,kimarTam,1,2,3,artham,artha,,n. sg. acc.,6,8,shr_new_nbest/new_11/1193.csv
+5,14,1,0,kimarTam,1,2,3,artham,artha,,n. sg. nom.,6,8,shr_new_nbest/new_11/1193.csv
+6,2,3,0,mUrtidvayam,1,1,0,mūrti,mūrti,,iic.,5,5,shr_new_nbest/new_11/1193.csv
+7,3,3,0,mUrtidvayam,1,1,5,dvayam,dvaya,,m. sg. acc.,6,11,shr_new_nbest/new_11/1193.csv
+8,4,3,0,mUrtidvayam,1,1,5,dvayam,dvaya,,n. sg. acc.,6,11,shr_new_nbest/new_11/1193.csv
+9,5,3,0,mUrtidvayam,1,1,5,dvayam,dvaya,,n. sg. nom.,6,11,shr_new_nbest/new_11/1193.csv
+10,6,6,1,nirmitam,0.9696969696969696969696969697,1,0,nirmitam,nis-mita,,n. sg. acc.,8,8,shr_new_nbest/new_11/1193.csv
+11,7,6,1,nirmitam,0.9696969696969696969696969697,1,0,nirmitam,nis-mita,,n. sg. nom.,8,8,shr_new_nbest/new_11/1193.csv
+12,8,6,1,nirmitam,0.9696969696969696969696969697,1,0,nirmitam,nis-mita,,m. sg. acc.,8,8,shr_new_nbest/new_11/1193.csv
+13,9,8,0,BavatA,0.9999999999999919559370000001,1,0,bhavatā,bhavat,,m. sg. i.,7,6,shr_new_nbest/new_11/1193.csv
+14,15,8,0,BavatA,0.9999999999999919559370000001,2,0,bhavatā,bhavat,,n. sg. i.,7,6,shr_new_nbest/new_11/1193.csv
+15,16,8,0,BavatA,0.9999999999999919559370000001,2,0,bhavatā,bhavat,,m. sg. i.,7,6,shr_new_nbest/new_11/1193.csv
+16,9,8,1,Bavata,8.044062999999935293050452032E-15,1,0,bhavata,bhū,,imp. [1] ac. pl. 2,7,6,shr_new_nbest/new_11/1194.csv
+17,9,8,2,BavatAm,4.508541999999963733004113854E-30,1,0,bhavatām,bhavat,,m. pl. g.,8,7,shr_new_nbest/new_11/1195.csv
+18,15,8,2,BavatAm,4.508541999999963733004113854E-30,2,0,bhavatām,bhū,,imp. [1] ac. du. 3,8,7,shr_new_nbest/new_11/1195.csv
+19,16,8,2,BavatAm,4.508541999999963733004113854E-30,3,0,bhavatām,bhavat,,n. pl. g.,8,7,shr_new_nbest/new_11/1195.csv
+20,17,8,2,BavatAm,4.508541999999963733004113854E-30,3,0,bhavatām,bhavat,,m. pl. g.,8,7,shr_new_nbest/new_11/1195.csv
+21,18,8,2,BavatAm,4.508541999999963733004113854E-30,4,0,bhava,bhū,,imp. [1] ac. sg. 2,5,4,shr_new_nbest/new_11/1195.csv
+22,19,8,2,BavatAm,4.508541999999963733004113854E-30,4,4,tām,tad,,f. sg. acc.,3,7,shr_new_nbest/new_11/1195.csv
+23,10,10,1,iti,0.9696969696969696969696969697,1,0,iti,iti,,part.,3,3,shr_new_nbest/new_11/1193.csv
+24,,0,0,<eps>,1,1,0,<eps>,,,,1,1,
+25,,2,0,<eps>,1,1,0,<eps>,,,,1,1,
+26,,4,0,<eps>,1,1,0,<eps>,,,,1,1,
+27,,5,0,<eps>,1,1,0,<eps>,,,,1,1,
+28,,6,0,<eps>,0.03030303030303030303030303030,1,0,<eps>,,,,8,8,
+29,,7,0,<eps>,1,1,0,<eps>,,,,1,1,
+30,,9,0,<eps>,1,1,0,<eps>,,,,1,1,
+31,,10,0,<eps>,0.03030303030303030303030303030,1,0,<eps>,,,,3,3,
+32,,11,0,<eps>,1,1,0,<eps>,,,,1,1,
