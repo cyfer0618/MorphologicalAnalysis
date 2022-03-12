@@ -36,3 +36,4 @@ putraḥ;putra;m. sg. nom.
 
 
 Check.ipynb - It is a file which is used to calculated recall, precision and Fscore.
+Check.ipynb - It contains for Homonymy and Syncretism code also.
