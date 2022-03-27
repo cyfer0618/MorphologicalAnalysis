@@ -43,3 +43,6 @@ Ground truth files with starting time and ending time - https://drive.google.com
 
 
 For Morphology Number conversion function use morphology_function.py
+mapping_groundtruth_nbest.txt is having mapping 
+File location # Group Utt (Ground truth Utterance) # Utterance of candidate # test/dev file
+For example : shr_new_nbest/new_1/0.csv # sp007-000001_1-01-bAlakAnDaH # sp007-000001_1-01-bAlakAnDaH-1 # test
