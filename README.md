@@ -38,3 +38,8 @@ putraḥ;putra;m. sg. nom.
 Check.ipynb - It is a file which is used to calculated recall, precision and Fscore.
 Check.ipynb - It contains for Homonymy and Syncretism code also.
 Ground truth files with starting time and ending time - https://drive.google.com/drive/folders/1yz6gLEwTgeoaUv1UpfJ8l95RYi7q4WJ8?usp=sharing
+
+
+
+
+For Morphology Number conversion function use morphology_function.py
